@@ -1,6 +1,4 @@
 
-stamp_generator.py
-gui_leggerissima/analysis_modules
 
 
 '''import streamlit as st
