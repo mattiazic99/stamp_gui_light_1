@@ -1,0 +1,2527 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Brain - Spinal cord (cervical c-1),30-39,GATC,4.251,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,DCTN1,3.048,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXT2,1.784,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRRC37A16P,,,
+Brain - Spinal cord (cervical c-1),30-39,C2CD3,1.178,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RDX,3.446,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCAP,2.605,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000278834,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000272702,,,
+Brain - Spinal cord (cervical c-1),30-39,MZT2B,0.819,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS2,0.978,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FNBP1,2.305,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000247416,,,
+Brain - Spinal cord (cervical c-1),30-39,SYAP1,1.241,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFAF6,1.568,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,JAKMIP2,0.583,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RBM41,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IRAK4,2.079,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ERP29,2.204,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HOXD8,1.385,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNHG29,,,
+Brain - Spinal cord (cervical c-1),30-39,OAZ3,4.987,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PNRC2,2.759,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNX22,1.32,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX20,1.423,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COMMD4,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CKS1B,1.527,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDC5L,1.917,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SGTB,1.588,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,INHBA-AS1,1.531,global,detroit551
+Brain - Spinal cord (cervical c-1),30-39,EPB41L5,1.954,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PDK2,2.599,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EMD,2.083,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,USO1,2.16,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM149B1,0.711,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PCCA,2.558,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C1GALT1C1,0.604,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NGRN,2.687,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CHMP6,1.755,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM199,0.867,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,THAP8,4.802,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RUFY1,1.736,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCNY,1.55,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF311,4.304,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,EIF4A2,3.069,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LSM4,1.54,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC59,0.83,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIR4458HG,1.469,global,hepatoma cell
+Brain - Spinal cord (cervical c-1),30-39,UEVLD,0.7,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARMT1,0.667,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSEN1,3.816,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PGRMC2,2.151,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RDH11,1.736,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EMC3,1.573,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPN3,0.042,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZBTB11,1.156,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCRIB,2.143,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KCNIP3,1.793,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATIC,2.348,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CRADD,1.469,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,METTL18,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC02762,,,
+Brain - Spinal cord (cervical c-1),30-39,BORCS5,1.424,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANKRD17-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,OPHN1,2.145,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NOMO1,0.933,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C4ORF3,1.727,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287115,,,
+Brain - Spinal cord (cervical c-1),30-39,RPLP1,3.042,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF139,0.978,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTIF2,1.17,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SUPT3H,0.576,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC02777,,,
+Brain - Spinal cord (cervical c-1),30-39,ATG10,1.583,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ECHS1,2.589,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HCG11,1.734,global,liver cancer cell
+Brain - Spinal cord (cervical c-1),30-39,DGCR6L,0.867,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMA2,1.814,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SMIM8,4.326,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,C19ORF25,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED20,1.166,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GFM2,1.324,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DBNDD2,2.971,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLEKHB2,1.69,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KCTD2,2.221,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RASSF8,1.001,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TBCC,0.7,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FARS2,1.507,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288981,,,
+Brain - Spinal cord (cervical c-1),30-39,LYPLAL1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,MTG2,0.799,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAD1L1,1.085,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS10,0.852,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACYP1,1.13,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ETFBKMT,4.39,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ABHD17A,1.998,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX7A2,2.495,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PDCD10,2.637,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00665,0.76,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CHD4,2.871,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MICOS10,1.554,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A17,0.859,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HNRNPU,3.003,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAIF1,4.937,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TTC1,1.774,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COQ3,1.393,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS25,1.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS15,2.969,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FBXO7,3.116,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00910,1.69,global,hpaf-2 cell
+Brain - Spinal cord (cervical c-1),30-39,GNAI1,2.271,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C4ORF33,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C7ORF50,0.267,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KBTBD2,0.907,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UXS1,1.304,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00882,1.766,global,respiratory smooth muscle
+Brain - Spinal cord (cervical c-1),30-39,SNAPIN,2.264,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF131,0.494,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,QARS1,2.359,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DENND6A-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000229180,,,
+Brain - Spinal cord (cervical c-1),30-39,KHDRBS3,1.737,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPLP0,3.32,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MPG,1.34,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SRPK1,1.569,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPR89A,1.218,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMB1,2.112,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BLZF1,1.054,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C12ORF60,1.912,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,LRRC4B,1.959,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM18,1.594,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GINS2,1.355,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZCCHC17,0.884,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KLHL35,4.737,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,NUS1,1.48,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SULT1A1,1.862,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SMURF2P1,,,
+Brain - Spinal cord (cervical c-1),30-39,SRP19,1.087,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SAMD8,2.023,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SEC24B-AS1,1.22,global,nci cell
+Brain - Spinal cord (cervical c-1),30-39,SEC23B,2.111,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRPF18,0.435,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRMT6,1.389,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXO5,0.544,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ALKBH4,0.146,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPBP1,1.504,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAD51C,0.847,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJA3,1.495,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C11ORF1,0.624,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFAND6,1.259,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LNPK,0.925,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXOSC9,1.534,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TXNDC9,2.49,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HMGXB4,0.478,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COP1,0.723,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF10,0.592,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC66A1,0.76,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PARP4,1.582,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STX17,1.989,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AK6,4.337,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ZNF789,4.807,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TOP2B,1.897,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIS18A,0.85,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KLC1,3.07,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AP2S1,2.037,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZDHHC21,1.429,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BZW1,1.253,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM219B,0.841,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MACROD2,1.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SRD5A3,1.422,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF213,0.417,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMA5,1.743,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PMF1,1.129,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ELP3,2.188,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJB12,1.293,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP1R14A,2.722,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPSAP58,,,
+Brain - Spinal cord (cervical c-1),30-39,SETD9,0.613,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLR2L,1.301,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BBS9,1.573,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LANCL2,1.805,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,F8A1,1.793,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPA2,1.181,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LUC7L,1.455,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MGAT4B,0.624,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFP62,0.313,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MGME1,1.008,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,USP16,4.984,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,PSMD13,1.941,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SAYSD1,4.441,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PHF10,2.281,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PCDHB10,1.863,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARL6IP5,2.856,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BPNT1,1.462,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01116,0.909,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNX13,0.999,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SRR,2.72,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM218,4.698,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ZNF213-AS1,1.786,global,crop
+Brain - Spinal cord (cervical c-1),30-39,UQCRC2,2.744,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KCMF1,0.723,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRPSAP1,1.558,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CALM2,3.428,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIGK,1.871,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDKN2AIP,4.958,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,EEF2,3.905,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPOPL,1.048,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LDAH,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NKAIN4,1.283,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BRIX1,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM256,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EPS15,2.654,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BBS1,2.082,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MKS1,2.139,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BCL7A,1.346,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STRADA,1.276,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PJA2,2.801,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RABGAP1,1.046,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288885,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000255284,,,
+Brain - Spinal cord (cervical c-1),30-39,DTWD2,1.621,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCT7,2.303,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FN3KRP,0.9,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP57,0.884,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRMT7,1.052,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC02482,,,
+Brain - Spinal cord (cervical c-1),30-39,WAC,2.067,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTFR1L,0.987,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GXYLT1,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A1,2.411,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM184B,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFPL1,1.019,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS7,1.954,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CYP2R1,1.272,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM24B,4.548,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,FDXACB1,4.0,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PTENP1-AS,1.293,global,endometrioid carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,DDHD1,2.09,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM62,0.146,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBAC2,0.778,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP5D1P,,,
+Brain - Spinal cord (cervical c-1),30-39,HMGN1,2.195,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAA15,1.526,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF2D,1.337,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ORMDL1,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP1R7,1.73,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CMAS,1.588,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF613,4.749,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ISCA1,2.208,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ECD,1.063,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MSH3,1.445,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF2AK3,2.709,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MORF4L2,2.525,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ITGB1BP1,1.039,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000233654,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000228692,,,
+Brain - Spinal cord (cervical c-1),30-39,RPS19BP1,1.163,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLEKHA3,0.83,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OLA1,1.809,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF772,4.798,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ERGIC2,0.417,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SUB1,1.836,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAHD2CP,,,
+Brain - Spinal cord (cervical c-1),30-39,PLP1,4.883,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FYN,3.259,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01415,1.55,global,pc-9 cell
+Brain - Spinal cord (cervical c-1),30-39,HMGB1P6,,,
+Brain - Spinal cord (cervical c-1),30-39,NAA20,0.469,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FLVCR1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,MRPS36,1.168,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL45,1.284,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL30,4.348,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ATP5F1D,3.156,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STMN1,3.242,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP1CA,2.832,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ADGRL3,2.131,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000215861,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000259768,,,
+Brain - Spinal cord (cervical c-1),30-39,PXMP4,4.865,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ZC4H2,1.501,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,USP46,1.853,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AGPAT5,1.469,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL31,2.821,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YIF1B,1.503,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FSD1L,1.233,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TBRG1,1.546,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TANK,1.806,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NCLN,0.8,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFA2,1.862,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SRGAP2B,0.905,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF227,4.809,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TMA16,4.886,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,PPCDC,0.121,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF793-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,TTI2,0.638,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NELFCD,2.694,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIMM10,0.736,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MSANTD4,1.43,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OTUD6B-AS1,1.519,global,renal clear cell
+Brain - Spinal cord (cervical c-1),30-39,ME2,1.344,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACBD4,1.286,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYNLRB1,2.924,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,USP39,1.476,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP44,4.885,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ENTPD3-AS1,1.456,global,werirb1
+Brain - Spinal cord (cervical c-1),30-39,CRIPT,1.766,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RTF2,1.781,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NFKBIB,2.045,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL7A,1.756,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TFG,1.924,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFB2,2.324,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ECHDC1,2.036,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS24,2.997,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPSM2,2.096,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SETX,2.794,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCAF7,1.115,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIGAR,2.114,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZKSCAN2,0.752,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DGUOK,2.04,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED26,4.969,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TEN1,4.95,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,EOLA2,,,
+Brain - Spinal cord (cervical c-1),30-39,BAP1,2.107,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DUSP12,2.233,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM229A,1.936,global,ppc-1 cell
+Brain - Spinal cord (cervical c-1),30-39,TRMT2A,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DSN1,4.924,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,RTN4,3.794,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HIGD2A,1.79,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPUSD1,4.938,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RCAN1,2.414,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLSCR3,1.485,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000247934,,,
+Brain - Spinal cord (cervical c-1),30-39,NTPCR,1.435,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DTYMK,1.551,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFAS1,1.366,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARPP19,4.415,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCTPP1,1.004,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DMAC2,1.105,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HULC,0.627,global,lymph node
+Brain - Spinal cord (cervical c-1),30-39,UFC1,1.803,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SH3PXD2A,1.901,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMB4,2.593,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UCHL5,1.639,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RETSAT,2.044,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ALDH9A1,2.359,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SUCLG1,2.197,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RANBP9,4.301,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PGRMC1,3.226,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C16ORF87,4.428,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,WDR75,0.239,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PMPCB,1.546,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EEF1E1,1.454,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COPZ2,0.698,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MVB12A,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PMVK,1.936,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287215,,,
+Brain - Spinal cord (cervical c-1),30-39,SSR2,2.523,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,CA3-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,EXOSC5,1.175,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SS18L1,1.317,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000247134,,,
+Brain - Spinal cord (cervical c-1),30-39,SPESP1,4.554,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ARPIN,0.633,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5ME,1.536,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000283317,,,
+Brain - Spinal cord (cervical c-1),30-39,SH3KBP1,1.657,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SDHB,2.673,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF627,4.948,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,FTO,2.549,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TUSC1,0.83,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDC37L1,4.985,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CTNNA3,2.846,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PC,3.024,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TAMM41,0.794,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MCPH1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,LINC02610,,,
+Brain - Spinal cord (cervical c-1),30-39,CBY1,1.465,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF582,4.833,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TMEM11,2.028,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288809,,,
+Brain - Spinal cord (cervical c-1),30-39,PRKAB2,1.717,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FBXL5,2.37,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PFDN5,2.225,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBXN8,4.256,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ZKSCAN7-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,OXNAD1,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TAF10,2.764,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,THYN1,4.356,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CSPG5,1.84,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NMT2,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC1,0.984,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPIN4,4.961,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,U2AF2,1.771,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATXN10,2.391,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC02245,,,
+Brain - Spinal cord (cervical c-1),30-39,SLC38A7,1.317,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AK3P3,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000266947,,,
+Brain - Spinal cord (cervical c-1),30-39,LINC02916,,,
+Brain - Spinal cord (cervical c-1),30-39,CBLL1,2.163,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AKR7A2,1.848,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DMTF1,0.646,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,URM1,1.182,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PDCD2,0.92,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCAPER,1.179,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL1,1.078,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNRF2,1.158,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIMM17B,0.542,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NABP2,1.836,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED21,0.772,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FSBP,4.567,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,SENP5,1.354,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CASP8AP2,0.878,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SH3GLB2,2.077,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARHGDIG,1.92,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEF1,1.591,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,INPP4A,1.808,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LLPH,0.352,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CLN8-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,GNAQ,2.964,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C1ORF56,1.33,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC28B,4.895,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,FAM91A1,0.678,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C2ORF74,2.617,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,FAM104B,4.209,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,GSDME,2.231,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEX7,1.524,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TAF1D,0.558,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DHX40,0.558,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GABARAP,3.062,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPNS1,1.393,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED31,0.638,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000174977,,,
+Brain - Spinal cord (cervical c-1),30-39,TTF1,0.676,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL13,0.959,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFYVE19,0.873,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CARNS1,2.812,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARMCX6,1.243,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM108,1.232,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPCS1,1.747,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNRPB2,1.353,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SFT2D1,0.846,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPATA33,4.921,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,NEIL2,1.626,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,THOP1,2.422,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POPDC2,0.511,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TNR,4.387,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RRM1,2.184,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DIS3L,1.01,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000284024,,,
+Brain - Spinal cord (cervical c-1),30-39,SEC22C,0.884,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NCBP2,1.44,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FALEC,1.513,global,scc-4 cell
+Brain - Spinal cord (cervical c-1),30-39,FBXW4,1.08,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BTBD3,1.927,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TPGS2,1.542,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM184C,0.665,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STRADB,1.119,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DSCC1,0.609,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDRT15P6,,,
+Brain - Spinal cord (cervical c-1),30-39,KLHL15,4.789,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,RALA,2.348,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000269388,,,
+Brain - Spinal cord (cervical c-1),30-39,ZC3H15,1.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRXL2A,1.561,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000230074,,,
+Brain - Spinal cord (cervical c-1),30-39,GIN1,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POMP,2.217,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000268555,,,
+Brain - Spinal cord (cervical c-1),30-39,DNAJC17,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EMC4,1.836,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS6,3.285,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SERINC3,3.098,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACD,1.161,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PNPLA4,0.58,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPLP2,2.824,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MNAT1,4.952,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,RPS16,3.241,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS14,2.017,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,USP49,0.435,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TCFL5,2.929,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL29,3.009,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STOML1,1.009,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TWF1,1.537,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IQCK,2.093,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLR1D,1.579,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS23,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC66A3,4.919,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MRPS35,0.362,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAIP,0.551,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GSK3A,3.184,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AZI2,0.342,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COMMD9,0.857,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KAT14,1.024,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FCF1,1.132,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRRC37BP1,,,
+Brain - Spinal cord (cervical c-1),30-39,UROD,1.744,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC39A9,1.491,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NUDT12,1.408,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01351,1.21,global,nprec cell
+Brain - Spinal cord (cervical c-1),30-39,ABHD10,1.096,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HDHD2,1.414,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC39A3,1.177,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFA4,2.67,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPX4,3.258,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KRTCAP2,1.864,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WDTC1,1.503,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TSPAN5,1.323,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXOC4,2.393,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED24,4.998,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TBPL1,1.249,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRPF6,2.107,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARCN1,2.376,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CUL9,1.265,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANKMY2,1.246,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EHMT2,2.664,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LAMTOR3,2.089,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LAMP1,3.788,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFB1,2.037,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARMH3,0.633,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NSD2,1.717,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EEF1B2,2.392,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RCCD1,4.914,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,COX15,1.752,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TBC1D17,2.084,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GALNT11,0.926,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ELP6,1.136,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CNRIP1,1.875,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BAZ2B,1.841,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MACROH2A2,1.363,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AGFG1,2.986,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPIH,1.359,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KLHL5,0.884,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TAF9B,1.676,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SERP2,0.23,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFAF1,1.159,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SF3B6,0.957,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A27,2.163,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARPC4,0.658,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS13B-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,POLE3,0.786,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IFT46,1.594,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL57,0.973,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AKT2,2.495,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX11,1.562,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARL14EP,0.665,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SYNM,2.944,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MON1B,0.784,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CHURC1,4.307,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ATP6V0B,2.199,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP76,0.579,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACSL3,2.276,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WSCD1,0.939,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANO10,1.833,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF428,0.58,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GNAO1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,IST1,1.779,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IFT20,1.426,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YIPF4,0.352,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NLK,1.844,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PHKB,1.562,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EEF1A1,3.828,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC24,0.114,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMB6,2.007,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPR173,1.294,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED7,0.042,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJB9,1.626,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CLTA,2.461,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXD3,0.559,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF670,0.462,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAILR,,,
+Brain - Spinal cord (cervical c-1),30-39,GSTZ1,1.413,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRH1,0.563,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRFN4,1.075,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRAF2,2.358,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PTPDC1,0.616,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC2A11,0.875,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFB9,2.417,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BANF1,2.93,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPR137B,1.828,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GATM,3.322,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TDP1,1.55,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CTTNBP2,1.739,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OXSR1,2.123,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VAX2,1.37,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WDR83OS,1.175,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DPH5,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,API5,1.76,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MPND,4.842,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,MICU1,2.04,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ERMN,3.494,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFAF3,2.173,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NCOA4,2.681,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIR9-3HG,,,
+Brain - Spinal cord (cervical c-1),30-39,TSN,1.731,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000238186,,,
+Brain - Spinal cord (cervical c-1),30-39,ANAPC13,1.39,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLD3,4.96,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,PGM3,2.171,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YBEY,0.444,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEA15,3.91,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNAPC1,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NME4,2.143,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000285632,,,
+Brain - Spinal cord (cervical c-1),30-39,IFT27,1.448,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS8,0.651,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPRYD4,0.633,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCO1,1.706,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CHMP4B,2.172,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZSCAN30,4.878,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000272462,,,
+Brain - Spinal cord (cervical c-1),30-39,PPP2R2C,2.153,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFP30,4.713,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,METTL3,3.376,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000270866,,,
+Brain - Spinal cord (cervical c-1),30-39,NDUFV2,2.337,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SIAE,1.472,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF345,4.392,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,NDUFB2-AS1,1.245,global,achn cell
+Brain - Spinal cord (cervical c-1),30-39,NCSTN,2.945,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBE2Q1,1.819,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DDT,1.75,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCPG1,1.551,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BOLA3,1.788,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GDAP1,2.757,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL55,0.194,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000283196,,,
+Brain - Spinal cord (cervical c-1),30-39,MMADHC-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,RAB4B,1.459,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIMM23,0.726,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GOLGA5,1.15,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288061,,,
+Brain - Spinal cord (cervical c-1),30-39,CATSPER2P1,,,
+Brain - Spinal cord (cervical c-1),30-39,REV3L,1.418,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAB11B-AS1,1.642,global,snu-398 cell
+Brain - Spinal cord (cervical c-1),30-39,TRAF3,2.361,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AMN1,0.558,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GLO1,2.579,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM230,2.116,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL27A,2.851,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288766,,,
+Brain - Spinal cord (cervical c-1),30-39,GCC2,1.112,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VAMP3,3.222,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIN,0.777,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC39A7,1.838,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAB23,2.237,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TBC1D23,1.012,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAMSTR,1.04,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SVIL-AS1,1.796,global,tte-1 cell
+Brain - Spinal cord (cervical c-1),30-39,PSMG3-AS1,1.706,global,cervical squamous cell carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,SLC52A2,1.364,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CSTF2T,1.663,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000224152,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF277,4.761,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,BTBD6,0.633,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KRBOX1,4.879,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CHRNB1,1.228,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIB2,1.216,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,JMY,1.924,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEX11A,1.072,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DDX56,1.538,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CHFR,0.863,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACYP2,1.741,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPR27,2.077,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000260398,,,
+Brain - Spinal cord (cervical c-1),30-39,COQ9,2.189,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAA38,1.303,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000285416,,,
+Brain - Spinal cord (cervical c-1),30-39,MCRIP1,4.944,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000272909,,,
+Brain - Spinal cord (cervical c-1),30-39,LINC01778,,,
+Brain - Spinal cord (cervical c-1),30-39,TMEM33,0.733,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED4,0.888,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ING4,1.919,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YTHDC1,2.166,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PYM1,1.0,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EAF2,4.796,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ARMC6,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CENPN,0.134,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RIC8A,1.931,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000228436,,,
+Brain - Spinal cord (cervical c-1),30-39,ADAP1,0.787,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GOLM1,2.317,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HOMEZ,0.134,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BNIP1,1.145,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FBXO22,4.947,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,DENND5A,2.001,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BCS1L,1.784,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL26L1,0.667,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COQ7,1.817,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CENPL,0.775,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCUN1D2,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIAA0408,1.074,global,ovum
+Brain - Spinal cord (cervical c-1),30-39,TTF2,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMX2,2.243,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTREX,1.457,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,THAP7,0.097,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAGEF1,4.975,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RNF7,1.587,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IPO7,2.211,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COPS5,2.165,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VRK3,0.945,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANXA5,3.743,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ITGA9-AS1,1.523,global,endometrioid carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000212978,,,
+Brain - Spinal cord (cervical c-1),30-39,SMIM7,0.987,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PTPN11,3.345,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZCCHC7,4.96,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000245552,,,
+Brain - Spinal cord (cervical c-1),30-39,NAP1L4,1.863,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CNPPD1,1.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ABL2,1.775,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPUSD4,4.975,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MRPL33,0.752,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BRWD1,1.562,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NKIRAS2,1.197,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IRF2BP1,1.166,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYNLL2,2.798,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SH3YL1,1.111,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNRF2P1,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000277715,,,
+Brain - Spinal cord (cervical c-1),30-39,IMPA1,2.224,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01006,1.535,global,hone-1 cell
+Brain - Spinal cord (cervical c-1),30-39,ALG6,0.995,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EVI5L,0.73,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAL,3.485,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GGPS1,1.752,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRPSAP2,1.482,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NT5M,0.847,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIN4,1.71,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ING2,0.534,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RHBDD3,0.706,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBE2J2,0.744,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCRN3,0.967,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SIGIRR,1.367,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CHCHD2,2.752,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP2R5A,1.32,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAD1,1.003,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MXRA7,1.682,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPATCH2L,0.73,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLR2G,1.157,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RBX1,1.626,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYNC2I2,,,
+Brain - Spinal cord (cervical c-1),30-39,PHF20,1.685,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF130,2.157,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SERINC1,2.506,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL40,1.806,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IMP4,1.041,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WASHC3,1.512,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IDH3G,2.151,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF138,4.771,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CKAP5,2.917,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IRAG1-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,PEX16,1.536,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EPM2A,2.301,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF113A,4.901,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,GTF2H5,1.835,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C19ORF12,1.632,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL27,4.967,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,LYRM2,4.323,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,FGFR1OP2,1.1,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PINK1,3.461,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPHK2,2.583,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HENMT1,4.939,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TRIM60P17,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF682,4.51,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PRADC1,0.332,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ISOC1,1.836,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SIRPA,3.318,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000278730,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000243554,,,
+Brain - Spinal cord (cervical c-1),30-39,RMC1,2.151,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF302,0.919,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IGBP1,2.49,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM19,1.875,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PGLS,1.509,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CNTD1,4.911,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,FRA10AC1,1.425,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP2R2D,1.417,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C1ORF122,1.039,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000233230,,,
+Brain - Spinal cord (cervical c-1),30-39,UBE3C,1.648,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A23,2.324,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEX10,2.314,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SGPP1,1.121,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DTNB,1.757,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCAF10,0.228,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DPF3,1.195,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KDM8,1.354,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPDPF,2.08,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CUX1,2.722,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF726,4.468,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,SSU72,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIGH,0.751,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL36,1.14,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSME3IP1,1.921,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNRPC,1.488,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FIP1L1,1.705,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AAMDC,1.107,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WIPI2,2.221,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C8ORF33,0.556,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAP6,2.859,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GABARAPL2,3.21,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLR3F,0.832,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ORMDL2,1.132,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIF26B,0.928,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CENPBD1P1,,,
+Brain - Spinal cord (cervical c-1),30-39,BAG6,1.753,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COPS3,1.664,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GIPC1,2.135,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SUPT16H,1.644,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NLE1,0.592,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC149,1.333,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ADRM1,2.241,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VCP,3.879,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TAF12,0.542,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMB5,2.092,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GASAL1,,,
+Brain - Spinal cord (cervical c-1),30-39,VPS26B,1.72,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TARS2,1.38,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MZF1,1.472,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS15A,2.638,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CSRNP2,0.638,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NUDT1,1.839,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01579,1.374,global,hec-1-b cell
+Brain - Spinal cord (cervical c-1),30-39,SHISA4,2.293,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFB3,1.751,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNHIT1,0.93,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SP2-AS1,1.986,global,oc315
+Brain - Spinal cord (cervical c-1),30-39,ACADM,2.157,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ABHD12,2.683,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MMADHC,2.243,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CBX1,2.576,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MKRN2,2.028,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANKH,1.909,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SARNP,0.81,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF346,0.511,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C16ORF95,0.994,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A39,1.022,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF2B1,2.638,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIGD2,2.27,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PPP1R3F,4.886,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TRIM3,2.37,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000260664,,,
+Brain - Spinal cord (cervical c-1),30-39,FUCA2,1.717,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BCHE,2.801,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FSCN1,2.839,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GRIA3,2.606,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RUFY2,0.944,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PFDN2,1.404,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,METTL9,1.732,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC4,0.255,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTRF1L,0.723,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIF5B,3.245,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VASH1,4.405,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000269397,,,
+Brain - Spinal cord (cervical c-1),30-39,FXYD6,1.278,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAF1,1.872,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CRPPA,1.116,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IFNAR1,2.773,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM126A,1.483,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000283511,,,
+Brain - Spinal cord (cervical c-1),30-39,CUL2,2.337,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC106,0.371,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RANBP1,2.019,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SATB1,2.59,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RFX3-AS1,1.803,global,hcc-15
+Brain - Spinal cord (cervical c-1),30-39,ABHD17AP3,,,
+Brain - Spinal cord (cervical c-1),30-39,GUF1,1.521,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HIGD1A,2.147,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED10,1.011,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NSMCE1,0.486,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FICD,1.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXOC2,1.807,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFB4,2.407,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RCC2,1.573,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BTBD8,1.508,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RABGGTB,1.429,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS51,1.7,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS17,1.733,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000272831,,,
+Brain - Spinal cord (cervical c-1),30-39,EXOSC3,1.881,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CLEC11A,1.868,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIF22,1.653,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM65,0.633,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEPD,2.151,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UQCC1,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF208,4.61,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,TPD52L2,1.125,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAI14,1.195,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LAMTOR5,1.972,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IFT52,1.406,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAGED2,2.05,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL39,1.069,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LUZP2,4.433,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC39A13,1.654,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL9,1.398,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC46A1,4.432,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP6V1E2,4.961,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,EXD2,0.766,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF720,4.778,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,RAB21,2.278,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00467,2.113,global,ocum-1 cell
+Brain - Spinal cord (cervical c-1),30-39,EIF3M,1.658,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RASGEF1C,1.197,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZDHHC1,1.031,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000261478,,,
+Brain - Spinal cord (cervical c-1),30-39,LINC00158,0.557,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NR1I3,1.333,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RBMX,2.508,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SOX2-OT,1.644,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLR2M,4.395,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PEDS1,,,
+Brain - Spinal cord (cervical c-1),30-39,EIF3E,2.0,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SKIDA1,4.422,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,MRPS15,1.356,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AGL,3.167,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RGS3,1.604,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEX26,1.39,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FBXO8,1.457,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP1R10,2.486,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF358,1.626,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIK3C3,3.237,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STX16,2.034,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIS12,0.228,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SEPTIN11,2.455,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RTL6,1.789,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TBC1D5,1.651,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACAT1,2.31,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SYF2,1.266,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAAF10,,,
+Brain - Spinal cord (cervical c-1),30-39,SLC20A1,2.866,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COLEC10,0.813,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTERF1,0.751,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MGMT,3.077,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL37,1.063,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP2CA,2.598,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BCAP29,0.7,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EARS2,2.411,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLK,0.534,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNHG32,,,
+Brain - Spinal cord (cervical c-1),30-39,ADCK2,0.146,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF330,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DMPK,2.303,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IFT43,0.563,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00476,1.331,global,tk-6 cell
+Brain - Spinal cord (cervical c-1),30-39,RABGEF1,0.915,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BTBD10,0.542,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF260,4.237,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CMC4,0.352,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SDSL,1.401,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CUTA,2.526,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VCAN,3.006,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NARS2,1.636,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5MF,1.664,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PNN,2.515,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ESF1,0.408,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM259,2.527,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NOVA1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,THAP3,4.967,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,STX8,1.644,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GNPAT,2.146,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DOHH,1.441,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DUS4L,4.762,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PDCD5,1.589,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SDHAF1,1.743,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000275178,,,
+Brain - Spinal cord (cervical c-1),30-39,LSM8,0.503,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS26,0.813,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ICMT,1.672,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KHDC1-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000259658,,,
+Brain - Spinal cord (cervical c-1),30-39,RBM10,1.203,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCSER2,1.287,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CRK,2.295,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLIRP,2.385,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZBED5-AS1,1.491,global,nci-h1299 cell
+Brain - Spinal cord (cervical c-1),30-39,GSTA4,2.111,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TPD52,1.68,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000269044,,,
+Brain - Spinal cord (cervical c-1),30-39,PRPF31,1.598,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NFYB,1.069,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AURKAIP1,1.208,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A26,0.81,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBR7,1.043,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SOX3,2.555,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENTPD5,1.748,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RABEP1,2.1,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC183,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CENPH,0.607,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CYCS,3.478,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM50B,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CISD2,1.966,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TP53I13,4.965,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000227704,,,
+Brain - Spinal cord (cervical c-1),30-39,SARM1,2.694,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMBIM4,1.951,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TCP1,2.477,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MYL6B,1.558,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDC123,1.546,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJA2,1.953,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PWWP2A,1.105,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS9,1.03,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBE2S,1.662,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIMM10B,2.137,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX14,1.506,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTLN,4.449,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,RABL3,0.91,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAIM,1.356,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SRGAP2C,1.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPSA,3.341,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCT4,2.214,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DGKZ,1.751,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL4,3.534,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WDHD1,0.595,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MFN1,2.574,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BLMH,1.495,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UQCC2,1.583,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ABCA11P,,,
+Brain - Spinal cord (cervical c-1),30-39,HNRNPK,3.292,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HINT1,2.307,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FLT3,2.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF524,0.217,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS6KA4,1.45,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SRSF1,2.883,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SGCB,2.891,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRATD1,0.461,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAM2-AS1,1.07,global,oc cell
+Brain - Spinal cord (cervical c-1),30-39,TTC3,2.268,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PAXX,1.429,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIGA2,0.801,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRPS1,2.465,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COA8,4.103,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,JMJD8,1.575,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YAE1,1.136,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CLCN3P1,,,
+Brain - Spinal cord (cervical c-1),30-39,RPL9,2.866,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF141,1.735,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MARK3,1.78,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAD2L2,1.463,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BUD23,1.24,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MPC2,1.91,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NFU1,1.73,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TXNDC15,0.949,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRMT61B,0.954,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RHEB,2.664,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM183A,1.421,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TOMM20,2.897,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C2ORF49,1.291,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YJU2,0.595,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CPPED1,0.9,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAD17,1.171,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IPO9,1.376,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CGRRF1,4.886,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PRKRA,1.943,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMG1,1.277,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM8B,0.624,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HMGN3,2.301,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM14C,2.043,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM219,1.95,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIB1,1.427,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KLHL12,1.133,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPATCH11,0.698,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ERMARD,1.231,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MANBAL,0.873,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SELENOT,1.804,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ALG14,0.64,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GIHCG,,,
+Brain - Spinal cord (cervical c-1),30-39,MRPL21,0.478,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATPAF2,1.444,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CMSS1,1.26,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KATNAL2,1.034,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANTKMT,0.624,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TYW3,0.837,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PFN2,4.578,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TM7SF2,1.877,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LAMTOR1,2.485,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SKAP2,1.598,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRMDA,0.833,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HIKESHI,1.614,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLAAT5,1.447,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM174B,0.587,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM258,1.737,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GMFB,2.49,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS2,3.204,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KHDC1,4.719,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,YIF1A,1.464,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000228251,,,
+Brain - Spinal cord (cervical c-1),30-39,EDIL3-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,CCDC102B,4.695,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TM7SF3,1.297,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HMSD,2.516,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,RPL41,0.826,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,APBA3,1.008,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KANSL2,1.102,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FMO4,0.816,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ASF1A,1.218,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF4G2,3.165,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAPPC4,1.42,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CNPY2,0.996,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SMARCA1,2.304,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CSNK2A2,2.186,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TACO1,1.483,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FEZ2,1.872,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF121,4.928,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,GTF2A2,1.004,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GEMIN2,4.356,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPA2,1.924,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC30,1.786,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PFN4,1.734,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC35A2,1.975,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FRG1CP,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF491,4.287,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,COQ10B,1.255,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TULP3P1,,,
+Brain - Spinal cord (cervical c-1),30-39,DEPDC4,4.325,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ACTR6,4.966,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,NDUFS6,1.715,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HSD17B10,2.355,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BEX4,1.825,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPAG9,2.607,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RBBP9,1.271,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC38A3,2.121,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SREK1IP1,4.872,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000230615,,,
+Brain - Spinal cord (cervical c-1),30-39,MESD,1.488,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIAA1143,0.978,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC7,2.539,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SWSAP1,0.292,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000236166,,,
+Brain - Spinal cord (cervical c-1),30-39,DYNC1I2,2.696,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,THAP10,4.752,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,UBL3,1.303,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MORN2,4.459,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,TIMM8B,1.895,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FTH1,3.936,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP6V1D,1.731,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCOC,2.067,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,INKA2,1.322,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SOX11,2.619,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HADH,2.129,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NBR1,2.185,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000271860,,,
+Brain - Spinal cord (cervical c-1),30-39,SUGP1,1.634,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCUN1D1,1.35,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MEX3A,0.804,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DLG5-AS1,2.395,global,au-565 cell
+Brain - Spinal cord (cervical c-1),30-39,DHRS7,1.709,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACTR1A,2.283,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000244699,,,
+Brain - Spinal cord (cervical c-1),30-39,SURF6,0.542,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KCTD1,1.161,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DARS1,2.496,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AXIN1,2.02,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000267640,,,
+Brain - Spinal cord (cervical c-1),30-39,EEF1AKMT1,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM104A,1.547,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENPP5,1.435,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZBED8,4.534,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,COX18,0.64,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MLLT3,1.228,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS30-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,TSEN34,1.364,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NBAS,1.606,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRDX1,3.214,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIMM8A,1.631,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OSBPL8,1.662,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM69,0.933,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OTUD6B,1.603,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YIPF6,1.073,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CBX5,2.25,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTMR9,1.352,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DUT,1.782,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDO1,2.069,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SIKE1,0.55,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MBLAC1,0.928,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KLHDC3,1.734,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GINS3,0.709,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM89B,1.186,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPART,2.302,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DERL1,1.63,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SEC11A,1.217,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BRMS1L,1.176,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC77,0.194,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CAMSAP2,2.391,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UMPS,1.43,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZSCAN18,1.059,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GRK6,1.862,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAR2P2,,,
+Brain - Spinal cord (cervical c-1),30-39,TMEM42,1.024,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM229B,0.613,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF544,0.506,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIP4P2,0.93,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GSS,2.398,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KLHL2,1.474,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VBP1,1.84,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM174A,0.352,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIEN1,0.816,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C2CD5,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIGP,1.288,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SMC3,2.207,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM14B,1.854,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RUSC2,1.367,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NUDT21,1.927,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAB7B,1.271,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C2CD4D-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,TOR1AIP1,1.869,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COMMD6,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FUS,3.675,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIAS2,1.848,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YEATS4,0.833,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DBNL,1.912,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC30A9,1.808,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINGO3,1.197,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL27,2.881,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPIN2B,4.873,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ISG20L2,0.742,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CRNKL1,0.631,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TADA2B,1.408,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HPF1,0.312,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ERO1B,0.823,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000232412,,,
+Brain - Spinal cord (cervical c-1),30-39,SNX5,2.022,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RFX5-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,TP53RK,1.293,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP78,0.028,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYNC2H1,1.494,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLR3E,1.112,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MOCS2,2.183,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000170846,,,
+Brain - Spinal cord (cervical c-1),30-39,CDKN2AIPNL,0.486,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5PF,2.433,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PNKP,2.108,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01135,1.844,global,palatine uvula
+Brain - Spinal cord (cervical c-1),30-39,CLNS1A,1.831,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ERCC3,1.56,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMCC1,1.125,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SDF2,0.638,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFS5,2.357,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CLPTM1,2.724,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRRFIP2,1.236,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRR11,0.228,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAAP20,4.299,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MRPL54,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ALG8,0.711,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ECI2,1.731,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CHAF1A,0.597,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NECAB1,1.922,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ODR4,0.8,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRKACB,3.51,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CRKL,2.614,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000231010,,,
+Brain - Spinal cord (cervical c-1),30-39,TSEN2,1.283,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CASTOR3,2.105,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NCBP1,1.59,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBE2D1,1.623,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EPB41L3,3.019,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIFBP,2.375,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TTYH1,3.265,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BABAM2,1.616,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PARP1,3.32,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YARS2,1.792,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GNPTAB,2.061,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLA2G4B,0.628,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF157,4.375,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,VOPP1,2.005,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX6C,2.644,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WDR70,0.109,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000267429,,,
+Brain - Spinal cord (cervical c-1),30-39,PPP1R12A-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,LINC01137,1.218,global,ht-1376 cell
+Brain - Spinal cord (cervical c-1),30-39,SNU13,2.09,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UQCRFS1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,ADAM10,3.266,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANKIB1,1.827,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NEU4,1.536,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FNTA,2.059,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RTTN,1.571,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00672,1.663,global,u-251mg cell
+Brain - Spinal cord (cervical c-1),30-39,TMEM9,1.35,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBTD2,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BBS5,1.154,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PDE6D,1.462,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,APLN,2.002,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MYO1E,1.882,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNHG7,1.085,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED25,0.672,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AZIN1,1.97,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STRAP,2.443,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UQCRQ,2.429,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KCNJ10,3.881,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FARP2,1.55,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP13A5-AS1,0.858,global,glioma cell
+Brain - Spinal cord (cervical c-1),30-39,INSYN1,0.793,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PYROXD1,0.17,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX10,1.759,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPIN1,1.88,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RIC8B,2.923,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS2P5,,,
+Brain - Spinal cord (cervical c-1),30-39,MAP1LC3A,2.684,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEX2,1.173,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPACA9,0.558,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF391,0.541,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DFFA,2.396,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CD63-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,RAET1G,0.554,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POMGNT1,2.496,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIH1D1,1.723,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNX7,1.168,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIR99AHG,0.791,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MINDY3,1.42,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RFC1,1.663,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STBD1,1.338,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287550,,,
+Brain - Spinal cord (cervical c-1),30-39,GSN,3.525,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SEC11C,1.618,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF114,4.426,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MBD1,1.843,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SBF2-AS1,1.315,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EEF1G,1.047,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CNIH1,1.829,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC12,1.744,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ALG1L9P,,,
+Brain - Spinal cord (cervical c-1),30-39,SEMA5A,2.598,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPR19,0.981,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAPPC5,0.783,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NGDN,1.683,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000271843,,,
+Brain - Spinal cord (cervical c-1),30-39,TPP2,2.039,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RBM34,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COMMD2,1.129,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPIN3,0.804,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PDIA3P1,,,
+Brain - Spinal cord (cervical c-1),30-39,MZT2A,1.067,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GARNL3,1.044,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMED3,0.508,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C16ORF74,3.663,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ZNRF1,1.069,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WDR25,4.261,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000275445,,,
+Brain - Spinal cord (cervical c-1),30-39,JOSD1,1.427,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DAD1,2.418,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000259126,,,
+Brain - Spinal cord (cervical c-1),30-39,ST20-AS1,1.083,global,hpac cell
+Brain - Spinal cord (cervical c-1),30-39,TRPC1,2.324,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDRG2,3.738,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS50,0.933,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC167,0.07,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SESN3,2.295,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENOPH1,1.833,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TEX261,1.415,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TCAIM,0.486,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5PD,2.587,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NOA1,1.048,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BRD9,1.191,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAB4A,2.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL13P5,,,
+Brain - Spinal cord (cervical c-1),30-39,ACOX3,1.703,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LIMCH1,1.699,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SOX6,2.373,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SVBP,4.869,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ZFP28-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,RASAL2-AS1,1.418,global,novikoff hepatoma cell
+Brain - Spinal cord (cervical c-1),30-39,IMP3,0.959,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRDX3,2.775,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAB11A,3.244,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PXN-AS1,1.735,global,hepatoma cell
+Brain - Spinal cord (cervical c-1),30-39,NDFIP2,0.998,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC41A3,1.844,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PURA,3.34,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CLPP,2.469,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS72,2.537,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EPHX2,2.671,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM141,1.09,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MCRS1,4.982,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PIGN,0.888,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCRN1,2.252,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TOMM5,1.363,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRIAP1,1.354,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARL6IP1,3.304,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TAS1R1,1.163,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PTOV1,1.836,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTRF1,4.774,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,LINC01301,0.955,global,retinoblastoma cell
+Brain - Spinal cord (cervical c-1),30-39,VWA8,1.513,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDC37,2.569,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SFXN4,1.231,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF782,4.856,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,SLC2A8,2.039,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPAG16-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,SPRYD7,1.171,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM47E,0.603,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STXBP6,4.351,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SMIM30,4.216,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,WIZ,0.675,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MECR,1.169,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COPB1,2.37,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC02609,,,
+Brain - Spinal cord (cervical c-1),30-39,ZBTB11-AS1,0.613,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFA3,2.526,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM161B-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,PRKAG1,1.503,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF775,4.866,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RTCA,1.963,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SELENOS,1.857,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCRN2,0.8,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EFCAB11,0.86,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYRK1B,1.441,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UHMK1,1.577,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNER,2.779,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RCOR2,1.48,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BIRC2,2.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AGTPBP1,1.904,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANKRD39,1.006,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXOC5,2.127,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COA4,0.573,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTHFS,1.375,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRKAR1A,3.109,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZBTB8OS,0.809,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CPSF3,1.192,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SEPTIN7P14,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF486,4.147,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,FAM89A,4.081,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,MPLKIP,1.193,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PYGO1,0.176,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FRG1,1.412,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNGTT,1.186,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CAPN10,0.915,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS13,2.937,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS22,1.509,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL7L1,4.988,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CEP164,1.365,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAP1GDS1,1.722,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC27,0.146,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LYRM7,1.279,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SMIM20,1.287,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MGLL,2.934,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DMGDH,1.204,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNH1,2.588,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287580,,,
+Brain - Spinal cord (cervical c-1),30-39,SPDL1,1.173,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AGRP,2.562,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP131,0.92,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL21,3.199,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFS4,2.459,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF420,4.831,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,CASTOR2,2.138,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ZNF575,0.182,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC38A10,1.819,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PMS2P1,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000286162,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000231359,,,
+Brain - Spinal cord (cervical c-1),30-39,SMUG1,0.972,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,RPL13A,3.58,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL51,1.739,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GSTP1,3.127,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MMP24OS,1.447,global,pos cell
+Brain - Spinal cord (cervical c-1),30-39,LRIG2-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000268858,,,
+Brain - Spinal cord (cervical c-1),30-39,RPL6,2.965,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAZ,2.185,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RCL1,0.922,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF20,4.882,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000276649,,,
+Brain - Spinal cord (cervical c-1),30-39,MRFAP1,2.879,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PCNA,2.899,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF125,1.272,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPA3,1.162,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLGRKT,1.263,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,USP12,1.317,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000272699,,,
+Brain - Spinal cord (cervical c-1),30-39,PJVK,1.897,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FBXO30,0.717,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIF5C,3.095,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL24,2.282,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NIPSNAP3A,0.767,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CASP9,2.78,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PTRHD1,1.309,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF1AX,1.245,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FH,2.605,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KAT8,1.96,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS23,2.999,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TTC37,1.676,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NUDT15,1.209,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HSPB11,1.587,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DDX5,2.946,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL23,1.64,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SFR1,4.47,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,LDHB,,,
+Brain - Spinal cord (cervical c-1),30-39,CYB561D2,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNHG1,1.598,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C7ORF31,0.703,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCUN1D5,0.352,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,USP8,2.029,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TOX4,1.669,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,APOO,1.461,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF212,0.544,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCPS,1.691,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ORC6,0.605,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NSMCE1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,BAD,1.877,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CHMP2B,2.717,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNX15,2.199,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRIM2,0.524,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANXA4,2.303,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,JMJD7,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BOLA1,4.81,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,BTBD1,1.917,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL20-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,ORC3,1.186,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PAPSS1,1.915,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM185A,4.724,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ST6GAL2,0.905,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLPPR2,1.267,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RRM2B,1.953,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SDHD,2.04,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIGC,1.039,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACBD5,2.448,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PEX3,1.544,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GALNT13,0.897,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MPPED2,1.093,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000260917,,,
+Brain - Spinal cord (cervical c-1),30-39,SAFB,1.569,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UQCRB,2.303,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SBF2,2.549,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BHLHE41,3.115,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNASEH1,1.841,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SKP1,2.943,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ELAVL1,2.625,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATRAID,1.171,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMD10,1.861,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM161B,0.25,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ALG2,1.369,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARL1,0.925,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000278899,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF827,0.912,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NFS1,2.003,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM41A,0.819,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PHF5A,1.471,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WWC2,1.173,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CADM4,2.62,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TXNL1,2.193,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYNC1LI1,1.755,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FER,1.425,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DUSP26,1.431,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CISTR,1.475,global,gynophore
+Brain - Spinal cord (cervical c-1),30-39,ZDHHC12,1.149,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CPD,1.316,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TFPT,0.957,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GTPBP8,4.854,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,VPS33B,1.37,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZDHHC4,1.45,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STT3B,1.318,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIMM50,1.612,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NMRK1,1.678,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLF2,1.651,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ODF3L1,4.339,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RPP38,4.817,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,TIGD7,0.362,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NECTIN3-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,ASCC2,0.616,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PTCD2,0.969,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIAA2013,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HINFP,1.068,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FANCG,0.77,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LARP7,1.391,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRPT1,0.217,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PTS,2.271,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OCEL1,0.096,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARHGEF6,2.23,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TTLL1,1.601,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM254,1.364,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPRY3,0.867,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VDAC3,2.334,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AADAT,2.568,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRIQK,4.96,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CIDECP1,,,
+Brain - Spinal cord (cervical c-1),30-39,SLC22A18AS,1.633,global,rhabdomyosarcoma cell line
+Brain - Spinal cord (cervical c-1),30-39,RPL35A,2.176,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287825,,,
+Brain - Spinal cord (cervical c-1),30-39,CMC2,1.653,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF662,4.73,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MBNL1-AS1,1.711,global,nci-h2009 cell
+Brain - Spinal cord (cervical c-1),30-39,ZNF517,4.0,global,gastroesophageal cancer cell
+Brain - Spinal cord (cervical c-1),30-39,PIGBOS1,4.0,global,eye cancer cell
+Brain - Spinal cord (cervical c-1),30-39,WASH4P,,,
+Brain - Spinal cord (cervical c-1),30-39,PDRG1,0.303,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEBPZOS,1.82,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TCF3,2.034,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAT9,0.538,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMBIM6,3.44,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIP4K2B,2.126,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IKZF5,1.29,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WNK1,2.199,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01637,,,
+Brain - Spinal cord (cervical c-1),30-39,NUDCD2,0.667,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAE1,1.837,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A5,2.425,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIPIN,0.642,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL8,4.619,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000269918,,,
+Brain - Spinal cord (cervical c-1),30-39,FAM218A,2.722,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,C17ORF100,3.67,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,NRBP2,1.0,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CISD3,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYNLL1,3.113,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POP7,0.723,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFS7,2.842,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NIPBL-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,ATP5PB,2.538,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GOSR2,1.042,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PCBP4,1.998,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLPBP,2.364,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAPPC2L,1.413,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000260947,,,
+Brain - Spinal cord (cervical c-1),30-39,SLC9B1,0.695,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAGI3,1.305,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000260927,,,
+Brain - Spinal cord (cervical c-1),30-39,DYM,1.233,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PAFAH2,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNX3,2.182,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL28,0.842,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFA5,2.159,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC4A1AP,0.949,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PAIP1,1.458,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BBS10,1.435,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BTF3L4,0.91,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ALG1L,1.813,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,NUP35,4.942,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,STARD3NL,1.122,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACTR2,2.654,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTSS1,1.87,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC9A9,1.924,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SMIM26,1.451,global,lim1863 cell
+Brain - Spinal cord (cervical c-1),30-39,THAP6,4.91,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MCEE,1.457,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX5A,2.704,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C19ORF53,0.996,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C1ORF131,4.969,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,KIAA0586,1.494,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NIF3L1,0.9,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTERF3,4.836,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,WSB2,1.996,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A35,0.109,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ISOC2,0.633,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NCAPG2,1.124,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RBM42,1.398,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C17ORF49,4.344,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,LINC01607,,,
+Brain - Spinal cord (cervical c-1),30-39,MEAK7,1.44,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF814,4.858,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TAF9,1.364,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC18,0.742,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TBCEL,1.148,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287463,,,
+Brain - Spinal cord (cervical c-1),30-39,VILL,0.755,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CTSF,2.479,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNCA,3.813,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CNOT7,1.733,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STX7,2.011,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TAOK3,1.869,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GOLM2,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000273314,,,
+Brain - Spinal cord (cervical c-1),30-39,CTHRC1,1.558,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPHLN1,0.82,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXOG,1.155,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RND2,2.778,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5MJ,,,
+Brain - Spinal cord (cervical c-1),30-39,PTGER4P2-CDK2AP2P2,,,
+Brain - Spinal cord (cervical c-1),30-39,HSD17B8,1.296,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C6ORF47,0.845,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC35A1,0.8,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZKSCAN7,1.589,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,USP32,0.863,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287502,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000280254,,,
+Brain - Spinal cord (cervical c-1),30-39,NKAIN2,1.536,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DDX59,0.787,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAH,1.874,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARF4,1.951,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM237,0.937,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX7B,2.399,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM59,2.665,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WIPF2,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BPGM,1.682,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ULK2,2.002,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SOS2,1.956,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARHGAP5-AS1,1.909,global,gastric cancer cell
+Brain - Spinal cord (cervical c-1),30-39,ZNF843,0.546,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIMM9,1.283,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OPTN,3.237,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC22,1.405,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAPK1,3.072,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UFD1,1.717,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRP11,1.761,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GLOD4,1.817,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000280077,,,
+Brain - Spinal cord (cervical c-1),30-39,SMIM13,4.261,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RPL10A,3.31,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACSF3,1.262,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C5ORF38,0.822,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CENPC,0.452,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF528,4.0,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,H2AX,2.367,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PROX1-AS1,1.493,global,retinoblastoma cell
+Brain - Spinal cord (cervical c-1),30-39,CHCHD5,4.91,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,FAM3C2P,,,
+Brain - Spinal cord (cervical c-1),30-39,UBA3,1.951,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFB11,2.133,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AK5,1.925,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDKL3,1.417,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TNFAIP1,2.193,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRIM68,0.313,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL13,3.027,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM172A,0.995,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AIG1,1.099,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RCN2,1.596,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000225472,,,
+Brain - Spinal cord (cervical c-1),30-39,NINJ2-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNHIT3,1.068,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HOOK3,4.415,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC9,1.037,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000203546,,,
+Brain - Spinal cord (cervical c-1),30-39,HOXB2,2.224,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL39L,0.109,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000273486,,,
+Brain - Spinal cord (cervical c-1),30-39,C12ORF73,4.784,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TMEM14A,0.895,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FBXO30-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,MED30,0.913,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEBPZ,1.114,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAB9A,1.58,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM169,0.873,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DNAJC15,0.869,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PHF6,1.974,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RABGAP1L,1.285,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF621,1.175,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CINP,0.819,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFHX4-AS1,1.163,global,ovary epithelium cell line
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000260000,,,
+Brain - Spinal cord (cervical c-1),30-39,ENOX1,0.771,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,YDJC,4.945,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CDADC1,4.877,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RPS12,2.025,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HADHB,2.718,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACTR8,0.79,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAA60,1.498,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATG14,2.204,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RMDN1,1.255,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PTPRG-AS1,1.892,global,npc
+Brain - Spinal cord (cervical c-1),30-39,BSDC1,0.857,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TBCD,2.306,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AKIRIN2,1.838,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STK39,2.552,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL58,1.626,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SYCP2,4.867,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,TIMMDC1,2.277,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SBDS,2.917,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HECTD1,2.08,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287207,,,
+Brain - Spinal cord (cervical c-1),30-39,MAGIX,3.119,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,HBQ1,4.518,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,CMC1,0.633,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NSA2,1.945,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNX4,1.733,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS29,2.98,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS28,1.96,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DUSP15,1.951,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STAMBP,2.43,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF226,4.929,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TMEM182,4.679,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288670,,,
+Brain - Spinal cord (cervical c-1),30-39,ZMYM4,1.246,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ICA1L,1.841,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACTR10,2.103,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZDHHC6,1.514,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NARS1,2.369,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000276075,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF510,4.853,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,SLC25A5-AS1,1.413,global,hgc-27 cell
+Brain - Spinal cord (cervical c-1),30-39,RAB5C,2.873,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TERF2IP,2.311,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,THUMPD3-AS1,1.658,global,c-28/i2 cell
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287126,,,
+Brain - Spinal cord (cervical c-1),30-39,EXOSC10-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,NUDT9P1,,,
+Brain - Spinal cord (cervical c-1),30-39,RTL8B,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP20,,,
+Brain - Spinal cord (cervical c-1),30-39,LACTB2,0.833,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SELENOK,2.429,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RBM8A,2.929,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ALOX12-AS1,1.053,global,pt-k2 cell
+Brain - Spinal cord (cervical c-1),30-39,C15ORF40,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP41,1.273,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAF3IP1,1.485,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZBTB26,4.715,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,RPE,1.202,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZDHHC3,2.017,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAGPA,1.175,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CLUAP1,1.905,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KIF16B,1.139,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000274220,,,
+Brain - Spinal cord (cervical c-1),30-39,HNRNPUL2,2.027,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HACE1,1.507,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMD6,1.82,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,XPO7,2.234,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TXNL4A,1.583,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FUZ,1.594,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BCAS1,3.524,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5F1C,2.418,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF3I,1.54,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPECC1L,2.05,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNRPF,1.158,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAC1,3.529,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NUDT6,1.048,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF3A,2.487,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C2ORF69,0.097,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C17ORF80,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACOT13,2.065,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCM2,2.263,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BMI1,2.524,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HINT3,0.905,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ABITRAM,1.15,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00888,1.34,global,laryngeal cancer cell
+Brain - Spinal cord (cervical c-1),30-39,VAC14,2.265,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNAPC3,1.418,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP70,1.534,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000272316,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000270035,,,
+Brain - Spinal cord (cervical c-1),30-39,SMIM27,1.558,global,ovca-5 cell
+Brain - Spinal cord (cervical c-1),30-39,AP2B1,2.968,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288868,,,
+Brain - Spinal cord (cervical c-1),30-39,DDX42,1.832,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF229,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC02430,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000276728,,,
+Brain - Spinal cord (cervical c-1),30-39,KPNA3,1.791,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A21-AS1,2.129,global,nci-h1688 cell
+Brain - Spinal cord (cervical c-1),30-39,PRMT2,2.244,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACTL6A,2.009,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF408,1.05,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000240057,,,
+Brain - Spinal cord (cervical c-1),30-39,SZRD1,1.243,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS30,1.584,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AP3M2,1.457,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TTC32,4.939,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ARL16,4.938,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,INO80C,4.881,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,SOGA3,0.711,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CNOT10,1.433,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COPS9,1.663,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00674,1.988,global,nci-h441 cell
+Brain - Spinal cord (cervical c-1),30-39,RGS11,1.709,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HMGCL,1.915,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PAXIP1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,BRME1,,,
+Brain - Spinal cord (cervical c-1),30-39,H3-3A,3.217,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPP25,0.17,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KATNBL1,4.921,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,JAGN1,0.83,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ECSIT,1.719,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CAPRIN1,2.673,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NUDT2,1.227,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBE2N,2.164,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TFIP11-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,GPR37L1,2.378,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C1ORF21,4.821,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,DHFRP1,,,
+Brain - Spinal cord (cervical c-1),30-39,ALKBH7,0.399,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LPAR1,2.854,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCK,1.785,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF181,1.071,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,APBA2,1.974,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ERG28,2.195,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CLCN3,2.65,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC49A4,1.074,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBE2H,1.477,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS24,1.076,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GSKIP,0.825,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIR325HG,0.809,global,arterial endothelial cell
+Brain - Spinal cord (cervical c-1),30-39,SPATA24,4.511,global,reproductive system
+Brain - Spinal cord (cervical c-1),30-39,SMARCE1,2.487,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACAD8,1.25,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,APLP2,3.428,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCAF13,4.967,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MPC1,2.32,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TOR3A,0.882,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AP5M1,1.452,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRKD1,2.17,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MEX3C,1.613,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAP2A,2.247,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC35C1,0.717,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARF5,1.552,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLTM,1.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMCO3,0.631,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BTF3,2.988,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HGH1,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FGGY,1.549,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PFDN6,1.368,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PMS2P4,,,
+Brain - Spinal cord (cervical c-1),30-39,SPATS2L,0.665,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF17,4.651,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,CCNC,2.432,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARL2,1.482,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTFR1,0.619,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,XYLT1,1.566,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CENPBD1,0.415,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MFSD8,1.611,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARIH2OS,4.896,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CD2AP-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,NICN1,1.469,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PTCD3,1.459,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HOMER3,2.918,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF248,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LSM1,1.5,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BLOC1S2,1.589,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5PO,2.414,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LONP1,2.739,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF3L,2.233,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000258342,,,
+Brain - Spinal cord (cervical c-1),30-39,ERCC1,2.364,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANAPC10,4.823,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,CAMLG,1.665,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HCG15,1.896,global,hypopharyngeal squamous cell carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,TMEM143,4.962,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MED19,4.928,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,PFDN4,1.448,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01977,,,
+Brain - Spinal cord (cervical c-1),30-39,IL17D,1.585,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,APTR,1.178,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCST1-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,PREB,1.58,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000289469,,,
+Brain - Spinal cord (cervical c-1),30-39,ERAL1,1.642,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTHFD2L,0.657,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000261227,,,
+Brain - Spinal cord (cervical c-1),30-39,GOLGA2,2.387,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FXN,2.769,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BET1L,1.253,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNHG8,1.169,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HNRNPA1L2,0.933,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,APRT,2.527,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MBLAC2,0.967,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KMT5B,1.651,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPATA9,1.093,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM128,0.342,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GTPBP6,0.697,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRPF38A,0.38,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSTK,1.259,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GOLGA7,2.804,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STX5,1.594,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000287614,,,
+Brain - Spinal cord (cervical c-1),30-39,LINC01881,,,
+Brain - Spinal cord (cervical c-1),30-39,SPAG16,1.631,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ODC1,2.534,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP6V0C,3.203,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PACRGL,0.014,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288093,,,
+Brain - Spinal cord (cervical c-1),30-39,PMM1,0.534,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IFT88,1.763,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EEF1AKMT2,4.861,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ZNF655,0.854,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ADH5,2.366,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LSM7,1.537,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBAC2-AS1,1.371,global,esophageal squamous cell carcinoma cell line
+Brain - Spinal cord (cervical c-1),30-39,SCYL1,1.764,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000228395,,,
+Brain - Spinal cord (cervical c-1),30-39,PSMG2,1.509,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FUT8,2.179,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CFAP20,1.88,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF830,0.502,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL44,0.514,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IL20RA,1.232,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPTY2D1OS,1.9,global,skeletal muscle satellite stem cell
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288785,,,
+Brain - Spinal cord (cervical c-1),30-39,STAM,2.192,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYNC1H1,5.0,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CNEP1R1,0.543,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATG3,2.791,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SH3GL3,2.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NBAT1,0.763,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RHBDL2,1.676,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DUSP22,1.77,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NSMCE3,1.115,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFC2,2.311,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF212,4.789,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,VPS4B,2.054,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OGA,2.864,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PAIP2,2.322,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000231533,,,
+Brain - Spinal cord (cervical c-1),30-39,BLOC1S4,4.851,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ZNF626,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM163,1.918,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000286264,,,
+Brain - Spinal cord (cervical c-1),30-39,FEZ1,3.027,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZBTB45,0.694,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC35A5,1.76,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000250222,,,
+Brain - Spinal cord (cervical c-1),30-39,RPL7,2.73,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF37A,0.042,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NFKBIL1,1.165,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARMC8,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GACAT3,1.764,global,gastric cancer cell
+Brain - Spinal cord (cervical c-1),30-39,COMMD1,1.592,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPCS3,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000284740,,,
+Brain - Spinal cord (cervical c-1),30-39,EXOC3-AS1,1.358,global,criduchat
+Brain - Spinal cord (cervical c-1),30-39,TARBP2,1.308,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNX11,0.716,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000286724,,,
+Brain - Spinal cord (cervical c-1),30-39,BCAS2,2.037,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM86B,0.72,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF571-AS1,1.308,global,novikoff hepatoma cell
+Brain - Spinal cord (cervical c-1),30-39,GNL1,1.133,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KDM7A-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,H3P6,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288891,,,
+Brain - Spinal cord (cervical c-1),30-39,PSMG4,4.939,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,BACE1,3.805,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TBC1D9B,1.424,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX7C,2.027,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OST4,1.614,global,mi8-5 cho cell
+Brain - Spinal cord (cervical c-1),30-39,COX6A1,3.245,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AP4S1,1.531,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPALPP1,0.217,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KLHL7,0.905,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TELO2,0.739,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARPC5,2.579,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRCH2,0.083,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MACROD1,1.178,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PSMD14,1.963,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ODF2L,4.931,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CDC42,3.476,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF1,2.704,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX16,0.519,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF675,4.642,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,POLR3K,1.455,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PHYH,1.77,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TTC12-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,RPL17,1.79,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS37B,1.118,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS33B-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,FXR1,2.803,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFA6,2.112,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AIF1L,2.144,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000230747,,,
+Brain - Spinal cord (cervical c-1),30-39,FAM32A,1.16,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GUK1,2.645,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL18,3.005,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIGF,0.754,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL47,1.325,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SAR1B,1.736,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LARS2,2.072,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LMLN,0.88,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SS18L2,1.742,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCAND1,0.995,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFS8,2.033,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CXXC5,2.364,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SARAF,2.254,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,REXO5,4.982,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TXNDC12,1.721,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MBP,4.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SUGCT,1.151,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPIAP3,,,
+Brain - Spinal cord (cervical c-1),30-39,LRRC47,1.692,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POGK,1.293,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF2S2,1.794,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HSCB,0.866,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MYNN,0.07,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000289428,,,
+Brain - Spinal cord (cervical c-1),30-39,BBIP1,0.58,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OSGEP,1.27,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BRK1,1.028,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAPG,1.784,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL36,1.953,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000289294,,,
+Brain - Spinal cord (cervical c-1),30-39,KLHDC10,0.778,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF232,0.82,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM191A,,,
+Brain - Spinal cord (cervical c-1),30-39,RHOA,3.661,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF253,4.188,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PBLD,0.8,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCNG1,2.182,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC25A6,3.041,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARL8B,2.331,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DAZAP2,1.235,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EAPP,1.463,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MFSD14B,1.412,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GOPC,1.591,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PUS10,4.653,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,DYNC1LI2,2.635,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PECR,1.025,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFS3,2.773,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OCIAD1,1.771,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRWD1,0.381,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SACM1L,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF296,0.726,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VTA1,2.161,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WASF1,2.235,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIGV,1.474,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EXOC7,1.961,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LDLRAD4,0.666,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL23,0.994,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NTHL1,1.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UXT,1.349,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HHIPL1,4.312,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CCNI,2.495,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EPB41L2,2.829,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACP1,0.924,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ITPK1,1.837,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIK3R2,2.359,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CACNG7,2.125,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZSCAN16,4.74,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ATP6V1E1,2.101,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C1ORF43,2.099,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAB3GAP2,2.237,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HINT2,0.7,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UQCR11,1.143,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COMMD5,4.922,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,NAXD,1.566,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF2B3,2.443,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HRAS,2.617,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFA11,1.977,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM98C,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZSCAN26,4.288,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ZNF561-AS1,1.599,global,laryngeal cancer cell
+Brain - Spinal cord (cervical c-1),30-39,RPL36AL,2.044,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DELE1,1.179,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MARF1,0.491,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBQLN1,2.182,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OGG1,2.223,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GTF2F2,0.76,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FKBPL,0.795,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STAG3L4,,,
+Brain - Spinal cord (cervical c-1),30-39,FDX2,0.886,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ASB16-AS1,1.577,global,adrenocortical carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,HAS2-AS1,0.523,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VAMP7,2.282,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PQBP1,2.514,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IDNK,4.697,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,LCMT1,1.709,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SNORA8,2.578,global,v1790
+Brain - Spinal cord (cervical c-1),30-39,LRPAP1,2.575,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF624,0.708,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HAT1,1.09,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DDAH2,2.125,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFYVE21,0.94,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5MC1,2.143,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP6V0E2,2.294,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HPS5,0.205,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SND1,2.816,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDK16,2.211,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SKA2,1.798,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATG5,2.812,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,POLL,1.452,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCNE1,2.359,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFAF8,1.294,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS27A,3.021,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RTN3,3.103,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TDRD7,0.848,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KCNMB2,0.909,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP2C1,2.013,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LSM5,0.079,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WASF3,2.514,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KCTD20,1.544,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAPPC8,1.125,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000257261,,,
+Brain - Spinal cord (cervical c-1),30-39,SERF1B,0.79,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MARCHF2,1.44,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000226994,,,
+Brain - Spinal cord (cervical c-1),30-39,KIAA1586,1.035,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000272913,,,
+Brain - Spinal cord (cervical c-1),30-39,RNASEK,4.979,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TLK1,1.352,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF257,4.455,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CYB5B,1.884,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SBDSP1,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF74,0.707,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MDGA2,1.498,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SEPHS2,1.516,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MED6,1.327,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SGCE,2.172,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF707,4.8,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,CHCHD4,1.372,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,METRN,2.422,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDC42SE2,1.487,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCS,1.876,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CDK6,2.48,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ASB1,0.658,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5F1E,2.576,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,INPP1,1.917,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MIRLET7A1HG,,,
+Brain - Spinal cord (cervical c-1),30-39,SYMPK,2.208,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM38B,4.963,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RNF185,1.053,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SMARCAD1,0.841,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAGOHB,1.571,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FIGNL2,0.915,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SURF1,2.199,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PKN1,2.44,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000271737,,,
+Brain - Spinal cord (cervical c-1),30-39,PAM16,0.933,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01473,1.26,global,osteoblast
+Brain - Spinal cord (cervical c-1),30-39,UBAP1,1.981,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DPY30,1.425,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTHFD1,2.887,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLA2G12A,1.153,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STRBP,1.583,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BLM,0.87,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000284052,,,
+Brain - Spinal cord (cervical c-1),30-39,RP2,0.833,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIGB,0.575,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MBD4,2.201,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBE2E1,2.043,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PARG,1.485,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ITGAE,2.35,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL38,2.413,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NCALD,1.962,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RAB39B,2.583,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UBLCP1,1.357,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000271870,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000286340,,,
+Brain - Spinal cord (cervical c-1),30-39,IDH3B,2.369,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000275807,,,
+Brain - Spinal cord (cervical c-1),30-39,ANKRD35,0.161,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAK1,1.73,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CENPS,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPM1L-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,BCAP31,1.947,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SIVA1,0.934,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,E2F1,2.48,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DUS2,0.312,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,STX18-AS1,1.41,global,atrial appendage
+Brain - Spinal cord (cervical c-1),30-39,GRSF1,1.691,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C15ORF61,0.82,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GPR17,2.504,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MOB1B,1.231,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF34,0.747,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GRPEL1,1.455,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM175,2.108,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MTX2,1.269,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TSEN54,1.576,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AMZ2,1.306,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HNRNPA3,2.65,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IFT81,1.543,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EIF3J,1.355,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HDLBP,2.41,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMA7,1.995,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UCHL3,1.673,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AKT3,2.515,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ACADS,1.759,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZSWIM7,0.568,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TEX30,4.675,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,ZMYM2,1.779,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DSTYK,0.646,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS27,2.815,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ILKAP,1.003,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KRBOX4,0.313,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM9B,1.389,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000267575,,,
+Brain - Spinal cord (cervical c-1),30-39,IVD,1.583,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC00987,1.506,global,hfob 1.19 cell
+Brain - Spinal cord (cervical c-1),30-39,HTRA2,2.467,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000276846,,,
+Brain - Spinal cord (cervical c-1),30-39,HACD3,2.167,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCRG1,2.639,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RMND1,1.596,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LAGE3,1.269,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CAT,1.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPL11,0.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,KHDRBS1,2.42,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MEGF11,1.425,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRIP4,1.404,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANKRA2,0.243,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OTUB1,2.259,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ANKRD40,2.926,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COG6,1.381,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ELP4,1.196,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TAX1BP1,2.348,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFP69B,4.0,global,b-lymphocyte cell line
+Brain - Spinal cord (cervical c-1),30-39,UQCRFS1,2.365,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BROX,1.676,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VPS37A,1.565,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLPP6,0.502,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000273188,,,
+Brain - Spinal cord (cervical c-1),30-39,ACTR3-AS1,,,
+Brain - Spinal cord (cervical c-1),30-39,CAMSAP1,1.533,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PARP2,1.381,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PCM1,2.342,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ADAL,0.714,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZMYND12,4.893,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,COX5B,2.509,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01563,0.72,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZRANB2-AS2,1.461,global,nasopharyngeal carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,ZNF552,4.822,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RAE1,1.498,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TSR3,1.16,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DCX,3.408,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM174C,0.408,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HNMT,2.635,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TP53TG1,1.762,global,carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,JOSD2,0.633,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000288012,,,
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000289438,,,
+Brain - Spinal cord (cervical c-1),30-39,MMUT,2.89,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ECI1,1.208,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GUSBP4,,,
+Brain - Spinal cord (cervical c-1),30-39,NPRL3,1.97,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,REX1BD,0.973,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZFP14,4.632,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000286753,,,
+Brain - Spinal cord (cervical c-1),30-39,BCAN,4.675,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,METTL23,1.775,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CEP290,2.123,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FRG1HP,,,
+Brain - Spinal cord (cervical c-1),30-39,PIGQ,1.197,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS33,1.313,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ABCB7,1.729,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SEC62,2.125,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FBF1,0.932,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF529,0.194,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RFXAP,1.051,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MRPS7,2.463,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CAMKMT,1.634,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NPEPL1,0.733,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NAA40,0.205,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PACS1,1.891,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TRAPPC2B,4.132,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000247121,,,
+Brain - Spinal cord (cervical c-1),30-39,FAM168A,1.955,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM104,1.118,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ABI2,1.799,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RBIS,0.889,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CATSPERZ,0.079,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SASS6,0.729,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC90B,0.875,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MYO10,2.145,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,G6PC3,2.932,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IL6ST,3.273,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARFGEF1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,IFT22,1.747,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TPRKB,1.415,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF365,1.487,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,EOLA1,,,
+Brain - Spinal cord (cervical c-1),30-39,PLPP7,0.597,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,UVRAG,1.871,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NSMCE2,0.504,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ABHD5,1.802,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF790-AS1,1.813,global,endometrioid carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,TRIM23,1.408,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C11ORF58,1.862,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TIPRL,1.377,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFA1,2.617,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RABIF,2.539,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TOLLIP,2.233,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TTC36,4.818,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,SLC2A4RG,0.723,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SPECC1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,SYNJ2BP,1.735,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NUP54,1.35,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP2R3C,0.779,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GLI4,0.811,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PDS5A,0.766,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DTD1,4.0,global,adenocarcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,EIF4G3,2.198,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MGST3,2.217,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000286369,,,
+Brain - Spinal cord (cervical c-1),30-39,CMTM5,2.927,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ORMDL3,1.298,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,IL11RA,1.368,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LRRC40,0.9,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SCLT1,1.275,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SLC7A6OS,0.522,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ABCA17P,,,
+Brain - Spinal cord (cervical c-1),30-39,C1QTNF3,1.395,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCDC18,0.69,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL37A,2.981,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CCZ1B,1.425,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BUD31,0.686,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZBTB1,0.638,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,VRK1,1.354,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZSCAN29,0.857,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,XRCC1,2.235,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPS18P9,,,
+Brain - Spinal cord (cervical c-1),30-39,C9ORF40,4.082,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,DECR2,0.863,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000239922,,,
+Brain - Spinal cord (cervical c-1),30-39,SWI5,4.59,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,SEC61B,1.881,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C2ORF76,3.48,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,RBP1,2.104,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RNF187,0.949,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CRTAP,1.861,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,WDFY3-AS2,1.951,global,oc cell
+Brain - Spinal cord (cervical c-1),30-39,BRAP,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM170B,3.355,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,HTATSF1,1.054,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LINC01896,,,
+Brain - Spinal cord (cervical c-1),30-39,FCSK,0.85,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CH17-340M24.3,1.911,global,nci-h1944 cell
+Brain - Spinal cord (cervical c-1),30-39,GLRX5,2.058,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NORAD,,,
+Brain - Spinal cord (cervical c-1),30-39,ZNF846,4.801,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,MKLN1-AS,2.101,global,liver cancer cell
+Brain - Spinal cord (cervical c-1),30-39,MDP1,0.567,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RPL26,2.981,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ARMCX3,1.626,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PPP1R9B,1.959,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ZNF883,4.0,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,PITPNA-AS1,2.303,global,lung squamous cell carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,STAG2,4.352,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,CIB2,0.856,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NDUFAF2,1.532,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,OARD1,1.127,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,GGA1,1.593,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ERI2,4.921,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,VPS41,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FAM3A,0.561,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MBTPS1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,UBXN2A,0.698,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,MAD2L1BP,4.946,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),30-39,TOR1A,2.464,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PRNP,4.142,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SYNE1,2.356,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,HAX1,2.158,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TEX2,1.287,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AKAP1-DT,,,
+Brain - Spinal cord (cervical c-1),30-39,SECISBP2L,1.553,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,AARSD1,4.319,global,bto:0000042
+Brain - Spinal cord (cervical c-1),30-39,TMEM68,0.333,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000278493,,,
+Brain - Spinal cord (cervical c-1),30-39,DNAJC16,0.894,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,COX19,1.862,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,C21ORF62-AS1,1.452,global,papillary renal cell carcinoma cell
+Brain - Spinal cord (cervical c-1),30-39,SIL1,1.448,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,RWDD2B,0.146,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,H2BC15,2.084,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000286039,,,
+Brain - Spinal cord (cervical c-1),30-39,MEAF6,0.665,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,TMEM116,0.194,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,NRDC,1.816,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ENSG00000234699,,,
+Brain - Spinal cord (cervical c-1),30-39,SAPCD2,0.795,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,BCCIP,1.11,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DHX9,2.761,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PIGX,0.824,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,SRPK2,1.993,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,DYRK4,0.968,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,PLPP1,2.016,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,FRS2,2.152,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP5MC3,2.372,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,ATP6AP1,2.857,exact,spinal cord
+Brain - Spinal cord (cervical c-1),30-39,LSP1P4,,,
+Brain - Spinal cord (cervical c-1),40-49,NTHL1,1.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),40-49,PROX1-AS1,1.493,global,retinoblastoma cell
+Brain - Spinal cord (cervical c-1),50-59,NTHL1,1.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),60-69,NTHL1,1.229,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,SLX4IP,3.132,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),70-79,LRRC57,0.683,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ENSG00000232176,,,
+Brain - Spinal cord (cervical c-1),70-79,CPNE2,1.468,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZNF416,4.387,global,bto:0000042
+Brain - Spinal cord (cervical c-1),70-79,ENSG00000275413,,,
+Brain - Spinal cord (cervical c-1),70-79,ZNF876P,,,
+Brain - Spinal cord (cervical c-1),70-79,ZNF34,4.579,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),70-79,AP4E1,2.022,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZNF133,4.888,global,bto:0000042
+Brain - Spinal cord (cervical c-1),70-79,BMS1P23,,,
+Brain - Spinal cord (cervical c-1),70-79,SNRNP40,0.6,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,TRIM52-AS1,1.897,global,adrenocortical carcinoma cell
+Brain - Spinal cord (cervical c-1),70-79,KBTBD7,1.131,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,CORO7,0.773,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,GNRHR2,,,
+Brain - Spinal cord (cervical c-1),70-79,SLC27A1,2.046,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,E2F5,1.403,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,EBPL,4.867,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),70-79,SMARCD1,2.029,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,VIRMA,1.966,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,DHRSX,1.208,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,FAM200A,4.842,global,bto:0000042
+Brain - Spinal cord (cervical c-1),70-79,ZNF224,1.325,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,MTA2,2.367,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,PIAS4,1.835,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,UNC5C-AS1,,,
+Brain - Spinal cord (cervical c-1),70-79,JARID2,1.694,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,IFT74,1.118,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZNF282,0.884,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,OSBPL9,1.325,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,CHRAC1,1.128,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ILF3-DT,,,
+Brain - Spinal cord (cervical c-1),70-79,SUPV3L1,1.28,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,TRIM65,1.861,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ENSG00000288820,,,
+Brain - Spinal cord (cervical c-1),70-79,LINC00641,0.52,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,USP24,1.456,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,FBXO3,1.358,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,CRTC2,2.08,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,CBFB,1.744,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZNF689,0.042,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ENSG00000259877,,,
+Brain - Spinal cord (cervical c-1),70-79,XPNPEP3,2.318,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZNF286B,,,
+Brain - Spinal cord (cervical c-1),70-79,MDM1,0.913,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZNF383,4.581,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),70-79,ZNF195,1.709,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ENSG00000188002,,,
+Brain - Spinal cord (cervical c-1),70-79,CWF19L2,0.239,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ENSG00000272106,,,
+Brain - Spinal cord (cervical c-1),70-79,ZNF747,4.84,global,bto:0000042
+Brain - Spinal cord (cervical c-1),70-79,CRTC3,1.762,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,NXT2,0.07,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZBTB9,0.217,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,TNRC6C,1.815,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,WASF2,2.825,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZBTB8A,4.805,global,"tissues, cell types and enzyme sources"
+Brain - Spinal cord (cervical c-1),70-79,GLG1,2.726,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,PTPN23,1.948,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,PTOV1-AS1,1.513,global,sr cell
+Brain - Spinal cord (cervical c-1),70-79,PRDM4,1.082,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZNF7,0.651,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ZNF146,1.084,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,MAP3K2,1.59,exact,spinal cord
+Brain - Spinal cord (cervical c-1),70-79,ENSG00000281904,,,

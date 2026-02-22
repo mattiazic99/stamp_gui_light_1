@@ -1,0 +1,2005 @@
+tissue,age_group,gene_symbol,confidence_extended,match_type_extended,best_tissue_extended
+Artery - Aorta,30-39,MDC1,1.856,exact,aorta
+Artery - Aorta,30-39,MT-ND1,1.079,exact,aorta
+Artery - Aorta,30-39,ENSG00000224985,,,
+Artery - Aorta,30-39,RDX,1.342,exact,aorta
+Artery - Aorta,30-39,TADA2B,4.913,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SCAP,1.167,exact,aorta
+Artery - Aorta,30-39,STK26,0.544,exact,aorta
+Artery - Aorta,30-39,H2AZ2,0.776,exact,aorta
+Artery - Aorta,30-39,ENSG00000278834,,,
+Artery - Aorta,30-39,APPL2,4.953,global,bto:0000042
+Artery - Aorta,30-39,EPC2,1.439,exact,artery
+Artery - Aorta,30-39,GOLGA5,4.96,global,bto:0000042
+Artery - Aorta,30-39,PLAA,0.893,exact,artery
+Artery - Aorta,30-39,EIF3A,5.0,global,bto:0000042
+Artery - Aorta,30-39,TIRAP,1.104,exact,aorta
+Artery - Aorta,30-39,TMEM230,4.993,global,bto:0000042
+Artery - Aorta,30-39,GSK3B,2.236,exact,aorta
+Artery - Aorta,30-39,SENP1,1.118,exact,aorta
+Artery - Aorta,30-39,TMEM115,4.959,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,GTF2I,1.056,exact,aorta
+Artery - Aorta,30-39,DOCK11,0.524,exact,aorta
+Artery - Aorta,30-39,HINT3,4.915,global,bto:0000042
+Artery - Aorta,30-39,YME1L1,0.669,exact,aorta
+Artery - Aorta,30-39,TGDS,4.907,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CNTRL,4.922,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,TRA2B,0.732,exact,aorta
+Artery - Aorta,30-39,VPS11,0.574,exact,aorta
+Artery - Aorta,30-39,OGDH,0.972,exact,aorta
+Artery - Aorta,30-39,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MTM1,0.776,exact,aorta
+Artery - Aorta,30-39,UBTF,0.584,exact,aorta
+Artery - Aorta,30-39,ENSG00000288868,,,
+Artery - Aorta,30-39,SPG11,4.985,global,bto:0000042
+Artery - Aorta,30-39,GDE1,0.697,exact,artery
+Artery - Aorta,30-39,DNAJC21,4.914,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,ERBIN,0.729,exact,artery
+Artery - Aorta,30-39,MED1,0.721,exact,aorta
+Artery - Aorta,30-39,ZNF561,4.914,global,bto:0000042
+Artery - Aorta,30-39,EIF4H,4.998,global,bto:0000042
+Artery - Aorta,30-39,DAG1,1.18,exact,aorta
+Artery - Aorta,30-39,KPNA3,0.557,exact,artery
+Artery - Aorta,30-39,SETD7,1.642,exact,aorta
+Artery - Aorta,30-39,CLP1,4.911,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PRMT2,0.74,exact,aorta
+Artery - Aorta,30-39,SNX6,4.988,global,bto:0000042
+Artery - Aorta,30-39,RCHY1,0.612,exact,artery
+Artery - Aorta,30-39,FBXO38,4.955,global,bto:0000042
+Artery - Aorta,30-39,PHAX,4.995,global,bto:0000042
+Artery - Aorta,30-39,ZNF146,4.978,global,bto:0000042
+Artery - Aorta,30-39,ZNF24,0.678,exact,artery
+Artery - Aorta,30-39,CLPTM1,0.518,exact,artery
+Artery - Aorta,30-39,TSPYL5,4.931,global,bto:0000042
+Artery - Aorta,30-39,SGMS1,0.816,exact,aorta
+Artery - Aorta,30-39,LEMD3,0.826,exact,aorta
+Artery - Aorta,30-39,RPUSD2,4.908,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,TMEM199,4.46,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PRKACB,2.441,exact,aorta
+Artery - Aorta,30-39,EID2,0.602,exact,artery
+Artery - Aorta,30-39,KRR1,4.937,global,bto:0000042
+Artery - Aorta,30-39,LINC00674,1.988,global,nci-h441 cell
+Artery - Aorta,30-39,VEZF1,1.014,exact,aorta
+Artery - Aorta,30-39,CENPQ,4.747,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SRRD,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,FASTKD1,4.938,global,bto:0000042
+Artery - Aorta,30-39,ZBTB33,1.085,exact,artery
+Artery - Aorta,30-39,TRAM1,4.989,global,bto:0000042
+Artery - Aorta,30-39,KLF7,0.823,exact,aorta
+Artery - Aorta,30-39,PARP1,1.884,exact,aorta
+Artery - Aorta,30-39,VAPB,0.811,exact,artery
+Artery - Aorta,30-39,UEVLD,4.834,global,bto:0000042
+Artery - Aorta,30-39,GPR107,0.545,exact,aorta
+Artery - Aorta,30-39,GCN1,5.0,global,bto:0000042
+Artery - Aorta,30-39,ADO,4.971,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,GNG12,4.991,global,bto:0000042
+Artery - Aorta,30-39,PSEN1,1.272,exact,aorta
+Artery - Aorta,30-39,CAPRIN1,4.998,global,bto:0000042
+Artery - Aorta,30-39,ATP5F1A,1.158,exact,aorta
+Artery - Aorta,30-39,SF3B4,4.989,global,bto:0000042
+Artery - Aorta,30-39,UBE2N,0.88,exact,aorta
+Artery - Aorta,30-39,YARS2,0.589,exact,aorta
+Artery - Aorta,30-39,DDB1,0.992,exact,aorta
+Artery - Aorta,30-39,SLC30A6,4.963,global,bto:0000042
+Artery - Aorta,30-39,KCNIP3,0.783,exact,aorta
+Artery - Aorta,30-39,SOCS7,0.534,exact,aorta
+Artery - Aorta,30-39,GPAA1,0.545,exact,artery
+Artery - Aorta,30-39,SIN3A,1.16,exact,aorta
+Artery - Aorta,30-39,CPT2,1.416,exact,aorta
+Artery - Aorta,30-39,PDCD6IP,0.65,exact,aorta
+Artery - Aorta,30-39,ARSD,0.539,exact,aorta
+Artery - Aorta,30-39,BAZ1B,1.006,exact,aorta
+Artery - Aorta,30-39,LPAR1,1.487,exact,aorta
+Artery - Aorta,30-39,ASB8,4.969,global,bto:0000042
+Artery - Aorta,30-39,NEDD1,4.941,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,RAD51D,0.586,exact,aorta
+Artery - Aorta,30-39,G2E3,4.962,global,bto:0000042
+Artery - Aorta,30-39,MBTPS1,0.842,exact,aorta
+Artery - Aorta,30-39,PTPN11,1.911,exact,aorta
+Artery - Aorta,30-39,PDE6D,0.791,exact,aorta
+Artery - Aorta,30-39,ADIPOR2,1.809,exact,aorta
+Artery - Aorta,30-39,RNF139,4.963,global,bto:0000042
+Artery - Aorta,30-39,CAVIN1,1.46,exact,aorta
+Artery - Aorta,30-39,NIN,4.964,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,AASDHPPT,0.679,exact,aorta
+Artery - Aorta,30-39,GPR161,0.76,exact,aorta
+Artery - Aorta,30-39,MAPRE1,4.996,global,bto:0000042
+Artery - Aorta,30-39,PPP6C,0.911,exact,aorta
+Artery - Aorta,30-39,CTNND1,1.352,exact,aorta
+Artery - Aorta,30-39,SMARCE1,0.782,exact,aorta
+Artery - Aorta,30-39,KIAA1191,4.976,global,bto:0000042
+Artery - Aorta,30-39,AP5M1,4.985,global,bto:0000042
+Artery - Aorta,30-39,ARL13B,0.813,exact,aorta
+Artery - Aorta,30-39,ENSG00000276855,,,
+Artery - Aorta,30-39,AMOTL1,0.694,exact,aorta
+Artery - Aorta,30-39,PPP2R5D,0.716,exact,aorta
+Artery - Aorta,30-39,PYROXD1,4.929,global,bto:0000042
+Artery - Aorta,30-39,BCL2L2,0.9,exact,aorta
+Artery - Aorta,30-39,ZNF45,4.743,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PABIR1,,,
+Artery - Aorta,30-39,CGGBP1,4.988,global,bto:0000042
+Artery - Aorta,30-39,COX10,0.702,exact,aorta
+Artery - Aorta,30-39,MED20,1.055,exact,aorta
+Artery - Aorta,30-39,GORASP1,4.99,global,bto:0000042
+Artery - Aorta,30-39,PRRC2A,0.838,exact,aorta
+Artery - Aorta,30-39,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,NSD1,0.992,exact,aorta
+Artery - Aorta,30-39,KIAA0232,4.935,global,bto:0000042
+Artery - Aorta,30-39,NIPBL,2.671,exact,aorta
+Artery - Aorta,30-39,ZC3HC1,0.8,exact,aorta
+Artery - Aorta,30-39,VPS33A,4.931,global,bto:0000042
+Artery - Aorta,30-39,FBXO9,0.531,exact,artery
+Artery - Aorta,30-39,KIF3C,4.974,global,bto:0000042
+Artery - Aorta,30-39,IMPA1,0.85,exact,artery
+Artery - Aorta,30-39,CDK13-DT,,,
+Artery - Aorta,30-39,DMXL1,4.894,global,bto:0000042
+Artery - Aorta,30-39,EMC1,4.99,global,bto:0000042
+Artery - Aorta,30-39,RBM15B,0.717,exact,aorta
+Artery - Aorta,30-39,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CCNT1,0.635,exact,aorta
+Artery - Aorta,30-39,TCF20,1.204,exact,aorta
+Artery - Aorta,30-39,TBCC,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MRM2,4.832,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PLCD3,4.953,global,bto:0000042
+Artery - Aorta,30-39,DYRK1A,1.055,exact,aorta
+Artery - Aorta,30-39,ATMIN,1.181,exact,aorta
+Artery - Aorta,30-39,ZNF252P,,,
+Artery - Aorta,30-39,MRPS10,4.957,global,bto:0000042
+Artery - Aorta,30-39,SOCS6,0.526,exact,aorta
+Artery - Aorta,30-39,CCDC6,4.979,global,bto:0000042
+Artery - Aorta,30-39,PDCD10,1.316,exact,aorta
+Artery - Aorta,30-39,SCRN3,4.928,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SHOC2,1.219,exact,aorta
+Artery - Aorta,30-39,NEK1,0.555,exact,artery
+Artery - Aorta,30-39,MTMR12,4.929,global,bto:0000042
+Artery - Aorta,30-39,WASHC5,4.98,global,bto:0000042
+Artery - Aorta,30-39,PPP2R5A,0.974,exact,aorta
+Artery - Aorta,30-39,COPS7A,4.991,global,bto:0000042
+Artery - Aorta,30-39,PGM5,0.697,exact,aorta
+Artery - Aorta,30-39,YWHAQ,0.723,exact,aorta
+Artery - Aorta,30-39,TRIM26,4.948,global,bto:0000042
+Artery - Aorta,30-39,MAP7D3,4.891,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CNIH1,4.992,global,bto:0000042
+Artery - Aorta,30-39,ABT1,4.954,global,bto:0000042
+Artery - Aorta,30-39,ASH2L,0.996,exact,aorta
+Artery - Aorta,30-39,WASHC4,4.942,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CCDC50,4.979,global,bto:0000042
+Artery - Aorta,30-39,NACC2,4.96,global,bto:0000042
+Artery - Aorta,30-39,RNF6,4.976,global,bto:0000042
+Artery - Aorta,30-39,COMMD2,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SPIN3,4.869,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,DDX52,0.531,exact,aorta
+Artery - Aorta,30-39,RIPK1,1.462,exact,aorta
+Artery - Aorta,30-39,CHUK,1.741,exact,aorta
+Artery - Aorta,30-39,AGPAT3,0.731,exact,artery
+Artery - Aorta,30-39,KCNMA1,4.404,exact,aorta
+Artery - Aorta,30-39,WAPL,2.616,exact,aorta
+Artery - Aorta,30-39,FAM168B,4.989,global,bto:0000042
+Artery - Aorta,30-39,ZFP69,4.39,global,bto:0000042
+Artery - Aorta,30-39,ST20-AS1,1.083,global,hpac cell
+Artery - Aorta,30-39,DCTN5,4.988,global,bto:0000042
+Artery - Aorta,30-39,PTPRA,0.749,exact,artery
+Artery - Aorta,30-39,FBXO11,0.539,exact,artery
+Artery - Aorta,30-39,NSRP1,4.572,global,bto:0000042
+Artery - Aorta,30-39,CCDC43,4.923,global,bto:0000042
+Artery - Aorta,30-39,ZNF112,4.85,global,bto:0000042
+Artery - Aorta,30-39,TMEM18,0.815,exact,artery
+Artery - Aorta,30-39,ITFG1,4.988,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SLC25A24,4.933,global,bto:0000042
+Artery - Aorta,30-39,DDA1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,HENMT1,4.939,global,bto:0000042
+Artery - Aorta,30-39,ABHD13,4.879,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MECOM,1.389,exact,aorta
+Artery - Aorta,30-39,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MMAA,4.789,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,DGCR8,1.415,exact,aorta
+Artery - Aorta,30-39,MRPL50,4.951,global,bto:0000042
+Artery - Aorta,30-39,RMC1,0.675,exact,artery
+Artery - Aorta,30-39,FLNA,2.09,exact,aorta
+Artery - Aorta,30-39,CUL4A,0.649,exact,aorta
+Artery - Aorta,30-39,HERC2,4.977,global,bto:0000042
+Artery - Aorta,30-39,PARVA,0.943,exact,aorta
+Artery - Aorta,30-39,LIMCH1,0.93,exact,artery
+Artery - Aorta,30-39,INTS7,4.979,global,bto:0000042
+Artery - Aorta,30-39,OBI1,4.941,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PRMT6,0.793,exact,artery
+Artery - Aorta,30-39,CTR9,4.981,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,UBXN4,4.992,global,bto:0000042
+Artery - Aorta,30-39,ZNF518B,4.871,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,KCTD18,4.915,global,bto:0000042
+Artery - Aorta,30-39,PRDX3,1.23,exact,aorta
+Artery - Aorta,30-39,DCP1A,4.5,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,UBE3C,4.984,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,FUT8,0.748,exact,artery
+Artery - Aorta,30-39,RAB11A,1.292,exact,aorta
+Artery - Aorta,30-39,CDC27,0.58,exact,aorta
+Artery - Aorta,30-39,ANKS1A,0.659,exact,artery
+Artery - Aorta,30-39,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SGPP1,0.864,exact,artery
+Artery - Aorta,30-39,DCAF10,4.95,global,bto:0000042
+Artery - Aorta,30-39,MRPL44,4.96,global,bto:0000042
+Artery - Aorta,30-39,NDFIP2,4.986,global,bto:0000042
+Artery - Aorta,30-39,TOP2B,1.078,exact,aorta
+Artery - Aorta,30-39,MCRS1,4.982,global,bto:0000042
+Artery - Aorta,30-39,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CUX1,0.781,exact,aorta
+Artery - Aorta,30-39,DYNC1H1,0.539,exact,aorta
+Artery - Aorta,30-39,PIGN,4.955,global,bto:0000042
+Artery - Aorta,30-39,METAP2,0.871,exact,aorta
+Artery - Aorta,30-39,MFN2,1.929,exact,aorta
+Artery - Aorta,30-39,PMS1,0.725,exact,aorta
+Artery - Aorta,30-39,CNEP1R1,4.453,global,bto:0000042
+Artery - Aorta,30-39,LMTK2,4.93,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,NFYC,0.802,exact,artery
+Artery - Aorta,30-39,CYFIP1,0.601,exact,aorta
+Artery - Aorta,30-39,ZNF213,4.906,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,NSMCE3,1.598,exact,aorta
+Artery - Aorta,30-39,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,VPS4B,0.69,exact,artery
+Artery - Aorta,30-39,ATXN1L,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CTBP1-DT,,,
+Artery - Aorta,30-39,HPS1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,ZNF41,4.811,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,WDR44,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,INTS12,4.948,global,bto:0000042
+Artery - Aorta,30-39,PSEN2,1.008,exact,aorta
+Artery - Aorta,30-39,ZNF746,4.918,global,bto:0000042
+Artery - Aorta,30-39,LANCL2,4.956,global,bto:0000042
+Artery - Aorta,30-39,VPS35L,4.987,global,bto:0000042
+Artery - Aorta,30-39,RAB10,0.744,exact,aorta
+Artery - Aorta,30-39,ARMC1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PRKAG1,0.838,exact,aorta
+Artery - Aorta,30-39,PRDM4,4.942,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PAXIP1,1.049,exact,aorta
+Artery - Aorta,30-39,POLR3F,4.918,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,E2F6,0.767,exact,artery
+Artery - Aorta,30-39,USP16,4.0,exact,aorta
+Artery - Aorta,30-39,ZNF92,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,ZSCAN25,4.812,global,bto:0000042
+Artery - Aorta,30-39,TMEM131,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CHMP3,4.993,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PRKAR2A,0.625,exact,artery
+Artery - Aorta,30-39,COPS3,0.62,exact,artery
+Artery - Aorta,30-39,USP25,0.574,exact,artery
+Artery - Aorta,30-39,SUPT16H,0.845,exact,aorta
+Artery - Aorta,30-39,APPL1,0.962,exact,aorta
+Artery - Aorta,30-39,EID1,0.627,exact,aorta
+Artery - Aorta,30-39,CCDC149,4.27,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,STIM1,1.914,exact,aorta
+Artery - Aorta,30-39,LANCL1,4.994,global,bto:0000042
+Artery - Aorta,30-39,NUP42,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,LATS1,1.291,exact,aorta
+Artery - Aorta,30-39,ARIH2,0.565,exact,artery
+Artery - Aorta,30-39,EPC1,4.982,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CAPN1,1.742,exact,aorta
+Artery - Aorta,30-39,BNIP2,0.576,exact,artery
+Artery - Aorta,30-39,HMGN4,4.987,global,bto:0000042
+Artery - Aorta,30-39,SOGA1,0.646,exact,artery
+Artery - Aorta,30-39,RAMAC,4.925,global,bto:0000042
+Artery - Aorta,30-39,SUCO,0.876,exact,aorta
+Artery - Aorta,30-39,MT-ND4,0.936,exact,aorta
+Artery - Aorta,30-39,SNX11,4.971,global,bto:0000042
+Artery - Aorta,30-39,ST3GAL2,4.929,global,bto:0000042
+Artery - Aorta,30-39,CPSF3,4.99,global,bto:0000042
+Artery - Aorta,30-39,PJA2,4.988,global,bto:0000042
+Artery - Aorta,30-39,CNOT11,0.675,exact,aorta
+Artery - Aorta,30-39,INIP,4.881,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,BRCC3,0.603,exact,aorta
+Artery - Aorta,30-39,POLR2B,0.569,exact,artery
+Artery - Aorta,30-39,PCYT1A,1.017,exact,aorta
+Artery - Aorta,30-39,MRPL16,4.969,global,bto:0000042
+Artery - Aorta,30-39,USP47,4.979,global,bto:0000042
+Artery - Aorta,30-39,EFCAB14,4.472,global,bto:0000042
+Artery - Aorta,30-39,ZNF747,4.84,global,bto:0000042
+Artery - Aorta,30-39,KLHL7,0.701,exact,artery
+Artery - Aorta,30-39,SERBP1,0.741,exact,artery
+Artery - Aorta,30-39,TBCCD1,4.908,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SMIM10,4.384,global,bto:0000042
+Artery - Aorta,30-39,CDC42,1.989,exact,aorta
+Artery - Aorta,30-39,CAST,1.461,exact,aorta
+Artery - Aorta,30-39,PIGO,4.892,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,EIF2B1,0.722,exact,aorta
+Artery - Aorta,30-39,GTF3C4,0.617,exact,aorta
+Artery - Aorta,30-39,LDOC1,4.91,global,bto:0000042
+Artery - Aorta,30-39,LYRM7,4.905,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CLSTN1,4.997,global,bto:0000042
+Artery - Aorta,30-39,GPATCH3,4.974,global,bto:0000042
+Artery - Aorta,30-39,MIEF1,0.816,exact,aorta
+Artery - Aorta,30-39,TMEM181,4.947,global,bto:0000042
+Artery - Aorta,30-39,NPTXR,0.958,exact,artery
+Artery - Aorta,30-39,HIVEP1,4.882,global,bto:0000042
+Artery - Aorta,30-39,SHLD2,4.929,global,bto:0000042
+Artery - Aorta,30-39,MT-CYB,1.465,exact,aorta
+Artery - Aorta,30-39,FAM32A,4.98,global,bto:0000042
+Artery - Aorta,30-39,ZNF613,4.749,global,bto:0000042
+Artery - Aorta,30-39,SLC30A5,0.644,exact,artery
+Artery - Aorta,30-39,ENSG00000280173,,,
+Artery - Aorta,30-39,ZNF319,4.541,global,bto:0000042
+Artery - Aorta,30-39,TOMM70,0.613,exact,aorta
+Artery - Aorta,30-39,AGAP1,4.953,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MCM3AP,4.989,global,bto:0000042
+Artery - Aorta,30-39,FAM98B,4.845,global,bto:0000042
+Artery - Aorta,30-39,RAB5B,0.702,exact,artery
+Artery - Aorta,30-39,MORF4L2,0.716,exact,aorta
+Artery - Aorta,30-39,C6ORF89,4.988,global,bto:0000042
+Artery - Aorta,30-39,NKAPD1,4.963,global,bto:0000042
+Artery - Aorta,30-39,SMUG1,0.864,exact,artery
+Artery - Aorta,30-39,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,KIF5B,0.827,exact,artery
+Artery - Aorta,30-39,OLA1,0.525,exact,artery
+Artery - Aorta,30-39,TOP1,1.138,exact,aorta
+Artery - Aorta,30-39,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,POGK,4.0,exact,aorta
+Artery - Aorta,30-39,CDC42BPB,4.985,global,bto:0000042
+Artery - Aorta,30-39,MT-ATP8,0.939,exact,artery
+Artery - Aorta,30-39,CUL2,0.755,exact,aorta
+Artery - Aorta,30-39,MYNN,0.536,exact,artery
+Artery - Aorta,30-39,VANGL1,0.779,exact,artery
+Artery - Aorta,30-39,BCL2L13,1.148,exact,artery
+Artery - Aorta,30-39,NXT2,4.944,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,HMGB1P6,,,
+Artery - Aorta,30-39,MRPS36,4.852,global,bto:0000042
+Artery - Aorta,30-39,PGGT1B,0.605,exact,artery
+Artery - Aorta,30-39,ENSG00000289294,,,
+Artery - Aorta,30-39,ATXN7L3B,4.24,global,bto:0000042
+Artery - Aorta,30-39,ZFAND4,4.933,global,bto:0000042
+Artery - Aorta,30-39,FBXO30,4.871,global,bto:0000042
+Artery - Aorta,30-39,INTS14,4.98,global,bto:0000042
+Artery - Aorta,30-39,B4GAT1,4.995,global,bto:0000042
+Artery - Aorta,30-39,FUBP3,4.959,global,bto:0000042
+Artery - Aorta,30-39,HUWE1,0.883,exact,artery
+Artery - Aorta,30-39,ZYX,1.343,exact,aorta
+Artery - Aorta,30-39,ZC3H10,4.897,global,bto:0000042
+Artery - Aorta,30-39,RAI2,4.907,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MOB1A,0.727,exact,artery
+Artery - Aorta,30-39,DAZAP2,0.505,exact,artery
+Artery - Aorta,30-39,AFG3L2,0.506,exact,artery
+Artery - Aorta,30-39,FBXO33,4.908,global,bto:0000042
+Artery - Aorta,30-39,ESS2,1.018,exact,aorta
+Artery - Aorta,30-39,CDC23,4.983,global,bto:0000042
+Artery - Aorta,30-39,VPS26C,5.0,global,bto:0000042
+Artery - Aorta,30-39,DNAJC14,4.949,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,EXOC8,4.752,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PAK2,0.637,exact,aorta
+Artery - Aorta,30-39,ZNF223,4.832,global,bto:0000042
+Artery - Aorta,30-39,MTDH,0.624,exact,aorta
+Artery - Aorta,30-39,USP8,0.968,exact,artery
+Artery - Aorta,30-39,DYNC1LI2,4.995,global,bto:0000042
+Artery - Aorta,30-39,MSRB3,0.598,exact,artery
+Artery - Aorta,30-39,ZNF212,4.966,global,bto:0000042
+Artery - Aorta,30-39,PRPF38B,4.962,global,bto:0000042
+Artery - Aorta,30-39,HERPUD2,4.952,global,bto:0000042
+Artery - Aorta,30-39,TTI2,4.863,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SNIP1,0.598,exact,aorta
+Artery - Aorta,30-39,NSMAF,4.962,global,bto:0000042
+Artery - Aorta,30-39,VTA1,0.902,exact,artery
+Artery - Aorta,30-39,CHMP2B,0.879,exact,artery
+Artery - Aorta,30-39,MOAP1,4.996,global,bto:0000042
+Artery - Aorta,30-39,TTL,4.955,global,bto:0000042
+Artery - Aorta,30-39,SNX15,4.92,global,bto:0000042
+Artery - Aorta,30-39,FANCM,1.182,exact,aorta
+Artery - Aorta,30-39,USP7,1.002,exact,aorta
+Artery - Aorta,30-39,ARL2BP,4.988,global,bto:0000042
+Artery - Aorta,30-39,TRMT10C,4.527,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PPP1R12A,2.294,exact,aorta
+Artery - Aorta,30-39,TMEM177,4.88,global,bto:0000042
+Artery - Aorta,30-39,BUD13,1.037,exact,artery
+Artery - Aorta,30-39,TBK1,1.272,exact,aorta
+Artery - Aorta,30-39,NME6,4.0,exact,artery
+Artery - Aorta,30-39,BTBD1,4.981,global,bto:0000042
+Artery - Aorta,30-39,APEX2,4.945,global,bto:0000042
+Artery - Aorta,30-39,FECH,0.864,exact,aorta
+Artery - Aorta,30-39,IP6K1,4.981,global,bto:0000042
+Artery - Aorta,30-39,RFK,0.617,exact,aorta
+Artery - Aorta,30-39,NEMP2,4.577,global,bto:0000042
+Artery - Aorta,30-39,PIGC,0.73,exact,artery
+Artery - Aorta,30-39,HBS1L,0.504,exact,aorta
+Artery - Aorta,30-39,TGOLN2,0.532,exact,aorta
+Artery - Aorta,30-39,SNRPD3,4.975,global,bto:0000042
+Artery - Aorta,30-39,RPRD1B,4.978,global,bto:0000042
+Artery - Aorta,30-39,SETX,0.528,exact,artery
+Artery - Aorta,30-39,AGGF1,1.173,exact,aorta
+Artery - Aorta,30-39,DCAF7,4.991,global,bto:0000042
+Artery - Aorta,30-39,LTN1,4.905,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,DNAL1,0.542,exact,aorta
+Artery - Aorta,30-39,ZKSCAN2,4.93,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,RTL6,4.815,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,ASXL2,0.702,exact,aorta
+Artery - Aorta,30-39,CCPG1,4.985,global,bto:0000042
+Artery - Aorta,30-39,DHX36,4.975,global,bto:0000042
+Artery - Aorta,30-39,NFX1,4.987,global,bto:0000042
+Artery - Aorta,30-39,ZBTB49,4.599,global,bto:0000042
+Artery - Aorta,30-39,DNAAF10,,,
+Artery - Aorta,30-39,MTERF1,0.589,exact,artery
+Artery - Aorta,30-39,ELAVL1,1.768,exact,aorta
+Artery - Aorta,30-39,BRI3BP,,,
+Artery - Aorta,30-39,FAM120A,4.985,global,bto:0000042
+Artery - Aorta,30-39,CNOT6,4.979,global,bto:0000042
+Artery - Aorta,30-39,IGF2R,1.344,exact,aorta
+Artery - Aorta,30-39,SYNCRIP,0.64,exact,aorta
+Artery - Aorta,30-39,ZNF641,4.895,global,bto:0000042
+Artery - Aorta,30-39,ENTPD1,1.885,exact,aorta
+Artery - Aorta,30-39,TAF1B,4.93,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,WWC2,4.927,global,bto:0000042
+Artery - Aorta,30-39,KDM4A,1.116,exact,aorta
+Artery - Aorta,30-39,ATP2B4,1.239,exact,aorta
+Artery - Aorta,30-39,VAV2,1.163,exact,aorta
+Artery - Aorta,30-39,PSKH1,0.548,exact,artery
+Artery - Aorta,30-39,ENSG00000268798,,,
+Artery - Aorta,30-39,TXNL1,0.789,exact,artery
+Artery - Aorta,30-39,GSTK1,0.515,exact,aorta
+Artery - Aorta,30-39,UBP1,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,TAF5L,4.962,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,FAM136A,4.955,global,bto:0000042
+Artery - Aorta,30-39,GOLGB1,0.867,exact,aorta
+Artery - Aorta,30-39,KAT6B,0.737,exact,aorta
+Artery - Aorta,30-39,SLC25A40,0.566,exact,aorta
+Artery - Aorta,30-39,YWHAZ,1.206,exact,aorta
+Artery - Aorta,30-39,EVI5,4.897,global,bto:0000042
+Artery - Aorta,30-39,ZNF416,4.387,global,bto:0000042
+Artery - Aorta,30-39,CBX6,4.962,global,bto:0000042
+Artery - Aorta,30-39,ROCK2,1.811,exact,aorta
+Artery - Aorta,30-39,ARID4B,4.972,global,bto:0000042
+Artery - Aorta,30-39,UBE2Q2,4.974,global,bto:0000042
+Artery - Aorta,30-39,COL6A2,1.232,exact,aorta
+Artery - Aorta,30-39,ZBTB14,0.71,exact,artery
+Artery - Aorta,30-39,ZNF823,4.571,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SKA2,4.964,global,bto:0000042
+Artery - Aorta,30-39,NDN,0.724,exact,aorta
+Artery - Aorta,30-39,CHD8,0.851,exact,aorta
+Artery - Aorta,30-39,HDAC4,1.697,exact,aorta
+Artery - Aorta,30-39,ZNF570,4.375,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,USP9X,0.887,exact,aorta
+Artery - Aorta,30-39,C12ORF43,4.992,global,bto:0000042
+Artery - Aorta,30-39,UPRT,0.557,exact,artery
+Artery - Aorta,30-39,TM9SF2,4.996,global,bto:0000042
+Artery - Aorta,30-39,RAF1,1.446,exact,aorta
+Artery - Aorta,30-39,BCL9,0.577,exact,aorta
+Artery - Aorta,30-39,RPA1,4.172,exact,aorta
+Artery - Aorta,30-39,KIAA1586,4.738,global,bto:0000042
+Artery - Aorta,30-39,CENPJ,0.565,exact,artery
+Artery - Aorta,30-39,YBX1,1.219,exact,aorta
+Artery - Aorta,30-39,C18ORF21,4.796,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,ZDHHC5,0.537,exact,artery
+Artery - Aorta,30-39,SEPHS2,0.661,exact,artery
+Artery - Aorta,30-39,C3ORF38,4.878,global,bto:0000042
+Artery - Aorta,30-39,RALGAPB,4.976,global,bto:0000042
+Artery - Aorta,30-39,ARPIN,4.911,global,bto:0000042
+Artery - Aorta,30-39,KMT2D,1.35,exact,aorta
+Artery - Aorta,30-39,ARID1A,0.975,exact,aorta
+Artery - Aorta,30-39,WDR82,0.51,exact,aorta
+Artery - Aorta,30-39,ARHGAP35,1.264,exact,aorta
+Artery - Aorta,30-39,TMEM223,4.843,global,bto:0000042
+Artery - Aorta,30-39,RABEP1,4.983,global,bto:0000042
+Artery - Aorta,30-39,OPA1,1.276,exact,aorta
+Artery - Aorta,30-39,ZNF507,0.537,exact,artery
+Artery - Aorta,30-39,DCLRE1A,0.716,exact,aorta
+Artery - Aorta,30-39,NOTCH2,1.88,exact,aorta
+Artery - Aorta,30-39,PIK3R4,0.763,exact,aorta
+Artery - Aorta,30-39,RSF1,4.954,global,bto:0000042
+Artery - Aorta,30-39,WNK1,1.378,exact,aorta
+Artery - Aorta,30-39,PLEKHF2,4.903,global,bto:0000042
+Artery - Aorta,30-39,FAF2,4.985,global,bto:0000042
+Artery - Aorta,30-39,POGLUT1,0.586,exact,artery
+Artery - Aorta,30-39,TECPR2,4.936,global,bto:0000042
+Artery - Aorta,30-39,PACSIN2,0.591,exact,aorta
+Artery - Aorta,30-39,FBXL5,0.504,exact,artery
+Artery - Aorta,30-39,EIF2AK4,1.079,exact,aorta
+Artery - Aorta,30-39,SMARCAD1,4.941,global,bto:0000042
+Artery - Aorta,30-39,TPR,0.796,exact,aorta
+Artery - Aorta,30-39,ABRAXAS2,4.921,global,bto:0000042
+Artery - Aorta,30-39,CS,1.558,exact,aorta
+Artery - Aorta,30-39,EDRF1,4.9,global,bto:0000042
+Artery - Aorta,30-39,THEM4,0.566,exact,aorta
+Artery - Aorta,30-39,TADA1,4.957,global,bto:0000042
+Artery - Aorta,30-39,AGPS,0.64,exact,artery
+Artery - Aorta,30-39,FAIM,4.962,global,bto:0000042
+Artery - Aorta,30-39,BIRC6,0.737,exact,artery
+Artery - Aorta,30-39,LGALSL,4.941,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,YTHDF3,0.999,exact,aorta
+Artery - Aorta,30-39,ZBTB6,4.804,global,bto:0000042
+Artery - Aorta,30-39,ATP5PB,0.69,exact,aorta
+Artery - Aorta,30-39,PLA2G12A,0.74,exact,aorta
+Artery - Aorta,30-39,PPP1R8,0.561,exact,artery
+Artery - Aorta,30-39,MARCHF8,0.592,exact,aorta
+Artery - Aorta,30-39,MDN1,4.967,global,bto:0000042
+Artery - Aorta,30-39,UBE3A,0.901,exact,aorta
+Artery - Aorta,30-39,CBLL1,0.602,exact,aorta
+Artery - Aorta,30-39,SMU1,4.917,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,TAF3,0.921,exact,aorta
+Artery - Aorta,30-39,UBLCP1,4.925,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,G3BP2,0.563,exact,artery
+Artery - Aorta,30-39,DCTN2,0.594,exact,aorta
+Artery - Aorta,30-39,C9ORF64,4.751,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SMIM10L1,1.069,global,taste bud
+Artery - Aorta,30-39,CASP8AP2,0.985,exact,artery
+Artery - Aorta,30-39,TMTC3,0.624,exact,artery
+Artery - Aorta,30-39,MTPN,0.666,exact,aorta
+Artery - Aorta,30-39,DST,0.542,exact,aorta
+Artery - Aorta,30-39,MYLK,2.257,exact,aorta
+Artery - Aorta,30-39,NR1H2,0.951,exact,aorta
+Artery - Aorta,30-39,DPH3,4.971,global,bto:0000042
+Artery - Aorta,30-39,USP1,0.679,exact,aorta
+Artery - Aorta,30-39,MOB4,4.995,global,bto:0000042
+Artery - Aorta,30-39,ACTR2,1.014,exact,aorta
+Artery - Aorta,30-39,GRSF1,0.52,exact,artery
+Artery - Aorta,30-39,WDR36,0.576,exact,artery
+Artery - Aorta,30-39,RNF34,0.617,exact,artery
+Artery - Aorta,30-39,KCTD5,4.967,global,bto:0000042
+Artery - Aorta,30-39,ZBTB40,4.931,global,bto:0000042
+Artery - Aorta,30-39,ZSCAN12,4.822,global,bto:0000042
+Artery - Aorta,30-39,POLR1F,,,
+Artery - Aorta,30-39,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,NOL11,4.988,global,bto:0000042
+Artery - Aorta,30-39,RAB1B,0.63,exact,artery
+Artery - Aorta,30-39,C5ORF24,4.957,global,bto:0000042
+Artery - Aorta,30-39,VIRMA,4.202,exact,aorta
+Artery - Aorta,30-39,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,KIAA0100,4.978,global,bto:0000042
+Artery - Aorta,30-39,USP38,0.575,exact,artery
+Artery - Aorta,30-39,METTL4,0.976,exact,artery
+Artery - Aorta,30-39,LZTFL1,0.673,exact,artery
+Artery - Aorta,30-39,FKBP3,0.76,exact,artery
+Artery - Aorta,30-39,RIOX1,4.34,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MIOS,0.735,exact,artery
+Artery - Aorta,30-39,FBXW2,1.215,exact,artery
+Artery - Aorta,30-39,NUP214,4.989,global,bto:0000042
+Artery - Aorta,30-39,FBXO5,0.539,exact,aorta
+Artery - Aorta,30-39,RPS6KC1,5.0,global,bladder
+Artery - Aorta,30-39,KBTBD4,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,TXNDC15,4.962,global,bto:0000042
+Artery - Aorta,30-39,ZMYND11,4.985,global,bto:0000042
+Artery - Aorta,30-39,CREB1,2.14,exact,aorta
+Artery - Aorta,30-39,PPP1CC,1.386,exact,aorta
+Artery - Aorta,30-39,USF3,4.875,global,bto:0000042
+Artery - Aorta,30-39,BECN1,2.137,exact,aorta
+Artery - Aorta,30-39,RAD17,1.746,exact,aorta
+Artery - Aorta,30-39,DSTYK,4.955,global,bto:0000042
+Artery - Aorta,30-39,SEMA4C,4.924,global,bto:0000042
+Artery - Aorta,30-39,ZSCAN32,4.817,global,bto:0000042
+Artery - Aorta,30-39,ZNF778,4.0,global,teratocarcinoma cell
+Artery - Aorta,30-39,POM121,4.992,global,bto:0000042
+Artery - Aorta,30-39,RIMS3,4.948,global,bto:0000042
+Artery - Aorta,30-39,NCBP2,4.993,global,bto:0000042
+Artery - Aorta,30-39,ALDH4A1,0.833,exact,artery
+Artery - Aorta,30-39,DNM1L,1.922,exact,aorta
+Artery - Aorta,30-39,DLD,0.851,exact,aorta
+Artery - Aorta,30-39,GSPT2,4.919,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MFSD9,4.643,global,bto:0000042
+Artery - Aorta,30-39,SNAP29,0.59,exact,aorta
+Artery - Aorta,30-39,NLRX1,1.034,exact,artery
+Artery - Aorta,30-39,NBN,1.498,exact,aorta
+Artery - Aorta,30-39,SUCLA2,1.007,exact,artery
+Artery - Aorta,30-39,CNOT7,4.988,global,bto:0000042
+Artery - Aorta,30-39,YLPM1,4.988,global,bto:0000042
+Artery - Aorta,30-39,SELENOT,0.645,exact,artery
+Artery - Aorta,30-39,ZSCAN21,4.927,global,bto:0000042
+Artery - Aorta,30-39,TGS1,4.884,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PANK3,4.969,global,bto:0000042
+Artery - Aorta,30-39,ZNF764,4.718,global,bto:0000042
+Artery - Aorta,30-39,FAM210B,4.974,global,bto:0000042
+Artery - Aorta,30-39,C5ORF51,4.358,global,bto:0000042
+Artery - Aorta,30-39,TRMT12,4.906,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CHM,0.552,exact,aorta
+Artery - Aorta,30-39,IPO8,0.59,exact,aorta
+Artery - Aorta,30-39,MGA,0.538,exact,artery
+Artery - Aorta,30-39,BROX,4.833,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PBRM1,0.503,exact,aorta
+Artery - Aorta,30-39,PJA1,4.976,global,bto:0000042
+Artery - Aorta,30-39,UBQLN2,0.55,exact,artery
+Artery - Aorta,30-39,XPO4,0.623,exact,artery
+Artery - Aorta,30-39,PLPP6,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,COG8,4.879,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,C6ORF47,3.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CORO1B,0.783,exact,artery
+Artery - Aorta,30-39,DLG1,0.61,exact,aorta
+Artery - Aorta,30-39,C3ORF70,4.687,global,bto:0000042
+Artery - Aorta,30-39,RWDD3,4.805,global,bto:0000042
+Artery - Aorta,30-39,ZSCAN9,4.799,global,bto:0000042
+Artery - Aorta,30-39,C22ORF39,4.933,global,bto:0000042
+Artery - Aorta,30-39,TWF1,0.612,exact,artery
+Artery - Aorta,30-39,ZNF552,4.822,global,bto:0000042
+Artery - Aorta,30-39,CBWD2,4.424,global,brain
+Artery - Aorta,30-39,TCAF1,4.924,global,bto:0000042
+Artery - Aorta,30-39,DDX59,4.897,global,bto:0000042
+Artery - Aorta,30-39,PNPLA8,0.927,exact,artery
+Artery - Aorta,30-39,KIDINS220,0.663,exact,artery
+Artery - Aorta,30-39,KANK2,0.913,exact,aorta
+Artery - Aorta,30-39,ZFP91,4.666,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,APC,0.894,exact,aorta
+Artery - Aorta,30-39,SOS2,1.07,exact,aorta
+Artery - Aorta,30-39,SPRTN,4.5,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PPP2R5C,0.707,exact,aorta
+Artery - Aorta,30-39,SLC39A9,0.537,exact,artery
+Artery - Aorta,30-39,TACO1,4.94,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MVB12B,4.963,global,bto:0000042
+Artery - Aorta,30-39,HDHD2,4.97,global,bto:0000042
+Artery - Aorta,30-39,DNAJC30,4.918,global,bto:0000042
+Artery - Aorta,30-39,MAPK1,1.957,exact,aorta
+Artery - Aorta,30-39,PDCL,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,ACOX1,1.601,exact,aorta
+Artery - Aorta,30-39,FGD5-AS1,0.524,exact,aorta
+Artery - Aorta,30-39,SMIM13,4.261,global,bto:0000042
+Artery - Aorta,30-39,VRK2,4.914,global,bto:0000042
+Artery - Aorta,30-39,MEIS3P1,,,
+Artery - Aorta,30-39,SMIM15,4.944,global,bto:0000042
+Artery - Aorta,30-39,ACTR6,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CPSF2,4.981,global,bto:0000042
+Artery - Aorta,30-39,FAM168A,4.968,global,bto:0000042
+Artery - Aorta,30-39,NIPSNAP2,0.675,exact,artery
+Artery - Aorta,30-39,FASTKD3,4.826,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,PRPF40A,4.983,global,bto:0000042
+Artery - Aorta,30-39,KDM3B,0.704,exact,artery
+Artery - Aorta,30-39,RNF26,4.992,global,bto:0000042
+Artery - Aorta,30-39,ZC3H13,0.762,exact,aorta
+Artery - Aorta,30-39,TOPBP1,1.551,exact,aorta
+Artery - Aorta,30-39,DDX28,4.967,global,bto:0000042
+Artery - Aorta,30-39,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,NUP205,0.601,exact,aorta
+Artery - Aorta,30-39,ELOVL4,0.816,exact,artery
+Artery - Aorta,30-39,TGFBRAP1,4.941,global,bto:0000042
+Artery - Aorta,30-39,IL6ST,1.221,exact,aorta
+Artery - Aorta,30-39,ATP9A,4.985,global,bto:0000042
+Artery - Aorta,30-39,SIRT1,2.677,exact,aorta
+Artery - Aorta,30-39,LCMT2,4.944,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SREK1IP1,4.872,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,RNPEPL1,4.948,global,bto:0000042
+Artery - Aorta,30-39,ZBTB24,0.527,exact,artery
+Artery - Aorta,30-39,UTP23,4.909,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,KIAA1143,4.646,global,bto:0000042
+Artery - Aorta,30-39,DYNC1I2,0.932,exact,artery
+Artery - Aorta,30-39,MCAM,4.342,exact,aorta
+Artery - Aorta,30-39,THAP12,4.952,global,bto:0000042
+Artery - Aorta,30-39,ICE1,4.945,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,TIPRL,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SNX12,4.984,global,bto:0000042
+Artery - Aorta,30-39,DHX8,0.527,exact,aorta
+Artery - Aorta,30-39,TRAPPC11,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,NDUFAF1,0.697,exact,artery
+Artery - Aorta,30-39,STX12,4.982,global,bto:0000042
+Artery - Aorta,30-39,SNRNP200,0.67,exact,artery
+Artery - Aorta,30-39,DHX57,4.894,global,bto:0000042
+Artery - Aorta,30-39,CNOT1,1.036,exact,aorta
+Artery - Aorta,30-39,C21ORF91,4.9,global,bto:0000042
+Artery - Aorta,30-39,VCL,2.162,exact,aorta
+Artery - Aorta,30-39,AKAP10,0.511,exact,artery
+Artery - Aorta,30-39,PDS5A,2.753,exact,aorta
+Artery - Aorta,30-39,RB1CC1,0.887,exact,aorta
+Artery - Aorta,30-39,INTS5,4.906,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,CHD9,0.729,exact,artery
+Artery - Aorta,30-39,GPN1,4.972,global,bto:0000042
+Artery - Aorta,30-39,MRPL57,4.888,global,bto:0000042
+Artery - Aorta,30-39,HNRNPUL1,4.998,global,bto:0000042
+Artery - Aorta,30-39,UBE4A,4.984,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,LRRC40,4.923,global,bto:0000042
+Artery - Aorta,30-39,SLC7A6OS,4.946,global,bto:0000042
+Artery - Aorta,30-39,MON1B,4.982,global,bto:0000042
+Artery - Aorta,30-39,CINP,4.972,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,UBE2E3,0.714,exact,artery
+Artery - Aorta,30-39,ASH1L,0.525,exact,aorta
+Artery - Aorta,30-39,RAB35,0.566,exact,aorta
+Artery - Aorta,30-39,COL18A1,1.969,exact,aorta
+Artery - Aorta,30-39,TMEM127,0.867,exact,aorta
+Artery - Aorta,30-39,ZSCAN29,4.859,global,bto:0000042
+Artery - Aorta,30-39,BRD3,0.866,exact,aorta
+Artery - Aorta,30-39,ACTR8,4.952,global,bto:0000042
+Artery - Aorta,30-39,NAA60,0.559,exact,aorta
+Artery - Aorta,30-39,MEIS3P2,,,
+Artery - Aorta,30-39,MTMR9,4.949,global,bto:0000042
+Artery - Aorta,30-39,PLRG1,4.987,global,bto:0000042
+Artery - Aorta,30-39,GTF2E1,0.646,exact,artery
+Artery - Aorta,30-39,SIKE1,4.941,global,bto:0000042
+Artery - Aorta,30-39,LMBR1,0.682,exact,aorta
+Artery - Aorta,30-39,DNAJC24,4.855,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,MOCS3,4.717,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SEC24C,4.987,global,bto:0000042
+Artery - Aorta,30-39,MPDZ,0.505,exact,aorta
+Artery - Aorta,30-39,BRAP,0.727,exact,aorta
+Artery - Aorta,30-39,DERL1,4.99,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,RMDN2,4.667,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,EPN2,0.965,exact,aorta
+Artery - Aorta,30-39,HECTD1,0.825,exact,artery
+Artery - Aorta,30-39,PRKDC,1.875,exact,aorta
+Artery - Aorta,30-39,GLRX5,0.591,exact,aorta
+Artery - Aorta,30-39,CCDC77,4.816,global,bto:0000042
+Artery - Aorta,30-39,NUDT10,0.551,exact,artery
+Artery - Aorta,30-39,MKLN1-AS,2.101,global,liver cancer cell
+Artery - Aorta,30-39,UNC119B,4.954,global,bto:0000042
+Artery - Aorta,30-39,TAF2,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SNX4,4.98,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,RSU1,0.678,exact,artery
+Artery - Aorta,30-39,N4BP1,4.977,global,bto:0000042
+Artery - Aorta,30-39,LIG4,1.07,exact,aorta
+Artery - Aorta,30-39,IREB2,1.005,exact,aorta
+Artery - Aorta,30-39,ASB7,4.888,global,bto:0000042
+Artery - Aorta,30-39,PARS2,4.821,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,AQR,0.779,exact,artery
+Artery - Aorta,30-39,UBIAD1,1.016,exact,aorta
+Artery - Aorta,30-39,ZNF354A,4.852,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,ADPRH,4.797,global,bto:0000042
+Artery - Aorta,30-39,UBXN2A,4.745,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,RAB5C,0.786,exact,aorta
+Artery - Aorta,30-39,NSL1,0.682,exact,artery
+Artery - Aorta,30-39,ZNF614,4.845,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,SLC35B2,4.986,global,bto:0000042
+Artery - Aorta,30-39,USP34,4.99,global,bto:0000042
+Artery - Aorta,30-39,AMMECR1L,4.906,global,bto:0000042
+Artery - Aorta,30-39,LINC00526,1.403,global,tr-146 cell
+Artery - Aorta,30-39,RTL8B,3.825,global,bto:0000042
+Artery - Aorta,30-39,MT-ATP6,1.014,exact,aorta
+Artery - Aorta,30-39,VBP1,4.989,global,bto:0000042
+Artery - Aorta,30-39,MORF4L1,4.129,exact,aorta
+Artery - Aorta,30-39,NCOA4,0.969,exact,aorta
+Artery - Aorta,30-39,UBE3B,4.978,global,bto:0000042
+Artery - Aorta,30-39,MUL1,0.569,exact,aorta
+Artery - Aorta,30-39,MAN1A2,4.961,global,bto:0000042
+Artery - Aorta,30-39,RBBP7,0.939,exact,aorta
+Artery - Aorta,30-39,TSN,1.004,exact,aorta
+Artery - Aorta,30-39,SOBP,4.627,global,bto:0000042
+Artery - Aorta,30-39,DOCK1,0.912,exact,aorta
+Artery - Aorta,30-39,CHST10,4.912,global,bto:0000042
+Artery - Aorta,30-39,CSTF1,4.985,global,bto:0000042
+Artery - Aorta,30-39,WAC-AS1,1.425,global,hep-g2/2.15 cell
+Artery - Aorta,30-39,SP1,1.866,exact,aorta
+Artery - Aorta,30-39,CREBBP,1.524,exact,aorta
+Artery - Aorta,30-39,MRPL19,4.969,global,bto:0000042
+Artery - Aorta,30-39,NCAPD3,1.364,exact,aorta
+Artery - Aorta,30-39,SON,4.995,global,bto:0000042
+Artery - Aorta,30-39,NUDT21,0.533,exact,artery
+Artery - Aorta,30-39,BLOC1S6,0.523,exact,artery
+Artery - Aorta,30-39,SDAD1,4.954,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,30-39,RAP1A,1.367,exact,aorta
+Artery - Aorta,30-39,FRS2,1.327,exact,aorta
+Artery - Aorta,30-39,EFNB2,2.219,exact,aorta
+Artery - Aorta,30-39,RBM12,4.999,global,bto:0000042
+Artery - Aorta,30-39,VPS18,0.592,exact,artery
+Artery - Aorta,30-39,KIRREL1,0.974,exact,artery
+Artery - Aorta,30-39,TBC1D14,4.971,global,bto:0000042
+Artery - Aorta,30-39,WDR76,4.844,global,bto:0000042
+Artery - Aorta,30-39,USP19,0.729,exact,artery
+Artery - Aorta,30-39,MTRES1,4.622,global,bto:0000042
+Artery - Aorta,30-39,ZNF649,4.898,global,bto:0000042
+Artery - Aorta,30-39,SETD2,0.908,exact,aorta
+Artery - Aorta,30-39,ZNF142,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,RDX,1.342,exact,aorta
+Artery - Aorta,40-49,SCAP,1.167,exact,aorta
+Artery - Aorta,40-49,APPL2,4.953,global,bto:0000042
+Artery - Aorta,40-49,EIF3A,5.0,global,bto:0000042
+Artery - Aorta,40-49,TMEM230,4.993,global,bto:0000042
+Artery - Aorta,40-49,GSK3B,2.236,exact,aorta
+Artery - Aorta,40-49,SENP1,1.118,exact,aorta
+Artery - Aorta,40-49,TMEM115,4.959,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,GTF2I,1.056,exact,aorta
+Artery - Aorta,40-49,DOCK11,0.524,exact,aorta
+Artery - Aorta,40-49,YME1L1,0.669,exact,aorta
+Artery - Aorta,40-49,TGDS,4.907,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CDIPT,0.845,exact,artery
+Artery - Aorta,40-49,VPS11,0.574,exact,aorta
+Artery - Aorta,40-49,OGDH,0.972,exact,aorta
+Artery - Aorta,40-49,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,MTM1,0.776,exact,aorta
+Artery - Aorta,40-49,AP2B1,0.881,exact,artery
+Artery - Aorta,40-49,UBTF,0.584,exact,aorta
+Artery - Aorta,40-49,SPG11,4.985,global,bto:0000042
+Artery - Aorta,40-49,DNAJC21,4.914,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,ERBIN,0.729,exact,artery
+Artery - Aorta,40-49,ZNF561,4.914,global,bto:0000042
+Artery - Aorta,40-49,EIF4H,4.998,global,bto:0000042
+Artery - Aorta,40-49,DAG1,1.18,exact,aorta
+Artery - Aorta,40-49,PRMT2,0.74,exact,aorta
+Artery - Aorta,40-49,SNX6,4.988,global,bto:0000042
+Artery - Aorta,40-49,RCHY1,0.612,exact,artery
+Artery - Aorta,40-49,FBXO38,4.955,global,bto:0000042
+Artery - Aorta,40-49,CLPTM1,0.518,exact,artery
+Artery - Aorta,40-49,TMEM199,4.46,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,PRKACB,2.441,exact,aorta
+Artery - Aorta,40-49,EID2,0.602,exact,artery
+Artery - Aorta,40-49,LINC00674,1.988,global,nci-h441 cell
+Artery - Aorta,40-49,VEZF1,1.014,exact,aorta
+Artery - Aorta,40-49,SRRD,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,ZBTB33,1.085,exact,artery
+Artery - Aorta,40-49,TRAM1,4.989,global,bto:0000042
+Artery - Aorta,40-49,UEVLD,4.834,global,bto:0000042
+Artery - Aorta,40-49,GPR107,0.545,exact,aorta
+Artery - Aorta,40-49,GCN1,5.0,global,bto:0000042
+Artery - Aorta,40-49,ATP5F1A,1.158,exact,aorta
+Artery - Aorta,40-49,SF3B4,4.989,global,bto:0000042
+Artery - Aorta,40-49,DDB1,0.992,exact,aorta
+Artery - Aorta,40-49,SOCS7,0.534,exact,aorta
+Artery - Aorta,40-49,GPAA1,0.545,exact,artery
+Artery - Aorta,40-49,CPT2,1.416,exact,aorta
+Artery - Aorta,40-49,BAZ1B,1.006,exact,aorta
+Artery - Aorta,40-49,ASB8,4.969,global,bto:0000042
+Artery - Aorta,40-49,NEDD1,4.941,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,RAD51D,0.586,exact,aorta
+Artery - Aorta,40-49,MBTPS1,0.842,exact,aorta
+Artery - Aorta,40-49,PDE6D,0.791,exact,aorta
+Artery - Aorta,40-49,CAVIN1,1.46,exact,aorta
+Artery - Aorta,40-49,AASDHPPT,0.679,exact,aorta
+Artery - Aorta,40-49,PPP6C,0.911,exact,aorta
+Artery - Aorta,40-49,CTNND1,1.352,exact,aorta
+Artery - Aorta,40-49,AP5M1,4.985,global,bto:0000042
+Artery - Aorta,40-49,ENSG00000276855,,,
+Artery - Aorta,40-49,PPP2R5D,0.716,exact,aorta
+Artery - Aorta,40-49,BCL2L2,0.9,exact,aorta
+Artery - Aorta,40-49,COX10,0.702,exact,aorta
+Artery - Aorta,40-49,GORASP1,4.99,global,bto:0000042
+Artery - Aorta,40-49,PRRC2A,0.838,exact,aorta
+Artery - Aorta,40-49,NSD1,0.992,exact,aorta
+Artery - Aorta,40-49,ZC3HC1,0.8,exact,aorta
+Artery - Aorta,40-49,VPS33A,4.931,global,bto:0000042
+Artery - Aorta,40-49,FBXO9,0.531,exact,artery
+Artery - Aorta,40-49,KIF3C,4.974,global,bto:0000042
+Artery - Aorta,40-49,EMC1,4.99,global,bto:0000042
+Artery - Aorta,40-49,RBM15B,0.717,exact,aorta
+Artery - Aorta,40-49,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CCNT1,0.635,exact,aorta
+Artery - Aorta,40-49,TCF20,1.204,exact,aorta
+Artery - Aorta,40-49,PLCD3,4.953,global,bto:0000042
+Artery - Aorta,40-49,DYRK1A,1.055,exact,aorta
+Artery - Aorta,40-49,MRPS10,4.957,global,bto:0000042
+Artery - Aorta,40-49,PDCD10,1.316,exact,aorta
+Artery - Aorta,40-49,COPS8,0.636,exact,artery
+Artery - Aorta,40-49,SCRN3,4.928,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SHOC2,1.219,exact,aorta
+Artery - Aorta,40-49,MTMR12,4.929,global,bto:0000042
+Artery - Aorta,40-49,WASHC5,4.98,global,bto:0000042
+Artery - Aorta,40-49,COPS7A,4.991,global,bto:0000042
+Artery - Aorta,40-49,YWHAQ,0.723,exact,aorta
+Artery - Aorta,40-49,TRIM26,4.948,global,bto:0000042
+Artery - Aorta,40-49,MAP7D3,4.891,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,ASH2L,0.996,exact,aorta
+Artery - Aorta,40-49,NACC2,4.96,global,bto:0000042
+Artery - Aorta,40-49,COMMD2,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,AGPAT3,0.731,exact,artery
+Artery - Aorta,40-49,WAPL,2.616,exact,aorta
+Artery - Aorta,40-49,FAM168B,4.989,global,bto:0000042
+Artery - Aorta,40-49,ZFP69,4.39,global,bto:0000042
+Artery - Aorta,40-49,ST20-AS1,1.083,global,hpac cell
+Artery - Aorta,40-49,DCTN5,4.988,global,bto:0000042
+Artery - Aorta,40-49,PTPRA,0.749,exact,artery
+Artery - Aorta,40-49,FBXO11,0.539,exact,artery
+Artery - Aorta,40-49,NSRP1,4.572,global,bto:0000042
+Artery - Aorta,40-49,CCDC43,4.923,global,bto:0000042
+Artery - Aorta,40-49,ITFG1,4.988,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SLC25A24,4.933,global,bto:0000042
+Artery - Aorta,40-49,DDA1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,MECOM,1.389,exact,aorta
+Artery - Aorta,40-49,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,MMAA,4.789,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,DGCR8,1.415,exact,aorta
+Artery - Aorta,40-49,HERC2,4.977,global,bto:0000042
+Artery - Aorta,40-49,PARVA,0.943,exact,aorta
+Artery - Aorta,40-49,KCTD18,4.915,global,bto:0000042
+Artery - Aorta,40-49,PRDX3,1.23,exact,aorta
+Artery - Aorta,40-49,UBE3C,4.984,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,RAB11A,1.292,exact,aorta
+Artery - Aorta,40-49,CDC27,0.58,exact,aorta
+Artery - Aorta,40-49,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SGPP1,0.864,exact,artery
+Artery - Aorta,40-49,MRPL44,4.96,global,bto:0000042
+Artery - Aorta,40-49,OBSL1,5.0,global,bto:0000042
+Artery - Aorta,40-49,NDFIP2,4.986,global,bto:0000042
+Artery - Aorta,40-49,TOP2B,1.078,exact,aorta
+Artery - Aorta,40-49,MCRS1,4.982,global,bto:0000042
+Artery - Aorta,40-49,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CUX1,0.781,exact,aorta
+Artery - Aorta,40-49,DYNC1H1,0.539,exact,aorta
+Artery - Aorta,40-49,MFN2,1.929,exact,aorta
+Artery - Aorta,40-49,CNEP1R1,4.453,global,bto:0000042
+Artery - Aorta,40-49,NFYC,0.802,exact,artery
+Artery - Aorta,40-49,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,ATXN1L,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CTBP1-DT,,,
+Artery - Aorta,40-49,HPS1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,AP1M1,4.996,global,bto:0000042
+Artery - Aorta,40-49,PSEN2,1.008,exact,aorta
+Artery - Aorta,40-49,ZNF746,4.918,global,bto:0000042
+Artery - Aorta,40-49,VPS35L,4.987,global,bto:0000042
+Artery - Aorta,40-49,RAB10,0.744,exact,aorta
+Artery - Aorta,40-49,PRKAG1,0.838,exact,aorta
+Artery - Aorta,40-49,PAXIP1,1.049,exact,aorta
+Artery - Aorta,40-49,POLR3F,4.918,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,TMEM131,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CHMP3,4.993,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SUPT16H,0.845,exact,aorta
+Artery - Aorta,40-49,APPL1,0.962,exact,aorta
+Artery - Aorta,40-49,STIM1,1.914,exact,aorta
+Artery - Aorta,40-49,PIGK,4.97,global,bto:0000042
+Artery - Aorta,40-49,ARIH2,0.565,exact,artery
+Artery - Aorta,40-49,CAPN1,1.742,exact,aorta
+Artery - Aorta,40-49,DNM2,1.214,exact,aorta
+Artery - Aorta,40-49,BNIP2,0.576,exact,artery
+Artery - Aorta,40-49,HMGN4,4.987,global,bto:0000042
+Artery - Aorta,40-49,SUCO,0.876,exact,aorta
+Artery - Aorta,40-49,ST3GAL2,4.929,global,bto:0000042
+Artery - Aorta,40-49,PJA2,4.988,global,bto:0000042
+Artery - Aorta,40-49,CNOT11,0.675,exact,aorta
+Artery - Aorta,40-49,INIP,4.881,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,BRCC3,0.603,exact,aorta
+Artery - Aorta,40-49,POLR2B,0.569,exact,artery
+Artery - Aorta,40-49,MZT1,4.797,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,PCYT1A,1.017,exact,aorta
+Artery - Aorta,40-49,EFCAB14,4.472,global,bto:0000042
+Artery - Aorta,40-49,ZNF747,4.84,global,bto:0000042
+Artery - Aorta,40-49,KLHL7,0.701,exact,artery
+Artery - Aorta,40-49,CDC42,1.989,exact,aorta
+Artery - Aorta,40-49,PIGO,4.892,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CLSTN1,4.997,global,bto:0000042
+Artery - Aorta,40-49,GPATCH3,4.974,global,bto:0000042
+Artery - Aorta,40-49,MIEF1,0.816,exact,aorta
+Artery - Aorta,40-49,TMEM181,4.947,global,bto:0000042
+Artery - Aorta,40-49,PLEC,1.053,exact,aorta
+Artery - Aorta,40-49,SHLD2,4.929,global,bto:0000042
+Artery - Aorta,40-49,FAM32A,4.98,global,bto:0000042
+Artery - Aorta,40-49,ZNF613,4.749,global,bto:0000042
+Artery - Aorta,40-49,ZNF319,4.541,global,bto:0000042
+Artery - Aorta,40-49,TOMM70,0.613,exact,aorta
+Artery - Aorta,40-49,MCM3AP,4.989,global,bto:0000042
+Artery - Aorta,40-49,RAB5B,0.702,exact,artery
+Artery - Aorta,40-49,SMUG1,0.864,exact,artery
+Artery - Aorta,40-49,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,KIF5B,0.827,exact,artery
+Artery - Aorta,40-49,OLA1,0.525,exact,artery
+Artery - Aorta,40-49,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CDC42BPB,4.985,global,bto:0000042
+Artery - Aorta,40-49,MYNN,0.536,exact,artery
+Artery - Aorta,40-49,AKIP1,0.62,exact,artery
+Artery - Aorta,40-49,VANGL1,0.779,exact,artery
+Artery - Aorta,40-49,BCL2L13,1.148,exact,artery
+Artery - Aorta,40-49,PGGT1B,0.605,exact,artery
+Artery - Aorta,40-49,USP4,0.564,exact,aorta
+Artery - Aorta,40-49,ZFAND4,4.933,global,bto:0000042
+Artery - Aorta,40-49,INTS14,4.98,global,bto:0000042
+Artery - Aorta,40-49,FUBP3,4.959,global,bto:0000042
+Artery - Aorta,40-49,RAI2,4.907,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,MOB1A,0.727,exact,artery
+Artery - Aorta,40-49,DAZAP2,0.505,exact,artery
+Artery - Aorta,40-49,AFG3L2,0.506,exact,artery
+Artery - Aorta,40-49,ESS2,1.018,exact,aorta
+Artery - Aorta,40-49,VPS26C,5.0,global,bto:0000042
+Artery - Aorta,40-49,DNAJC14,4.949,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,MFSD14B,4.967,global,bto:0000042
+Artery - Aorta,40-49,MTDH,0.624,exact,aorta
+Artery - Aorta,40-49,DYNC1LI2,4.995,global,bto:0000042
+Artery - Aorta,40-49,PRPF38B,4.962,global,bto:0000042
+Artery - Aorta,40-49,TTI2,4.863,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,NSMAF,4.962,global,bto:0000042
+Artery - Aorta,40-49,VTA1,0.902,exact,artery
+Artery - Aorta,40-49,TTL,4.955,global,bto:0000042
+Artery - Aorta,40-49,SNX15,4.92,global,bto:0000042
+Artery - Aorta,40-49,USP7,1.002,exact,aorta
+Artery - Aorta,40-49,APEX2,4.945,global,bto:0000042
+Artery - Aorta,40-49,FECH,0.864,exact,aorta
+Artery - Aorta,40-49,IP6K1,4.981,global,bto:0000042
+Artery - Aorta,40-49,NEMP2,4.577,global,bto:0000042
+Artery - Aorta,40-49,PIGC,0.73,exact,artery
+Artery - Aorta,40-49,HBS1L,0.504,exact,aorta
+Artery - Aorta,40-49,TGOLN2,0.532,exact,aorta
+Artery - Aorta,40-49,SNRPD3,4.975,global,bto:0000042
+Artery - Aorta,40-49,SETX,0.528,exact,artery
+Artery - Aorta,40-49,DNAL1,0.542,exact,aorta
+Artery - Aorta,40-49,ASXL2,0.702,exact,aorta
+Artery - Aorta,40-49,NFX1,4.987,global,bto:0000042
+Artery - Aorta,40-49,DNAAF10,,,
+Artery - Aorta,40-49,ELAVL1,1.768,exact,aorta
+Artery - Aorta,40-49,FAM120A,4.985,global,bto:0000042
+Artery - Aorta,40-49,IGF2R,1.344,exact,aorta
+Artery - Aorta,40-49,SYNCRIP,0.64,exact,aorta
+Artery - Aorta,40-49,TAF1B,4.93,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,WWC2,4.927,global,bto:0000042
+Artery - Aorta,40-49,KDM4A,1.116,exact,aorta
+Artery - Aorta,40-49,PSKH1,0.548,exact,artery
+Artery - Aorta,40-49,GSTK1,0.515,exact,aorta
+Artery - Aorta,40-49,UBP1,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,FAM136A,4.955,global,bto:0000042
+Artery - Aorta,40-49,GOLGB1,0.867,exact,aorta
+Artery - Aorta,40-49,YWHAZ,1.206,exact,aorta
+Artery - Aorta,40-49,EVI5,4.897,global,bto:0000042
+Artery - Aorta,40-49,CBX6,4.962,global,bto:0000042
+Artery - Aorta,40-49,ROCK2,1.811,exact,aorta
+Artery - Aorta,40-49,COL6A2,1.232,exact,aorta
+Artery - Aorta,40-49,NDN,0.724,exact,aorta
+Artery - Aorta,40-49,C18ORF32,4.171,global,bto:0000042
+Artery - Aorta,40-49,CHD8,0.851,exact,aorta
+Artery - Aorta,40-49,HDAC4,1.697,exact,aorta
+Artery - Aorta,40-49,UPRT,0.557,exact,artery
+Artery - Aorta,40-49,TM9SF2,4.996,global,bto:0000042
+Artery - Aorta,40-49,RPA1,4.172,exact,aorta
+Artery - Aorta,40-49,YBX1,1.219,exact,aorta
+Artery - Aorta,40-49,ZDHHC5,0.537,exact,artery
+Artery - Aorta,40-49,CPNE1,0.535,exact,artery
+Artery - Aorta,40-49,RALGAPB,4.976,global,bto:0000042
+Artery - Aorta,40-49,KMT2D,1.35,exact,aorta
+Artery - Aorta,40-49,ARID1A,0.975,exact,aorta
+Artery - Aorta,40-49,WDR82,0.51,exact,aorta
+Artery - Aorta,40-49,ARHGAP35,1.264,exact,aorta
+Artery - Aorta,40-49,TMEM223,4.843,global,bto:0000042
+Artery - Aorta,40-49,OPA1,1.276,exact,aorta
+Artery - Aorta,40-49,NOTCH2,1.88,exact,aorta
+Artery - Aorta,40-49,WNK1,1.378,exact,aorta
+Artery - Aorta,40-49,FAF2,4.985,global,bto:0000042
+Artery - Aorta,40-49,TECPR2,4.936,global,bto:0000042
+Artery - Aorta,40-49,FBXL5,0.504,exact,artery
+Artery - Aorta,40-49,EIF2AK4,1.079,exact,aorta
+Artery - Aorta,40-49,TPR,0.796,exact,aorta
+Artery - Aorta,40-49,ABRAXAS2,4.921,global,bto:0000042
+Artery - Aorta,40-49,AGPS,0.64,exact,artery
+Artery - Aorta,40-49,FAIM,4.962,global,bto:0000042
+Artery - Aorta,40-49,YTHDF3,0.999,exact,aorta
+Artery - Aorta,40-49,ATP5PB,0.69,exact,aorta
+Artery - Aorta,40-49,PPP1R8,0.561,exact,artery
+Artery - Aorta,40-49,UBLCP1,4.925,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,DCTN2,0.594,exact,aorta
+Artery - Aorta,40-49,TMTC3,0.624,exact,artery
+Artery - Aorta,40-49,MTPN,0.666,exact,aorta
+Artery - Aorta,40-49,NR1H2,0.951,exact,aorta
+Artery - Aorta,40-49,TRAPPC9,5.0,global,alimentary canal
+Artery - Aorta,40-49,USP1,0.679,exact,aorta
+Artery - Aorta,40-49,MOB4,4.995,global,bto:0000042
+Artery - Aorta,40-49,ACTR2,1.014,exact,aorta
+Artery - Aorta,40-49,ZSCAN12,4.822,global,bto:0000042
+Artery - Aorta,40-49,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,RAB1B,0.63,exact,artery
+Artery - Aorta,40-49,MRPS21,0.736,exact,aorta
+Artery - Aorta,40-49,C5ORF24,4.957,global,bto:0000042
+Artery - Aorta,40-49,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,KIAA0100,4.978,global,bto:0000042
+Artery - Aorta,40-49,FKBP3,0.76,exact,artery
+Artery - Aorta,40-49,RPS6KC1,5.0,global,bladder
+Artery - Aorta,40-49,KBTBD4,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,TXNDC15,4.962,global,bto:0000042
+Artery - Aorta,40-49,CREB1,2.14,exact,aorta
+Artery - Aorta,40-49,BECN1,2.137,exact,aorta
+Artery - Aorta,40-49,RAD17,1.746,exact,aorta
+Artery - Aorta,40-49,SEMA4C,4.924,global,bto:0000042
+Artery - Aorta,40-49,ZSCAN32,4.817,global,bto:0000042
+Artery - Aorta,40-49,KATNIP,,,
+Artery - Aorta,40-49,DNM1L,1.922,exact,aorta
+Artery - Aorta,40-49,MFSD9,4.643,global,bto:0000042
+Artery - Aorta,40-49,SNAP29,0.59,exact,aorta
+Artery - Aorta,40-49,NLRX1,1.034,exact,artery
+Artery - Aorta,40-49,SUCLA2,1.007,exact,artery
+Artery - Aorta,40-49,ERLEC1,4.988,global,bto:0000042
+Artery - Aorta,40-49,ZSCAN21,4.927,global,bto:0000042
+Artery - Aorta,40-49,PANK3,4.969,global,bto:0000042
+Artery - Aorta,40-49,C5ORF51,4.358,global,bto:0000042
+Artery - Aorta,40-49,TRMT12,4.906,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,IPO8,0.59,exact,aorta
+Artery - Aorta,40-49,BROX,4.833,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,PJA1,4.976,global,bto:0000042
+Artery - Aorta,40-49,XPO4,0.623,exact,artery
+Artery - Aorta,40-49,PLPP6,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,COG8,4.879,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,C6ORF47,3.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CORO1B,0.783,exact,artery
+Artery - Aorta,40-49,RWDD3,4.805,global,bto:0000042
+Artery - Aorta,40-49,ZSCAN9,4.799,global,bto:0000042
+Artery - Aorta,40-49,ZNF552,4.822,global,bto:0000042
+Artery - Aorta,40-49,ZFP91,4.666,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SLC39A9,0.537,exact,artery
+Artery - Aorta,40-49,GRIK5,0.997,exact,artery
+Artery - Aorta,40-49,MVB12B,4.963,global,bto:0000042
+Artery - Aorta,40-49,DNAJC30,4.918,global,bto:0000042
+Artery - Aorta,40-49,ACOX1,1.601,exact,aorta
+Artery - Aorta,40-49,PDCL,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SMIM15,4.944,global,bto:0000042
+Artery - Aorta,40-49,ACTR6,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,CPSF2,4.981,global,bto:0000042
+Artery - Aorta,40-49,FAM168A,4.968,global,bto:0000042
+Artery - Aorta,40-49,NIPSNAP2,0.675,exact,artery
+Artery - Aorta,40-49,KDM3B,0.704,exact,artery
+Artery - Aorta,40-49,RNF26,4.992,global,bto:0000042
+Artery - Aorta,40-49,TOPBP1,1.551,exact,aorta
+Artery - Aorta,40-49,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,NUP205,0.601,exact,aorta
+Artery - Aorta,40-49,TGFBRAP1,4.941,global,bto:0000042
+Artery - Aorta,40-49,IL6ST,1.221,exact,aorta
+Artery - Aorta,40-49,SREK1IP1,4.872,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,RNPEPL1,4.948,global,bto:0000042
+Artery - Aorta,40-49,RCN2,1.061,exact,aorta
+Artery - Aorta,40-49,TIPRL,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SNX12,4.984,global,bto:0000042
+Artery - Aorta,40-49,DHX8,0.527,exact,aorta
+Artery - Aorta,40-49,NDUFAF1,0.697,exact,artery
+Artery - Aorta,40-49,SNRNP200,0.67,exact,artery
+Artery - Aorta,40-49,GPN1,4.972,global,bto:0000042
+Artery - Aorta,40-49,HNRNPUL1,4.998,global,bto:0000042
+Artery - Aorta,40-49,MON1B,4.982,global,bto:0000042
+Artery - Aorta,40-49,CINP,4.972,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,ASH1L,0.525,exact,aorta
+Artery - Aorta,40-49,RAB35,0.566,exact,aorta
+Artery - Aorta,40-49,COL18A1,1.969,exact,aorta
+Artery - Aorta,40-49,TMEM127,0.867,exact,aorta
+Artery - Aorta,40-49,ZSCAN29,4.859,global,bto:0000042
+Artery - Aorta,40-49,ACTR8,4.952,global,bto:0000042
+Artery - Aorta,40-49,NAA60,0.559,exact,aorta
+Artery - Aorta,40-49,GTF2E1,0.646,exact,artery
+Artery - Aorta,40-49,SEC24C,4.987,global,bto:0000042
+Artery - Aorta,40-49,KLHDC3,4.998,global,bto:0000042
+Artery - Aorta,40-49,BRAP,0.727,exact,aorta
+Artery - Aorta,40-49,NUDT10,0.551,exact,artery
+Artery - Aorta,40-49,HECTD1,0.825,exact,artery
+Artery - Aorta,40-49,PRKDC,1.875,exact,aorta
+Artery - Aorta,40-49,GLRX5,0.591,exact,aorta
+Artery - Aorta,40-49,UNC119B,4.954,global,bto:0000042
+Artery - Aorta,40-49,TAF2,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SNX4,4.98,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,N4BP1,4.977,global,bto:0000042
+Artery - Aorta,40-49,IREB2,1.005,exact,aorta
+Artery - Aorta,40-49,AQR,0.779,exact,artery
+Artery - Aorta,40-49,ADPRH,4.797,global,bto:0000042
+Artery - Aorta,40-49,UBXN2A,4.745,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,RAB5C,0.786,exact,aorta
+Artery - Aorta,40-49,NSL1,0.682,exact,artery
+Artery - Aorta,40-49,FBXL15,4.923,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,SLC35B2,4.986,global,bto:0000042
+Artery - Aorta,40-49,RTL8B,3.825,global,bto:0000042
+Artery - Aorta,40-49,MT-ATP6,1.014,exact,aorta
+Artery - Aorta,40-49,VBP1,4.989,global,bto:0000042
+Artery - Aorta,40-49,MORF4L1,4.129,exact,aorta
+Artery - Aorta,40-49,MUL1,0.569,exact,aorta
+Artery - Aorta,40-49,MAN1A2,4.961,global,bto:0000042
+Artery - Aorta,40-49,RBBP7,0.939,exact,aorta
+Artery - Aorta,40-49,SOBP,4.627,global,bto:0000042
+Artery - Aorta,40-49,DOCK1,0.912,exact,aorta
+Artery - Aorta,40-49,CHST10,4.912,global,bto:0000042
+Artery - Aorta,40-49,CSTF1,4.985,global,bto:0000042
+Artery - Aorta,40-49,SP1,1.866,exact,aorta
+Artery - Aorta,40-49,MRPL19,4.969,global,bto:0000042
+Artery - Aorta,40-49,SON,4.995,global,bto:0000042
+Artery - Aorta,40-49,TMED7,4.436,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,40-49,BLOC1S6,0.523,exact,artery
+Artery - Aorta,40-49,EFNB2,2.219,exact,aorta
+Artery - Aorta,40-49,VPS18,0.592,exact,artery
+Artery - Aorta,40-49,KIRREL1,0.974,exact,artery
+Artery - Aorta,40-49,WDR76,4.844,global,bto:0000042
+Artery - Aorta,40-49,USP19,0.729,exact,artery
+Artery - Aorta,40-49,CCPG1,4.985,global,bto:0000042
+Artery - Aorta,40-49,ZNF142,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,ERLEC1,4.988,global,bto:0000042
+Artery - Aorta,50-59,APEX2,4.945,global,bto:0000042
+Artery - Aorta,50-59,RAB18,0.659,exact,artery
+Artery - Aorta,50-59,CDC27,0.58,exact,aorta
+Artery - Aorta,50-59,TGOLN2,0.532,exact,aorta
+Artery - Aorta,50-59,SGPP1,0.864,exact,artery
+Artery - Aorta,50-59,SETX,0.528,exact,artery
+Artery - Aorta,50-59,OBSL1,5.0,global,bto:0000042
+Artery - Aorta,50-59,PJA1,4.976,global,bto:0000042
+Artery - Aorta,50-59,TMEM230,4.993,global,bto:0000042
+Artery - Aorta,50-59,TMEM115,4.959,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,CORO1B,0.783,exact,artery
+Artery - Aorta,50-59,TMEM30A,0.582,exact,artery
+Artery - Aorta,50-59,ELAVL1,1.768,exact,aorta
+Artery - Aorta,50-59,CDIPT,0.845,exact,artery
+Artery - Aorta,50-59,AP2B1,0.881,exact,artery
+Artery - Aorta,50-59,ERBIN,0.729,exact,artery
+Artery - Aorta,50-59,HPS1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,DAG1,1.18,exact,aorta
+Artery - Aorta,50-59,AP1M1,4.996,global,bto:0000042
+Artery - Aorta,50-59,WWC2,4.927,global,bto:0000042
+Artery - Aorta,50-59,ZNF746,4.918,global,bto:0000042
+Artery - Aorta,50-59,VPS35L,4.987,global,bto:0000042
+Artery - Aorta,50-59,PRMT2,0.74,exact,aorta
+Artery - Aorta,50-59,CLPTM1,0.518,exact,artery
+Artery - Aorta,50-59,SLC39A9,0.537,exact,artery
+Artery - Aorta,50-59,GRIK5,0.997,exact,artery
+Artery - Aorta,50-59,YWHAZ,1.206,exact,aorta
+Artery - Aorta,50-59,COL6A2,1.232,exact,aorta
+Artery - Aorta,50-59,SMIM15,4.944,global,bto:0000042
+Artery - Aorta,50-59,PIGK,4.97,global,bto:0000042
+Artery - Aorta,50-59,NDN,0.724,exact,aorta
+Artery - Aorta,50-59,DNM2,1.214,exact,aorta
+Artery - Aorta,50-59,CAPN1,1.742,exact,aorta
+Artery - Aorta,50-59,BNIP2,0.576,exact,artery
+Artery - Aorta,50-59,C18ORF32,4.171,global,bto:0000042
+Artery - Aorta,50-59,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,TRAM1,4.989,global,bto:0000042
+Artery - Aorta,50-59,UEVLD,4.834,global,bto:0000042
+Artery - Aorta,50-59,GPR107,0.545,exact,aorta
+Artery - Aorta,50-59,GCN1,5.0,global,bto:0000042
+Artery - Aorta,50-59,IL6ST,1.221,exact,aorta
+Artery - Aorta,50-59,ST3GAL2,4.929,global,bto:0000042
+Artery - Aorta,50-59,TM9SF2,4.996,global,bto:0000042
+Artery - Aorta,50-59,DDB1,0.992,exact,aorta
+Artery - Aorta,50-59,RNPEPL1,4.948,global,bto:0000042
+Artery - Aorta,50-59,RCN2,1.061,exact,aorta
+Artery - Aorta,50-59,GPAA1,0.545,exact,artery
+Artery - Aorta,50-59,MZT1,4.797,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,YBX1,1.219,exact,aorta
+Artery - Aorta,50-59,ZDHHC5,0.537,exact,artery
+Artery - Aorta,50-59,CPNE1,0.535,exact,artery
+Artery - Aorta,50-59,TIPRL,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,RNF11,4.99,global,bto:0000042
+Artery - Aorta,50-59,CDC42,1.989,exact,aorta
+Artery - Aorta,50-59,PPP6C,0.911,exact,aorta
+Artery - Aorta,50-59,CTNND1,1.352,exact,aorta
+Artery - Aorta,50-59,TMEM223,4.843,global,bto:0000042
+Artery - Aorta,50-59,HNRNPUL1,4.998,global,bto:0000042
+Artery - Aorta,50-59,PHF6,0.546,exact,aorta
+Artery - Aorta,50-59,PLEC,1.053,exact,aorta
+Artery - Aorta,50-59,CINP,4.972,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,RAB35,0.566,exact,aorta
+Artery - Aorta,50-59,COX10,0.702,exact,aorta
+Artery - Aorta,50-59,GORASP1,4.99,global,bto:0000042
+Artery - Aorta,50-59,PRRC2A,0.838,exact,aorta
+Artery - Aorta,50-59,NSD1,0.992,exact,aorta
+Artery - Aorta,50-59,NAA60,0.559,exact,aorta
+Artery - Aorta,50-59,ZC3HC1,0.8,exact,aorta
+Artery - Aorta,50-59,KIF3C,4.974,global,bto:0000042
+Artery - Aorta,50-59,SMUG1,0.864,exact,artery
+Artery - Aorta,50-59,GNAS,1.101,exact,aorta
+Artery - Aorta,50-59,EMC1,4.99,global,bto:0000042
+Artery - Aorta,50-59,FAIM,4.962,global,bto:0000042
+Artery - Aorta,50-59,YTHDF3,0.999,exact,aorta
+Artery - Aorta,50-59,KLHDC3,4.998,global,bto:0000042
+Artery - Aorta,50-59,CDC42BPB,4.985,global,bto:0000042
+Artery - Aorta,50-59,MYNN,0.536,exact,artery
+Artery - Aorta,50-59,AKIP1,0.62,exact,artery
+Artery - Aorta,50-59,PRKDC,1.875,exact,aorta
+Artery - Aorta,50-59,UBLCP1,4.925,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,COPS8,0.636,exact,artery
+Artery - Aorta,50-59,DCTN2,0.594,exact,aorta
+Artery - Aorta,50-59,USP4,0.564,exact,aorta
+Artery - Aorta,50-59,TMTC3,0.624,exact,artery
+Artery - Aorta,50-59,MTPN,0.666,exact,aorta
+Artery - Aorta,50-59,SHOC2,1.219,exact,aorta
+Artery - Aorta,50-59,INTS14,4.98,global,bto:0000042
+Artery - Aorta,50-59,NR1H2,0.951,exact,aorta
+Artery - Aorta,50-59,COPS7A,4.991,global,bto:0000042
+Artery - Aorta,50-59,TRAPPC9,5.0,global,alimentary canal
+Artery - Aorta,50-59,ACTR2,1.014,exact,aorta
+Artery - Aorta,50-59,OSTM1,4.967,global,bto:0000042
+Artery - Aorta,50-59,FUBP3,4.959,global,bto:0000042
+Artery - Aorta,50-59,YWHAQ,0.723,exact,aorta
+Artery - Aorta,50-59,ADPRH,4.797,global,bto:0000042
+Artery - Aorta,50-59,TMEM175,4.944,global,bto:0000042
+Artery - Aorta,50-59,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,NSL1,0.682,exact,artery
+Artery - Aorta,50-59,RAB1B,0.63,exact,artery
+Artery - Aorta,50-59,FBXL15,4.923,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,MRPS21,0.736,exact,aorta
+Artery - Aorta,50-59,AFG3L2,0.506,exact,artery
+Artery - Aorta,50-59,RAI2,4.907,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,SF1,0.525,exact,aorta
+Artery - Aorta,50-59,KIAA0100,4.978,global,bto:0000042
+Artery - Aorta,50-59,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,MFSD14B,4.967,global,bto:0000042
+Artery - Aorta,50-59,RTL8B,3.825,global,bto:0000042
+Artery - Aorta,50-59,VBP1,4.989,global,bto:0000042
+Artery - Aorta,50-59,MORF4L1,4.129,exact,aorta
+Artery - Aorta,50-59,CHST10,4.912,global,bto:0000042
+Artery - Aorta,50-59,WAPL,2.616,exact,aorta
+Artery - Aorta,50-59,BECN1,2.137,exact,aorta
+Artery - Aorta,50-59,SON,4.995,global,bto:0000042
+Artery - Aorta,50-59,TMED7,4.436,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,KATNIP,,,
+Artery - Aorta,50-59,ITFG1,4.988,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,BLOC1S6,0.523,exact,artery
+Artery - Aorta,50-59,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,50-59,USP7,1.002,exact,aorta
+Artery - Aorta,50-59,USP19,0.729,exact,artery
+Artery - Aorta,50-59,HERC2,4.977,global,bto:0000042
+Artery - Aorta,50-59,NLRX1,1.034,exact,artery
+Artery - Aorta,50-59,CCPG1,4.985,global,bto:0000042
+Artery - Aorta,50-59,ZNF142,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,ERLEC1,4.988,global,bto:0000042
+Artery - Aorta,60-69,APEX2,4.945,global,bto:0000042
+Artery - Aorta,60-69,RAB18,0.659,exact,artery
+Artery - Aorta,60-69,CDC27,0.58,exact,aorta
+Artery - Aorta,60-69,HECTD2,4.856,global,bto:0000042
+Artery - Aorta,60-69,OBSL1,5.0,global,bto:0000042
+Artery - Aorta,60-69,PJA1,4.976,global,bto:0000042
+Artery - Aorta,60-69,TMEM230,4.993,global,bto:0000042
+Artery - Aorta,60-69,USP48,0.675,exact,artery
+Artery - Aorta,60-69,MAN1B1,0.58,exact,aorta
+Artery - Aorta,60-69,CORO1B,0.783,exact,artery
+Artery - Aorta,60-69,SKP1,1.009,exact,aorta
+Artery - Aorta,60-69,TMEM30A,0.582,exact,artery
+Artery - Aorta,60-69,ELAPOR2,,,
+Artery - Aorta,60-69,ELAVL1,1.768,exact,aorta
+Artery - Aorta,60-69,CDIPT,0.845,exact,artery
+Artery - Aorta,60-69,ETFRF1,4.965,global,bto:0000042
+Artery - Aorta,60-69,ABI1,0.577,exact,aorta
+Artery - Aorta,60-69,AP2B1,0.881,exact,artery
+Artery - Aorta,60-69,NUMB,0.934,exact,aorta
+Artery - Aorta,60-69,IDS,1.196,exact,aorta
+Artery - Aorta,60-69,HPS1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,AP1M1,4.996,global,bto:0000042
+Artery - Aorta,60-69,WWC2,4.927,global,bto:0000042
+Artery - Aorta,60-69,VPS35L,4.987,global,bto:0000042
+Artery - Aorta,60-69,PRMT2,0.74,exact,aorta
+Artery - Aorta,60-69,MAP6,4.944,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,BLCAP,4.996,global,bto:0000042
+Artery - Aorta,60-69,WRNIP1,0.729,exact,aorta
+Artery - Aorta,60-69,CNN3-DT,,,
+Artery - Aorta,60-69,GRIK5,0.997,exact,artery
+Artery - Aorta,60-69,YWHAZ,1.206,exact,aorta
+Artery - Aorta,60-69,COL6A2,1.232,exact,aorta
+Artery - Aorta,60-69,SMIM15,4.944,global,bto:0000042
+Artery - Aorta,60-69,TMEM263,4.983,global,bto:0000042
+Artery - Aorta,60-69,PIGK,4.97,global,bto:0000042
+Artery - Aorta,60-69,KDM4C,0.62,exact,aorta
+Artery - Aorta,60-69,CAPN1,1.742,exact,aorta
+Artery - Aorta,60-69,DNM2,1.214,exact,aorta
+Artery - Aorta,60-69,BNIP2,0.576,exact,artery
+Artery - Aorta,60-69,C18ORF32,4.171,global,bto:0000042
+Artery - Aorta,60-69,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,TRAM1,4.989,global,bto:0000042
+Artery - Aorta,60-69,UEVLD,4.834,global,bto:0000042
+Artery - Aorta,60-69,GPR107,0.545,exact,aorta
+Artery - Aorta,60-69,IL6ST,1.221,exact,aorta
+Artery - Aorta,60-69,DDB1,0.992,exact,aorta
+Artery - Aorta,60-69,RCN2,1.061,exact,aorta
+Artery - Aorta,60-69,CRTC2,0.867,exact,aorta
+Artery - Aorta,60-69,GPAA1,0.545,exact,artery
+Artery - Aorta,60-69,GDI1,5.0,global,bto:0000042
+Artery - Aorta,60-69,MZT1,4.797,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,UVRAG,0.734,exact,aorta
+Artery - Aorta,60-69,CPNE1,0.535,exact,artery
+Artery - Aorta,60-69,TIPRL,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,RNF11,4.99,global,bto:0000042
+Artery - Aorta,60-69,CMPK1,0.651,exact,artery
+Artery - Aorta,60-69,PPP6C,0.911,exact,aorta
+Artery - Aorta,60-69,RAB2A,0.966,exact,artery
+Artery - Aorta,60-69,PHF6,0.546,exact,aorta
+Artery - Aorta,60-69,KIAA0319L,0.654,exact,artery
+Artery - Aorta,60-69,PLEC,1.053,exact,aorta
+Artery - Aorta,60-69,CINP,4.972,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,COX10,0.702,exact,aorta
+Artery - Aorta,60-69,LMF1,0.743,exact,aorta
+Artery - Aorta,60-69,ENSG00000272779,,,
+Artery - Aorta,60-69,PRRC2A,0.838,exact,aorta
+Artery - Aorta,60-69,STK16,4.955,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,MAP4K5,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,GNAS,1.101,exact,aorta
+Artery - Aorta,60-69,SRGAP2C,4.0,global,adenocarcinoma cell
+Artery - Aorta,60-69,EMC1,4.99,global,bto:0000042
+Artery - Aorta,60-69,FARS2,4.91,global,bto:0000042
+Artery - Aorta,60-69,KLHDC3,4.998,global,bto:0000042
+Artery - Aorta,60-69,AKIP1,0.62,exact,artery
+Artery - Aorta,60-69,TIMP2,2.355,exact,aorta
+Artery - Aorta,60-69,UBLCP1,4.925,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,COPS8,0.636,exact,artery
+Artery - Aorta,60-69,DCTN2,0.594,exact,aorta
+Artery - Aorta,60-69,USP4,0.564,exact,aorta
+Artery - Aorta,60-69,CTTN,1.404,exact,aorta
+Artery - Aorta,60-69,MTPN,0.666,exact,aorta
+Artery - Aorta,60-69,TRAPPC9,5.0,global,alimentary canal
+Artery - Aorta,60-69,COPS7A,4.991,global,bto:0000042
+Artery - Aorta,60-69,OSTM1,4.967,global,bto:0000042
+Artery - Aorta,60-69,TMEM175,4.944,global,bto:0000042
+Artery - Aorta,60-69,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,RAB1B,0.63,exact,artery
+Artery - Aorta,60-69,FBXL15,4.923,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,MRPS21,0.736,exact,aorta
+Artery - Aorta,60-69,MSL1,4.987,global,bto:0000042
+Artery - Aorta,60-69,OXSR1,0.853,exact,aorta
+Artery - Aorta,60-69,SF1,0.525,exact,aorta
+Artery - Aorta,60-69,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,MFSD14B,4.967,global,bto:0000042
+Artery - Aorta,60-69,RTL8B,3.825,global,bto:0000042
+Artery - Aorta,60-69,VBP1,4.989,global,bto:0000042
+Artery - Aorta,60-69,SCFD1,4.985,global,bto:0000042
+Artery - Aorta,60-69,BCAS3,0.663,exact,aorta
+Artery - Aorta,60-69,TMED7,4.436,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,KATNIP,,,
+Artery - Aorta,60-69,ITFG1,4.988,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,60-69,SPAG16,4.907,global,bto:0000042
+Artery - Aorta,60-69,CCPG1,4.985,global,bto:0000042
+Artery - Aorta,70-79,ZNF318,4.904,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,PRPF4B,4.982,global,bto:0000042
+Artery - Aorta,70-79,MIR762HG,1.094,global,synovial sarcoma cell
+Artery - Aorta,70-79,SNX27,4.977,global,bto:0000042
+Artery - Aorta,70-79,PARD3B,4.877,global,bto:0000042
+Artery - Aorta,70-79,GPLD1,0.643,exact,aorta
+Artery - Aorta,70-79,DIS3L2,4.941,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ENDOV,0.715,exact,artery
+Artery - Aorta,70-79,TUB,1.019,exact,aorta
+Artery - Aorta,70-79,CHIC1,4.868,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MFGE8,1.618,exact,aorta
+Artery - Aorta,70-79,BICD1,4.944,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,CCDC102A,4.558,global,bto:0000042
+Artery - Aorta,70-79,USP48,0.675,exact,artery
+Artery - Aorta,70-79,CLYBL,4.923,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MAN1B1,0.58,exact,aorta
+Artery - Aorta,70-79,GCC2,4.974,global,bto:0000042
+Artery - Aorta,70-79,TBCK,4.971,global,bto:0000042
+Artery - Aorta,70-79,AAK1,0.996,exact,artery
+Artery - Aorta,70-79,TMEM30A,0.582,exact,artery
+Artery - Aorta,70-79,ELAPOR2,,,
+Artery - Aorta,70-79,CDIPT,0.845,exact,artery
+Artery - Aorta,70-79,ETFRF1,4.965,global,bto:0000042
+Artery - Aorta,70-79,ABI1,0.577,exact,aorta
+Artery - Aorta,70-79,YPEL2,4.879,global,bto:0000042
+Artery - Aorta,70-79,UBA6,4.959,global,bto:0000042
+Artery - Aorta,70-79,AP2B1,0.881,exact,artery
+Artery - Aorta,70-79,PLEKHA2,4.719,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SLC10A7,4.894,global,bto:0000042
+Artery - Aorta,70-79,TENT2,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ZFC3H1,4.914,global,bto:0000042
+Artery - Aorta,70-79,IDS,1.196,exact,aorta
+Artery - Aorta,70-79,CCDC14,4.968,global,bto:0000042
+Artery - Aorta,70-79,COMMD10,4.951,global,bto:0000042
+Artery - Aorta,70-79,C1ORF174,4.786,global,bto:0000042
+Artery - Aorta,70-79,ATP6V1C1,4.988,global,bto:0000042
+Artery - Aorta,70-79,THBS3,1.168,exact,aorta
+Artery - Aorta,70-79,CBR4,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MLH3,0.968,exact,aorta
+Artery - Aorta,70-79,KPNA6,4.994,global,bto:0000042
+Artery - Aorta,70-79,FAM126B,4.901,global,bto:0000042
+Artery - Aorta,70-79,WRNIP1,0.729,exact,aorta
+Artery - Aorta,70-79,TMCC1,4.952,global,bto:0000042
+Artery - Aorta,70-79,ZNF81,2.646,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ARL16,4.938,global,bto:0000042
+Artery - Aorta,70-79,VPS36,4.964,global,bto:0000042
+Artery - Aorta,70-79,ZBTB10,4.918,global,bto:0000042
+Artery - Aorta,70-79,FAN1,4.92,global,bto:0000042
+Artery - Aorta,70-79,DZIP3,4.973,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,NECAB1,4.955,global,bto:0000042
+Artery - Aorta,70-79,RSRC1,4.82,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SZT2,4.956,global,bto:0000042
+Artery - Aorta,70-79,ODR4,4.939,global,bto:0000042
+Artery - Aorta,70-79,ZNF224,0.554,exact,artery
+Artery - Aorta,70-79,NUDCD3,4.991,global,bto:0000042
+Artery - Aorta,70-79,STRN3,0.549,exact,aorta
+Artery - Aorta,70-79,PAQR7,1.005,exact,artery
+Artery - Aorta,70-79,RAB2B,4.938,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000270558,,,
+Artery - Aorta,70-79,FBXO22,4.947,global,bto:0000042
+Artery - Aorta,70-79,MEIS2,0.909,exact,aorta
+Artery - Aorta,70-79,DOK4,4.98,global,bto:0000042
+Artery - Aorta,70-79,PGRMC2,0.502,exact,aorta
+Artery - Aorta,70-79,METTL25,4.699,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ZBTB11,4.866,global,bto:0000042
+Artery - Aorta,70-79,ATXN1,0.57,exact,aorta
+Artery - Aorta,70-79,VEGFB,1.744,exact,aorta
+Artery - Aorta,70-79,ENSG00000254352,,,
+Artery - Aorta,70-79,MICU3,0.523,exact,artery
+Artery - Aorta,70-79,BBS2,0.665,exact,aorta
+Artery - Aorta,70-79,DDB2,0.671,exact,aorta
+Artery - Aorta,70-79,PPP4R3A,4.0,exact,aorta
+Artery - Aorta,70-79,L3MBTL1,4.875,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SMIM7,4.984,global,bto:0000042
+Artery - Aorta,70-79,GPATCH2,0.695,exact,artery
+Artery - Aorta,70-79,MTR,1.342,exact,aorta
+Artery - Aorta,70-79,RNF11,4.99,global,bto:0000042
+Artery - Aorta,70-79,KDM1A,1.546,exact,aorta
+Artery - Aorta,70-79,ENSG00000232098,,,
+Artery - Aorta,70-79,SEC16B,0.634,exact,artery
+Artery - Aorta,70-79,ACAD8,4.985,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,EZH1,0.895,exact,aorta
+Artery - Aorta,70-79,RBM45,4.103,global,leukemia cell
+Artery - Aorta,70-79,ATG10,0.764,exact,aorta
+Artery - Aorta,70-79,PTAR1,4.921,global,bto:0000042
+Artery - Aorta,70-79,FARP2,4.962,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,RBPJ,2.013,exact,aorta
+Artery - Aorta,70-79,BRWD1,4.983,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,PIPSL,,,
+Artery - Aorta,70-79,NFIA,1.06,exact,aorta
+Artery - Aorta,70-79,DENND1B,4.952,global,bto:0000042
+Artery - Aorta,70-79,CD2AP,0.758,exact,aorta
+Artery - Aorta,70-79,ZNF652,0.608,exact,artery
+Artery - Aorta,70-79,RPL5P34,,,
+Artery - Aorta,70-79,LRRC66,4.0,global,colonic cancer cell
+Artery - Aorta,70-79,CTIF,4.914,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,DHX35,4.966,global,bto:0000042
+Artery - Aorta,70-79,HAUS4,4.978,global,bto:0000042
+Artery - Aorta,70-79,FARS2,4.91,global,bto:0000042
+Artery - Aorta,70-79,MFSD14C,4.87,global,bto:0000042
+Artery - Aorta,70-79,MINK1,0.881,exact,aorta
+Artery - Aorta,70-79,EXOC6B,4.943,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,RXRB,0.922,exact,aorta
+Artery - Aorta,70-79,GNG5,4.953,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000289045,,,
+Artery - Aorta,70-79,SLC35F2,4.948,global,bto:0000042
+Artery - Aorta,70-79,MFSD8,4.928,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SF3B2,4.996,global,bto:0000042
+Artery - Aorta,70-79,PAN3,4.896,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,COPS8,0.636,exact,artery
+Artery - Aorta,70-79,KDM5B,0.893,exact,aorta
+Artery - Aorta,70-79,LYRM4,4.497,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,CTTN,1.404,exact,aorta
+Artery - Aorta,70-79,ITSN2,0.732,exact,aorta
+Artery - Aorta,70-79,PRDM10,4.779,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,XRN1,0.738,exact,aorta
+Artery - Aorta,70-79,SPRED1,1.673,exact,aorta
+Artery - Aorta,70-79,NUDT5,4.991,global,bto:0000042
+Artery - Aorta,70-79,LRRC28,4.916,global,bto:0000042
+Artery - Aorta,70-79,MTAP,0.987,exact,aorta
+Artery - Aorta,70-79,HNRNPU,0.985,exact,aorta
+Artery - Aorta,70-79,TRIM52,4.877,global,bto:0000042
+Artery - Aorta,70-79,MBD1,0.581,exact,artery
+Artery - Aorta,70-79,ATP7A,1.422,exact,aorta
+Artery - Aorta,70-79,SRSF11,4.994,global,bto:0000042
+Artery - Aorta,70-79,ERCC6L2,4.785,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SLC25A36,4.982,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,LINC00882,1.766,global,respiratory smooth muscle
+Artery - Aorta,70-79,COG7,4.92,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SCFD1,4.985,global,bto:0000042
+Artery - Aorta,70-79,HOXA3,1.591,exact,aorta
+Artery - Aorta,70-79,ZC3H6,4.901,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,INPPL1,0.832,exact,aorta
+Artery - Aorta,70-79,POMZP3,4.834,global,bto:0000042
+Artery - Aorta,70-79,PLA2R1,0.744,exact,aorta
+Artery - Aorta,70-79,CCDC7,4.518,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,NKTR,0.557,exact,artery
+Artery - Aorta,70-79,ITCH,0.75,exact,aorta
+Artery - Aorta,70-79,ARHGEF28,0.761,exact,aorta
+Artery - Aorta,70-79,ZNF326,4.883,global,bto:0000042
+Artery - Aorta,70-79,TRPC1,2.128,exact,aorta
+Artery - Aorta,70-79,KRBA2,4.465,global,bto:0000042
+Artery - Aorta,70-79,SPATA5,4.796,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,HARS2,1.094,exact,aorta
+Artery - Aorta,70-79,SPAG16,4.907,global,bto:0000042
+Artery - Aorta,70-79,CEP85L,4.951,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,DENND4C,4.941,global,bto:0000042
+Artery - Aorta,70-79,DCAF8,4.992,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MAP3K2,0.871,exact,aorta
+Artery - Aorta,70-79,EEF1AKMT2,4.861,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,TMEM240,2.317,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,PEX1,4.898,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000258634,,,
+Artery - Aorta,70-79,MRPL48,4.947,global,bto:0000042
+Artery - Aorta,70-79,NDUFV2-AS1,1.24,global,conjunctival epithelium
+Artery - Aorta,70-79,NEK9,0.806,exact,aorta
+Artery - Aorta,70-79,NNT-AS1,1.891,global,lung cancer cell
+Artery - Aorta,70-79,EPS8L2,4.984,global,bto:0000042
+Artery - Aorta,70-79,TXNRD2,1.294,exact,aorta
+Artery - Aorta,70-79,ZNF703,4.6,global,bto:0000042
+Artery - Aorta,70-79,GBA2,0.658,exact,artery
+Artery - Aorta,70-79,STX17,0.803,exact,aorta
+Artery - Aorta,70-79,OBSL1,5.0,global,bto:0000042
+Artery - Aorta,70-79,ZBED5,4.981,global,bto:0000042
+Artery - Aorta,70-79,RPL24P2,,,
+Artery - Aorta,70-79,RAB28,4.959,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,HABP4,4.939,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,NAA50,0.939,exact,artery
+Artery - Aorta,70-79,ZDHHC21,0.555,exact,artery
+Artery - Aorta,70-79,DEAF1,4.976,global,bto:0000042
+Artery - Aorta,70-79,BAZ2A,0.678,exact,aorta
+Artery - Aorta,70-79,C16ORF86,3.494,global,bto:0000042
+Artery - Aorta,70-79,PPP6R3,0.627,exact,aorta
+Artery - Aorta,70-79,PLCG1,1.684,exact,aorta
+Artery - Aorta,70-79,VWA8,4.919,global,bto:0000042
+Artery - Aorta,70-79,PRKCI,0.525,exact,aorta
+Artery - Aorta,70-79,VPS54,4.937,global,bto:0000042
+Artery - Aorta,70-79,MED22,0.515,exact,artery
+Artery - Aorta,70-79,DCAKD,4.853,global,bto:0000042
+Artery - Aorta,70-79,HMGB1,2.078,exact,aorta
+Artery - Aorta,70-79,AP1M1,4.996,global,bto:0000042
+Artery - Aorta,70-79,STX3,0.609,exact,aorta
+Artery - Aorta,70-79,BBS9,0.565,exact,aorta
+Artery - Aorta,70-79,KANTR,,,
+Artery - Aorta,70-79,OGA,1.757,exact,aorta
+Artery - Aorta,70-79,ZNF609,0.907,exact,artery
+Artery - Aorta,70-79,N4BP2L2-IT2,1.58,global,y-79 cell
+Artery - Aorta,70-79,ARID1B,0.964,exact,aorta
+Artery - Aorta,70-79,MAP6,4.944,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SFMBT1,0.685,exact,artery
+Artery - Aorta,70-79,LYST,0.909,exact,artery
+Artery - Aorta,70-79,FAM228B,3.962,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000254633,,,
+Artery - Aorta,70-79,ANKZF1,4.989,global,bto:0000042
+Artery - Aorta,70-79,NMD3,4.985,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ENTPD1-AS1,1.041,global,bto:0000042
+Artery - Aorta,70-79,PHF10,4.0,exact,artery
+Artery - Aorta,70-79,SNX13,4.961,global,bto:0000042
+Artery - Aorta,70-79,SLC25A43,4.721,global,bto:0000042
+Artery - Aorta,70-79,NPR1,1.971,exact,aorta
+Artery - Aorta,70-79,THAP9-AS1,1.604,global,pancreatic ductal adenocarcinoma cell
+Artery - Aorta,70-79,ENSG00000247679,,,
+Artery - Aorta,70-79,CWC27,4.927,global,bto:0000042
+Artery - Aorta,70-79,TNNI3K,0.752,exact,aorta
+Artery - Aorta,70-79,PIGK,4.97,global,bto:0000042
+Artery - Aorta,70-79,SPOPL,4.92,global,bto:0000042
+Artery - Aorta,70-79,KDM4C,0.62,exact,aorta
+Artery - Aorta,70-79,ELP1,0.586,exact,aorta
+Artery - Aorta,70-79,NKIRAS1,0.837,exact,artery
+Artery - Aorta,70-79,DNM2,1.214,exact,aorta
+Artery - Aorta,70-79,NEK7,1.085,exact,aorta
+Artery - Aorta,70-79,BBS1,0.782,exact,aorta
+Artery - Aorta,70-79,MKS1,0.659,exact,artery
+Artery - Aorta,70-79,APH1B,4.977,global,bto:0000042
+Artery - Aorta,70-79,CBFB,1.318,exact,aorta
+Artery - Aorta,70-79,AGO4,0.512,exact,artery
+Artery - Aorta,70-79,PARN,0.802,exact,aorta
+Artery - Aorta,70-79,RPS6KB1,2.058,exact,aorta
+Artery - Aorta,70-79,METTL17,4.98,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MZT1,4.797,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,FN3KRP,4.966,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000234936,,,
+Artery - Aorta,70-79,DHRS12,4.887,global,bto:0000042
+Artery - Aorta,70-79,CEP164,0.528,exact,artery
+Artery - Aorta,70-79,ACOX2,0.715,exact,artery
+Artery - Aorta,70-79,TCF7L2,1.299,exact,aorta
+Artery - Aorta,70-79,RAB14,0.599,exact,artery
+Artery - Aorta,70-79,ENSG00000262587,,,
+Artery - Aorta,70-79,SLC25A30,4.901,global,bto:0000042
+Artery - Aorta,70-79,EBF1,1.207,exact,aorta
+Artery - Aorta,70-79,BHMT2,0.678,exact,artery
+Artery - Aorta,70-79,SIRT5,1.268,exact,aorta
+Artery - Aorta,70-79,UMAD1,4.471,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SMAD2,2.56,exact,aorta
+Artery - Aorta,70-79,DICER1,1.82,exact,aorta
+Artery - Aorta,70-79,CEP126,4.872,global,bto:0000042
+Artery - Aorta,70-79,HMGN1,0.688,exact,aorta
+Artery - Aorta,70-79,EXOSC10,0.536,exact,aorta
+Artery - Aorta,70-79,TTC9C,4.404,global,bto:0000042
+Artery - Aorta,70-79,WNK3,1.057,exact,aorta
+Artery - Aorta,70-79,KIAA0319L,0.654,exact,artery
+Artery - Aorta,70-79,LYSMD1,4.544,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,PLEC,1.053,exact,aorta
+Artery - Aorta,70-79,GUK1,0.53,exact,aorta
+Artery - Aorta,70-79,RAP1B,1.348,exact,aorta
+Artery - Aorta,70-79,LMF1,0.743,exact,aorta
+Artery - Aorta,70-79,AKAP9,0.727,exact,aorta
+Artery - Aorta,70-79,ENSG00000272750,,,
+Artery - Aorta,70-79,ENSG00000272779,,,
+Artery - Aorta,70-79,SBF1,4.985,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000273987,,,
+Artery - Aorta,70-79,STK16,4.955,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MAP4K5,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SLC35C2,4.989,global,bto:0000042
+Artery - Aorta,70-79,TMEM126B,4.972,global,bto:0000042
+Artery - Aorta,70-79,GATAD2B,4.939,global,bto:0000042
+Artery - Aorta,70-79,PI4KAP2,,,
+Artery - Aorta,70-79,AKIP1,0.62,exact,artery
+Artery - Aorta,70-79,OXR1,0.976,exact,artery
+Artery - Aorta,70-79,UBE2O,4.974,global,bto:0000042
+Artery - Aorta,70-79,ATXN2,0.684,exact,aorta
+Artery - Aorta,70-79,LINC01550,1.766,global,tetrad of microspores
+Artery - Aorta,70-79,GMDS-DT,,,
+Artery - Aorta,70-79,DOCK5,4.911,global,bto:0000042
+Artery - Aorta,70-79,TPCN1,0.513,exact,aorta
+Artery - Aorta,70-79,VAMP1,0.757,exact,artery
+Artery - Aorta,70-79,USP4,0.564,exact,aorta
+Artery - Aorta,70-79,RUFY3,4.992,global,bto:0000042
+Artery - Aorta,70-79,FAM50A,4.972,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000260751,,,
+Artery - Aorta,70-79,IL17RE,0.739,exact,aorta
+Artery - Aorta,70-79,CAMKK2,1.578,exact,aorta
+Artery - Aorta,70-79,TDP2,4.986,global,bto:0000042
+Artery - Aorta,70-79,DONSON,4.894,global,bto:0000042
+Artery - Aorta,70-79,NIPSNAP3A,4.96,global,bto:0000042
+Artery - Aorta,70-79,ZDHHC7,4.954,global,bto:0000042
+Artery - Aorta,70-79,FAHD2B,4.648,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MRPL42,4.969,global,bto:0000042
+Artery - Aorta,70-79,USP46,4.975,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000279375,,,
+Artery - Aorta,70-79,GOLGA1,4.965,global,bto:0000042
+Artery - Aorta,70-79,DNAJB14,4.974,global,bto:0000042
+Artery - Aorta,70-79,KAT8,1.066,exact,aorta
+Artery - Aorta,70-79,MFSD14B,4.967,global,bto:0000042
+Artery - Aorta,70-79,RNFT2,4.895,global,bto:0000042
+Artery - Aorta,70-79,CD46,1.592,exact,aorta
+Artery - Aorta,70-79,EXOSC3,4.995,global,bto:0000042
+Artery - Aorta,70-79,DALRD3,4.957,global,bto:0000042
+Artery - Aorta,70-79,TMEM106C,4.993,global,bto:0000042
+Artery - Aorta,70-79,CELF1,0.773,exact,aorta
+Artery - Aorta,70-79,MALT1,0.815,exact,aorta
+Artery - Aorta,70-79,CADPS2,4.929,global,bto:0000042
+Artery - Aorta,70-79,ITGA1,1.21,exact,aorta
+Artery - Aorta,70-79,HSD11B1L,4.981,global,bto:0000042
+Artery - Aorta,70-79,SLC35B3,4.939,global,bto:0000042
+Artery - Aorta,70-79,ZNF595,4.801,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,SENP6,0.832,exact,aorta
+Artery - Aorta,70-79,WDR33,4.981,global,bto:0000042
+Artery - Aorta,70-79,SLC48A1,4.976,global,bto:0000042
+Artery - Aorta,70-79,EPG5,0.552,exact,artery
+Artery - Aorta,70-79,S100PBP,4.912,global,bto:0000042
+Artery - Aorta,70-79,ZDHHC1,4.926,global,bto:0000042
+Artery - Aorta,70-79,ENTPD3-AS1,1.456,global,werirb1
+Artery - Aorta,70-79,POU6F1,4.848,global,bto:0000042
+Artery - Aorta,70-79,NOVA1,0.828,exact,artery
+Artery - Aorta,70-79,ZNF19,4.368,global,bto:0000042
+Artery - Aorta,70-79,ZDHHC17,4.963,global,bto:0000042
+Artery - Aorta,70-79,EMC1-AS1,,,
+Artery - Aorta,70-79,OGT,1.372,exact,aorta
+Artery - Aorta,70-79,RAB18,0.659,exact,artery
+Artery - Aorta,70-79,ZNF174,4.906,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,TMEM25,4.986,global,bto:0000042
+Artery - Aorta,70-79,PRPF39,4.896,global,bto:0000042
+Artery - Aorta,70-79,SNX25,4.855,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MAGOH2P,,,
+Artery - Aorta,70-79,STX16,4.981,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000263345,,,
+Artery - Aorta,70-79,UACA,4.957,global,bto:0000042
+Artery - Aorta,70-79,AREL1,4.97,global,bto:0000042
+Artery - Aorta,70-79,UQCRB,0.797,exact,aorta
+Artery - Aorta,70-79,NISCH,0.961,exact,aorta
+Artery - Aorta,70-79,CACNA1C,2.211,exact,aorta
+Artery - Aorta,70-79,ZNF44,0.924,exact,aorta
+Artery - Aorta,70-79,C8ORF82,4.833,global,bto:0000042
+Artery - Aorta,70-79,SKP1,1.009,exact,aorta
+Artery - Aorta,70-79,SOCS5,0.745,exact,aorta
+Artery - Aorta,70-79,RPGRIP1L,0.969,exact,aorta
+Artery - Aorta,70-79,CCP110,4.968,global,bto:0000042
+Artery - Aorta,70-79,ACAD10,0.719,exact,artery
+Artery - Aorta,70-79,ENSG00000206567,,,
+Artery - Aorta,70-79,KLHDC2,0.521,exact,artery
+Artery - Aorta,70-79,TMEM167A,4.991,global,bto:0000042
+Artery - Aorta,70-79,POLK,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,EIF4ENIF1,4.969,global,bto:0000042
+Artery - Aorta,70-79,CDC34,4.974,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,RPRD1A,4.988,global,bto:0000042
+Artery - Aorta,70-79,RHOD,0.727,exact,aorta
+Artery - Aorta,70-79,CREBRF,4.95,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000283078,,,
+Artery - Aorta,70-79,HULC,0.627,global,lymph node
+Artery - Aorta,70-79,ALG9,4.971,global,bto:0000042
+Artery - Aorta,70-79,FER,0.744,exact,artery
+Artery - Aorta,70-79,CNN3-DT,,,
+Artery - Aorta,70-79,ENSG00000289015,,,
+Artery - Aorta,70-79,MTARC2,,,
+Artery - Aorta,70-79,EFCAB6,4.874,global,bto:0000042
+Artery - Aorta,70-79,RC3H1,4.942,global,bto:0000042
+Artery - Aorta,70-79,BUB3,1.088,exact,aorta
+Artery - Aorta,70-79,GFER,0.922,exact,aorta
+Artery - Aorta,70-79,KLHL24,4.97,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ENSG00000239665,,,
+Artery - Aorta,70-79,KIAA0753,0.566,exact,artery
+Artery - Aorta,70-79,CACUL1,4.98,global,bto:0000042
+Artery - Aorta,70-79,POLL,0.807,exact,aorta
+Artery - Aorta,70-79,ENSG00000274561,,,
+Artery - Aorta,70-79,C18ORF32,4.171,global,bto:0000042
+Artery - Aorta,70-79,SUMF2,4.99,global,bto:0000042
+Artery - Aorta,70-79,COPZ2,4.176,global,bto:0000042
+Artery - Aorta,70-79,LRRC58,4.947,global,bto:0000042
+Artery - Aorta,70-79,LSM8,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,EID2B,1.985,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,KCTD3,4.968,global,bto:0000042
+Artery - Aorta,70-79,LYRM9,4.417,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,RPL24P8,,,
+Artery - Aorta,70-79,SLF2,0.84,exact,aorta
+Artery - Aorta,70-79,RASGRP2,1.09,exact,artery
+Artery - Aorta,70-79,C2ORF49-DT,,,
+Artery - Aorta,70-79,CRTC2,0.867,exact,aorta
+Artery - Aorta,70-79,SLC23A2,0.678,exact,aorta
+Artery - Aorta,70-79,ZADH2,4.934,global,bto:0000042
+Artery - Aorta,70-79,CLK3,4.986,global,bto:0000042
+Artery - Aorta,70-79,GSTA4,1.115,exact,aorta
+Artery - Aorta,70-79,CPNE1,0.535,exact,artery
+Artery - Aorta,70-79,ARHGEF6,0.69,exact,aorta
+Artery - Aorta,70-79,PPIL3,4.862,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,EIF2B5,0.759,exact,artery
+Artery - Aorta,70-79,ANP32E,4.0,exact,artery
+Artery - Aorta,70-79,RPS15AP12,,,
+Artery - Aorta,70-79,FLJ46284,,,
+Artery - Aorta,70-79,ENSG00000289194,,,
+Artery - Aorta,70-79,MFF,1.465,exact,aorta
+Artery - Aorta,70-79,DUBR,,,
+Artery - Aorta,70-79,FBXO48,4.337,global,bto:0000042
+Artery - Aorta,70-79,RNASEH2B,0.925,exact,aorta
+Artery - Aorta,70-79,GIT1,0.998,exact,aorta
+Artery - Aorta,70-79,STAM-DT,,,
+Artery - Aorta,70-79,CCNL2,1.77,exact,aorta
+Artery - Aorta,70-79,LINC00667,1.522,global,bto:0000042
+Artery - Aorta,70-79,PSIP1,0.755,exact,artery
+Artery - Aorta,70-79,TPTE2P5,,,
+Artery - Aorta,70-79,DDHD2,4.973,global,bto:0000042
+Artery - Aorta,70-79,ETNK1,0.525,exact,artery
+Artery - Aorta,70-79,MARVELD1,0.634,exact,artery
+Artery - Aorta,70-79,BRI3,4.996,global,bto:0000042
+Artery - Aorta,70-79,NRBP2,4.885,global,bto:0000042
+Artery - Aorta,70-79,SRGAP2C,4.0,global,adenocarcinoma cell
+Artery - Aorta,70-79,SUDS3,4.95,global,bto:0000042
+Artery - Aorta,70-79,ZNF286B,,,
+Artery - Aorta,70-79,ZNF76,4.952,global,bto:0000042
+Artery - Aorta,70-79,PEX13,4.91,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,DYM,0.907,exact,aorta
+Artery - Aorta,70-79,DMTF1,4.983,global,bto:0000042
+Artery - Aorta,70-79,TIMP2,2.355,exact,aorta
+Artery - Aorta,70-79,TNRC6C,4.962,global,bto:0000042
+Artery - Aorta,70-79,ZFHX2-AS1,,,
+Artery - Aorta,70-79,CRAMP1,4.933,global,bto:0000042
+Artery - Aorta,70-79,IFT140,0.824,exact,artery
+Artery - Aorta,70-79,KLF8,0.649,exact,artery
+Artery - Aorta,70-79,CAPN2,1.504,exact,aorta
+Artery - Aorta,70-79,VIM,1.64,exact,aorta
+Artery - Aorta,70-79,FBXO17,4.319,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ADCY6,1.298,exact,aorta
+Artery - Aorta,70-79,ENSG00000279833,,,
+Artery - Aorta,70-79,TMEM243,4.956,global,bto:0000042
+Artery - Aorta,70-79,C18ORF25,4.922,global,bto:0000042
+Artery - Aorta,70-79,TRAPPC9,5.0,global,alimentary canal
+Artery - Aorta,70-79,STAU2,4.985,global,bto:0000042
+Artery - Aorta,70-79,LINC00294,1.806,global,sw-872 cell
+Artery - Aorta,70-79,STX18-AS1,1.41,global,atrial appendage
+Artery - Aorta,70-79,WHAMMP2,,,
+Artery - Aorta,70-79,TTC3,0.534,exact,aorta
+Artery - Aorta,70-79,PHC1P1,,,
+Artery - Aorta,70-79,RIOK3,4.989,global,bto:0000042
+Artery - Aorta,70-79,OTUD4,4.95,global,bto:0000042
+Artery - Aorta,70-79,NECAP2,4.982,global,bto:0000042
+Artery - Aorta,70-79,TMEM175,4.944,global,bto:0000042
+Artery - Aorta,70-79,GCNT4,2.364,global,bto:0000042
+Artery - Aorta,70-79,C2ORF74,2.617,global,bto:0000042
+Artery - Aorta,70-79,HNRNPH1,0.677,exact,artery
+Artery - Aorta,70-79,RCOR3,4.973,global,bto:0000042
+Artery - Aorta,70-79,ANKRD28,4.975,global,bto:0000042
+Artery - Aorta,70-79,MRPS21,0.736,exact,aorta
+Artery - Aorta,70-79,MSL1,4.987,global,bto:0000042
+Artery - Aorta,70-79,ZNF700,4.698,global,bto:0000042
+Artery - Aorta,70-79,PREPL,4.998,global,bto:0000042
+Artery - Aorta,70-79,MARCHF7,0.503,exact,artery
+Artery - Aorta,70-79,UHRF2,0.537,exact,aorta
+Artery - Aorta,70-79,SLAIN1,4.972,global,bto:0000042
+Artery - Aorta,70-79,TBC1D8-AS1,,,
+Artery - Aorta,70-79,BTD,0.69,exact,artery
+Artery - Aorta,70-79,IFT81,0.89,exact,artery
+Artery - Aorta,70-79,LIX1L,4.863,global,bto:0000042
+Artery - Aorta,70-79,ULK4,1.184,exact,aorta
+Artery - Aorta,70-79,ENSG00000224415,,,
+Artery - Aorta,70-79,TMEM200B,4.359,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000272941,,,
+Artery - Aorta,70-79,TMEM242,4.942,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,TBC1D2B,4.961,global,bto:0000042
+Artery - Aorta,70-79,KATNIP,,,
+Artery - Aorta,70-79,TMEM8B,4.886,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,HNRNPD-DT,,,
+Artery - Aorta,70-79,RO60,0.754,exact,aorta
+Artery - Aorta,70-79,CARF,4.929,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,HMGN3,4.986,global,bto:0000042
+Artery - Aorta,70-79,FBXW4,4.975,global,bto:0000042
+Artery - Aorta,70-79,VAMP4,4.95,global,bto:0000042
+Artery - Aorta,70-79,INVS,0.81,exact,aorta
+Artery - Aorta,70-79,TCTA,4.978,global,bto:0000042
+Artery - Aorta,70-79,MANBAL,4.964,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000254614,,,
+Artery - Aorta,70-79,ERLEC1,4.988,global,bto:0000042
+Artery - Aorta,70-79,ATG12,1.456,exact,aorta
+Artery - Aorta,70-79,STX7,4.992,global,bto:0000042
+Artery - Aorta,70-79,ENSG00000232176,,,
+Artery - Aorta,70-79,DZIP1,0.538,exact,artery
+Artery - Aorta,70-79,COG5,4.979,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,DHRS4L2,4.927,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ENSG00000254680,,,
+Artery - Aorta,70-79,THOC2,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ATF2,1.217,exact,aorta
+Artery - Aorta,70-79,HECTD2,4.856,global,bto:0000042
+Artery - Aorta,70-79,UPF3A,4.971,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,PCBD2,4.856,global,bto:0000042
+Artery - Aorta,70-79,OSBPL9,0.778,exact,aorta
+Artery - Aorta,70-79,SRSF10,0.518,exact,aorta
+Artery - Aorta,70-79,BBS4,0.639,exact,artery
+Artery - Aorta,70-79,PLXNB2,1.023,exact,artery
+Artery - Aorta,70-79,SLC25A42,0.714,exact,artery
+Artery - Aorta,70-79,C2ORF68,4.627,global,bto:0000042
+Artery - Aorta,70-79,UPF3B,4.618,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ENSG00000272221,,,
+Artery - Aorta,70-79,TSR3,4.941,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,CHD6,0.59,exact,aorta
+Artery - Aorta,70-79,NUMB,0.934,exact,aorta
+Artery - Aorta,70-79,INF2,1.224,exact,artery
+Artery - Aorta,70-79,CTDSPL2,4.952,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,NUDT13,4.751,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,TCEA2,4.976,global,bto:0000042
+Artery - Aorta,70-79,GSTM4,0.646,exact,aorta
+Artery - Aorta,70-79,LETMD1,4.991,global,bto:0000042
+Artery - Aorta,70-79,BLCAP,4.996,global,bto:0000042
+Artery - Aorta,70-79,QKI,0.952,exact,aorta
+Artery - Aorta,70-79,ZFP14,4.632,global,bto:0000042
+Artery - Aorta,70-79,ARMCX4,4.88,global,bto:0000042
+Artery - Aorta,70-79,CREBZF,4.984,global,bto:0000042
+Artery - Aorta,70-79,GRIK5,0.997,exact,artery
+Artery - Aorta,70-79,NUDT12,4.862,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,OPTN,1.002,exact,aorta
+Artery - Aorta,70-79,PALS1,,,
+Artery - Aorta,70-79,GALT,4.981,global,bto:0000042
+Artery - Aorta,70-79,ZNF491,4.287,global,bto:0000042
+Artery - Aorta,70-79,PHIP,4.98,global,bto:0000042
+Artery - Aorta,70-79,TRAF5,0.91,exact,aorta
+Artery - Aorta,70-79,TMEM263,4.983,global,bto:0000042
+Artery - Aorta,70-79,FAM76A,4.697,global,bto:0000042
+Artery - Aorta,70-79,ZMYM3,4.971,global,bto:0000042
+Artery - Aorta,70-79,ABI2,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,GLT8D1,4.0,exact,aorta
+Artery - Aorta,70-79,MOSMO,4.2,global,bto:0000042
+Artery - Aorta,70-79,ORAI3,1.255,exact,aorta
+Artery - Aorta,70-79,ANKRD13C,4.913,global,bto:0000042
+Artery - Aorta,70-79,CRYZL1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ARHGAP12,4.957,global,bto:0000042
+Artery - Aorta,70-79,AIG1,0.594,exact,artery
+Artery - Aorta,70-79,RCN2,1.061,exact,aorta
+Artery - Aorta,70-79,FBXO3,0.553,exact,artery
+Artery - Aorta,70-79,ZBTB37,4.591,global,bto:0000042
+Artery - Aorta,70-79,GDI1,5.0,global,bto:0000042
+Artery - Aorta,70-79,UVRAG,0.734,exact,aorta
+Artery - Aorta,70-79,KANSL3,0.777,exact,artery
+Artery - Aorta,70-79,FOXP2,0.688,exact,aorta
+Artery - Aorta,70-79,AUH,4.887,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ANKMY1,4.901,global,bto:0000042
+Artery - Aorta,70-79,MED12,1.569,exact,aorta
+Artery - Aorta,70-79,CEP68,4.978,global,bto:0000042
+Artery - Aorta,70-79,SERP2,4.828,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,MRS2,0.774,exact,aorta
+Artery - Aorta,70-79,ZRANB2,4.996,global,bto:0000042
+Artery - Aorta,70-79,ZMYM5,4.833,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,UBR2,4.961,global,bto:0000042
+Artery - Aorta,70-79,CMPK1,0.651,exact,artery
+Artery - Aorta,70-79,VPS13B-DT,,,
+Artery - Aorta,70-79,TBL1XR1,0.54,exact,aorta
+Artery - Aorta,70-79,HDGFL2,4.957,global,bto:0000042
+Artery - Aorta,70-79,RAB2A,0.966,exact,artery
+Artery - Aorta,70-79,CC2D1A,0.712,exact,aorta
+Artery - Aorta,70-79,SKP2,1.31,exact,aorta
+Artery - Aorta,70-79,PHF6,0.546,exact,aorta
+Artery - Aorta,70-79,RABGAP1L,4.87,global,bto:0000042
+Artery - Aorta,70-79,HMG20B,4.989,global,bto:0000042
+Artery - Aorta,70-79,EPB41L1,4.985,global,bto:0000042
+Artery - Aorta,70-79,ZBED8,4.534,global,bto:0000042
+Artery - Aorta,70-79,FGF13,2.156,exact,aorta
+Artery - Aorta,70-79,FAM66C,1.529,global,hpac cell
+Artery - Aorta,70-79,BEX3,0.598,exact,artery
+Artery - Aorta,70-79,ENSG00000224738,,,
+Artery - Aorta,70-79,ENSG00000279059,,,
+Artery - Aorta,70-79,RPS18P9,,,
+Artery - Aorta,70-79,MAPK9,1.619,exact,aorta
+Artery - Aorta,70-79,OTUD6B,4.881,global,bto:0000042
+Artery - Aorta,70-79,SWI5,4.59,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,GNAS,1.101,exact,aorta
+Artery - Aorta,70-79,CBX5,1.064,exact,aorta
+Artery - Aorta,70-79,GOLGA8B,4.951,global,bto:0000042
+Artery - Aorta,70-79,CEP112,4.828,global,bto:0000042
+Artery - Aorta,70-79,RASA2,0.525,exact,artery
+Artery - Aorta,70-79,YIPF4,4.966,global,bto:0000042
+Artery - Aorta,70-79,DUT,0.544,exact,aorta
+Artery - Aorta,70-79,TNKS,0.863,exact,aorta
+Artery - Aorta,70-79,CRTAP,0.835,exact,aorta
+Artery - Aorta,70-79,NLK,0.547,exact,aorta
+Artery - Aorta,70-79,KLHDC3,4.998,global,bto:0000042
+Artery - Aorta,70-79,ATP5IF1,0.981,exact,aorta
+Artery - Aorta,70-79,ZNF512,4.979,global,bto:0000042
+Artery - Aorta,70-79,KLHL22,4.977,global,bto:0000042
+Artery - Aorta,70-79,PAWR,0.567,exact,aorta
+Artery - Aorta,70-79,EIF4BP3,,,
+Artery - Aorta,70-79,TMEM50B,4.977,global,bto:0000042
+Artery - Aorta,70-79,AP3S1,4.971,global,bto:0000042
+Artery - Aorta,70-79,EIF3H,4.997,global,bto:0000042
+Artery - Aorta,70-79,PPP4R2,4.96,global,bto:0000042
+Artery - Aorta,70-79,CAMK2G,1.422,exact,aorta
+Artery - Aorta,70-79,ERCC5,0.858,exact,artery
+Artery - Aorta,70-79,RAB40B,4.937,global,bto:0000042
+Artery - Aorta,70-79,CNOT2,4.99,global,bto:0000042
+Artery - Aorta,70-79,NUP43,4.951,global,bto:0000042
+Artery - Aorta,70-79,ZNF182,4.855,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,OSTM1,4.967,global,bto:0000042
+Artery - Aorta,70-79,CASTOR1,4.941,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,TMEM42,4.856,global,bto:0000042
+Artery - Aorta,70-79,THUMPD3-AS1,1.658,global,c-28/i2 cell
+Artery - Aorta,70-79,WHAMM,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,FBXL15,4.923,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,PIP4P2,4.913,global,bto:0000042
+Artery - Aorta,70-79,OXSR1,0.853,exact,aorta
+Artery - Aorta,70-79,WTIP,0.651,exact,aorta
+Artery - Aorta,70-79,SF1,0.525,exact,aorta
+Artery - Aorta,70-79,CAPN7,4.904,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,FAM199X,4.722,global,bto:0000042
+Artery - Aorta,70-79,AKAP11,0.506,exact,artery
+Artery - Aorta,70-79,ENSG00000227252,,,
+Artery - Aorta,70-79,C15ORF40,4.58,global,bto:0000042
+Artery - Aorta,70-79,NSD3,0.562,exact,artery
+Artery - Aorta,70-79,BCAS3,0.663,exact,aorta
+Artery - Aorta,70-79,RELCH,4.92,global,bto:0000042
+Artery - Aorta,70-79,ZC3H12B,4.698,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,NHLRC2,4.953,global,bto:0000042
+Artery - Aorta,70-79,CIPC,0.878,exact,artery
+Artery - Aorta,70-79,KBTBD3,4.72,global,bto:0000042
+Artery - Aorta,70-79,ZSCAN30,4.878,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,TMED7,4.436,global,"tissues, cell types and enzyme sources"
+Artery - Aorta,70-79,ENSG00000236540,,,
+Artery - Aorta,70-79,ZNF618,4.928,global,bto:0000042
+Artery - Aorta,70-79,CDC14B,4.951,global,bto:0000042
+Artery - Aorta,70-79,AVL9,4.948,global,bto:0000042
+Artery - Aorta,70-79,PIAS2,0.857,exact,aorta
+Artery - Aorta,70-79,NDUFB2-AS1,1.245,global,achn cell
+Artery - Aorta,70-79,C16ORF72,4.953,global,bto:0000042
+Artery - Aorta,70-79,CD27-AS1,1.613,global,hone-1 cell
+Artery - Aorta,70-79,CEP57L1,4.79,global,bto:0000042
+Artery - Aorta,70-79,SLC51A,0.637,exact,aorta
+Artery - Aorta,70-79,TSPAN6,4.988,global,bto:0000042

@@ -1,0 +1,2092 @@
+tissue,age_group,gene_symbol,tissues_confidence,tissues_tissue_match,tissues_best_tissue
+Minor Salivary Gland,30-39,GNG7,1.118,exact,salivary gland
+Minor Salivary Gland,30-39,PXMP2,0.938,exact,salivary gland
+Minor Salivary Gland,30-39,POLL,1.031,exact,salivary gland
+Minor Salivary Gland,30-39,TNFRSF19,1.432,exact,salivary gland
+Minor Salivary Gland,30-39,NIPAL3,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,CENPC,1.619,exact,salivary gland
+Minor Salivary Gland,30-39,CHID1,1.62,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF862,0.797,exact,salivary gland
+Minor Salivary Gland,30-39,FRMPD3,4.307,global,bto:0000042
+Minor Salivary Gland,30-39,REPS1,1.142,exact,salivary gland
+Minor Salivary Gland,30-39,TRPV6,2.679,exact,salivary gland
+Minor Salivary Gland,30-39,CCL28,2.996,exact,salivary gland
+Minor Salivary Gland,30-39,RASAL1,1.961,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000267002,,,
+Minor Salivary Gland,30-39,CDK18,1.244,exact,salivary gland
+Minor Salivary Gland,30-39,CFAP44,0.802,exact,salivary gland
+Minor Salivary Gland,30-39,GLB1,2.555,exact,salivary gland
+Minor Salivary Gland,30-39,YIPF4,1.162,exact,salivary gland
+Minor Salivary Gland,30-39,AZGP1P1,,,
+Minor Salivary Gland,30-39,EBLN3P,,,
+Minor Salivary Gland,30-39,PET100,0.681,exact,salivary gland
+Minor Salivary Gland,30-39,XKR8,0.648,exact,salivary gland
+Minor Salivary Gland,30-39,NPY5R,0.545,exact,salivary gland
+Minor Salivary Gland,30-39,GNE,2.002,exact,salivary gland
+Minor Salivary Gland,30-39,MAP3K21,0.271,exact,salivary gland
+Minor Salivary Gland,30-39,ADIPOR1,2.475,exact,salivary gland
+Minor Salivary Gland,30-39,GLRB,1.017,exact,salivary gland
+Minor Salivary Gland,30-39,SPTLC2,1.2,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF827,1.107,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000287385,,,
+Minor Salivary Gland,30-39,CA3-AS1,,,
+Minor Salivary Gland,30-39,TSTD1,1.929,exact,salivary gland
+Minor Salivary Gland,30-39,ACP2,,,
+Minor Salivary Gland,30-39,TMED4,1.523,exact,salivary gland
+Minor Salivary Gland,30-39,GCNT3,0.967,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000258661,,,
+Minor Salivary Gland,30-39,TRIL,4.38,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,30-39,SOX13,0.853,exact,salivary gland
+Minor Salivary Gland,30-39,GCC1,1.331,exact,salivary gland
+Minor Salivary Gland,30-39,LIMD1,0.65,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000255320,,,
+Minor Salivary Gland,30-39,WDR31,0.404,exact,salivary gland
+Minor Salivary Gland,30-39,SSH3,1.148,exact,salivary gland
+Minor Salivary Gland,30-39,ANK3,2.016,exact,salivary gland
+Minor Salivary Gland,30-39,RNF167,1.504,exact,salivary gland
+Minor Salivary Gland,30-39,UGT8,0.545,exact,salivary gland
+Minor Salivary Gland,30-39,AMIGO1,1.107,exact,salivary gland
+Minor Salivary Gland,30-39,KIAA1522,1.503,exact,salivary gland
+Minor Salivary Gland,30-39,ANGEL1,0.885,exact,salivary gland
+Minor Salivary Gland,30-39,CBX7,1.26,exact,salivary gland
+Minor Salivary Gland,30-39,TGOLN2,2.631,exact,salivary gland
+Minor Salivary Gland,30-39,SLC37A4,4.441,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,30-39,ENSG00000257489,,,
+Minor Salivary Gland,30-39,ENSG00000244239,,,
+Minor Salivary Gland,30-39,FBXO25,1.14,exact,salivary gland
+Minor Salivary Gland,30-39,MGAT1,1.971,exact,salivary gland
+Minor Salivary Gland,30-39,P2RX4,2.163,exact,salivary gland
+Minor Salivary Gland,30-39,B4GALT3,1.84,exact,salivary gland
+Minor Salivary Gland,30-39,PLEKHH1,1.434,exact,salivary gland
+Minor Salivary Gland,30-39,CYP39A1,1.154,exact,salivary gland
+Minor Salivary Gland,30-39,CYB561D1,0.505,exact,salivary gland
+Minor Salivary Gland,30-39,PELI3,1.137,exact,salivary gland
+Minor Salivary Gland,30-39,TM9SF1,1.283,exact,salivary gland
+Minor Salivary Gland,30-39,TSC22D4,1.587,exact,salivary gland
+Minor Salivary Gland,30-39,BEND7,0.841,exact,salivary gland
+Minor Salivary Gland,30-39,ZFHX2-AS1,,,
+Minor Salivary Gland,30-39,PIGM,1.278,exact,salivary gland
+Minor Salivary Gland,30-39,PCMTD1,1.571,exact,salivary gland
+Minor Salivary Gland,30-39,PACS1,1.656,exact,salivary gland
+Minor Salivary Gland,30-39,SEZ6L2,1.025,exact,salivary gland
+Minor Salivary Gland,30-39,C9ORF152,1.072,exact,salivary gland
+Minor Salivary Gland,30-39,ASTN2,0.545,exact,salivary gland
+Minor Salivary Gland,30-39,SHANK2,1.168,exact,salivary gland
+Minor Salivary Gland,30-39,BAHD1,0.623,exact,salivary gland
+Minor Salivary Gland,30-39,CLK3,1.492,exact,salivary gland
+Minor Salivary Gland,30-39,CCDC134,0.368,exact,salivary gland
+Minor Salivary Gland,30-39,FARP1,1.414,exact,salivary gland
+Minor Salivary Gland,30-39,PATJ,2.052,exact,salivary gland
+Minor Salivary Gland,30-39,SECISBP2L,1.348,exact,salivary gland
+Minor Salivary Gland,30-39,SAT2,1.627,exact,salivary gland
+Minor Salivary Gland,30-39,ATAD2,1.124,exact,salivary gland
+Minor Salivary Gland,30-39,TRADD,1.563,exact,salivary gland
+Minor Salivary Gland,30-39,IVD,1.218,exact,salivary gland
+Minor Salivary Gland,30-39,SMCR8,1.781,exact,salivary gland
+Minor Salivary Gland,30-39,ALDH1L1,1.609,exact,salivary gland
+Minor Salivary Gland,30-39,TMEM258,1.942,exact,salivary gland
+Minor Salivary Gland,30-39,ACSS1,1.887,exact,salivary gland
+Minor Salivary Gland,30-39,SIDT1,1.347,exact,salivary gland
+Minor Salivary Gland,30-39,MESTIT1,1.138,global,somatic cell
+Minor Salivary Gland,30-39,MANBA,1.682,exact,salivary gland
+Minor Salivary Gland,30-39,AGA,0.967,exact,salivary gland
+Minor Salivary Gland,30-39,SLC25A6,2.329,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000286615,,,
+Minor Salivary Gland,30-39,ALG12,1.054,exact,salivary gland
+Minor Salivary Gland,30-39,SFT2D2,0.54,exact,salivary gland
+Minor Salivary Gland,30-39,RNASET2,0.716,exact,salivary gland
+Minor Salivary Gland,30-39,MUC15,2.529,exact,salivary gland
+Minor Salivary Gland,30-39,LYPLA1,1.166,exact,salivary gland
+Minor Salivary Gland,30-39,WWC1,1.86,exact,salivary gland
+Minor Salivary Gland,30-39,PPP1R26,0.687,exact,salivary gland
+Minor Salivary Gland,30-39,PGPEP1,0.928,exact,salivary gland
+Minor Salivary Gland,30-39,RNF185,1.168,exact,salivary gland
+Minor Salivary Gland,30-39,SMO,1.742,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000254343,,,
+Minor Salivary Gland,30-39,GANC,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,TUSC8,1.845,global,chp3
+Minor Salivary Gland,30-39,TBC1D13,1.103,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000232295,,,
+Minor Salivary Gland,30-39,RPS27L,1.844,exact,salivary gland
+Minor Salivary Gland,30-39,PAM,2.721,exact,salivary gland
+Minor Salivary Gland,30-39,PC,1.938,exact,salivary gland
+Minor Salivary Gland,30-39,RASSF10-DT,,,
+Minor Salivary Gland,30-39,PLPP2,1.749,exact,salivary gland
+Minor Salivary Gland,30-39,UNC5C-AS1,,,
+Minor Salivary Gland,30-39,OR7E7P,,,
+Minor Salivary Gland,30-39,TLCD4,0.687,exact,salivary gland
+Minor Salivary Gland,30-39,BLOC1S1,1.632,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000272264,,,
+Minor Salivary Gland,30-39,JTB,1.897,exact,salivary gland
+Minor Salivary Gland,30-39,LSM14B,0.961,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000289135,,,
+Minor Salivary Gland,30-39,TTC17,1.443,exact,salivary gland
+Minor Salivary Gland,30-39,DPP4,2.842,exact,salivary gland
+Minor Salivary Gland,30-39,TNFRSF11A,1.748,exact,salivary gland
+Minor Salivary Gland,30-39,PRKACB,4.579,exact,salivary gland
+Minor Salivary Gland,30-39,DNAJC1,1.706,exact,salivary gland
+Minor Salivary Gland,30-39,ST3GAL1,4.39,exact,salivary gland
+Minor Salivary Gland,30-39,USP3,0.991,exact,salivary gland
+Minor Salivary Gland,30-39,TP73-AS1,2.035,global,glioma cell
+Minor Salivary Gland,30-39,TIGD2,0.743,exact,salivary gland
+Minor Salivary Gland,30-39,DCXR,2.322,exact,salivary gland
+Minor Salivary Gland,30-39,CADM1,2.235,exact,salivary gland
+Minor Salivary Gland,30-39,HEATR5B,0.853,exact,salivary gland
+Minor Salivary Gland,30-39,CENPBD1,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,SOX10,3.275,exact,salivary gland
+Minor Salivary Gland,30-39,NOS1AP,4.568,global,bto:0000042
+Minor Salivary Gland,30-39,SMIM22,4.223,global,bto:0000042
+Minor Salivary Gland,30-39,ACTR3B,0.758,exact,salivary gland
+Minor Salivary Gland,30-39,GARNL3,0.763,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF652,0.951,exact,salivary gland
+Minor Salivary Gland,30-39,NELFA,1.774,exact,salivary gland
+Minor Salivary Gland,30-39,PHLPP1,0.732,exact,salivary gland
+Minor Salivary Gland,30-39,TM9SF4,1.15,exact,salivary gland
+Minor Salivary Gland,30-39,CCDC28A,1.27,exact,salivary gland
+Minor Salivary Gland,30-39,KREMEN1,1.691,exact,salivary gland
+Minor Salivary Gland,30-39,NDUFC2,2.109,exact,salivary gland
+Minor Salivary Gland,30-39,SPINT2,2.306,exact,salivary gland
+Minor Salivary Gland,30-39,PTOV1-AS1,1.513,global,sr cell
+Minor Salivary Gland,30-39,C19ORF44,0.545,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000274173,,,
+Minor Salivary Gland,30-39,PATZ1,1.853,exact,salivary gland
+Minor Salivary Gland,30-39,PDCD4,2.972,exact,salivary gland
+Minor Salivary Gland,30-39,TMEM87A,1.494,exact,salivary gland
+Minor Salivary Gland,30-39,SPATA18,0.797,exact,salivary gland
+Minor Salivary Gland,30-39,GOLGA4-AS1,,,
+Minor Salivary Gland,30-39,PAIP2B,1.241,exact,salivary gland
+Minor Salivary Gland,30-39,SRGAP1,0.355,exact,salivary gland
+Minor Salivary Gland,30-39,ARHGEF28,0.991,exact,salivary gland
+Minor Salivary Gland,30-39,SEC24C,1.317,exact,salivary gland
+Minor Salivary Gland,30-39,ARMCX5,0.699,exact,salivary gland
+Minor Salivary Gland,30-39,COBL,1.426,exact,salivary gland
+Minor Salivary Gland,30-39,GGT7,0.982,exact,salivary gland
+Minor Salivary Gland,30-39,TECPR2,0.869,exact,salivary gland
+Minor Salivary Gland,30-39,FURIN,3.253,exact,salivary gland
+Minor Salivary Gland,30-39,RRAGD,1.688,exact,salivary gland
+Minor Salivary Gland,30-39,LINC02667,,,
+Minor Salivary Gland,30-39,THUMPD3-AS1,1.658,global,c-28/i2 cell
+Minor Salivary Gland,30-39,C1ORF210,4.171,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,30-39,PALS1,,,
+Minor Salivary Gland,30-39,APCDD1L,1.02,exact,salivary gland
+Minor Salivary Gland,30-39,SH3BGRL2,1.872,exact,salivary gland
+Minor Salivary Gland,30-39,SCYL1,1.348,exact,salivary gland
+Minor Salivary Gland,30-39,C4ORF19,1.156,exact,salivary gland
+Minor Salivary Gland,30-39,RNF43,1.688,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF552,0.602,exact,salivary gland
+Minor Salivary Gland,30-39,TBC1D16,1.107,exact,salivary gland
+Minor Salivary Gland,30-39,LRATD2,1.547,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000285664,,,
+Minor Salivary Gland,30-39,MID2,0.748,exact,salivary gland
+Minor Salivary Gland,30-39,IL17RC,2.199,exact,salivary gland
+Minor Salivary Gland,30-39,DCAF11,1.56,exact,salivary gland
+Minor Salivary Gland,30-39,TMEM115,1.082,exact,salivary gland
+Minor Salivary Gland,30-39,MAGIX,0.788,exact,salivary gland
+Minor Salivary Gland,30-39,MKRN2OS,1.798,global,ovarian follicular epithelium
+Minor Salivary Gland,30-39,ENSG00000228204,,,
+Minor Salivary Gland,30-39,TIRAP,1.505,exact,salivary gland
+Minor Salivary Gland,30-39,PODXL2,1.054,exact,salivary gland
+Minor Salivary Gland,30-39,C8ORF82,0.71,exact,salivary gland
+Minor Salivary Gland,30-39,MLEC,1.396,exact,salivary gland
+Minor Salivary Gland,30-39,C2CD4D-AS1,,,
+Minor Salivary Gland,30-39,DOLK,0.768,exact,salivary gland
+Minor Salivary Gland,30-39,SLC46A1,1.369,exact,salivary gland
+Minor Salivary Gland,30-39,GLB1L,0.467,exact,salivary gland
+Minor Salivary Gland,30-39,PTPRJ,1.382,exact,salivary gland
+Minor Salivary Gland,30-39,CGNL1,2.517,exact,salivary gland
+Minor Salivary Gland,30-39,TXNRD2,0.806,exact,salivary gland
+Minor Salivary Gland,30-39,ELF5,2.663,exact,salivary gland
+Minor Salivary Gland,30-39,RBM4,4.499,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,30-39,LRRC8E,1.345,exact,salivary gland
+Minor Salivary Gland,30-39,CUTA,0.993,exact,salivary gland
+Minor Salivary Gland,30-39,MAOA,2.433,exact,salivary gland
+Minor Salivary Gland,30-39,SPATA2,0.514,exact,salivary gland
+Minor Salivary Gland,30-39,ITPR2,2.301,exact,salivary gland
+Minor Salivary Gland,30-39,RAD51B,2.131,exact,salivary gland
+Minor Salivary Gland,30-39,RNF40,1.324,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF587,0.65,exact,salivary gland
+Minor Salivary Gland,30-39,MAN2B1,1.927,exact,salivary gland
+Minor Salivary Gland,30-39,CERS4,1.482,exact,salivary gland
+Minor Salivary Gland,30-39,PI4KA,1.054,exact,salivary gland
+Minor Salivary Gland,30-39,REEP5,2.202,exact,salivary gland
+Minor Salivary Gland,30-39,REPIN1,1.401,exact,salivary gland
+Minor Salivary Gland,30-39,VEGFC,1.866,exact,salivary gland
+Minor Salivary Gland,30-39,MKLN1-AS,2.101,global,liver cancer cell
+Minor Salivary Gland,30-39,HMG20B,1.748,exact,salivary gland
+Minor Salivary Gland,30-39,LINC01278,1.638,global,osteosarcoma cell
+Minor Salivary Gland,30-39,SLC44A3,1.072,exact,salivary gland
+Minor Salivary Gland,30-39,UBB,2.982,exact,salivary gland
+Minor Salivary Gland,30-39,TMEM219,1.918,exact,salivary gland
+Minor Salivary Gland,30-39,VPS37D,0.182,exact,salivary gland
+Minor Salivary Gland,30-39,FXYD3,2.43,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000289606,,,
+Minor Salivary Gland,30-39,PHB,1.838,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000259953,,,
+Minor Salivary Gland,30-39,AGBL5,1.049,exact,salivary gland
+Minor Salivary Gland,30-39,CADM4,0.964,exact,salivary gland
+Minor Salivary Gland,30-39,REPS2,0.71,exact,salivary gland
+Minor Salivary Gland,30-39,GORASP1,2.004,exact,salivary gland
+Minor Salivary Gland,30-39,PYROXD2,1.074,exact,salivary gland
+Minor Salivary Gland,30-39,MAP10,1.602,exact,salivary gland
+Minor Salivary Gland,30-39,RNPEP,1.699,exact,salivary gland
+Minor Salivary Gland,30-39,PPP1R9A,1.124,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000188365,,,
+Minor Salivary Gland,30-39,ERBB3,2.949,exact,salivary gland
+Minor Salivary Gland,30-39,LRAT,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,MFSD12,1.265,exact,salivary gland
+Minor Salivary Gland,30-39,MKRN3,0.545,exact,salivary gland
+Minor Salivary Gland,30-39,EIF4BP3,,,
+Minor Salivary Gland,30-39,SNTB1,1.232,exact,salivary gland
+Minor Salivary Gland,30-39,SLC37A1,1.011,exact,salivary gland
+Minor Salivary Gland,30-39,IL17RE,1.143,exact,salivary gland
+Minor Salivary Gland,30-39,MARVELD3,1.827,exact,salivary gland
+Minor Salivary Gland,30-39,LINC00472,1.706,global,bto:0000042
+Minor Salivary Gland,30-39,LENG1,0.954,exact,salivary gland
+Minor Salivary Gland,30-39,FAM114A1,4.294,exact,salivary gland
+Minor Salivary Gland,30-39,RAB11B-AS1,1.642,global,snu-398 cell
+Minor Salivary Gland,30-39,NEIL1,1.365,exact,salivary gland
+Minor Salivary Gland,30-39,ERBB2,3.39,exact,salivary gland
+Minor Salivary Gland,30-39,ZBTB10,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,RETREG3,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,PPP1R1B,2.222,exact,salivary gland
+Minor Salivary Gland,30-39,RAVER2,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,SNX30,0.545,exact,salivary gland
+Minor Salivary Gland,30-39,CCPG1,4.985,global,bto:0000042
+Minor Salivary Gland,30-39,FAM174B,1.385,exact,salivary gland
+Minor Salivary Gland,30-39,MESD,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,TMEM135,1.227,exact,salivary gland
+Minor Salivary Gland,30-39,SREBF1,2.673,exact,salivary gland
+Minor Salivary Gland,30-39,KIAA2013,1.222,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF667-AS1,1.873,global,pectoral fin
+Minor Salivary Gland,30-39,MFSD11,1.679,exact,salivary gland
+Minor Salivary Gland,30-39,FAHD2A,1.974,exact,salivary gland
+Minor Salivary Gland,30-39,PPFIBP2,1.479,exact,salivary gland
+Minor Salivary Gland,30-39,DMRTA1,0.545,exact,salivary gland
+Minor Salivary Gland,30-39,AZGP1,3.722,exact,salivary gland
+Minor Salivary Gland,30-39,FBP1,1.828,exact,salivary gland
+Minor Salivary Gland,30-39,OS9,2.351,exact,salivary gland
+Minor Salivary Gland,30-39,RGL2,4.987,global,bto:0000042
+Minor Salivary Gland,30-39,GCDH,1.065,exact,salivary gland
+Minor Salivary Gland,30-39,SIPA1L3,0.876,exact,salivary gland
+Minor Salivary Gland,30-39,GIPC2,0.301,exact,salivary gland
+Minor Salivary Gland,30-39,SPCS1,1.932,exact,salivary gland
+Minor Salivary Gland,30-39,RNF130,1.62,exact,salivary gland
+Minor Salivary Gland,30-39,SWT1,0.508,exact,salivary gland
+Minor Salivary Gland,30-39,GGA2,1.572,exact,salivary gland
+Minor Salivary Gland,30-39,RER1,1.628,exact,salivary gland
+Minor Salivary Gland,30-39,TSPAN33,1.332,exact,salivary gland
+Minor Salivary Gland,30-39,KIAA0319L,1.273,exact,salivary gland
+Minor Salivary Gland,30-39,FBXW4,1.474,exact,salivary gland
+Minor Salivary Gland,30-39,LRIG1,1.824,exact,salivary gland
+Minor Salivary Gland,30-39,PPIL2,1.707,exact,salivary gland
+Minor Salivary Gland,30-39,SLC39A8,2.073,exact,salivary gland
+Minor Salivary Gland,30-39,MEN1,1.917,exact,salivary gland
+Minor Salivary Gland,30-39,ELAPOR1,,,
+Minor Salivary Gland,30-39,GALNT1,4.433,exact,salivary gland
+Minor Salivary Gland,30-39,LRP10,1.548,exact,salivary gland
+Minor Salivary Gland,30-39,ZMYM3,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,ADRA1A,1.466,exact,salivary gland
+Minor Salivary Gland,30-39,R3HCC1,1.18,exact,salivary gland
+Minor Salivary Gland,30-39,ALDH9A1,2.052,exact,salivary gland
+Minor Salivary Gland,30-39,CNNM2,0.166,exact,salivary gland
+Minor Salivary Gland,30-39,LRRC45,0.845,exact,salivary gland
+Minor Salivary Gland,30-39,LRP5,2.239,exact,salivary gland
+Minor Salivary Gland,30-39,HNRNPUL2,1.184,exact,salivary gland
+Minor Salivary Gland,30-39,CTSF,2.119,exact,salivary gland
+Minor Salivary Gland,30-39,SLITRK6,1.127,exact,salivary gland
+Minor Salivary Gland,30-39,SMCO4,2.005,exact,salivary gland
+Minor Salivary Gland,30-39,CTIF,0.907,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF518B,1.547,exact,salivary gland
+Minor Salivary Gland,30-39,TTC23L-AS1,,,
+Minor Salivary Gland,30-39,MANSC1,1.594,exact,salivary gland
+Minor Salivary Gland,30-39,MAML3,2.591,exact,salivary gland
+Minor Salivary Gland,30-39,C1ORF115,1.469,exact,salivary gland
+Minor Salivary Gland,30-39,RGMB,1.036,exact,salivary gland
+Minor Salivary Gland,30-39,DEPTOR,2.133,exact,salivary gland
+Minor Salivary Gland,30-39,DTNB,1.473,exact,salivary gland
+Minor Salivary Gland,30-39,FMO5,1.134,exact,salivary gland
+Minor Salivary Gland,30-39,GANAB,1.731,exact,salivary gland
+Minor Salivary Gland,30-39,ENSG00000228778,,,
+Minor Salivary Gland,30-39,OSBPL2,1.732,exact,salivary gland
+Minor Salivary Gland,30-39,GOLGA2P5,,,
+Minor Salivary Gland,30-39,RGS9,4.906,global,bto:0000042
+Minor Salivary Gland,30-39,GDPD5,1.103,exact,salivary gland
+Minor Salivary Gland,30-39,SLFN13,1.311,exact,salivary gland
+Minor Salivary Gland,30-39,NPTXR,0.301,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF491,4.287,global,bto:0000042
+Minor Salivary Gland,30-39,BTC,1.754,exact,salivary gland
+Minor Salivary Gland,30-39,ERVE-1,,,
+Minor Salivary Gland,30-39,HSD17B1-AS1,,,
+Minor Salivary Gland,30-39,ITGB8-AS1,,,
+Minor Salivary Gland,30-39,EIF2D,1.364,exact,salivary gland
+Minor Salivary Gland,30-39,TMEM59,2.216,exact,salivary gland
+Minor Salivary Gland,30-39,RETREG2,1.464,exact,salivary gland
+Minor Salivary Gland,30-39,ATP6AP1,2.157,exact,salivary gland
+Minor Salivary Gland,30-39,PYGO2,1.563,exact,salivary gland
+Minor Salivary Gland,30-39,SNHG9,1.575,global,thyroid epithelial cell
+Minor Salivary Gland,30-39,SLC41A2,0.873,exact,salivary gland
+Minor Salivary Gland,30-39,SLC43A1,0.841,exact,salivary gland
+Minor Salivary Gland,30-39,NMRAL1,1.294,exact,salivary gland
+Minor Salivary Gland,30-39,VMAC,0.477,exact,salivary gland
+Minor Salivary Gland,30-39,CMTM4,1.047,exact,salivary gland
+Minor Salivary Gland,30-39,MAVS,1.898,exact,salivary gland
+Minor Salivary Gland,30-39,EFCAB15P,,,
+Minor Salivary Gland,30-39,C1ORF56,0.415,exact,salivary gland
+Minor Salivary Gland,30-39,BEX4,1.557,exact,salivary gland
+Minor Salivary Gland,30-39,PHGDH,2.958,exact,salivary gland
+Minor Salivary Gland,30-39,NEU1,0.824,exact,salivary gland
+Minor Salivary Gland,30-39,SORL1,1.059,exact,salivary gland
+Minor Salivary Gland,30-39,TEX261,1.297,exact,salivary gland
+Minor Salivary Gland,30-39,ANKRD53,0.368,exact,salivary gland
+Minor Salivary Gland,30-39,CHTF8,1.383,exact,salivary gland
+Minor Salivary Gland,30-39,GAREM1,0.675,exact,salivary gland
+Minor Salivary Gland,30-39,STX19,0.686,exact,salivary gland
+Minor Salivary Gland,30-39,SCN8A,4.903,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,30-39,RHPN2,1.091,exact,salivary gland
+Minor Salivary Gland,30-39,EFS,1.557,exact,salivary gland
+Minor Salivary Gland,30-39,SLC17A5,2.798,exact,salivary gland
+Minor Salivary Gland,30-39,PBXIP1,1.372,exact,salivary gland
+Minor Salivary Gland,30-39,SYT7,1.428,exact,salivary gland
+Minor Salivary Gland,30-39,CRB3,1.845,exact,salivary gland
+Minor Salivary Gland,30-39,TMEM179B,1.403,exact,salivary gland
+Minor Salivary Gland,30-39,PPP1R37,0.849,exact,salivary gland
+Minor Salivary Gland,30-39,RGP1,0.797,exact,salivary gland
+Minor Salivary Gland,30-39,ZDHHC18,0.951,exact,salivary gland
+Minor Salivary Gland,30-39,GTF2F1,1.35,exact,salivary gland
+Minor Salivary Gland,30-39,SDR42E1,0.467,exact,salivary gland
+Minor Salivary Gland,30-39,DPP7,1.808,exact,salivary gland
+Minor Salivary Gland,30-39,TBC1D17,1.189,exact,salivary gland
+Minor Salivary Gland,30-39,ZNF691,0.602,exact,salivary gland
+Minor Salivary Gland,30-39,MAGI1,1.062,exact,salivary gland
+Minor Salivary Gland,30-39,TBC1D14,1.162,exact,salivary gland
+Minor Salivary Gland,30-39,MAN2B2,0.921,exact,salivary gland
+Minor Salivary Gland,30-39,FAM171A1,0.857,exact,salivary gland
+Minor Salivary Gland,30-39,TLE1,2.233,exact,salivary gland
+Minor Salivary Gland,30-39,RTN3,1.742,exact,salivary gland
+Minor Salivary Gland,30-39,PDE3B,0.881,exact,salivary gland
+Minor Salivary Gland,30-39,ADGRG6,1.186,exact,salivary gland
+Minor Salivary Gland,30-39,ACAA1,1.894,exact,salivary gland
+Minor Salivary Gland,40-49,POLL,1.031,exact,salivary gland
+Minor Salivary Gland,40-49,SLC25A6,2.329,exact,salivary gland
+Minor Salivary Gland,40-49,NIPAL3,1.091,exact,salivary gland
+Minor Salivary Gland,40-49,PPIL2,1.707,exact,salivary gland
+Minor Salivary Gland,40-49,DNAJC11,1.003,exact,salivary gland
+Minor Salivary Gland,40-49,MEN1,1.917,exact,salivary gland
+Minor Salivary Gland,40-49,TOP3A,0.616,exact,salivary gland
+Minor Salivary Gland,40-49,DCAF11,1.56,exact,salivary gland
+Minor Salivary Gland,40-49,KAT8,2.219,exact,salivary gland
+Minor Salivary Gland,40-49,ALG12,1.054,exact,salivary gland
+Minor Salivary Gland,40-49,SFT2D2,0.54,exact,salivary gland
+Minor Salivary Gland,40-49,ELP6,0.961,exact,salivary gland
+Minor Salivary Gland,40-49,CENPC,1.619,exact,salivary gland
+Minor Salivary Gland,40-49,ZNF862,0.797,exact,salivary gland
+Minor Salivary Gland,40-49,PPP1R26,0.687,exact,salivary gland
+Minor Salivary Gland,40-49,KBTBD4,0.736,exact,salivary gland
+Minor Salivary Gland,40-49,REPS1,1.142,exact,salivary gland
+Minor Salivary Gland,40-49,PGPEP1,0.928,exact,salivary gland
+Minor Salivary Gland,40-49,RNF185,1.168,exact,salivary gland
+Minor Salivary Gland,40-49,SMO,1.742,exact,salivary gland
+Minor Salivary Gland,40-49,ODF2,0.802,exact,salivary gland
+Minor Salivary Gland,40-49,GANC,1.091,exact,salivary gland
+Minor Salivary Gland,40-49,SLC46A1,1.369,exact,salivary gland
+Minor Salivary Gland,40-49,PTPRJ,1.382,exact,salivary gland
+Minor Salivary Gland,40-49,ZMYM3,1.091,exact,salivary gland
+Minor Salivary Gland,40-49,ENSG00000267002,,,
+Minor Salivary Gland,40-49,CGNL1,2.517,exact,salivary gland
+Minor Salivary Gland,40-49,TXNRD2,0.806,exact,salivary gland
+Minor Salivary Gland,40-49,ZNF182,0.146,exact,salivary gland
+Minor Salivary Gland,40-49,RBM4,4.499,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,40-49,CDK18,1.244,exact,salivary gland
+Minor Salivary Gland,40-49,CFAP44,0.802,exact,salivary gland
+Minor Salivary Gland,40-49,PAM,2.721,exact,salivary gland
+Minor Salivary Gland,40-49,CNNM2,0.166,exact,salivary gland
+Minor Salivary Gland,40-49,SLC37A3,1.14,exact,salivary gland
+Minor Salivary Gland,40-49,ANKRD54,0.881,exact,salivary gland
+Minor Salivary Gland,40-49,AP1G2,1.56,exact,salivary gland
+Minor Salivary Gland,40-49,YIPF4,1.162,exact,salivary gland
+Minor Salivary Gland,40-49,SPATA2,0.514,exact,salivary gland
+Minor Salivary Gland,40-49,POMGNT1,1.114,exact,salivary gland
+Minor Salivary Gland,40-49,LRRC45,0.845,exact,salivary gland
+Minor Salivary Gland,40-49,HNRNPUL2,1.184,exact,salivary gland
+Minor Salivary Gland,40-49,EBLN3P,,,
+Minor Salivary Gland,40-49,RNF40,1.324,exact,salivary gland
+Minor Salivary Gland,40-49,ZNF587,0.65,exact,salivary gland
+Minor Salivary Gland,40-49,CERS4,1.482,exact,salivary gland
+Minor Salivary Gland,40-49,SMCO4,2.005,exact,salivary gland
+Minor Salivary Gland,40-49,PI4KA,1.054,exact,salivary gland
+Minor Salivary Gland,40-49,BLOC1S1,1.632,exact,salivary gland
+Minor Salivary Gland,40-49,REPIN1,1.401,exact,salivary gland
+Minor Salivary Gland,40-49,HMG20B,1.748,exact,salivary gland
+Minor Salivary Gland,40-49,LINC01278,1.638,global,osteosarcoma cell
+Minor Salivary Gland,40-49,LSM14B,0.961,exact,salivary gland
+Minor Salivary Gland,40-49,ELP5,1.595,exact,salivary gland
+Minor Salivary Gland,40-49,GANAB,1.731,exact,salivary gland
+Minor Salivary Gland,40-49,MAP3K21,0.271,exact,salivary gland
+Minor Salivary Gland,40-49,ADIPOR1,2.475,exact,salivary gland
+Minor Salivary Gland,40-49,TTC17,1.443,exact,salivary gland
+Minor Salivary Gland,40-49,FBH1,1.152,exact,salivary gland
+Minor Salivary Gland,40-49,ZNF827,1.107,exact,salivary gland
+Minor Salivary Gland,40-49,RAB11FIP3,0.941,exact,salivary gland
+Minor Salivary Gland,40-49,OSBPL2,1.732,exact,salivary gland
+Minor Salivary Gland,40-49,PHF2,1.091,exact,salivary gland
+Minor Salivary Gland,40-49,CADM4,0.964,exact,salivary gland
+Minor Salivary Gland,40-49,TSTD1,1.929,exact,salivary gland
+Minor Salivary Gland,40-49,GTPBP6,1.26,exact,salivary gland
+Minor Salivary Gland,40-49,ACP2,,,
+Minor Salivary Gland,40-49,MAP3K13,1.091,exact,salivary gland
+Minor Salivary Gland,40-49,RGS9,4.906,global,bto:0000042
+Minor Salivary Gland,40-49,TMED4,1.523,exact,salivary gland
+Minor Salivary Gland,40-49,USP3,0.991,exact,salivary gland
+Minor Salivary Gland,40-49,GORASP1,2.004,exact,salivary gland
+Minor Salivary Gland,40-49,TP73-AS1,2.035,global,glioma cell
+Minor Salivary Gland,40-49,TIGD2,0.743,exact,salivary gland
+Minor Salivary Gland,40-49,PYROXD2,1.074,exact,salivary gland
+Minor Salivary Gland,40-49,GCC1,1.331,exact,salivary gland
+Minor Salivary Gland,40-49,FANCC,0.545,exact,salivary gland
+Minor Salivary Gland,40-49,MMS19,1.527,exact,salivary gland
+Minor Salivary Gland,40-49,RNPEP,1.699,exact,salivary gland
+Minor Salivary Gland,40-49,PPP1R9A,1.124,exact,salivary gland
+Minor Salivary Gland,40-49,HEATR5B,0.853,exact,salivary gland
+Minor Salivary Gland,40-49,SSH3,1.148,exact,salivary gland
+Minor Salivary Gland,40-49,ZNF491,4.287,global,bto:0000042
+Minor Salivary Gland,40-49,RNF167,1.504,exact,salivary gland
+Minor Salivary Gland,40-49,MKRN3,0.545,exact,salivary gland
+Minor Salivary Gland,40-49,HSD17B1-AS1,,,
+Minor Salivary Gland,40-49,GARNL3,0.763,exact,salivary gland
+Minor Salivary Gland,40-49,IL17RE,1.143,exact,salivary gland
+Minor Salivary Gland,40-49,EIF2D,1.364,exact,salivary gland
+Minor Salivary Gland,40-49,ANGEL1,0.885,exact,salivary gland
+Minor Salivary Gland,40-49,NELFA,1.774,exact,salivary gland
+Minor Salivary Gland,40-49,PYGO2,1.563,exact,salivary gland
+Minor Salivary Gland,40-49,TM9SF4,1.15,exact,salivary gland
+Minor Salivary Gland,40-49,TGOLN2,2.631,exact,salivary gland
+Minor Salivary Gland,40-49,LENG1,0.954,exact,salivary gland
+Minor Salivary Gland,40-49,MGAT1,1.971,exact,salivary gland
+Minor Salivary Gland,40-49,NMRAL1,1.294,exact,salivary gland
+Minor Salivary Gland,40-49,VMAC,0.477,exact,salivary gland
+Minor Salivary Gland,40-49,MAVS,1.898,exact,salivary gland
+Minor Salivary Gland,40-49,BEX4,1.557,exact,salivary gland
+Minor Salivary Gland,40-49,NEIL1,1.365,exact,salivary gland
+Minor Salivary Gland,40-49,ERBB2,3.39,exact,salivary gland
+Minor Salivary Gland,40-49,SPINT2,2.306,exact,salivary gland
+Minor Salivary Gland,40-49,ZBTB10,1.091,exact,salivary gland
+Minor Salivary Gland,40-49,RETREG3,1.091,exact,salivary gland
+Minor Salivary Gland,40-49,NEU1,0.824,exact,salivary gland
+Minor Salivary Gland,40-49,PTOV1-AS1,1.513,global,sr cell
+Minor Salivary Gland,40-49,SNX30,0.545,exact,salivary gland
+Minor Salivary Gland,40-49,GAREM1,0.675,exact,salivary gland
+Minor Salivary Gland,40-49,GSS,1.112,exact,salivary gland
+Minor Salivary Gland,40-49,STX19,0.686,exact,salivary gland
+Minor Salivary Gland,40-49,METTL25,0.301,exact,salivary gland
+Minor Salivary Gland,40-49,TM9SF1,1.283,exact,salivary gland
+Minor Salivary Gland,40-49,INPPL1,1.519,exact,salivary gland
+Minor Salivary Gland,40-49,C19ORF44,0.545,exact,salivary gland
+Minor Salivary Gland,40-49,TSC22D4,1.587,exact,salivary gland
+Minor Salivary Gland,40-49,MESD,1.091,exact,salivary gland
+Minor Salivary Gland,40-49,PATZ1,1.853,exact,salivary gland
+Minor Salivary Gland,40-49,PPP6R2,1.236,exact,salivary gland
+Minor Salivary Gland,40-49,EFS,1.557,exact,salivary gland
+Minor Salivary Gland,40-49,SPATA18,0.797,exact,salivary gland
+Minor Salivary Gland,40-49,ZNF667-AS1,1.873,global,pectoral fin
+Minor Salivary Gland,40-49,ZFHX2-AS1,,,
+Minor Salivary Gland,40-49,PBXIP1,1.372,exact,salivary gland
+Minor Salivary Gland,40-49,MFSD11,1.679,exact,salivary gland
+Minor Salivary Gland,40-49,PIGM,1.278,exact,salivary gland
+Minor Salivary Gland,40-49,PCMTD1,1.571,exact,salivary gland
+Minor Salivary Gland,40-49,SEC24C,1.317,exact,salivary gland
+Minor Salivary Gland,40-49,ARMCX5,0.699,exact,salivary gland
+Minor Salivary Gland,40-49,SHANK2,1.168,exact,salivary gland
+Minor Salivary Gland,40-49,CRB3,1.845,exact,salivary gland
+Minor Salivary Gland,40-49,TMEM179B,1.403,exact,salivary gland
+Minor Salivary Gland,40-49,PPP1R37,0.849,exact,salivary gland
+Minor Salivary Gland,40-49,GGT7,0.982,exact,salivary gland
+Minor Salivary Gland,40-49,RGP1,0.797,exact,salivary gland
+Minor Salivary Gland,40-49,CLK3,1.492,exact,salivary gland
+Minor Salivary Gland,40-49,ZDHHC18,0.951,exact,salivary gland
+Minor Salivary Gland,40-49,OS9,2.351,exact,salivary gland
+Minor Salivary Gland,40-49,GTF2F1,1.35,exact,salivary gland
+Minor Salivary Gland,40-49,RGL2,4.987,global,bto:0000042
+Minor Salivary Gland,40-49,EIF4ENIF1,0.778,exact,salivary gland
+Minor Salivary Gland,40-49,SDR42E1,0.467,exact,salivary gland
+Minor Salivary Gland,40-49,RNF180,0.545,exact,salivary gland
+Minor Salivary Gland,40-49,SAT2,1.627,exact,salivary gland
+Minor Salivary Gland,40-49,TBC1D17,1.189,exact,salivary gland
+Minor Salivary Gland,40-49,TRADD,1.563,exact,salivary gland
+Minor Salivary Gland,40-49,GCDH,1.065,exact,salivary gland
+Minor Salivary Gland,40-49,ZNF691,0.602,exact,salivary gland
+Minor Salivary Gland,40-49,SIPA1L3,0.876,exact,salivary gland
+Minor Salivary Gland,40-49,TBC1D14,1.162,exact,salivary gland
+Minor Salivary Gland,40-49,THUMPD3-AS1,1.658,global,c-28/i2 cell
+Minor Salivary Gland,40-49,MAN2B2,0.921,exact,salivary gland
+Minor Salivary Gland,40-49,SWT1,0.508,exact,salivary gland
+Minor Salivary Gland,40-49,GGA2,1.572,exact,salivary gland
+Minor Salivary Gland,40-49,PALS1,,,
+Minor Salivary Gland,40-49,RER1,1.628,exact,salivary gland
+Minor Salivary Gland,40-49,ACSS1,1.887,exact,salivary gland
+Minor Salivary Gland,40-49,ACAA1,1.894,exact,salivary gland
+Minor Salivary Gland,40-49,SIDT1,1.347,exact,salivary gland
+Minor Salivary Gland,40-49,KIAA0319L,1.273,exact,salivary gland
+Minor Salivary Gland,40-49,RNF43,1.688,exact,salivary gland
+Minor Salivary Gland,50-59,PSTK,0.752,exact,salivary gland
+Minor Salivary Gland,50-59,LYRM9,0.954,exact,salivary gland
+Minor Salivary Gland,50-59,DHRS12,1.062,exact,salivary gland
+Minor Salivary Gland,50-59,SLC25A6,2.329,exact,salivary gland
+Minor Salivary Gland,50-59,NIPAL3,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,PPIL2,1.707,exact,salivary gland
+Minor Salivary Gland,50-59,DNAJC11,1.003,exact,salivary gland
+Minor Salivary Gland,50-59,MEN1,1.917,exact,salivary gland
+Minor Salivary Gland,50-59,TOP3A,0.616,exact,salivary gland
+Minor Salivary Gland,50-59,KAT8,2.219,exact,salivary gland
+Minor Salivary Gland,50-59,ALG12,1.054,exact,salivary gland
+Minor Salivary Gland,50-59,SFT2D2,0.54,exact,salivary gland
+Minor Salivary Gland,50-59,ELP6,0.961,exact,salivary gland
+Minor Salivary Gland,50-59,CENPC,1.619,exact,salivary gland
+Minor Salivary Gland,50-59,ZNF862,0.797,exact,salivary gland
+Minor Salivary Gland,50-59,PPP1R26,0.687,exact,salivary gland
+Minor Salivary Gland,50-59,KBTBD4,0.736,exact,salivary gland
+Minor Salivary Gland,50-59,REPS1,1.142,exact,salivary gland
+Minor Salivary Gland,50-59,RNF185,1.168,exact,salivary gland
+Minor Salivary Gland,50-59,SMO,1.742,exact,salivary gland
+Minor Salivary Gland,50-59,ODF2,0.802,exact,salivary gland
+Minor Salivary Gland,50-59,GANC,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,SLC46A1,1.369,exact,salivary gland
+Minor Salivary Gland,50-59,PTPRJ,1.382,exact,salivary gland
+Minor Salivary Gland,50-59,ZMYM3,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,ENSG00000267002,,,
+Minor Salivary Gland,50-59,TXNRD2,0.806,exact,salivary gland
+Minor Salivary Gland,50-59,XPNPEP1,1.279,exact,salivary gland
+Minor Salivary Gland,50-59,PTBP1,2.316,exact,salivary gland
+Minor Salivary Gland,50-59,ZNF182,0.146,exact,salivary gland
+Minor Salivary Gland,50-59,RBM4,4.499,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,50-59,CFAP44,0.802,exact,salivary gland
+Minor Salivary Gland,50-59,PAM,2.721,exact,salivary gland
+Minor Salivary Gland,50-59,CNNM2,0.166,exact,salivary gland
+Minor Salivary Gland,50-59,SLC37A3,1.14,exact,salivary gland
+Minor Salivary Gland,50-59,ANKRD54,0.881,exact,salivary gland
+Minor Salivary Gland,50-59,AP1G2,1.56,exact,salivary gland
+Minor Salivary Gland,50-59,YIPF4,1.162,exact,salivary gland
+Minor Salivary Gland,50-59,SPATA2,0.514,exact,salivary gland
+Minor Salivary Gland,50-59,POMGNT1,1.114,exact,salivary gland
+Minor Salivary Gland,50-59,LRRC45,0.845,exact,salivary gland
+Minor Salivary Gland,50-59,BECN1,2.543,exact,salivary gland
+Minor Salivary Gland,50-59,HNRNPUL2,1.184,exact,salivary gland
+Minor Salivary Gland,50-59,EBLN3P,,,
+Minor Salivary Gland,50-59,RNF40,1.324,exact,salivary gland
+Minor Salivary Gland,50-59,ZNF587,0.65,exact,salivary gland
+Minor Salivary Gland,50-59,CERS4,1.482,exact,salivary gland
+Minor Salivary Gland,50-59,SMCO4,2.005,exact,salivary gland
+Minor Salivary Gland,50-59,PRPS1,0.931,exact,salivary gland
+Minor Salivary Gland,50-59,PI4KA,1.054,exact,salivary gland
+Minor Salivary Gland,50-59,USP43,0.342,exact,salivary gland
+Minor Salivary Gland,50-59,BLOC1S1,1.632,exact,salivary gland
+Minor Salivary Gland,50-59,REPIN1,1.401,exact,salivary gland
+Minor Salivary Gland,50-59,HMG20B,1.748,exact,salivary gland
+Minor Salivary Gland,50-59,LINC01278,1.638,global,osteosarcoma cell
+Minor Salivary Gland,50-59,SMYD4,0.587,exact,salivary gland
+Minor Salivary Gland,50-59,LSM14B,0.961,exact,salivary gland
+Minor Salivary Gland,50-59,ELP5,1.595,exact,salivary gland
+Minor Salivary Gland,50-59,GANAB,1.731,exact,salivary gland
+Minor Salivary Gland,50-59,ADIPOR1,2.475,exact,salivary gland
+Minor Salivary Gland,50-59,TTC17,1.443,exact,salivary gland
+Minor Salivary Gland,50-59,FBH1,1.152,exact,salivary gland
+Minor Salivary Gland,50-59,ZNF827,1.107,exact,salivary gland
+Minor Salivary Gland,50-59,RAB11FIP3,0.941,exact,salivary gland
+Minor Salivary Gland,50-59,OSBPL2,1.732,exact,salivary gland
+Minor Salivary Gland,50-59,PHF2,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,CADM4,0.964,exact,salivary gland
+Minor Salivary Gland,50-59,TSTD1,1.929,exact,salivary gland
+Minor Salivary Gland,50-59,GTPBP6,1.26,exact,salivary gland
+Minor Salivary Gland,50-59,ACP2,,,
+Minor Salivary Gland,50-59,MAP3K13,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,TMED4,1.523,exact,salivary gland
+Minor Salivary Gland,50-59,ARHGAP21,1.168,exact,salivary gland
+Minor Salivary Gland,50-59,USP3,0.991,exact,salivary gland
+Minor Salivary Gland,50-59,GORASP1,2.004,exact,salivary gland
+Minor Salivary Gland,50-59,NRL,4.873,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,50-59,PYCR2,4.983,global,bto:0000042
+Minor Salivary Gland,50-59,TP73-AS1,2.035,global,glioma cell
+Minor Salivary Gland,50-59,TIGD2,0.743,exact,salivary gland
+Minor Salivary Gland,50-59,GCC1,1.331,exact,salivary gland
+Minor Salivary Gland,50-59,FANCC,0.545,exact,salivary gland
+Minor Salivary Gland,50-59,MMS19,1.527,exact,salivary gland
+Minor Salivary Gland,50-59,BCR,2.397,exact,salivary gland
+Minor Salivary Gland,50-59,RNPEP,1.699,exact,salivary gland
+Minor Salivary Gland,50-59,IKBKB,2.219,exact,salivary gland
+Minor Salivary Gland,50-59,PPP1R9A,1.124,exact,salivary gland
+Minor Salivary Gland,50-59,COQ7,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,HEATR5B,0.853,exact,salivary gland
+Minor Salivary Gland,50-59,SSH3,1.148,exact,salivary gland
+Minor Salivary Gland,50-59,ZNF491,4.287,global,bto:0000042
+Minor Salivary Gland,50-59,GTF2H5,0.29,exact,salivary gland
+Minor Salivary Gland,50-59,RNF167,1.504,exact,salivary gland
+Minor Salivary Gland,50-59,MKRN3,0.545,exact,salivary gland
+Minor Salivary Gland,50-59,HSD17B1-AS1,,,
+Minor Salivary Gland,50-59,LRP6,1.533,exact,salivary gland
+Minor Salivary Gland,50-59,GARNL3,0.763,exact,salivary gland
+Minor Salivary Gland,50-59,IL17RE,1.143,exact,salivary gland
+Minor Salivary Gland,50-59,EIF2D,1.364,exact,salivary gland
+Minor Salivary Gland,50-59,RPN2,2.179,exact,salivary gland
+Minor Salivary Gland,50-59,ANGEL1,0.885,exact,salivary gland
+Minor Salivary Gland,50-59,NELFA,1.774,exact,salivary gland
+Minor Salivary Gland,50-59,PYGO2,1.563,exact,salivary gland
+Minor Salivary Gland,50-59,TM9SF4,1.15,exact,salivary gland
+Minor Salivary Gland,50-59,TGOLN2,2.631,exact,salivary gland
+Minor Salivary Gland,50-59,LENG1,0.954,exact,salivary gland
+Minor Salivary Gland,50-59,MYO1C,1.643,exact,salivary gland
+Minor Salivary Gland,50-59,MGAT1,1.971,exact,salivary gland
+Minor Salivary Gland,50-59,NMRAL1,1.294,exact,salivary gland
+Minor Salivary Gland,50-59,HDAC6,2.037,exact,salivary gland
+Minor Salivary Gland,50-59,VMAC,0.477,exact,salivary gland
+Minor Salivary Gland,50-59,BEX4,1.557,exact,salivary gland
+Minor Salivary Gland,50-59,ERBB2,3.39,exact,salivary gland
+Minor Salivary Gland,50-59,SPINT2,2.306,exact,salivary gland
+Minor Salivary Gland,50-59,ZBTB10,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,RETREG3,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,NEU1,0.824,exact,salivary gland
+Minor Salivary Gland,50-59,PTOV1-AS1,1.513,global,sr cell
+Minor Salivary Gland,50-59,SNX30,0.545,exact,salivary gland
+Minor Salivary Gland,50-59,GAREM1,0.675,exact,salivary gland
+Minor Salivary Gland,50-59,STK19,0.778,exact,salivary gland
+Minor Salivary Gland,50-59,STX19,0.686,exact,salivary gland
+Minor Salivary Gland,50-59,GSS,1.112,exact,salivary gland
+Minor Salivary Gland,50-59,METTL25,0.301,exact,salivary gland
+Minor Salivary Gland,50-59,TM9SF1,1.283,exact,salivary gland
+Minor Salivary Gland,50-59,LRRC1,0.948,exact,salivary gland
+Minor Salivary Gland,50-59,INPPL1,1.519,exact,salivary gland
+Minor Salivary Gland,50-59,C19ORF44,0.545,exact,salivary gland
+Minor Salivary Gland,50-59,MESD,1.091,exact,salivary gland
+Minor Salivary Gland,50-59,PATZ1,1.853,exact,salivary gland
+Minor Salivary Gland,50-59,PPP6R2,1.236,exact,salivary gland
+Minor Salivary Gland,50-59,ATAT1,0.176,exact,salivary gland
+Minor Salivary Gland,50-59,EFS,1.557,exact,salivary gland
+Minor Salivary Gland,50-59,SPATA18,0.797,exact,salivary gland
+Minor Salivary Gland,50-59,ZNF667-AS1,1.873,global,pectoral fin
+Minor Salivary Gland,50-59,ZFHX2-AS1,,,
+Minor Salivary Gland,50-59,RBFA,0.778,exact,salivary gland
+Minor Salivary Gland,50-59,MFSD11,1.679,exact,salivary gland
+Minor Salivary Gland,50-59,PIGM,1.278,exact,salivary gland
+Minor Salivary Gland,50-59,BTBD3,0.873,exact,salivary gland
+Minor Salivary Gland,50-59,PCMTD1,1.571,exact,salivary gland
+Minor Salivary Gland,50-59,SEC24C,1.317,exact,salivary gland
+Minor Salivary Gland,50-59,ARMCX5,0.699,exact,salivary gland
+Minor Salivary Gland,50-59,SHANK2,1.168,exact,salivary gland
+Minor Salivary Gland,50-59,CRB3,1.845,exact,salivary gland
+Minor Salivary Gland,50-59,TMEM179B,1.403,exact,salivary gland
+Minor Salivary Gland,50-59,PPP1R37,0.849,exact,salivary gland
+Minor Salivary Gland,50-59,GGT7,0.982,exact,salivary gland
+Minor Salivary Gland,50-59,RGP1,0.797,exact,salivary gland
+Minor Salivary Gland,50-59,CLK3,1.492,exact,salivary gland
+Minor Salivary Gland,50-59,OS9,2.351,exact,salivary gland
+Minor Salivary Gland,50-59,GTF2F1,1.35,exact,salivary gland
+Minor Salivary Gland,50-59,TBC1D9B,1.417,exact,salivary gland
+Minor Salivary Gland,50-59,RGL2,4.987,global,bto:0000042
+Minor Salivary Gland,50-59,EIF4ENIF1,0.778,exact,salivary gland
+Minor Salivary Gland,50-59,SDR42E1,0.467,exact,salivary gland
+Minor Salivary Gland,50-59,RNF180,0.545,exact,salivary gland
+Minor Salivary Gland,50-59,SAT2,1.627,exact,salivary gland
+Minor Salivary Gland,50-59,FXN,0.792,exact,salivary gland
+Minor Salivary Gland,50-59,TBC1D17,1.189,exact,salivary gland
+Minor Salivary Gland,50-59,TRADD,1.563,exact,salivary gland
+Minor Salivary Gland,50-59,GCDH,1.065,exact,salivary gland
+Minor Salivary Gland,50-59,DPM2,1.252,exact,salivary gland
+Minor Salivary Gland,50-59,ZNF691,0.602,exact,salivary gland
+Minor Salivary Gland,50-59,SIPA1L3,0.876,exact,salivary gland
+Minor Salivary Gland,50-59,TBC1D14,1.162,exact,salivary gland
+Minor Salivary Gland,50-59,THUMPD3-AS1,1.658,global,c-28/i2 cell
+Minor Salivary Gland,50-59,MAN2B2,0.921,exact,salivary gland
+Minor Salivary Gland,50-59,DCTD,1.357,exact,salivary gland
+Minor Salivary Gland,50-59,SWT1,0.508,exact,salivary gland
+Minor Salivary Gland,50-59,GGA2,1.572,exact,salivary gland
+Minor Salivary Gland,50-59,PALS1,,,
+Minor Salivary Gland,50-59,LRRC8D,1.799,exact,salivary gland
+Minor Salivary Gland,50-59,RER1,1.628,exact,salivary gland
+Minor Salivary Gland,50-59,CD81,3.221,exact,salivary gland
+Minor Salivary Gland,50-59,MON1B,1.009,exact,salivary gland
+Minor Salivary Gland,50-59,DDX31,0.63,exact,salivary gland
+Minor Salivary Gland,50-59,ACAA1,1.894,exact,salivary gland
+Minor Salivary Gland,50-59,SIDT1,1.347,exact,salivary gland
+Minor Salivary Gland,50-59,KIAA0319L,1.273,exact,salivary gland
+Minor Salivary Gland,50-59,RNF43,1.688,exact,salivary gland
+Minor Salivary Gland,60-69,PSTK,0.752,exact,salivary gland
+Minor Salivary Gland,60-69,CABIN1,1.591,exact,salivary gland
+Minor Salivary Gland,60-69,LYRM9,0.954,exact,salivary gland
+Minor Salivary Gland,60-69,IKZF4,1.091,exact,salivary gland
+Minor Salivary Gland,60-69,DHRS12,1.062,exact,salivary gland
+Minor Salivary Gland,60-69,SLC25A6,2.329,exact,salivary gland
+Minor Salivary Gland,60-69,CAMTA2,1.079,exact,salivary gland
+Minor Salivary Gland,60-69,PPIL2,1.707,exact,salivary gland
+Minor Salivary Gland,60-69,DNAJC11,1.003,exact,salivary gland
+Minor Salivary Gland,60-69,MEN1,1.917,exact,salivary gland
+Minor Salivary Gland,60-69,TOP3A,0.616,exact,salivary gland
+Minor Salivary Gland,60-69,KAT8,2.219,exact,salivary gland
+Minor Salivary Gland,60-69,ELP6,0.961,exact,salivary gland
+Minor Salivary Gland,60-69,CENPC,1.619,exact,salivary gland
+Minor Salivary Gland,60-69,MBD6,1.237,exact,salivary gland
+Minor Salivary Gland,60-69,REPS1,1.142,exact,salivary gland
+Minor Salivary Gland,60-69,KBTBD4,0.736,exact,salivary gland
+Minor Salivary Gland,60-69,ODF2,0.802,exact,salivary gland
+Minor Salivary Gland,60-69,GANC,1.091,exact,salivary gland
+Minor Salivary Gland,60-69,ZMYM3,1.091,exact,salivary gland
+Minor Salivary Gland,60-69,ENSG00000267002,,,
+Minor Salivary Gland,60-69,TXNRD2,0.806,exact,salivary gland
+Minor Salivary Gland,60-69,XPNPEP1,1.279,exact,salivary gland
+Minor Salivary Gland,60-69,PTBP1,2.316,exact,salivary gland
+Minor Salivary Gland,60-69,ZNF182,0.146,exact,salivary gland
+Minor Salivary Gland,60-69,ARHGEF16,0.944,exact,salivary gland
+Minor Salivary Gland,60-69,SNHG21,1.489,global,snu-398 cell
+Minor Salivary Gland,60-69,PAM,2.721,exact,salivary gland
+Minor Salivary Gland,60-69,ANKRD54,0.881,exact,salivary gland
+Minor Salivary Gland,60-69,SLC37A3,1.14,exact,salivary gland
+Minor Salivary Gland,60-69,AP1G2,1.56,exact,salivary gland
+Minor Salivary Gland,60-69,POMGNT1,1.114,exact,salivary gland
+Minor Salivary Gland,60-69,BECN1,2.543,exact,salivary gland
+Minor Salivary Gland,60-69,HNRNPUL2,1.184,exact,salivary gland
+Minor Salivary Gland,60-69,EBLN3P,,,
+Minor Salivary Gland,60-69,RNF40,1.324,exact,salivary gland
+Minor Salivary Gland,60-69,USP43,0.342,exact,salivary gland
+Minor Salivary Gland,60-69,PRPS1,0.931,exact,salivary gland
+Minor Salivary Gland,60-69,BLOC1S1,1.632,exact,salivary gland
+Minor Salivary Gland,60-69,REPIN1,1.401,exact,salivary gland
+Minor Salivary Gland,60-69,HMG20B,1.748,exact,salivary gland
+Minor Salivary Gland,60-69,SMYD4,0.587,exact,salivary gland
+Minor Salivary Gland,60-69,LSM14B,0.961,exact,salivary gland
+Minor Salivary Gland,60-69,ELP5,1.595,exact,salivary gland
+Minor Salivary Gland,60-69,GANAB,1.731,exact,salivary gland
+Minor Salivary Gland,60-69,TTC17,1.443,exact,salivary gland
+Minor Salivary Gland,60-69,FBH1,1.152,exact,salivary gland
+Minor Salivary Gland,60-69,ERMAP,1.091,exact,salivary gland
+Minor Salivary Gland,60-69,ZNF827,1.107,exact,salivary gland
+Minor Salivary Gland,60-69,RAB11FIP3,0.941,exact,salivary gland
+Minor Salivary Gland,60-69,OSBPL2,1.732,exact,salivary gland
+Minor Salivary Gland,60-69,PHF2,1.091,exact,salivary gland
+Minor Salivary Gland,60-69,CADM4,0.964,exact,salivary gland
+Minor Salivary Gland,60-69,TSTD1,1.929,exact,salivary gland
+Minor Salivary Gland,60-69,GTPBP6,1.26,exact,salivary gland
+Minor Salivary Gland,60-69,ACP2,,,
+Minor Salivary Gland,60-69,MAP3K13,1.091,exact,salivary gland
+Minor Salivary Gland,60-69,TMED4,1.523,exact,salivary gland
+Minor Salivary Gland,60-69,ARHGAP21,1.168,exact,salivary gland
+Minor Salivary Gland,60-69,USP3,0.991,exact,salivary gland
+Minor Salivary Gland,60-69,GORASP1,2.004,exact,salivary gland
+Minor Salivary Gland,60-69,NRL,4.873,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,60-69,PYCR2,4.983,global,bto:0000042
+Minor Salivary Gland,60-69,TP73-AS1,2.035,global,glioma cell
+Minor Salivary Gland,60-69,FANCC,0.545,exact,salivary gland
+Minor Salivary Gland,60-69,MMS19,1.527,exact,salivary gland
+Minor Salivary Gland,60-69,ENSG00000257509,,,
+Minor Salivary Gland,60-69,BCR,2.397,exact,salivary gland
+Minor Salivary Gland,60-69,RNPEP,1.699,exact,salivary gland
+Minor Salivary Gland,60-69,IKBKB,2.219,exact,salivary gland
+Minor Salivary Gland,60-69,COQ7,1.091,exact,salivary gland
+Minor Salivary Gland,60-69,HEATR5B,0.853,exact,salivary gland
+Minor Salivary Gland,60-69,SSH3,1.148,exact,salivary gland
+Minor Salivary Gland,60-69,ZNF491,4.287,global,bto:0000042
+Minor Salivary Gland,60-69,GTF2H5,0.29,exact,salivary gland
+Minor Salivary Gland,60-69,LRP6,1.533,exact,salivary gland
+Minor Salivary Gland,60-69,GARNL3,0.763,exact,salivary gland
+Minor Salivary Gland,60-69,IL17RE,1.143,exact,salivary gland
+Minor Salivary Gland,60-69,RPN2,2.179,exact,salivary gland
+Minor Salivary Gland,60-69,ANGEL1,0.885,exact,salivary gland
+Minor Salivary Gland,60-69,NELFA,1.774,exact,salivary gland
+Minor Salivary Gland,60-69,TM9SF4,1.15,exact,salivary gland
+Minor Salivary Gland,60-69,LENG1,0.954,exact,salivary gland
+Minor Salivary Gland,60-69,PPIL6,0.125,exact,salivary gland
+Minor Salivary Gland,60-69,MYO1C,1.643,exact,salivary gland
+Minor Salivary Gland,60-69,HDAC6,2.037,exact,salivary gland
+Minor Salivary Gland,60-69,NMRAL1,1.294,exact,salivary gland
+Minor Salivary Gland,60-69,BEX4,1.557,exact,salivary gland
+Minor Salivary Gland,60-69,CDK11B,4.354,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,60-69,PTOV1-AS1,1.513,global,sr cell
+Minor Salivary Gland,60-69,STK19,0.778,exact,salivary gland
+Minor Salivary Gland,60-69,GSS,1.112,exact,salivary gland
+Minor Salivary Gland,60-69,METTL25,0.301,exact,salivary gland
+Minor Salivary Gland,60-69,INPPL1,1.519,exact,salivary gland
+Minor Salivary Gland,60-69,LRRC1,0.948,exact,salivary gland
+Minor Salivary Gland,60-69,MESD,1.091,exact,salivary gland
+Minor Salivary Gland,60-69,PPP6R2,1.236,exact,salivary gland
+Minor Salivary Gland,60-69,UGGT2,1.434,exact,salivary gland
+Minor Salivary Gland,60-69,ATAT1,0.176,exact,salivary gland
+Minor Salivary Gland,60-69,EFS,1.557,exact,salivary gland
+Minor Salivary Gland,60-69,SPATA18,0.797,exact,salivary gland
+Minor Salivary Gland,60-69,ZNF667-AS1,1.873,global,pectoral fin
+Minor Salivary Gland,60-69,ZFHX2-AS1,,,
+Minor Salivary Gland,60-69,RBFA,0.778,exact,salivary gland
+Minor Salivary Gland,60-69,ENSG00000262372,,,
+Minor Salivary Gland,60-69,MFSD11,1.679,exact,salivary gland
+Minor Salivary Gland,60-69,PIGM,1.278,exact,salivary gland
+Minor Salivary Gland,60-69,BTBD3,0.873,exact,salivary gland
+Minor Salivary Gland,60-69,SEC24C,1.317,exact,salivary gland
+Minor Salivary Gland,60-69,ARMCX5,0.699,exact,salivary gland
+Minor Salivary Gland,60-69,SHANK2,1.168,exact,salivary gland
+Minor Salivary Gland,60-69,TMEM179B,1.403,exact,salivary gland
+Minor Salivary Gland,60-69,GGT7,0.982,exact,salivary gland
+Minor Salivary Gland,60-69,CLK3,1.492,exact,salivary gland
+Minor Salivary Gland,60-69,OS9,2.351,exact,salivary gland
+Minor Salivary Gland,60-69,TBC1D9B,1.417,exact,salivary gland
+Minor Salivary Gland,60-69,MAP3K10,0.467,exact,salivary gland
+Minor Salivary Gland,60-69,EIF4ENIF1,0.778,exact,salivary gland
+Minor Salivary Gland,60-69,SDR42E1,0.467,exact,salivary gland
+Minor Salivary Gland,60-69,RNF180,0.545,exact,salivary gland
+Minor Salivary Gland,60-69,AKT1,3.213,exact,salivary gland
+Minor Salivary Gland,60-69,FXN,0.792,exact,salivary gland
+Minor Salivary Gland,60-69,TRADD,1.563,exact,salivary gland
+Minor Salivary Gland,60-69,GCDH,1.065,exact,salivary gland
+Minor Salivary Gland,60-69,DPM2,1.252,exact,salivary gland
+Minor Salivary Gland,60-69,THUMPD3-AS1,1.658,global,c-28/i2 cell
+Minor Salivary Gland,60-69,MAN2B2,0.921,exact,salivary gland
+Minor Salivary Gland,60-69,DCTD,1.357,exact,salivary gland
+Minor Salivary Gland,60-69,GGA2,1.572,exact,salivary gland
+Minor Salivary Gland,60-69,LRRC8D,1.799,exact,salivary gland
+Minor Salivary Gland,60-69,RER1,1.628,exact,salivary gland
+Minor Salivary Gland,60-69,CD81,3.221,exact,salivary gland
+Minor Salivary Gland,60-69,MON1B,1.009,exact,salivary gland
+Minor Salivary Gland,60-69,DDX31,0.63,exact,salivary gland
+Minor Salivary Gland,60-69,KIAA0319L,1.273,exact,salivary gland
+Minor Salivary Gland,70-79,NOL10,0.921,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000276888,,,
+Minor Salivary Gland,70-79,BCAR1P2,,,
+Minor Salivary Gland,70-79,DHRS12,1.062,exact,salivary gland
+Minor Salivary Gland,70-79,SCCPDH,0.531,exact,salivary gland
+Minor Salivary Gland,70-79,TRAM1,1.995,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000231866,,,
+Minor Salivary Gland,70-79,SERBP1P2,,,
+Minor Salivary Gland,70-79,RNU6-198P,,,
+Minor Salivary Gland,70-79,MIR340,,,
+Minor Salivary Gland,70-79,PHKG2,0.988,exact,salivary gland
+Minor Salivary Gland,70-79,CAPN2,2.248,exact,salivary gland
+Minor Salivary Gland,70-79,CD5L,4.775,global,immune system
+Minor Salivary Gland,70-79,NDUFB6,1.182,exact,salivary gland
+Minor Salivary Gland,70-79,TFE3,2.018,exact,salivary gland
+Minor Salivary Gland,70-79,U2,1.672,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,ENSG00000261770,,,
+Minor Salivary Gland,70-79,CCDC107,0.991,exact,salivary gland
+Minor Salivary Gland,70-79,ARHGEF16,0.944,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000272583,,,
+Minor Salivary Gland,70-79,ENSG00000265194,,,
+Minor Salivary Gland,70-79,LINC00374,1.491,global,cervical epithelial cell
+Minor Salivary Gland,70-79,MIR586,,,
+Minor Salivary Gland,70-79,ENSG00000273763,,,
+Minor Salivary Gland,70-79,PLAAT2,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,CLBA1,0.587,exact,salivary gland
+Minor Salivary Gland,70-79,RAP1BL,,,
+Minor Salivary Gland,70-79,MMAB,1.18,exact,salivary gland
+Minor Salivary Gland,70-79,BNIP3P28,,,
+Minor Salivary Gland,70-79,OR7A11P,,,
+Minor Salivary Gland,70-79,DCTPP1,0.988,exact,salivary gland
+Minor Salivary Gland,70-79,NPM1P5,,,
+Minor Salivary Gland,70-79,SRPK1,0.837,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000287410,,,
+Minor Salivary Gland,70-79,MAP3K13,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,HINT2,1.318,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000273204,,,
+Minor Salivary Gland,70-79,MIR6512,,,
+Minor Salivary Gland,70-79,ENSG00000250025,,,
+Minor Salivary Gland,70-79,PTPN9,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,EIF4A1P12,,,
+Minor Salivary Gland,70-79,PKP4P1,,,
+Minor Salivary Gland,70-79,RBM19,0.778,exact,salivary gland
+Minor Salivary Gland,70-79,CMKLR1,0.94,exact,salivary gland
+Minor Salivary Gland,70-79,ASPSCR1,1.75,exact,salivary gland
+Minor Salivary Gland,70-79,TEP1,4.141,exact,salivary gland
+Minor Salivary Gland,70-79,EEF1A1P7,,,
+Minor Salivary Gland,70-79,KRT8P13,,,
+Minor Salivary Gland,70-79,ENSG00000237539,,,
+Minor Salivary Gland,70-79,DDX5,2.465,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000242578,,,
+Minor Salivary Gland,70-79,LRRC1,0.948,exact,salivary gland
+Minor Salivary Gland,70-79,RARB,1.854,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000232518,,,
+Minor Salivary Gland,70-79,ENSG00000279628,,,
+Minor Salivary Gland,70-79,PRAMEF9,0.774,global,dermal microvascular endothelial cell
+Minor Salivary Gland,70-79,MAPK6P2,,,
+Minor Salivary Gland,70-79,ENSG00000279294,,,
+Minor Salivary Gland,70-79,GBA3,,,
+Minor Salivary Gland,70-79,H3P44,,,
+Minor Salivary Gland,70-79,EGOT,1.732,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,BTBD3,0.873,exact,salivary gland
+Minor Salivary Gland,70-79,TXNRD3,4.441,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,MUC1,3.004,exact,salivary gland
+Minor Salivary Gland,70-79,ABCA13,1.256,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000226149,,,
+Minor Salivary Gland,70-79,TMEM150A,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,PCDHB3,4.563,global,bto:0000042
+Minor Salivary Gland,70-79,UPF3AP1,,,
+Minor Salivary Gland,70-79,H3-5,3.009,exact,salivary gland
+Minor Salivary Gland,70-79,ATP5F1EP2,,,
+Minor Salivary Gland,70-79,RN7SL251P,,,
+Minor Salivary Gland,70-79,SMG7-AS1,0.897,global,buccal epithelium
+Minor Salivary Gland,70-79,CCNI2,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000280433,,,
+Minor Salivary Gland,70-79,ENSG00000288839,,,
+Minor Salivary Gland,70-79,ATP10A-DT,,,
+Minor Salivary Gland,70-79,ENSG00000243384,,,
+Minor Salivary Gland,70-79,ENSG00000279500,,,
+Minor Salivary Gland,70-79,WASH7P,,,
+Minor Salivary Gland,70-79,ENSG00000286064,,,
+Minor Salivary Gland,70-79,RNU6-264P,,,
+Minor Salivary Gland,70-79,MRM2,0.865,exact,salivary gland
+Minor Salivary Gland,70-79,DYRK1A,1.763,exact,salivary gland
+Minor Salivary Gland,70-79,ATXN1-AS1,,,
+Minor Salivary Gland,70-79,RAB3IP,0.564,exact,salivary gland
+Minor Salivary Gland,70-79,LINC02490,,,
+Minor Salivary Gland,70-79,ENSG00000228176,,,
+Minor Salivary Gland,70-79,MIR6860,,,
+Minor Salivary Gland,70-79,BRWD1P3,,,
+Minor Salivary Gland,70-79,ENSG00000226425,,,
+Minor Salivary Gland,70-79,PIGPP3,,,
+Minor Salivary Gland,70-79,LINC01770,,,
+Minor Salivary Gland,70-79,ENSG00000271621,,,
+Minor Salivary Gland,70-79,CLN6,0.806,exact,salivary gland
+Minor Salivary Gland,70-79,EEFSEC,1.436,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000225850,,,
+Minor Salivary Gland,70-79,MIR3194,,,
+Minor Salivary Gland,70-79,ENSG00000240624,,,
+Minor Salivary Gland,70-79,LINC01589,,,
+Minor Salivary Gland,70-79,LINC02446,,,
+Minor Salivary Gland,70-79,RNA5SP238,,,
+Minor Salivary Gland,70-79,ENSG00000274966,,,
+Minor Salivary Gland,70-79,ZNF197-AS1,0.974,global,lung adenocarcinoma cell
+Minor Salivary Gland,70-79,TMSB4Y,4.286,global,bto:0000042
+Minor Salivary Gland,70-79,ENSG00000240036,,,
+Minor Salivary Gland,70-79,NDUFAF2P1,,,
+Minor Salivary Gland,70-79,ENSG00000287620,,,
+Minor Salivary Gland,70-79,ENSG00000286498,,,
+Minor Salivary Gland,70-79,EIF4EBP2P3,,,
+Minor Salivary Gland,70-79,LINC01475,0.639,exact,salivary gland
+Minor Salivary Gland,70-79,RUSC1-AS1,1.636,global,mg-63 cell
+Minor Salivary Gland,70-79,DNM1P33,,,
+Minor Salivary Gland,70-79,SHBG,0.955,exact,salivary gland
+Minor Salivary Gland,70-79,CFAP157,0.224,exact,salivary gland
+Minor Salivary Gland,70-79,BEND3P3,,,
+Minor Salivary Gland,70-79,MVD,0.931,exact,salivary gland
+Minor Salivary Gland,70-79,TLCD1,0.663,exact,salivary gland
+Minor Salivary Gland,70-79,PLXNB1,1.639,exact,salivary gland
+Minor Salivary Gland,70-79,RNU6-50P,,,
+Minor Salivary Gland,70-79,FRG1CP,,,
+Minor Salivary Gland,70-79,LINC00242,1.607,global,gastric epithelium cell line
+Minor Salivary Gland,70-79,SUGT1P3,,,
+Minor Salivary Gland,70-79,ANAPC5,2.001,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000273004,,,
+Minor Salivary Gland,70-79,ENSG00000260121,,,
+Minor Salivary Gland,70-79,ENSG00000225531,,,
+Minor Salivary Gland,70-79,NAXE,1.439,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000254158,,,
+Minor Salivary Gland,70-79,SLPI,4.791,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000215905,,,
+Minor Salivary Gland,70-79,ZNF252P,,,
+Minor Salivary Gland,70-79,ENSG00000254971,,,
+Minor Salivary Gland,70-79,PPP6R2,1.236,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000231043,,,
+Minor Salivary Gland,70-79,ENSG00000285797,,,
+Minor Salivary Gland,70-79,MIR6823,,,
+Minor Salivary Gland,70-79,TRAF3,1.774,exact,salivary gland
+Minor Salivary Gland,70-79,ST3GAL4,1.409,exact,salivary gland
+Minor Salivary Gland,70-79,CYB5B,2.048,exact,salivary gland
+Minor Salivary Gland,70-79,RAD21P1,,,
+Minor Salivary Gland,70-79,ENSG00000275092,,,
+Minor Salivary Gland,70-79,RNU6-1057P,,,
+Minor Salivary Gland,70-79,FAXC,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000253785,,,
+Minor Salivary Gland,70-79,OR2AL1P,,,
+Minor Salivary Gland,70-79,MIR718,,,
+Minor Salivary Gland,70-79,LINC02021,,,
+Minor Salivary Gland,70-79,OR2AI1P,,,
+Minor Salivary Gland,70-79,DEFB112,2.282,global,bto:0000042
+Minor Salivary Gland,70-79,GALNT17,0.028,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000271010,,,
+Minor Salivary Gland,70-79,BUD23,1.462,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000227158,,,
+Minor Salivary Gland,70-79,PCDHA5,4.363,global,nervous system
+Minor Salivary Gland,70-79,SLC22A18AS,1.633,global,rhabdomyosarcoma cell line
+Minor Salivary Gland,70-79,RNU6-312P,,,
+Minor Salivary Gland,70-79,MON1B,1.009,exact,salivary gland
+Minor Salivary Gland,70-79,PAK1IP1,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,DDX56,1.246,exact,salivary gland
+Minor Salivary Gland,70-79,TRBV12-3,,,
+Minor Salivary Gland,70-79,ENSG00000233990,,,
+Minor Salivary Gland,70-79,RNU1-133P,,,
+Minor Salivary Gland,70-79,ZNF132,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000261140,,,
+Minor Salivary Gland,70-79,RPL31P30,,,
+Minor Salivary Gland,70-79,MPC1L,4.318,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,MTCYBP18,,,
+Minor Salivary Gland,70-79,PES1P2,,,
+Minor Salivary Gland,70-79,PHLPP2,4.901,global,bto:0000042
+Minor Salivary Gland,70-79,MT-TK,1.597,exact,salivary gland
+Minor Salivary Gland,70-79,TPT1P1,,,
+Minor Salivary Gland,70-79,ENSG00000226349,,,
+Minor Salivary Gland,70-79,SULT1C2P2,,,
+Minor Salivary Gland,70-79,PRKAG2,0.973,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000269794,,,
+Minor Salivary Gland,70-79,TRPM4,1.931,exact,salivary gland
+Minor Salivary Gland,70-79,CHD1L,1.732,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000271117,,,
+Minor Salivary Gland,70-79,MORN2,1.028,exact,salivary gland
+Minor Salivary Gland,70-79,KRT224P,,,
+Minor Salivary Gland,70-79,RPRD1A,1.202,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000273073,,,
+Minor Salivary Gland,70-79,EEF2KMT,0.54,exact,salivary gland
+Minor Salivary Gland,70-79,PALLD,1.363,exact,salivary gland
+Minor Salivary Gland,70-79,PDE9A,0.748,exact,salivary gland
+Minor Salivary Gland,70-79,IGHV1-69D,,,
+Minor Salivary Gland,70-79,ENSG00000287596,,,
+Minor Salivary Gland,70-79,EEF1A1P25,,,
+Minor Salivary Gland,70-79,ENSG00000287637,,,
+Minor Salivary Gland,70-79,RPL36AP21,,,
+Minor Salivary Gland,70-79,ENSG00000262011,,,
+Minor Salivary Gland,70-79,MIR1281,,,
+Minor Salivary Gland,70-79,FKBP1C,1.337,exact,salivary gland
+Minor Salivary Gland,70-79,CBY1P1,,,
+Minor Salivary Gland,70-79,HNF4G,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,PYCR2,4.983,global,bto:0000042
+Minor Salivary Gland,70-79,PF4,1.235,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000236137,,,
+Minor Salivary Gland,70-79,ENSG00000288015,,,
+Minor Salivary Gland,70-79,FDPS,2.175,exact,salivary gland
+Minor Salivary Gland,70-79,TP53BP2,0.748,exact,salivary gland
+Minor Salivary Gland,70-79,TCF4-AS2,,,
+Minor Salivary Gland,70-79,ENSG00000233535,,,
+Minor Salivary Gland,70-79,LINC02153,,,
+Minor Salivary Gland,70-79,FASTKD1,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,BOLA3,1.224,exact,salivary gland
+Minor Salivary Gland,70-79,CMTM6,1.134,exact,salivary gland
+Minor Salivary Gland,70-79,CHRAC1,0.845,exact,salivary gland
+Minor Salivary Gland,70-79,GLIS3,1.623,exact,salivary gland
+Minor Salivary Gland,70-79,NUPR2,1.683,global,spermatid
+Minor Salivary Gland,70-79,SCAT2,,,
+Minor Salivary Gland,70-79,CBLL2,4.45,global,testis
+Minor Salivary Gland,70-79,KRT18P10,,,
+Minor Salivary Gland,70-79,CDK11B,4.354,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,ENSG00000261263,,,
+Minor Salivary Gland,70-79,ENSG00000184188,,,
+Minor Salivary Gland,70-79,IGHV3-74,,,
+Minor Salivary Gland,70-79,DEFB110,2.105,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,ENSG00000287409,,,
+Minor Salivary Gland,70-79,ENSG00000235159,,,
+Minor Salivary Gland,70-79,RPL26P30,,,
+Minor Salivary Gland,70-79,ENSG00000230835,,,
+Minor Salivary Gland,70-79,EIF4A2P4,,,
+Minor Salivary Gland,70-79,ENSG00000288861,,,
+Minor Salivary Gland,70-79,PITPNB,1.0,exact,salivary gland
+Minor Salivary Gland,70-79,PFAS,0.616,exact,salivary gland
+Minor Salivary Gland,70-79,POLR3H,0.91,exact,salivary gland
+Minor Salivary Gland,70-79,EIF4ENIF1,0.778,exact,salivary gland
+Minor Salivary Gland,70-79,PSME3,1.781,exact,salivary gland
+Minor Salivary Gland,70-79,PIK3IP1-DT,,,
+Minor Salivary Gland,70-79,WFDC2,3.607,exact,salivary gland
+Minor Salivary Gland,70-79,RNF207,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,EPB41L5,1.512,exact,salivary gland
+Minor Salivary Gland,70-79,GATA2-AS1,1.465,global,aa
+Minor Salivary Gland,70-79,TRBJ2-2,,,
+Minor Salivary Gland,70-79,ENSG00000273804,,,
+Minor Salivary Gland,70-79,NAALADL2-AS2,1.25,global,mda-pca-2b cell
+Minor Salivary Gland,70-79,ENSG00000258444,,,
+Minor Salivary Gland,70-79,WNT3A,2.489,exact,salivary gland
+Minor Salivary Gland,70-79,NR1H5P,,,
+Minor Salivary Gland,70-79,DNAJA2-DT,,,
+Minor Salivary Gland,70-79,ENSG00000235288,,,
+Minor Salivary Gland,70-79,RN7SL108P,,,
+Minor Salivary Gland,70-79,LINC02556,,,
+Minor Salivary Gland,70-79,ENSG00000227496,,,
+Minor Salivary Gland,70-79,PPIAP52,,,
+Minor Salivary Gland,70-79,ENSG00000226432,,,
+Minor Salivary Gland,70-79,ODF2,0.802,exact,salivary gland
+Minor Salivary Gland,70-79,ZNF565,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000265289,,,
+Minor Salivary Gland,70-79,CNN2,1.583,exact,salivary gland
+Minor Salivary Gland,70-79,MYO19,1.16,exact,salivary gland
+Minor Salivary Gland,70-79,LINC01423,0.986,global,epiphysis
+Minor Salivary Gland,70-79,IGHV1-58,,,
+Minor Salivary Gland,70-79,H2AZP5,,,
+Minor Salivary Gland,70-79,SLC2A9,1.804,exact,salivary gland
+Minor Salivary Gland,70-79,LINC01587,1.68,global,nccit cell
+Minor Salivary Gland,70-79,AKR1C5P,,,
+Minor Salivary Gland,70-79,NEPNP,,,
+Minor Salivary Gland,70-79,ATP5MFP2,,,
+Minor Salivary Gland,70-79,TOB2P1,,,
+Minor Salivary Gland,70-79,ENSG00000254757,,,
+Minor Salivary Gland,70-79,TRAPPC14,,,
+Minor Salivary Gland,70-79,ENSG00000240898,,,
+Minor Salivary Gland,70-79,FAM85B,1.604,global,atrial appendage
+Minor Salivary Gland,70-79,ENSG00000219023,,,
+Minor Salivary Gland,70-79,UIMC1,0.748,exact,salivary gland
+Minor Salivary Gland,70-79,ERMAP,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000241954,,,
+Minor Salivary Gland,70-79,TRMT61B,0.852,exact,salivary gland
+Minor Salivary Gland,70-79,NUP85,0.896,exact,salivary gland
+Minor Salivary Gland,70-79,UQCC2,1.362,exact,salivary gland
+Minor Salivary Gland,70-79,CBX1P2,,,
+Minor Salivary Gland,70-79,MMS19,1.527,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000289624,,,
+Minor Salivary Gland,70-79,TFB2M,0.716,exact,salivary gland
+Minor Salivary Gland,70-79,GTF2H5,0.29,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000273464,,,
+Minor Salivary Gland,70-79,RBBP8,0.899,exact,salivary gland
+Minor Salivary Gland,70-79,RPS2P36,,,
+Minor Salivary Gland,70-79,ENSG00000274238,,,
+Minor Salivary Gland,70-79,PKD1P4,,,
+Minor Salivary Gland,70-79,ENSG00000289398,,,
+Minor Salivary Gland,70-79,CCDC92,0.928,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000254019,,,
+Minor Salivary Gland,70-79,U3,,,
+Minor Salivary Gland,70-79,LINS1,1.516,exact,salivary gland
+Minor Salivary Gland,70-79,FOXJ1,1.139,exact,salivary gland
+Minor Salivary Gland,70-79,LTV1,0.758,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000258150,,,
+Minor Salivary Gland,70-79,COMMD2,0.841,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000285361,,,
+Minor Salivary Gland,70-79,ENSG00000240674,,,
+Minor Salivary Gland,70-79,ENSG00000262372,,,
+Minor Salivary Gland,70-79,GSK3B,2.225,exact,salivary gland
+Minor Salivary Gland,70-79,BIN3,0.931,exact,salivary gland
+Minor Salivary Gland,70-79,HSP90B2P,,,
+Minor Salivary Gland,70-79,ENSG00000288732,,,
+Minor Salivary Gland,70-79,LYG1,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,TMEM97,1.699,exact,salivary gland
+Minor Salivary Gland,70-79,DPP3,0.584,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000254760,,,
+Minor Salivary Gland,70-79,ENSG00000277501,,,
+Minor Salivary Gland,70-79,EXOG,0.255,exact,salivary gland
+Minor Salivary Gland,70-79,HSPA8P9,,,
+Minor Salivary Gland,70-79,ENSG00000288962,,,
+Minor Salivary Gland,70-79,LRRC8D,1.799,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000279384,,,
+Minor Salivary Gland,70-79,OXR1-AS1,,,
+Minor Salivary Gland,70-79,ANKRD18A,0.372,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000270115,,,
+Minor Salivary Gland,70-79,TBRG4,1.084,exact,salivary gland
+Minor Salivary Gland,70-79,RBM39P1,,,
+Minor Salivary Gland,70-79,CNN3,2.149,exact,salivary gland
+Minor Salivary Gland,70-79,CARS1,1.537,exact,salivary gland
+Minor Salivary Gland,70-79,KRT19,3.679,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000267207,,,
+Minor Salivary Gland,70-79,RARA-AS1,1.365,global,scale
+Minor Salivary Gland,70-79,LINC01740,,,
+Minor Salivary Gland,70-79,ENSG00000239986,,,
+Minor Salivary Gland,70-79,ENSG00000287697,,,
+Minor Salivary Gland,70-79,PDCD2,1.204,exact,salivary gland
+Minor Salivary Gland,70-79,CDK2AP1,1.872,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000229283,,,
+Minor Salivary Gland,70-79,TRAPPC10,1.316,exact,salivary gland
+Minor Salivary Gland,70-79,THOC6,0.853,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000257587,,,
+Minor Salivary Gland,70-79,RIOX2,1.069,exact,salivary gland
+Minor Salivary Gland,70-79,LDHAP2,,,
+Minor Salivary Gland,70-79,FDFT1,2.024,exact,salivary gland
+Minor Salivary Gland,70-79,XPNPEP1,1.279,exact,salivary gland
+Minor Salivary Gland,70-79,OR4G2P,,,
+Minor Salivary Gland,70-79,PDZK1,0.827,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000225720,,,
+Minor Salivary Gland,70-79,ENSG00000272566,,,
+Minor Salivary Gland,70-79,NKILA,,,
+Minor Salivary Gland,70-79,RPS2P55,,,
+Minor Salivary Gland,70-79,LINC02332,,,
+Minor Salivary Gland,70-79,ENSG00000262172,,,
+Minor Salivary Gland,70-79,RHPN1,0.598,exact,salivary gland
+Minor Salivary Gland,70-79,CMC1,1.236,exact,salivary gland
+Minor Salivary Gland,70-79,PKP4-AS1,,,
+Minor Salivary Gland,70-79,NRL,4.873,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,RPS27P27,,,
+Minor Salivary Gland,70-79,ANXA2P1,,,
+Minor Salivary Gland,70-79,RN7SL828P,,,
+Minor Salivary Gland,70-79,CTSH,2.741,exact,salivary gland
+Minor Salivary Gland,70-79,SYT12,1.045,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000272682,,,
+Minor Salivary Gland,70-79,AGAP6,0.669,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000243314,,,
+Minor Salivary Gland,70-79,JMJD4,0.758,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000289494,,,
+Minor Salivary Gland,70-79,ENSG00000233406,,,
+Minor Salivary Gland,70-79,ZSCAN5A-AS1,,,
+Minor Salivary Gland,70-79,LINC00239,1.697,global,acute myeloid leukemia cell
+Minor Salivary Gland,70-79,RPL7L1P13,,,
+Minor Salivary Gland,70-79,ENSG00000231747,,,
+Minor Salivary Gland,70-79,YBX2,0.903,exact,salivary gland
+Minor Salivary Gland,70-79,PAXIP1,0.437,exact,salivary gland
+Minor Salivary Gland,70-79,HGD,1.071,exact,salivary gland
+Minor Salivary Gland,70-79,SMIM11A,0.596,exact,salivary gland
+Minor Salivary Gland,70-79,FTH1P12,,,
+Minor Salivary Gland,70-79,RNU7-38P,,,
+Minor Salivary Gland,70-79,LSS,0.869,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000243445,,,
+Minor Salivary Gland,70-79,LINC01331,0.963,global,sh-sy5y cell
+Minor Salivary Gland,70-79,B3GAT3,1.064,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000250020,,,
+Minor Salivary Gland,70-79,CA5BP1,,,
+Minor Salivary Gland,70-79,ENSG00000289177,,,
+Minor Salivary Gland,70-79,ENSG00000248637,,,
+Minor Salivary Gland,70-79,ENSG00000239969,,,
+Minor Salivary Gland,70-79,LINC01133,1.952,global,adenocarcinoma cell
+Minor Salivary Gland,70-79,VPS37C,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,RNF180,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ATF4,2.919,exact,salivary gland
+Minor Salivary Gland,70-79,SLC66A2,1.114,exact,salivary gland
+Minor Salivary Gland,70-79,HSD17B7,0.705,exact,salivary gland
+Minor Salivary Gland,70-79,ACOT9,0.738,exact,salivary gland
+Minor Salivary Gland,70-79,PDE4DIPP4,,,
+Minor Salivary Gland,70-79,EIF2S2P4,,,
+Minor Salivary Gland,70-79,DENND1B,0.69,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000242140,,,
+Minor Salivary Gland,70-79,OSGIN2,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000256723,,,
+Minor Salivary Gland,70-79,RPL7L1P3,,,
+Minor Salivary Gland,70-79,ENSG00000255207,,,
+Minor Salivary Gland,70-79,HMGB3P22,,,
+Minor Salivary Gland,70-79,ENSG00000285911,,,
+Minor Salivary Gland,70-79,ENSG00000204758,,,
+Minor Salivary Gland,70-79,RPL7AP50,,,
+Minor Salivary Gland,70-79,RN7SL306P,,,
+Minor Salivary Gland,70-79,ERVK3-1,1.691,global,l540
+Minor Salivary Gland,70-79,RPL5P4,,,
+Minor Salivary Gland,70-79,SAMD4A,1.116,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000288526,,,
+Minor Salivary Gland,70-79,B3GALNT1,1.574,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000234542,,,
+Minor Salivary Gland,70-79,H3P47,,,
+Minor Salivary Gland,70-79,RXFP4,0.501,exact,salivary gland
+Minor Salivary Gland,70-79,RAB43P1,,,
+Minor Salivary Gland,70-79,ENSG00000287019,,,
+Minor Salivary Gland,70-79,LINC00161,2.004,global,osteosarcoma cell
+Minor Salivary Gland,70-79,HSPD1P14,,,
+Minor Salivary Gland,70-79,RPL23AP55,,,
+Minor Salivary Gland,70-79,ENSG00000265943,,,
+Minor Salivary Gland,70-79,ENSG00000248551,,,
+Minor Salivary Gland,70-79,RNU6-1018P,,,
+Minor Salivary Gland,70-79,WBP1LP10,,,
+Minor Salivary Gland,70-79,ENSG00000236162,,,
+Minor Salivary Gland,70-79,ZDHHC20P1,,,
+Minor Salivary Gland,70-79,MAPRE1,1.188,exact,salivary gland
+Minor Salivary Gland,70-79,CNN3-DT,,,
+Minor Salivary Gland,70-79,NUDT19-DT,,,
+Minor Salivary Gland,70-79,GCSHP5,,,
+Minor Salivary Gland,70-79,LINC02138,,,
+Minor Salivary Gland,70-79,ENSG00000259774,,,
+Minor Salivary Gland,70-79,GOLGA5,1.644,exact,salivary gland
+Minor Salivary Gland,70-79,SNORA20,1.362,global,hypanthium
+Minor Salivary Gland,70-79,SHC1P1,,,
+Minor Salivary Gland,70-79,IFRD2,1.392,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000226706,,,
+Minor Salivary Gland,70-79,F2RL1,0.954,exact,salivary gland
+Minor Salivary Gland,70-79,CCZ1,4.981,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,SNX9,1.619,exact,salivary gland
+Minor Salivary Gland,70-79,NDUFB9P2,,,
+Minor Salivary Gland,70-79,PLSCR1,1.961,exact,salivary gland
+Minor Salivary Gland,70-79,HNRNPA1P59,,,
+Minor Salivary Gland,70-79,ENSG00000259394,,,
+Minor Salivary Gland,70-79,MIR378J,,,
+Minor Salivary Gland,70-79,ENSG00000256448,,,
+Minor Salivary Gland,70-79,RNU1-51P,,,
+Minor Salivary Gland,70-79,RTKN,1.138,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000213383,,,
+Minor Salivary Gland,70-79,NAT9,1.084,exact,salivary gland
+Minor Salivary Gland,70-79,CTAGE8,0.64,exact,salivary gland
+Minor Salivary Gland,70-79,RAPH1,0.58,exact,salivary gland
+Minor Salivary Gland,70-79,DGUOK,1.656,exact,salivary gland
+Minor Salivary Gland,70-79,LINC02259,,,
+Minor Salivary Gland,70-79,RPL21P119,,,
+Minor Salivary Gland,70-79,RNU4-49P,,,
+Minor Salivary Gland,70-79,SLC39A13,1.721,exact,salivary gland
+Minor Salivary Gland,70-79,MTCO1P2,,,
+Minor Salivary Gland,70-79,ABCC5-AS1,1.089,global,bpe
+Minor Salivary Gland,70-79,SNRPA1P1,,,
+Minor Salivary Gland,70-79,ABCA7,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,TIFA,1.244,exact,salivary gland
+Minor Salivary Gland,70-79,DPM2,1.252,exact,salivary gland
+Minor Salivary Gland,70-79,TTLL4,0.768,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000252040,,,
+Minor Salivary Gland,70-79,MEIS3P1,,,
+Minor Salivary Gland,70-79,RPL29P7,,,
+Minor Salivary Gland,70-79,ENSG00000251185,,,
+Minor Salivary Gland,70-79,SNAI3-AS1,1.753,global,t-98 cell
+Minor Salivary Gland,70-79,MIRLET7A1HG,,,
+Minor Salivary Gland,70-79,SINHCAF,1.02,exact,salivary gland
+Minor Salivary Gland,70-79,MIR4259,,,
+Minor Salivary Gland,70-79,LUZP1,1.023,exact,salivary gland
+Minor Salivary Gland,70-79,OOEP,2.553,global,bto:0000964
+Minor Salivary Gland,70-79,ENSG00000287141,,,
+Minor Salivary Gland,70-79,DHX9P1,,,
+Minor Salivary Gland,70-79,HMGN2P6,,,
+Minor Salivary Gland,70-79,RPS4XP13,,,
+Minor Salivary Gland,70-79,ENSG00000243081,,,
+Minor Salivary Gland,70-79,ENSG00000250893,,,
+Minor Salivary Gland,70-79,RPL5P24,,,
+Minor Salivary Gland,70-79,WDR46,1.023,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000278863,,,
+Minor Salivary Gland,70-79,KBTBD4,0.736,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000266944,,,
+Minor Salivary Gland,70-79,ZNF669,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,LINC01518,1.419,global,ec
+Minor Salivary Gland,70-79,ENSG00000237027,,,
+Minor Salivary Gland,70-79,ENSG00000250914,,,
+Minor Salivary Gland,70-79,RNU6-1280P,,,
+Minor Salivary Gland,70-79,FAHD2P1,,,
+Minor Salivary Gland,70-79,DENND5A,1.104,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000261839,,,
+Minor Salivary Gland,70-79,GAPDHP53,,,
+Minor Salivary Gland,70-79,MRPL40P1,,,
+Minor Salivary Gland,70-79,ENSG00000261815,,,
+Minor Salivary Gland,70-79,PPA1,1.938,exact,salivary gland
+Minor Salivary Gland,70-79,ZNF195,0.637,exact,salivary gland
+Minor Salivary Gland,70-79,VCL,2.239,exact,salivary gland
+Minor Salivary Gland,70-79,PRPS1,0.931,exact,salivary gland
+Minor Salivary Gland,70-79,RPL7P44,,,
+Minor Salivary Gland,70-79,ENSG00000265474,,,
+Minor Salivary Gland,70-79,COX6B1P4,,,
+Minor Salivary Gland,70-79,RNU6-1053P,,,
+Minor Salivary Gland,70-79,TCP1P3,,,
+Minor Salivary Gland,70-79,ENSG00000237494,,,
+Minor Salivary Gland,70-79,RN7SL594P,,,
+Minor Salivary Gland,70-79,RPL10P15,,,
+Minor Salivary Gland,70-79,ENSG00000230515,,,
+Minor Salivary Gland,70-79,MMP19,0.19,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000277545,,,
+Minor Salivary Gland,70-79,RNU5B-4P,,,
+Minor Salivary Gland,70-79,ENSG00000260693,,,
+Minor Salivary Gland,70-79,HNRNPA3P13,,,
+Minor Salivary Gland,70-79,SNORD91A,0.963,global,ec
+Minor Salivary Gland,70-79,RNF19A,0.888,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000280325,,,
+Minor Salivary Gland,70-79,SNF8,1.474,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000213067,,,
+Minor Salivary Gland,70-79,RBM26-AS1,1.193,global,corpus amylaceum
+Minor Salivary Gland,70-79,SARS2,1.523,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000258520,,,
+Minor Salivary Gland,70-79,PPIL6,0.125,exact,salivary gland
+Minor Salivary Gland,70-79,RPL7P22,,,
+Minor Salivary Gland,70-79,BUD13P1,,,
+Minor Salivary Gland,70-79,CTNND2,0.966,exact,salivary gland
+Minor Salivary Gland,70-79,ARRDC3-AS1,1.121,global,hfob cell
+Minor Salivary Gland,70-79,ENSG00000258077,,,
+Minor Salivary Gland,70-79,SIGIRR,1.667,exact,salivary gland
+Minor Salivary Gland,70-79,RNF138P1,,,
+Minor Salivary Gland,70-79,SRF,1.778,exact,salivary gland
+Minor Salivary Gland,70-79,SIGLEC31P,,,
+Minor Salivary Gland,70-79,POP4,1.344,exact,salivary gland
+Minor Salivary Gland,70-79,PRKAG2-AS1,1.333,global,sw-1116 cell
+Minor Salivary Gland,70-79,OR2P1P,,,
+Minor Salivary Gland,70-79,RN7SL199P,,,
+Minor Salivary Gland,70-79,NEBL,1.534,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000235861,,,
+Minor Salivary Gland,70-79,PPP1R10P1,,,
+Minor Salivary Gland,70-79,ZNF155,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,DGKQ,1.166,exact,salivary gland
+Minor Salivary Gland,70-79,OR10U1P,,,
+Minor Salivary Gland,70-79,ENSG00000269896,,,
+Minor Salivary Gland,70-79,SNORD13E,,,
+Minor Salivary Gland,70-79,LINC01709,,,
+Minor Salivary Gland,70-79,CD81,3.221,exact,salivary gland
+Minor Salivary Gland,70-79,OR4K1,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,Y_RNA,0.964,exact,salivary gland
+Minor Salivary Gland,70-79,RWDD4P2,,,
+Minor Salivary Gland,70-79,RN7SL515P,,,
+Minor Salivary Gland,70-79,RNU6-977P,,,
+Minor Salivary Gland,70-79,ENSG00000236814,,,
+Minor Salivary Gland,70-79,ENSG00000248356,,,
+Minor Salivary Gland,70-79,DCAF4,0.65,exact,salivary gland
+Minor Salivary Gland,70-79,CH25H,4.82,global,bto:0000042
+Minor Salivary Gland,70-79,ATOX1,1.628,exact,salivary gland
+Minor Salivary Gland,70-79,TOP3A,0.616,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000287203,,,
+Minor Salivary Gland,70-79,ENSG00000230118,,,
+Minor Salivary Gland,70-79,ENSG00000279248,,,
+Minor Salivary Gland,70-79,PTGER2,0.544,exact,salivary gland
+Minor Salivary Gland,70-79,PLAAT3,1.168,exact,salivary gland
+Minor Salivary Gland,70-79,TRMT61A,0.618,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000213080,,,
+Minor Salivary Gland,70-79,IQCB1,0.892,exact,salivary gland
+Minor Salivary Gland,70-79,IGLV1-47,,,
+Minor Salivary Gland,70-79,RPL36AP51,,,
+Minor Salivary Gland,70-79,SLC37A3,1.14,exact,salivary gland
+Minor Salivary Gland,70-79,STOX1,0.58,exact,salivary gland
+Minor Salivary Gland,70-79,RXYLT1,0.849,exact,salivary gland
+Minor Salivary Gland,70-79,MT1P1,,,
+Minor Salivary Gland,70-79,ENSG00000272172,,,
+Minor Salivary Gland,70-79,ENSG00000286142,,,
+Minor Salivary Gland,70-79,ENSG00000240271,,,
+Minor Salivary Gland,70-79,TTC7A,1.039,exact,salivary gland
+Minor Salivary Gland,70-79,VDAC1P2,,,
+Minor Salivary Gland,70-79,SNORD96A,1.643,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,ALDH1L1-AS1,,,
+Minor Salivary Gland,70-79,RNU4-52P,,,
+Minor Salivary Gland,70-79,GCSHP1,,,
+Minor Salivary Gland,70-79,L3MBTL4,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000259986,,,
+Minor Salivary Gland,70-79,ARHGAP21,1.168,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000255496,,,
+Minor Salivary Gland,70-79,DUX4L47,,,
+Minor Salivary Gland,70-79,RWDD4,0.815,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000257509,,,
+Minor Salivary Gland,70-79,BCR,2.397,exact,salivary gland
+Minor Salivary Gland,70-79,TMEM234,0.705,exact,salivary gland
+Minor Salivary Gland,70-79,MPP3,0.133,exact,salivary gland
+Minor Salivary Gland,70-79,DENND3-AS1,,,
+Minor Salivary Gland,70-79,CFL1P2,,,
+Minor Salivary Gland,70-79,ENSG00000258131,,,
+Minor Salivary Gland,70-79,ECD,0.828,exact,salivary gland
+Minor Salivary Gland,70-79,ARID5A,0.656,exact,salivary gland
+Minor Salivary Gland,70-79,FLJ13224,1.709,global,m5 melanoma cell
+Minor Salivary Gland,70-79,ENSG00000274849,,,
+Minor Salivary Gland,70-79,DNAJC19P4,,,
+Minor Salivary Gland,70-79,GPAT2,4.625,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,VN1R13P,,,
+Minor Salivary Gland,70-79,SNORD3G,,,
+Minor Salivary Gland,70-79,ENSG00000213226,,,
+Minor Salivary Gland,70-79,ATAT1,0.176,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000229915,,,
+Minor Salivary Gland,70-79,FAM86EP,,,
+Minor Salivary Gland,70-79,TASP1,1.25,exact,salivary gland
+Minor Salivary Gland,70-79,NSUN5,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,AHCYP7,,,
+Minor Salivary Gland,70-79,ENSG00000253399,,,
+Minor Salivary Gland,70-79,GPC5,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,THRAP3P3,,,
+Minor Salivary Gland,70-79,ENSG00000273387,,,
+Minor Salivary Gland,70-79,CASC8,1.719,global,bto:0000042
+Minor Salivary Gland,70-79,FLAD1,0.951,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000215146,,,
+Minor Salivary Gland,70-79,TMEM139-AS1,,,
+Minor Salivary Gland,70-79,ENSG00000267127,,,
+Minor Salivary Gland,70-79,RNU1-16P,,,
+Minor Salivary Gland,70-79,CABIN1,1.591,exact,salivary gland
+Minor Salivary Gland,70-79,HMGB1P44,,,
+Minor Salivary Gland,70-79,ENSG00000226040,,,
+Minor Salivary Gland,70-79,CAMTA2,1.079,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000279667,,,
+Minor Salivary Gland,70-79,TMC6,2.142,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000289518,,,
+Minor Salivary Gland,70-79,MOCOS,0.541,exact,salivary gland
+Minor Salivary Gland,70-79,LINC01933,,,
+Minor Salivary Gland,70-79,ENSG00000259443,,,
+Minor Salivary Gland,70-79,ENSG00000213365,,,
+Minor Salivary Gland,70-79,PGAM1P11,,,
+Minor Salivary Gland,70-79,ENSG00000289048,,,
+Minor Salivary Gland,70-79,PTS,1.681,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000257506,,,
+Minor Salivary Gland,70-79,ENSG00000273668,,,
+Minor Salivary Gland,70-79,ENSG00000250039,,,
+Minor Salivary Gland,70-79,FAM83F,0.392,exact,salivary gland
+Minor Salivary Gland,70-79,CYP4X1,0.699,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000228084,,,
+Minor Salivary Gland,70-79,TRAF4,2.131,exact,salivary gland
+Minor Salivary Gland,70-79,SNORA66,1.789,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,NOL7,1.333,exact,salivary gland
+Minor Salivary Gland,70-79,CCDC15-DT,,,
+Minor Salivary Gland,70-79,ENSG00000280388,,,
+Minor Salivary Gland,70-79,FUNDC2P1,,,
+Minor Salivary Gland,70-79,SMYD4,0.587,exact,salivary gland
+Minor Salivary Gland,70-79,ANXA3,2.203,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000224366,,,
+Minor Salivary Gland,70-79,RAB11FIP3,0.941,exact,salivary gland
+Minor Salivary Gland,70-79,SNX19,1.268,exact,salivary gland
+Minor Salivary Gland,70-79,HSF2BP,4.649,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,LNCAROD,,,
+Minor Salivary Gland,70-79,ZNF460,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,RNU6ATAC35P,,,
+Minor Salivary Gland,70-79,WDR1,2.271,exact,salivary gland
+Minor Salivary Gland,70-79,TBILA,,,
+Minor Salivary Gland,70-79,RPL7P2,,,
+Minor Salivary Gland,70-79,ENSG00000237317,,,
+Minor Salivary Gland,70-79,RPS3P2,,,
+Minor Salivary Gland,70-79,MYO1C,1.643,exact,salivary gland
+Minor Salivary Gland,70-79,RPS27AP11,,,
+Minor Salivary Gland,70-79,MAP3K6,0.824,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000277182,,,
+Minor Salivary Gland,70-79,CCDC113,0.489,exact,salivary gland
+Minor Salivary Gland,70-79,METTL25,0.301,exact,salivary gland
+Minor Salivary Gland,70-79,NME2P1,,,
+Minor Salivary Gland,70-79,MT-TW,3.489,global,cob
+Minor Salivary Gland,70-79,DHCR7,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,RYK,1.681,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000238122,,,
+Minor Salivary Gland,70-79,METTL5,1.365,exact,salivary gland
+Minor Salivary Gland,70-79,LINC02615,,,
+Minor Salivary Gland,70-79,RPL23AP2,,,
+Minor Salivary Gland,70-79,EEF1B2P8,,,
+Minor Salivary Gland,70-79,ENSG00000286356,,,
+Minor Salivary Gland,70-79,SLC12A4,1.525,exact,salivary gland
+Minor Salivary Gland,70-79,OSTN-AS1,1.362,global,nhok cell
+Minor Salivary Gland,70-79,RPSAP3,,,
+Minor Salivary Gland,70-79,SULT1E1,0.166,exact,salivary gland
+Minor Salivary Gland,70-79,MIR647,,,
+Minor Salivary Gland,70-79,SOWAHA,0.239,exact,salivary gland
+Minor Salivary Gland,70-79,RNF145,1.033,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000279632,,,
+Minor Salivary Gland,70-79,ENSG00000226659,,,
+Minor Salivary Gland,70-79,C6ORF223,1.423,global,hep-g2/2.15 cell
+Minor Salivary Gland,70-79,MUS81,1.118,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000267811,,,
+Minor Salivary Gland,70-79,POLR3C,0.82,exact,salivary gland
+Minor Salivary Gland,70-79,PTPN2P1,,,
+Minor Salivary Gland,70-79,SSX2IP,0.523,exact,salivary gland
+Minor Salivary Gland,70-79,SHLD2,0.753,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000224600,,,
+Minor Salivary Gland,70-79,ARL14EPL,1.073,global,corpus luteum
+Minor Salivary Gland,70-79,CYP2C8,0.911,exact,salivary gland
+Minor Salivary Gland,70-79,PPIC-AS1,,,
+Minor Salivary Gland,70-79,ENSG00000289202,,,
+Minor Salivary Gland,70-79,FAM182A,,,
+Minor Salivary Gland,70-79,ENSG00000271851,,,
+Minor Salivary Gland,70-79,CCNC,2.005,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000274367,,,
+Minor Salivary Gland,70-79,PPIAP41,,,
+Minor Salivary Gland,70-79,POLR1C,1.023,exact,salivary gland
+Minor Salivary Gland,70-79,EFNB2,1.277,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000259672,,,
+Minor Salivary Gland,70-79,ENSG00000236938,,,
+Minor Salivary Gland,70-79,ZNF182,0.146,exact,salivary gland
+Minor Salivary Gland,70-79,LINC01465,1.533,global,ahl1
+Minor Salivary Gland,70-79,TMEM183BP,,,
+Minor Salivary Gland,70-79,KRT18P65,,,
+Minor Salivary Gland,70-79,RPL10AP3,,,
+Minor Salivary Gland,70-79,LINC02146,,,
+Minor Salivary Gland,70-79,RPL4P1,,,
+Minor Salivary Gland,70-79,NFKB1,2.665,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000287828,,,
+Minor Salivary Gland,70-79,TPRG1-AS1,1.298,global,aortic smooth muscle cell
+Minor Salivary Gland,70-79,SLC6A14P3,,,
+Minor Salivary Gland,70-79,DAP,1.799,exact,salivary gland
+Minor Salivary Gland,70-79,RAB41,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000275216,,,
+Minor Salivary Gland,70-79,BRWD1-AS2,,,
+Minor Salivary Gland,70-79,RHEB,1.787,exact,salivary gland
+Minor Salivary Gland,70-79,BOLA2P2,,,
+Minor Salivary Gland,70-79,PAICSP6,,,
+Minor Salivary Gland,70-79,RHOU,0.982,exact,salivary gland
+Minor Salivary Gland,70-79,STPG4,0.467,exact,salivary gland
+Minor Salivary Gland,70-79,LINC01721,,,
+Minor Salivary Gland,70-79,CAPN10,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,NT5C,1.033,exact,salivary gland
+Minor Salivary Gland,70-79,LINC02354,,,
+Minor Salivary Gland,70-79,GASAL1,,,
+Minor Salivary Gland,70-79,SNURFL,,,
+Minor Salivary Gland,70-79,CETN2,1.559,exact,salivary gland
+Minor Salivary Gland,70-79,PIK3R3,1.133,exact,salivary gland
+Minor Salivary Gland,70-79,PON3,1.191,exact,salivary gland
+Minor Salivary Gland,70-79,CXCL17,2.133,exact,salivary gland
+Minor Salivary Gland,70-79,DNAJC17,1.072,exact,salivary gland
+Minor Salivary Gland,70-79,SLC4A3,1.006,exact,salivary gland
+Minor Salivary Gland,70-79,RN7SL452P,,,
+Minor Salivary Gland,70-79,PARL,1.33,exact,salivary gland
+Minor Salivary Gland,70-79,PAX2,1.439,exact,salivary gland
+Minor Salivary Gland,70-79,MIR615,,,
+Minor Salivary Gland,70-79,DENND2D,1.096,exact,salivary gland
+Minor Salivary Gland,70-79,MAPKAPK2,1.805,exact,salivary gland
+Minor Salivary Gland,70-79,ATP5MC2P4,,,
+Minor Salivary Gland,70-79,ENSG00000280244,,,
+Minor Salivary Gland,70-79,C8ORF33,0.928,exact,salivary gland
+Minor Salivary Gland,70-79,KRT8,3.322,exact,salivary gland
+Minor Salivary Gland,70-79,ELOBP1,,,
+Minor Salivary Gland,70-79,EIF4EP3,,,
+Minor Salivary Gland,70-79,FRK,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ATG4A,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,SPIRE1,0.815,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000249444,,,
+Minor Salivary Gland,70-79,MT-TH,3.256,global,plant
+Minor Salivary Gland,70-79,ANAPC15,1.182,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000224635,,,
+Minor Salivary Gland,70-79,ENSG00000243280,,,
+Minor Salivary Gland,70-79,LSM12P1,,,
+Minor Salivary Gland,70-79,IGHV3-33,,,
+Minor Salivary Gland,70-79,ENSG00000283849,,,
+Minor Salivary Gland,70-79,ALDH1A3,4.41,exact,salivary gland
+Minor Salivary Gland,70-79,ESRRA,1.857,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000233839,,,
+Minor Salivary Gland,70-79,DDX31,0.63,exact,salivary gland
+Minor Salivary Gland,70-79,RN7SL655P,,,
+Minor Salivary Gland,70-79,LYRM9,0.954,exact,salivary gland
+Minor Salivary Gland,70-79,IKZF4,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,PTDSS1,1.657,exact,salivary gland
+Minor Salivary Gland,70-79,ZNF396,0.301,exact,salivary gland
+Minor Salivary Gland,70-79,NXT2,0.572,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000229750,,,
+Minor Salivary Gland,70-79,RPL4P5,,,
+Minor Salivary Gland,70-79,ENSG00000279413,,,
+Minor Salivary Gland,70-79,ELP6,0.961,exact,salivary gland
+Minor Salivary Gland,70-79,MT-TR,3.247,global,cob
+Minor Salivary Gland,70-79,ACOT4,4.705,global,bto:0000042
+Minor Salivary Gland,70-79,MIR208A,,,
+Minor Salivary Gland,70-79,TP53I3,0.976,exact,salivary gland
+Minor Salivary Gland,70-79,RHBDF1,1.252,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000229321,,,
+Minor Salivary Gland,70-79,ENSG00000259478,,,
+Minor Salivary Gland,70-79,GCSAM,0.727,exact,salivary gland
+Minor Salivary Gland,70-79,GGCTP1,,,
+Minor Salivary Gland,70-79,TARS1,1.752,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000286138,,,
+Minor Salivary Gland,70-79,POMGNT1,1.114,exact,salivary gland
+Minor Salivary Gland,70-79,RN7SL530P,,,
+Minor Salivary Gland,70-79,ENSG00000239470,,,
+Minor Salivary Gland,70-79,ENSG00000244245,,,
+Minor Salivary Gland,70-79,TMEM191A,,,
+Minor Salivary Gland,70-79,OR7E125P,,,
+Minor Salivary Gland,70-79,POLG,0.954,exact,salivary gland
+Minor Salivary Gland,70-79,ZNF749,0.368,exact,salivary gland
+Minor Salivary Gland,70-79,PSME2P2,,,
+Minor Salivary Gland,70-79,ATP6V0E2-AS1,1.25,global,thyroid nodule
+Minor Salivary Gland,70-79,ENSG00000289423,,,
+Minor Salivary Gland,70-79,ADCK1,0.415,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000227704,,,
+Minor Salivary Gland,70-79,ENSG00000267145,,,
+Minor Salivary Gland,70-79,CUEDC1,1.308,exact,salivary gland
+Minor Salivary Gland,70-79,PNO1,0.54,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000288754,,,
+Minor Salivary Gland,70-79,ENSG00000262358,,,
+Minor Salivary Gland,70-79,PTPMT1,1.315,exact,salivary gland
+Minor Salivary Gland,70-79,COQ7,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,HES6,0.255,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000285599,,,
+Minor Salivary Gland,70-79,ENSG00000266947,,,
+Minor Salivary Gland,70-79,ENSG00000276949,,,
+Minor Salivary Gland,70-79,BATF,1.495,exact,salivary gland
+Minor Salivary Gland,70-79,DNAJC30,0.447,exact,salivary gland
+Minor Salivary Gland,70-79,BPIFA2,4.854,exact,salivary gland
+Minor Salivary Gland,70-79,UQCRHP3,,,
+Minor Salivary Gland,70-79,DACH1,0.593,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000241494,,,
+Minor Salivary Gland,70-79,ENSG00000257405,,,
+Minor Salivary Gland,70-79,ARFGEF1-DT,,,
+Minor Salivary Gland,70-79,RPL8P1,,,
+Minor Salivary Gland,70-79,NLRP2,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000289602,,,
+Minor Salivary Gland,70-79,KRT8P25,,,
+Minor Salivary Gland,70-79,ENSG00000280280,,,
+Minor Salivary Gland,70-79,ENSG00000261773,,,
+Minor Salivary Gland,70-79,FAM102B,0.853,exact,salivary gland
+Minor Salivary Gland,70-79,UGGT2,1.434,exact,salivary gland
+Minor Salivary Gland,70-79,PSMC1P1,,,
+Minor Salivary Gland,70-79,MARS1,1.399,exact,salivary gland
+Minor Salivary Gland,70-79,CSNK2A3,4.366,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,FXYD6P1,,,
+Minor Salivary Gland,70-79,C3ORF52,0.698,exact,salivary gland
+Minor Salivary Gland,70-79,FNTAP1,,,
+Minor Salivary Gland,70-79,NFIA-AS1,2.3,global,foam cell
+Minor Salivary Gland,70-79,ENSG00000251489,,,
+Minor Salivary Gland,70-79,CYTOR,,,
+Minor Salivary Gland,70-79,TBC1D9B,1.417,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000223958,,,
+Minor Salivary Gland,70-79,ENSG00000223901,,,
+Minor Salivary Gland,70-79,ENSG00000245719,,,
+Minor Salivary Gland,70-79,ZNF136,0.342,exact,salivary gland
+Minor Salivary Gland,70-79,TRBJ2-1,,,
+Minor Salivary Gland,70-79,CEP170B,0.743,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000231995,,,
+Minor Salivary Gland,70-79,METTL8P1,,,
+Minor Salivary Gland,70-79,ZNF22-AS1,,,
+Minor Salivary Gland,70-79,DPY19L1P2,,,
+Minor Salivary Gland,70-79,ENSG00000286387,,,
+Minor Salivary Gland,70-79,ZNF670,0.455,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000260808,,,
+Minor Salivary Gland,70-79,ENSG00000253392,,,
+Minor Salivary Gland,70-79,ENSG00000236439,,,
+Minor Salivary Gland,70-79,DCLRE1A,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,LINC02443,,,
+Minor Salivary Gland,70-79,HDX,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,MIR3934,,,
+Minor Salivary Gland,70-79,ENSG00000240950,,,
+Minor Salivary Gland,70-79,SPATA2L,0.57,exact,salivary gland
+Minor Salivary Gland,70-79,MTCO1P42,,,
+Minor Salivary Gland,70-79,ZNF77,0.696,exact,salivary gland
+Minor Salivary Gland,70-79,PRELID1P6,,,
+Minor Salivary Gland,70-79,IGSF9,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000238165,,,
+Minor Salivary Gland,70-79,OR5AQ1P,,,
+Minor Salivary Gland,70-79,MIR1224,,,
+Minor Salivary Gland,70-79,SATL1,0.512,exact,salivary gland
+Minor Salivary Gland,70-79,RNU6-223P,,,
+Minor Salivary Gland,70-79,ENSG00000250611,,,
+Minor Salivary Gland,70-79,POLG-DT,,,
+Minor Salivary Gland,70-79,OR10A5,4.987,global,bto:0000042
+Minor Salivary Gland,70-79,RUNX2,2.089,exact,salivary gland
+Minor Salivary Gland,70-79,FUT8-AS1,2.002,global,t/g ha-vsmc cell
+Minor Salivary Gland,70-79,ENSG00000268670,,,
+Minor Salivary Gland,70-79,ENSG00000285830,,,
+Minor Salivary Gland,70-79,RPL12P1,,,
+Minor Salivary Gland,70-79,MIR3176,,,
+Minor Salivary Gland,70-79,ENSG00000223968,,,
+Minor Salivary Gland,70-79,TMEM53,0.447,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000250481,,,
+Minor Salivary Gland,70-79,ENSG00000237343,,,
+Minor Salivary Gland,70-79,ENSG00000289610,,,
+Minor Salivary Gland,70-79,ENSG00000224790,,,
+Minor Salivary Gland,70-79,ARHGEF35,0.656,exact,salivary gland
+Minor Salivary Gland,70-79,UBALD2,1.156,exact,salivary gland
+Minor Salivary Gland,70-79,ZNF75A,1.083,exact,salivary gland
+Minor Salivary Gland,70-79,HSPD1P5,,,
+Minor Salivary Gland,70-79,ENSG00000229167,,,
+Minor Salivary Gland,70-79,CDC42P1,,,
+Minor Salivary Gland,70-79,EIF4A1P2,,,
+Minor Salivary Gland,70-79,SIPA1L1,1.033,exact,salivary gland
+Minor Salivary Gland,70-79,EEF1A1P16,,,
+Minor Salivary Gland,70-79,ENSG00000277973,,,
+Minor Salivary Gland,70-79,MAD2L2,1.536,exact,salivary gland
+Minor Salivary Gland,70-79,RPL9P2,,,
+Minor Salivary Gland,70-79,RPN2,2.179,exact,salivary gland
+Minor Salivary Gland,70-79,FOXL3,2.181,global,germ cell
+Minor Salivary Gland,70-79,NFKBIZ,2.359,exact,salivary gland
+Minor Salivary Gland,70-79,HDAC6,2.037,exact,salivary gland
+Minor Salivary Gland,70-79,PCDHGA1,4.273,global,nervous system
+Minor Salivary Gland,70-79,ENSG00000250629,,,
+Minor Salivary Gland,70-79,ENSG00000253407,,,
+Minor Salivary Gland,70-79,KRT18P68,,,
+Minor Salivary Gland,70-79,ITPK1,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,ZNF22,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000258758,,,
+Minor Salivary Gland,70-79,SFXN4,1.158,exact,salivary gland
+Minor Salivary Gland,70-79,ZFP57,2.951,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,NGFR,2.252,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000289387,,,
+Minor Salivary Gland,70-79,ENSG00000289365,,,
+Minor Salivary Gland,70-79,RPS15AP40,,,
+Minor Salivary Gland,70-79,WBP4,0.587,exact,salivary gland
+Minor Salivary Gland,70-79,PKP2,1.496,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000219298,,,
+Minor Salivary Gland,70-79,TSEN54,0.861,exact,salivary gland
+Minor Salivary Gland,70-79,C16ORF46,1.299,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000275202,,,
+Minor Salivary Gland,70-79,SMG1P5,,,
+Minor Salivary Gland,70-79,ENSG00000108958,,,
+Minor Salivary Gland,70-79,ENSG00000268379,,,
+Minor Salivary Gland,70-79,PHBP17,,,
+Minor Salivary Gland,70-79,PPP1R1C,0.587,exact,salivary gland
+Minor Salivary Gland,70-79,RFX5,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,PSTK,0.752,exact,salivary gland
+Minor Salivary Gland,70-79,KAT8,2.219,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000253198,,,
+Minor Salivary Gland,70-79,ENSG00000260073,,,
+Minor Salivary Gland,70-79,PTK2B,1.884,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000251377,,,
+Minor Salivary Gland,70-79,HNRNPA3P5,,,
+Minor Salivary Gland,70-79,ACSS2,1.868,exact,salivary gland
+Minor Salivary Gland,70-79,CAP1P1,,,
+Minor Salivary Gland,70-79,ENSG00000258619,,,
+Minor Salivary Gland,70-79,SYT9,1.245,exact,salivary gland
+Minor Salivary Gland,70-79,PTBP1,2.316,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000259503,,,
+Minor Salivary Gland,70-79,SNORA71B,1.156,global,prostate gland cancer cell
+Minor Salivary Gland,70-79,SUDS3P1,,,
+Minor Salivary Gland,70-79,NBPF3,0.301,exact,salivary gland
+Minor Salivary Gland,70-79,NOXRED1,4.357,global,bto:0000042
+Minor Salivary Gland,70-79,DHRS13,0.753,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000249028,,,
+Minor Salivary Gland,70-79,BECN1,2.543,exact,salivary gland
+Minor Salivary Gland,70-79,ASS1P9,,,
+Minor Salivary Gland,70-79,ENSG00000258497,,,
+Minor Salivary Gland,70-79,ENSG00000234758,,,
+Minor Salivary Gland,70-79,IFT57,0.961,exact,salivary gland
+Minor Salivary Gland,70-79,LCA5L,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,RELB,1.717,exact,salivary gland
+Minor Salivary Gland,70-79,RANGRF,0.58,exact,salivary gland
+Minor Salivary Gland,70-79,PSKH1,0.934,exact,salivary gland
+Minor Salivary Gland,70-79,TSNAXIP1,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000236297,,,
+Minor Salivary Gland,70-79,ENSG00000278385,,,
+Minor Salivary Gland,70-79,ENSG00000288539,,,
+Minor Salivary Gland,70-79,PGP,0.404,exact,salivary gland
+Minor Salivary Gland,70-79,PHF2,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,C2ORF88,0.841,exact,salivary gland
+Minor Salivary Gland,70-79,RPSAP19,,,
+Minor Salivary Gland,70-79,FANCC,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,MIR3648-2,,,
+Minor Salivary Gland,70-79,ACOT1,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,IKBKB,2.219,exact,salivary gland
+Minor Salivary Gland,70-79,LYNX1,2.517,global,visual cortex
+Minor Salivary Gland,70-79,ENSG00000278948,,,
+Minor Salivary Gland,70-79,KRT8P3,,,
+Minor Salivary Gland,70-79,ENSG00000276571,,,
+Minor Salivary Gland,70-79,GBA2,1.437,exact,salivary gland
+Minor Salivary Gland,70-79,MICG,,,
+Minor Salivary Gland,70-79,LRP6,1.533,exact,salivary gland
+Minor Salivary Gland,70-79,LINC01891,,,
+Minor Salivary Gland,70-79,ENSG00000251409,,,
+Minor Salivary Gland,70-79,GTF2H4,5.0,global,blood
+Minor Salivary Gland,70-79,LHFPL2,1.009,exact,salivary gland
+Minor Salivary Gland,70-79,YWHAH,1.288,exact,salivary gland
+Minor Salivary Gland,70-79,TOE1,0.572,exact,salivary gland
+Minor Salivary Gland,70-79,RPL21P31,,,
+Minor Salivary Gland,70-79,SH2D3A,2.089,exact,salivary gland
+Minor Salivary Gland,70-79,LINC02075,,,
+Minor Salivary Gland,70-79,ENSG00000279352,,,
+Minor Salivary Gland,70-79,ENSG00000261729,,,
+Minor Salivary Gland,70-79,ENSG00000258088,,,
+Minor Salivary Gland,70-79,OAT,2.428,exact,salivary gland
+Minor Salivary Gland,70-79,IRF2BPL,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,CYP2R1,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000254919,,,
+Minor Salivary Gland,70-79,ENSG00000218472,,,
+Minor Salivary Gland,70-79,BANF1P3,,,
+Minor Salivary Gland,70-79,ENSG00000231100,,,
+Minor Salivary Gland,70-79,DDHD1-DT,,,
+Minor Salivary Gland,70-79,ENSG00000254348,,,
+Minor Salivary Gland,70-79,IGHVII-40-1,,,
+Minor Salivary Gland,70-79,ENSG00000273010,,,
+Minor Salivary Gland,70-79,ENSG00000215796,,,
+Minor Salivary Gland,70-79,ARL4AP5,,,
+Minor Salivary Gland,70-79,LAMA1,1.242,exact,salivary gland
+Minor Salivary Gland,70-79,SMN1,0.631,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000254183,,,
+Minor Salivary Gland,70-79,LINC02189,,,
+Minor Salivary Gland,70-79,TPBG,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,NGFR-AS1,,,
+Minor Salivary Gland,70-79,PARK7,2.84,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000286373,,,
+Minor Salivary Gland,70-79,LINC00534,1.816,global,cytotrophoblastic cell
+Minor Salivary Gland,70-79,ZNF211,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,PPIAP3,,,
+Minor Salivary Gland,70-79,ENSG00000275552,,,
+Minor Salivary Gland,70-79,SREBF2,1.742,exact,salivary gland
+Minor Salivary Gland,70-79,NOP56P1,,,
+Minor Salivary Gland,70-79,RNA5SP114,,,
+Minor Salivary Gland,70-79,ENSG00000273212,,,
+Minor Salivary Gland,70-79,ENSG00000228737,,,
+Minor Salivary Gland,70-79,TTTY14,1.675,global,gonad
+Minor Salivary Gland,70-79,RPL26P13,,,
+Minor Salivary Gland,70-79,RUNX1,1.878,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000231953,,,
+Minor Salivary Gland,70-79,PAICSP4,,,
+Minor Salivary Gland,70-79,ENSG00000236263,,,
+Minor Salivary Gland,70-79,RNY1P15,,,
+Minor Salivary Gland,70-79,ALG1L2,1.184,global,embryonic stem cell line
+Minor Salivary Gland,70-79,MIR6873,,,
+Minor Salivary Gland,70-79,MT1E,2.185,exact,salivary gland
+Minor Salivary Gland,70-79,ZFP2,0.947,exact,salivary gland
+Minor Salivary Gland,70-79,STARD3NL,0.888,exact,salivary gland
+Minor Salivary Gland,70-79,LINC00265,1.721,global,hob-c cell
+Minor Salivary Gland,70-79,ENSG00000235689,,,
+Minor Salivary Gland,70-79,BTNL2,1.198,exact,salivary gland
+Minor Salivary Gland,70-79,PCYT2,1.031,exact,salivary gland
+Minor Salivary Gland,70-79,DIMT1,0.914,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000268686,,,
+Minor Salivary Gland,70-79,ENSG00000288577,,,
+Minor Salivary Gland,70-79,RPL14P3,,,
+Minor Salivary Gland,70-79,MTCO3P43,,,
+Minor Salivary Gland,70-79,RPL7AP22,,,
+Minor Salivary Gland,70-79,USP43,0.342,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000267105,,,
+Minor Salivary Gland,70-79,RNU6-17P,,,
+Minor Salivary Gland,70-79,PNPLA3,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000264269,,,
+Minor Salivary Gland,70-79,ENSG00000259696,,,
+Minor Salivary Gland,70-79,HMGB2P1,,,
+Minor Salivary Gland,70-79,ENSG00000289424,,,
+Minor Salivary Gland,70-79,ENSG00000213851,,,
+Minor Salivary Gland,70-79,ENSG00000285821,,,
+Minor Salivary Gland,70-79,FBH1,1.152,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000286497,,,
+Minor Salivary Gland,70-79,TMTC2,0.38,exact,salivary gland
+Minor Salivary Gland,70-79,ZNF513,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,IGLV2-28,,,
+Minor Salivary Gland,70-79,TRIM60P16,,,
+Minor Salivary Gland,70-79,TRAV31,,,
+Minor Salivary Gland,70-79,ENSG00000251775,,,
+Minor Salivary Gland,70-79,SFTA1P,,,
+Minor Salivary Gland,70-79,ENSG00000234160,,,
+Minor Salivary Gland,70-79,FXNP2,,,
+Minor Salivary Gland,70-79,ENSG00000287528,,,
+Minor Salivary Gland,70-79,ENSG00000270035,,,
+Minor Salivary Gland,70-79,NUTF2P7,,,
+Minor Salivary Gland,70-79,ENSG00000226268,,,
+Minor Salivary Gland,70-79,IGHV1-45,,,
+Minor Salivary Gland,70-79,ENSG00000231409,,,
+Minor Salivary Gland,70-79,ENSG00000259588,,,
+Minor Salivary Gland,70-79,CX3CL1,2.393,exact,salivary gland
+Minor Salivary Gland,70-79,RPL7P6,,,
+Minor Salivary Gland,70-79,SLC28A1,0.855,exact,salivary gland
+Minor Salivary Gland,70-79,TM7SF3,1.241,exact,salivary gland
+Minor Salivary Gland,70-79,MTRF1L,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,RPS26,1.932,exact,salivary gland
+Minor Salivary Gland,70-79,FOXL1,0.696,exact,salivary gland
+Minor Salivary Gland,70-79,CCNB1IP1,1.156,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000289487,,,
+Minor Salivary Gland,70-79,ENSG00000255843,,,
+Minor Salivary Gland,70-79,MIR3935,,,
+Minor Salivary Gland,70-79,SMG1P4,,,
+Minor Salivary Gland,70-79,SNORD93,1.555,global,rpmi-8866 cell
+Minor Salivary Gland,70-79,RNA5SP221,,,
+Minor Salivary Gland,70-79,NTF6B,,,
+Minor Salivary Gland,70-79,NEK8,0.255,exact,salivary gland
+Minor Salivary Gland,70-79,CCDC85C,1.049,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000277534,,,
+Minor Salivary Gland,70-79,IGKV3OR2-268,,,
+Minor Salivary Gland,70-79,ENSG00000272079,,,
+Minor Salivary Gland,70-79,ATP6V1E2,4.961,global,bto:0000042
+Minor Salivary Gland,70-79,RPS20P4,,,
+Minor Salivary Gland,70-79,E2F5,0.368,exact,salivary gland
+Minor Salivary Gland,70-79,TLX1NB,2.553,global,tassel
+Minor Salivary Gland,70-79,ENSG00000260159,,,
+Minor Salivary Gland,70-79,FXN,0.792,exact,salivary gland
+Minor Salivary Gland,70-79,SULT1D1P,,,
+Minor Salivary Gland,70-79,RPS15AP12,,,
+Minor Salivary Gland,70-79,TBCAP1,,,
+Minor Salivary Gland,70-79,SLC7A6OS,0.595,exact,salivary gland
+Minor Salivary Gland,70-79,CHCHD2P2,,,
+Minor Salivary Gland,70-79,DCTD,1.357,exact,salivary gland
+Minor Salivary Gland,70-79,ABCC3,1.555,exact,salivary gland
+Minor Salivary Gland,70-79,C1ORF53,0.028,exact,salivary gland
+Minor Salivary Gland,70-79,RAB4B,0.985,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000280649,,,
+Minor Salivary Gland,70-79,CYP51A1P1,,,
+Minor Salivary Gland,70-79,ENSG00000226084,,,
+Minor Salivary Gland,70-79,MAP3K10,0.467,exact,salivary gland
+Minor Salivary Gland,70-79,SMIM2,4.227,global,bto:0000042
+Minor Salivary Gland,70-79,RBM17,1.31,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000227933,,,
+Minor Salivary Gland,70-79,CCN4,1.46,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000278009,,,
+Minor Salivary Gland,70-79,COMMD1,1.577,exact,salivary gland
+Minor Salivary Gland,70-79,UTY,4.456,global,bto:0000042
+Minor Salivary Gland,70-79,HNRNPA1P63,,,
+Minor Salivary Gland,70-79,FTH1P11,,,
+Minor Salivary Gland,70-79,RPSAP12,,,
+Minor Salivary Gland,70-79,CDRT15P1,,,
+Minor Salivary Gland,70-79,RPS4XP2,,,
+Minor Salivary Gland,70-79,ENSG00000239809,,,
+Minor Salivary Gland,70-79,PPP5C,1.154,exact,salivary gland
+Minor Salivary Gland,70-79,PTCHD1,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,FAM107A,1.314,exact,salivary gland
+Minor Salivary Gland,70-79,DMBT1,3.366,exact,salivary gland
+Minor Salivary Gland,70-79,GCH1,0.355,exact,salivary gland
+Minor Salivary Gland,70-79,ZXDC,0.743,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000253273,,,
+Minor Salivary Gland,70-79,HSPD1P16,,,
+Minor Salivary Gland,70-79,RNU6-905P,,,
+Minor Salivary Gland,70-79,NPHP4,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,SNHG21,1.489,global,snu-398 cell
+Minor Salivary Gland,70-79,ZNF502,0.222,exact,salivary gland
+Minor Salivary Gland,70-79,ARPC3P1,,,
+Minor Salivary Gland,70-79,ENSG00000241739,,,
+Minor Salivary Gland,70-79,ENSG00000239246,,,
+Minor Salivary Gland,70-79,PRAF2,0.602,exact,salivary gland
+Minor Salivary Gland,70-79,HBAP1,,,
+Minor Salivary Gland,70-79,MAFG-DT,,,
+Minor Salivary Gland,70-79,ELP5,1.595,exact,salivary gland
+Minor Salivary Gland,70-79,SSH1,0.457,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000223849,,,
+Minor Salivary Gland,70-79,ENSG00000267293,,,
+Minor Salivary Gland,70-79,TMEM185B,4.186,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,ENSG00000262147,,,
+Minor Salivary Gland,70-79,RNU6-135P,,,
+Minor Salivary Gland,70-79,NKX2-3,1.157,exact,salivary gland
+Minor Salivary Gland,70-79,GTPBP6,1.26,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000257272,,,
+Minor Salivary Gland,70-79,RAD1,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,RNU6-603P,,,
+Minor Salivary Gland,70-79,CYREN,1.232,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000279367,,,
+Minor Salivary Gland,70-79,ENSG00000280295,,,
+Minor Salivary Gland,70-79,ENSG00000226426,,,
+Minor Salivary Gland,70-79,RPL21P134,,,
+Minor Salivary Gland,70-79,DEAF1,1.759,exact,salivary gland
+Minor Salivary Gland,70-79,TXNL4A,1.449,exact,salivary gland
+Minor Salivary Gland,70-79,TMEM177,0.58,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000283511,,,
+Minor Salivary Gland,70-79,ENSG00000280406,,,
+Minor Salivary Gland,70-79,GSS,1.112,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000270781,,,
+Minor Salivary Gland,70-79,ENSG00000285803,,,
+Minor Salivary Gland,70-79,GRIK4,0.519,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000289419,,,
+Minor Salivary Gland,70-79,ENSG00000185641,,,
+Minor Salivary Gland,70-79,ENSG00000259216,,,
+Minor Salivary Gland,70-79,RBFA,0.778,exact,salivary gland
+Minor Salivary Gland,70-79,SNHG12,2.111,global,bto:0000042
+Minor Salivary Gland,70-79,ENSG00000259727,,,
+Minor Salivary Gland,70-79,EXTL3,2.118,exact,salivary gland
+Minor Salivary Gland,70-79,OLMALINC,1.678,global,oligodendrocyte
+Minor Salivary Gland,70-79,ENSG00000241870,,,
+Minor Salivary Gland,70-79,DGAT1,1.669,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000284738,,,
+Minor Salivary Gland,70-79,BCAS4,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,AKT1,3.213,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000257953,,,
+Minor Salivary Gland,70-79,IVNS1ABP,1.627,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000288538,,,
+Minor Salivary Gland,70-79,ENSG00000248161,,,
+Minor Salivary Gland,70-79,ENSG00000232939,,,
+Minor Salivary Gland,70-79,ENSG00000213216,,,
+Minor Salivary Gland,70-79,ENSG00000259659,,,
+Minor Salivary Gland,70-79,ADAP1,4.352,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,ENSG00000260900,,,
+Minor Salivary Gland,70-79,ENSG00000214071,,,
+Minor Salivary Gland,70-79,RNA5SP25,,,
+Minor Salivary Gland,70-79,ENSG00000237749,,,
+Minor Salivary Gland,70-79,DAB2IP,1.244,exact,salivary gland
+Minor Salivary Gland,70-79,RAB5C-AS1,,,
+Minor Salivary Gland,70-79,DNAJC11,1.003,exact,salivary gland
+Minor Salivary Gland,70-79,METAZOA_SRP,1.303,global,scape
+Minor Salivary Gland,70-79,ENSG00000273403,,,
+Minor Salivary Gland,70-79,SEPHS1,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,MBD6,1.237,exact,salivary gland
+Minor Salivary Gland,70-79,IMP4,1.328,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000260070,,,
+Minor Salivary Gland,70-79,RAI1,0.873,exact,salivary gland
+Minor Salivary Gland,70-79,APOO,1.091,exact,salivary gland
+Minor Salivary Gland,70-79,BSND,1.726,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000286360,,,
+Minor Salivary Gland,70-79,ENSG00000260484,,,
+Minor Salivary Gland,70-79,ENSG00000225028,,,
+Minor Salivary Gland,70-79,RNF182,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,ANKRD54,0.881,exact,salivary gland
+Minor Salivary Gland,70-79,AP1G2,1.56,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000261055,,,
+Minor Salivary Gland,70-79,BFSP2-AS1,0.958,global,colon sigmoideum
+Minor Salivary Gland,70-79,ENSG00000273821,,,
+Minor Salivary Gland,70-79,ENSG00000288885,,,
+Minor Salivary Gland,70-79,ZNF239,4.804,global,"tissues, cell types and enzyme sources"
+Minor Salivary Gland,70-79,AURKC,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,WIPI1,2.511,exact,salivary gland
+Minor Salivary Gland,70-79,ALKBH3-AS1,1.412,global,huh-7 cell
+Minor Salivary Gland,70-79,CEP250-AS1,,,
+Minor Salivary Gland,70-79,POLR2H,1.345,exact,salivary gland
+Minor Salivary Gland,70-79,LCAT,0.602,exact,salivary gland
+Minor Salivary Gland,70-79,KLRC1,1.537,exact,salivary gland
+Minor Salivary Gland,70-79,MTND2P28,,,
+Minor Salivary Gland,70-79,ACAD9,1.059,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000275401,,,
+Minor Salivary Gland,70-79,GRB10,0.716,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000286117,,,
+Minor Salivary Gland,70-79,C20ORF144,0.182,exact,salivary gland
+Minor Salivary Gland,70-79,CCNT2-AS1,1.396,global,atrial appendage
+Minor Salivary Gland,70-79,PRSS40A,,,
+Minor Salivary Gland,70-79,CCDC24,0.845,exact,salivary gland
+Minor Salivary Gland,70-79,CLUHP3,,,
+Minor Salivary Gland,70-79,RPL3P5,,,
+Minor Salivary Gland,70-79,PCCB,1.8,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000289004,,,
+Minor Salivary Gland,70-79,ENSG00000255468,,,
+Minor Salivary Gland,70-79,ENSG00000279393,,,
+Minor Salivary Gland,70-79,CAMTA1,2.312,exact,salivary gland
+Minor Salivary Gland,70-79,SLC25A39P2,,,
+Minor Salivary Gland,70-79,APIP,1.501,exact,salivary gland
+Minor Salivary Gland,70-79,ZNF16,0.545,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000256136,,,
+Minor Salivary Gland,70-79,ENSG00000212930,,,
+Minor Salivary Gland,70-79,PARP6,1.276,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000283234,,,
+Minor Salivary Gland,70-79,ENSG00000263050,,,
+Minor Salivary Gland,70-79,LINC02481,,,
+Minor Salivary Gland,70-79,STK19,0.778,exact,salivary gland
+Minor Salivary Gland,70-79,INPPL1,1.519,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000233170,,,
+Minor Salivary Gland,70-79,AAGAB,1.289,exact,salivary gland
+Minor Salivary Gland,70-79,COX20,1.041,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000284660,,,
+Minor Salivary Gland,70-79,RBBP4P1,,,
+Minor Salivary Gland,70-79,MIX23P1,,,
+Minor Salivary Gland,70-79,PPP1R14BP5,,,
+Minor Salivary Gland,70-79,ENSG00000280369,,,
+Minor Salivary Gland,70-79,NOMO2,1.164,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000215268,,,
+Minor Salivary Gland,70-79,ZNF595,0.342,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000255087,,,
+Minor Salivary Gland,70-79,ACAT2,0.824,exact,salivary gland
+Minor Salivary Gland,70-79,SOD2-OT1,,,
+Minor Salivary Gland,70-79,ENSG00000271631,,,
+Minor Salivary Gland,70-79,PPIB,2.898,exact,salivary gland
+Minor Salivary Gland,70-79,ENSG00000286222,,,
+Minor Salivary Gland,70-79,ENSG00000269425,,,
+Minor Salivary Gland,70-79,RNU4-4P,,,
+Minor Salivary Gland,70-79,SV2C,0.141,exact,salivary gland
+Minor Salivary Gland,70-79,ANXA2P3,,,
+Minor Salivary Gland,70-79,SNORD9,1.247,global,nci-h295r cell
+Minor Salivary Gland,70-79,RPL7P32,,,
+Minor Salivary Gland,70-79,SFRP1,2.748,exact,salivary gland

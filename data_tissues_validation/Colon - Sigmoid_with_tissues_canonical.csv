@@ -1,0 +1,3133 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Colon - Sigmoid,30-39,ALKBH4,4.906,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,MT-ND1,4.901,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,TGS1,4.884,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,PRDX3,4.999,global,bto:0000042
+Colon - Sigmoid,30-39,YTHDF2,4.996,global,bto:0000042
+Colon - Sigmoid,30-39,TADA2B,4.913,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,TAX1BP1,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,TXNDC9,4.987,global,bto:0000042
+Colon - Sigmoid,30-39,TGOLN2,4.996,global,bto:0000042
+Colon - Sigmoid,30-39,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,GOLGA5,4.96,global,bto:0000042
+Colon - Sigmoid,30-39,FASTKD2,4.98,global,bto:0000042
+Colon - Sigmoid,30-39,ZNF830,4.86,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,UQCRFS1,4.988,global,bto:0000042
+Colon - Sigmoid,30-39,AGGF1,4.944,global,bto:0000042
+Colon - Sigmoid,30-39,LTN1,4.905,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ZNF653,4.647,global,bto:0000042
+Colon - Sigmoid,30-39,MRPL15,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,RTL6,4.815,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ECH1,4.996,global,bto:0000042
+Colon - Sigmoid,30-39,XPO4,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,C6ORF47,3.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ATL1,4.987,global,bto:0000042
+Colon - Sigmoid,30-39,SEC23IP,4.986,global,bto:0000042
+Colon - Sigmoid,30-39,MKRN1,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,VMAC,4.432,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,IGF2R,4.991,global,bto:0000042
+Colon - Sigmoid,30-39,NT5DC1,4.954,global,bto:0000042
+Colon - Sigmoid,30-39,TM9SF3,4.993,global,bto:0000042
+Colon - Sigmoid,30-39,EXOSC2,4.969,global,bto:0000042
+Colon - Sigmoid,30-39,FBXO21,4.988,global,bto:0000042
+Colon - Sigmoid,30-39,ZNF827,4.935,global,bto:0000042
+Colon - Sigmoid,30-39,MAIP1,4.811,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,FASTKD5,4.961,global,bto:0000042
+Colon - Sigmoid,30-39,VPS4B,4.971,global,bto:0000042
+Colon - Sigmoid,30-39,ATXN1L,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,WDR44,4.936,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,SIGMAR1,4.993,global,bto:0000042
+Colon - Sigmoid,30-39,WWC2,4.927,global,bto:0000042
+Colon - Sigmoid,30-39,KDM4A,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ANKRD52,4.576,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,STAG3L4,,,
+Colon - Sigmoid,30-39,LANCL2,4.956,global,bto:0000042
+Colon - Sigmoid,30-39,MMUT,4.99,global,bto:0000042
+Colon - Sigmoid,30-39,SMG8,4.966,global,bto:0000042
+Colon - Sigmoid,30-39,VPS35L,4.987,global,bto:0000042
+Colon - Sigmoid,30-39,TMEM209,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,FBXO38,4.955,global,bto:0000042
+Colon - Sigmoid,30-39,ZXDB,4.791,global,bto:0000042
+Colon - Sigmoid,30-39,LARP1,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,SPRTN,4.5,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,FCF1,4.199,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,USP16,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ZSCAN25,4.812,global,bto:0000042
+Colon - Sigmoid,30-39,L2HGDH,4.817,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,MRPL49,4.988,global,bto:0000042
+Colon - Sigmoid,30-39,TSPYL5,4.931,global,bto:0000042
+Colon - Sigmoid,30-39,MORF4L1P1,,,
+Colon - Sigmoid,30-39,ZBTB45,4.937,global,bto:0000042
+Colon - Sigmoid,30-39,LINS1,4.679,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,DNAJC30,4.918,global,bto:0000042
+Colon - Sigmoid,30-39,MAPK1,4.998,global,bto:0000042
+Colon - Sigmoid,30-39,LEMD3,4.93,global,bto:0000042
+Colon - Sigmoid,30-39,DDX20,4.967,global,bto:0000042
+Colon - Sigmoid,30-39,MPPE1,4.976,global,bto:0000042
+Colon - Sigmoid,30-39,HPS6,4.898,global,bto:0000042
+Colon - Sigmoid,30-39,ALDH9A1,4.996,global,bto:0000042
+Colon - Sigmoid,30-39,RPUSD2,4.908,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,LRBA,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,CHMP6,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,PRPF6,4.992,global,bto:0000042
+Colon - Sigmoid,30-39,KDM3B,4.974,global,bto:0000042
+Colon - Sigmoid,30-39,VPS52,4.992,global,bto:0000042
+Colon - Sigmoid,30-39,EWSR1,4.999,global,bto:0000042
+Colon - Sigmoid,30-39,BNIP2,4.986,global,bto:0000042
+Colon - Sigmoid,30-39,DDX28,4.967,global,bto:0000042
+Colon - Sigmoid,30-39,CHD8,4.977,global,bto:0000042
+Colon - Sigmoid,30-39,RAMAC,4.925,global,bto:0000042
+Colon - Sigmoid,30-39,KIFBP,4.981,global,bto:0000042
+Colon - Sigmoid,30-39,YPEL3-DT,,,
+Colon - Sigmoid,30-39,USP9X,4.994,global,bto:0000042
+Colon - Sigmoid,30-39,UPRT,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,SF3B4,4.989,global,bto:0000042
+Colon - Sigmoid,30-39,DDB1,4.999,global,bto:0000042
+Colon - Sigmoid,30-39,RAF1,4.996,global,bto:0000042
+Colon - Sigmoid,30-39,UTP23,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,SP2,4.915,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,DYNC1I2,4.998,global,bto:0000042
+Colon - Sigmoid,30-39,POLR2B,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,C5ORF22,4.52,global,bto:0000042
+Colon - Sigmoid,30-39,GMEB1,4.908,global,bto:0000042
+Colon - Sigmoid,30-39,NUP133,4.99,global,bto:0000042
+Colon - Sigmoid,30-39,RRAGA,4.987,global,bto:0000042
+Colon - Sigmoid,30-39,IBTK,4.953,global,bto:0000042
+Colon - Sigmoid,30-39,ACADM,4.992,global,bto:0000042
+Colon - Sigmoid,30-39,DHX8,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ZNF747,4.84,global,bto:0000042
+Colon - Sigmoid,30-39,TTC8,4.961,global,bto:0000042
+Colon - Sigmoid,30-39,STEEP1,,,
+Colon - Sigmoid,30-39,KEAP1,4.997,global,bto:0000042
+Colon - Sigmoid,30-39,TOE1,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,CNOT1,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,SNRNP200,4.997,global,bto:0000042
+Colon - Sigmoid,30-39,RTTN,4.872,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,STARD7,4.992,global,bto:0000042
+Colon - Sigmoid,30-39,ZBTB3,4.559,global,bto:0000042
+Colon - Sigmoid,30-39,RNF139,4.963,global,bto:0000042
+Colon - Sigmoid,30-39,PHYH,4.959,global,bto:0000042
+Colon - Sigmoid,30-39,WDR82,4.989,global,bto:0000042
+Colon - Sigmoid,30-39,TJP1,4.989,global,bto:0000042
+Colon - Sigmoid,30-39,MCCC1,4.973,global,bto:0000042
+Colon - Sigmoid,30-39,PLEKHG3,4.907,global,bto:0000042
+Colon - Sigmoid,30-39,MIEF1,4.993,global,bto:0000042
+Colon - Sigmoid,30-39,MGRN1,4.965,global,bto:0000042
+Colon - Sigmoid,30-39,PIK3R4,4.835,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,RUBCN,4.984,global,bto:0000042
+Colon - Sigmoid,30-39,PYROXD1,4.929,global,bto:0000042
+Colon - Sigmoid,30-39,ZNF45,4.743,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,PRDX2,4.998,global,bto:0000042
+Colon - Sigmoid,30-39,MRPS18A,4.957,global,bto:0000042
+Colon - Sigmoid,30-39,ZNF384,4.975,global,bto:0000042
+Colon - Sigmoid,30-39,SLC30A5,4.954,global,bto:0000042
+Colon - Sigmoid,30-39,SNHG14,2.154,global,bto:0000042
+Colon - Sigmoid,30-39,PSMD2,4.999,global,bto:0000042
+Colon - Sigmoid,30-39,DPH1,4.977,global,bto:0000042
+Colon - Sigmoid,30-39,TMEM127,4.978,global,bto:0000042
+Colon - Sigmoid,30-39,ZSCAN29,4.859,global,bto:0000042
+Colon - Sigmoid,30-39,TPR,5.0,global,blood
+Colon - Sigmoid,30-39,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,NSD1,4.912,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,CDC123,4.981,global,bto:0000042
+Colon - Sigmoid,30-39,DNAJA2,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,VPS33A,4.931,global,bto:0000042
+Colon - Sigmoid,30-39,TRAPPC12,4.972,global,bto:0000042
+Colon - Sigmoid,30-39,ZBED3,4.879,global,bto:0000042
+Colon - Sigmoid,30-39,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,EIF4EBP2,4.991,global,bto:0000042
+Colon - Sigmoid,30-39,ANXA7,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,RBM15B,4.966,global,bto:0000042
+Colon - Sigmoid,30-39,GHITM,5.0,global,bto:0000042
+Colon - Sigmoid,30-39,MRPL46,4.938,global,bto:0000042
+Colon - Sigmoid,30-39,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ZBTB6,4.804,global,bto:0000042
+Colon - Sigmoid,30-39,ENSG00000255310,,,
+Colon - Sigmoid,30-39,GANC,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,MOCS3,4.717,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,SEC24C,4.987,global,bto:0000042
+Colon - Sigmoid,30-39,MRPS18C,4.9,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,GOT2,5.0,global,bto:0000042
+Colon - Sigmoid,30-39,DDX18,4.99,global,bto:0000042
+Colon - Sigmoid,30-39,LRRC47,4.857,global,bto:0000042
+Colon - Sigmoid,30-39,HTATSF1,4.981,global,bto:0000042
+Colon - Sigmoid,30-39,LRPPRC,4.996,global,bto:0000042
+Colon - Sigmoid,30-39,PDHX,4.984,global,bto:0000042
+Colon - Sigmoid,30-39,NAPA,4.997,global,bto:0000042
+Colon - Sigmoid,30-39,TFB2M,4.959,global,bto:0000042
+Colon - Sigmoid,30-39,RNF123,4.978,global,bto:0000042
+Colon - Sigmoid,30-39,SMU1,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,UMPS,4.974,global,bto:0000042
+Colon - Sigmoid,30-39,UBLCP1,4.925,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,PGGT1B,4.747,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,SUV39H1,4.963,global,bto:0000042
+Colon - Sigmoid,30-39,CHD4,4.996,global,bto:0000042
+Colon - Sigmoid,30-39,C9ORF64,4.751,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,CAMK2G,4.993,global,bto:0000042
+Colon - Sigmoid,30-39,TRMT5,4.818,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ASB7,4.888,global,bto:0000042
+Colon - Sigmoid,30-39,ABCF1,4.986,global,bto:0000042
+Colon - Sigmoid,30-39,ZNF134,4.895,global,bto:0000042
+Colon - Sigmoid,30-39,PSMC1,4.989,global,bto:0000042
+Colon - Sigmoid,30-39,MOB4,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,VPS25,4.981,global,bto:0000042
+Colon - Sigmoid,30-39,FUBP3,4.959,global,bto:0000042
+Colon - Sigmoid,30-39,GRSF1,4.993,global,bto:0000042
+Colon - Sigmoid,30-39,ZNF287,4.968,global,bto:0000042
+Colon - Sigmoid,30-39,NSMCE4A,4.93,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ABT1,4.954,global,bto:0000042
+Colon - Sigmoid,30-39,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,ZBTB39,4.67,global,bto:0000042
+Colon - Sigmoid,30-39,NOL11,4.988,global,bto:0000042
+Colon - Sigmoid,30-39,BCKDHA,4.991,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,FH,4.992,global,bto:0000042
+Colon - Sigmoid,30-39,VIRMA,4.977,global,bto:0000042
+Colon - Sigmoid,30-39,NAF1,4.524,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,APEX1,4.998,global,bto:0000042
+Colon - Sigmoid,30-39,ZNF687,4.875,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,VPS51,4.986,global,bto:0000042
+Colon - Sigmoid,30-39,TAF6L,4.985,global,bto:0000042
+Colon - Sigmoid,30-39,DNAJC14,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,NDUFS1,4.994,global,bto:0000042
+Colon - Sigmoid,30-39,OSBP,4.975,global,bto:0000042
+Colon - Sigmoid,30-39,RIOX1,4.34,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,DCAF11,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,ZNF140,4.93,global,bto:0000042
+Colon - Sigmoid,30-39,SMARCA5,5.0,global,bto:0000042
+Colon - Sigmoid,30-39,MANSC1,4.972,global,bto:0000042
+Colon - Sigmoid,30-39,BRF2,4.947,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,KBTBD4,4.888,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,AP5S1,4.798,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,MUL1,4.993,global,bto:0000042
+Colon - Sigmoid,30-39,RNF40,4.997,global,bto:0000042
+Colon - Sigmoid,30-39,XRCC5,4.999,global,bto:0000042
+Colon - Sigmoid,30-39,GCC1,5.0,global,alimentary canal
+Colon - Sigmoid,30-39,TFIP11,4.982,global,bto:0000042
+Colon - Sigmoid,30-39,COPA,4.997,global,bto:0000042
+Colon - Sigmoid,30-39,WAPL,4.99,global,bto:0000042
+Colon - Sigmoid,30-39,SMC3,4.977,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,PIGT,4.997,global,bto:0000042
+Colon - Sigmoid,30-39,CCNJ,4.89,global,bto:0000042
+Colon - Sigmoid,30-39,TMEM87A,4.994,global,bto:0000042
+Colon - Sigmoid,30-39,TRMT2B,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,SNRPB2,4.98,global,bto:0000042
+Colon - Sigmoid,30-39,MRPL39,4.931,global,bto:0000042
+Colon - Sigmoid,30-39,SPRYD4,4.928,global,bto:0000042
+Colon - Sigmoid,30-39,MRPL19,4.969,global,bto:0000042
+Colon - Sigmoid,30-39,SACM1L,,,
+Colon - Sigmoid,30-39,SNIP1,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,DDX1,4.998,global,bto:0000042
+Colon - Sigmoid,30-39,DHX9,4.998,global,bto:0000042
+Colon - Sigmoid,30-39,CHMP2B,4.996,global,bto:0000042
+Colon - Sigmoid,30-39,DIS3L,4.896,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,POM121,4.992,global,bto:0000042
+Colon - Sigmoid,30-39,FRS2,4.968,global,bto:0000042
+Colon - Sigmoid,30-39,TOR1AIP1,4.983,global,bto:0000042
+Colon - Sigmoid,30-39,RTCB,4.997,global,bto:0000042
+Colon - Sigmoid,30-39,ME2,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,TBC1D14,4.971,global,bto:0000042
+Colon - Sigmoid,30-39,TRMT10C,4.527,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,30-39,USP19,4.965,global,bto:0000042
+Colon - Sigmoid,30-39,DLD,4.995,global,bto:0000042
+Colon - Sigmoid,30-39,HERC2,4.977,global,bto:0000042
+Colon - Sigmoid,30-39,FTSJ3,4.986,global,bto:0000042
+Colon - Sigmoid,30-39,PDCD2L,4.896,global,bto:0000042
+Colon - Sigmoid,30-39,CHERP,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,MT-ND1,4.901,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,TGS1,4.884,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,PRDX3,4.999,global,bto:0000042
+Colon - Sigmoid,40-49,PLPPR2,4.984,global,bto:0000042
+Colon - Sigmoid,40-49,YTHDF2,4.996,global,bto:0000042
+Colon - Sigmoid,40-49,TAX1BP1,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,TGOLN2,4.996,global,bto:0000042
+Colon - Sigmoid,40-49,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,FASTKD2,4.98,global,bto:0000042
+Colon - Sigmoid,40-49,EXOSC7,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,ZNF830,4.86,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,LTN1,4.905,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,RIMKLB,4.966,global,bto:0000042
+Colon - Sigmoid,40-49,ZNF653,4.647,global,bto:0000042
+Colon - Sigmoid,40-49,MRPL15,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,HIKESHI,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,RTL6,4.815,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,XPO4,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,C6ORF47,3.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,SEC23IP,4.986,global,bto:0000042
+Colon - Sigmoid,40-49,HNRNPD,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,MKRN1,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,SSH3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,TM2D3,4.971,global,bto:0000042
+Colon - Sigmoid,40-49,SNAPC3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,FOXJ3,4.969,global,bto:0000042
+Colon - Sigmoid,40-49,EXOSC2,4.969,global,bto:0000042
+Colon - Sigmoid,40-49,FBXO21,4.988,global,bto:0000042
+Colon - Sigmoid,40-49,POLK,4.95,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,ZNF827,4.935,global,bto:0000042
+Colon - Sigmoid,40-49,MAIP1,4.811,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,VPS4B,4.971,global,bto:0000042
+Colon - Sigmoid,40-49,ATXN1L,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,WDR44,4.936,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,SIGMAR1,4.993,global,bto:0000042
+Colon - Sigmoid,40-49,WWC2,4.927,global,bto:0000042
+Colon - Sigmoid,40-49,ANKRD52,4.576,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,VPS35L,4.987,global,bto:0000042
+Colon - Sigmoid,40-49,MMUT,4.99,global,bto:0000042
+Colon - Sigmoid,40-49,POLDIP3,4.998,global,bto:0000042
+Colon - Sigmoid,40-49,ZXDB,4.791,global,bto:0000042
+Colon - Sigmoid,40-49,LARP1,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,SPRTN,4.5,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,FCF1,4.199,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,USP16,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,TMEM50A,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,ZSCAN25,4.812,global,bto:0000042
+Colon - Sigmoid,40-49,MRPL49,4.988,global,bto:0000042
+Colon - Sigmoid,40-49,TSPYL5,4.931,global,bto:0000042
+Colon - Sigmoid,40-49,SAYSD1,4.441,global,bto:0000042
+Colon - Sigmoid,40-49,ZBTB45,4.937,global,bto:0000042
+Colon - Sigmoid,40-49,CCDC22,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,DNAJC30,4.918,global,bto:0000042
+Colon - Sigmoid,40-49,MAPK1,4.998,global,bto:0000042
+Colon - Sigmoid,40-49,LEMD3,4.93,global,bto:0000042
+Colon - Sigmoid,40-49,DDX20,4.967,global,bto:0000042
+Colon - Sigmoid,40-49,ALDH9A1,4.996,global,bto:0000042
+Colon - Sigmoid,40-49,RPUSD2,4.908,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,SCAMP3,4.981,global,bto:0000042
+Colon - Sigmoid,40-49,ANKRD39,3.826,global,bto:0000042
+Colon - Sigmoid,40-49,PRPF6,4.992,global,bto:0000042
+Colon - Sigmoid,40-49,KDM3B,4.974,global,bto:0000042
+Colon - Sigmoid,40-49,VPS52,4.992,global,bto:0000042
+Colon - Sigmoid,40-49,EWSR1,4.999,global,bto:0000042
+Colon - Sigmoid,40-49,BNIP2,4.986,global,bto:0000042
+Colon - Sigmoid,40-49,ACTB,5.0,global,alimentary canal
+Colon - Sigmoid,40-49,RAMAC,4.925,global,bto:0000042
+Colon - Sigmoid,40-49,FBXO22,4.947,global,bto:0000042
+Colon - Sigmoid,40-49,KIFBP,4.981,global,bto:0000042
+Colon - Sigmoid,40-49,STT3B,4.985,global,bto:0000042
+Colon - Sigmoid,40-49,USP9X,4.994,global,bto:0000042
+Colon - Sigmoid,40-49,UPRT,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,SF3B4,4.989,global,bto:0000042
+Colon - Sigmoid,40-49,DDB1,4.999,global,bto:0000042
+Colon - Sigmoid,40-49,RAF1,4.996,global,bto:0000042
+Colon - Sigmoid,40-49,UTP23,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,DYNC1I2,4.998,global,bto:0000042
+Colon - Sigmoid,40-49,GMEB1,4.908,global,bto:0000042
+Colon - Sigmoid,40-49,MTA1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,ELP2,4.988,global,bto:0000042
+Colon - Sigmoid,40-49,NUP133,4.99,global,bto:0000042
+Colon - Sigmoid,40-49,SLC15A4,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,RRAGA,4.987,global,bto:0000042
+Colon - Sigmoid,40-49,BORCS5,4.857,global,bto:0000042
+Colon - Sigmoid,40-49,IBTK,4.953,global,bto:0000042
+Colon - Sigmoid,40-49,DHX8,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,TTC8,4.961,global,bto:0000042
+Colon - Sigmoid,40-49,STEEP1,,,
+Colon - Sigmoid,40-49,KEAP1,4.997,global,bto:0000042
+Colon - Sigmoid,40-49,TOE1,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,TFB1M,4.949,global,bto:0000042
+Colon - Sigmoid,40-49,SNRNP200,4.997,global,bto:0000042
+Colon - Sigmoid,40-49,CNOT1,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,ACIN1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,RTTN,4.872,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,STARD7,4.992,global,bto:0000042
+Colon - Sigmoid,40-49,TMEM9,4.992,global,bto:0000042
+Colon - Sigmoid,40-49,EPM2AIP1,4.972,global,bto:0000042
+Colon - Sigmoid,40-49,WDR82,4.989,global,bto:0000042
+Colon - Sigmoid,40-49,IFT46,4.962,global,bto:0000042
+Colon - Sigmoid,40-49,TJP1,4.989,global,bto:0000042
+Colon - Sigmoid,40-49,MIEF1,4.993,global,bto:0000042
+Colon - Sigmoid,40-49,RFXANK,4.969,global,bto:0000042
+Colon - Sigmoid,40-49,MGRN1,4.965,global,bto:0000042
+Colon - Sigmoid,40-49,PIK3R4,4.835,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,RUBCN,4.984,global,bto:0000042
+Colon - Sigmoid,40-49,PYROXD1,4.929,global,bto:0000042
+Colon - Sigmoid,40-49,PRDX2,4.998,global,bto:0000042
+Colon - Sigmoid,40-49,ZNF384,4.975,global,bto:0000042
+Colon - Sigmoid,40-49,SLC30A5,4.954,global,bto:0000042
+Colon - Sigmoid,40-49,SNHG14,2.154,global,bto:0000042
+Colon - Sigmoid,40-49,PSMD2,4.999,global,bto:0000042
+Colon - Sigmoid,40-49,DPH1,4.977,global,bto:0000042
+Colon - Sigmoid,40-49,ZSCAN29,4.859,global,bto:0000042
+Colon - Sigmoid,40-49,TPR,5.0,global,blood
+Colon - Sigmoid,40-49,INSIG2,4.96,global,bto:0000042
+Colon - Sigmoid,40-49,CDC123,4.981,global,bto:0000042
+Colon - Sigmoid,40-49,DNAJA2,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,TRAPPC12,4.972,global,bto:0000042
+Colon - Sigmoid,40-49,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,ANXA7,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,GHITM,5.0,global,bto:0000042
+Colon - Sigmoid,40-49,MRPL46,4.938,global,bto:0000042
+Colon - Sigmoid,40-49,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,RIPOR1,4.981,global,bto:0000042
+Colon - Sigmoid,40-49,ENSG00000255310,,,
+Colon - Sigmoid,40-49,RAP2C,4.91,global,bto:0000042
+Colon - Sigmoid,40-49,SEC24C,4.987,global,bto:0000042
+Colon - Sigmoid,40-49,GOT2,5.0,global,bto:0000042
+Colon - Sigmoid,40-49,METTL6,4.892,global,bto:0000042
+Colon - Sigmoid,40-49,LRRC47,4.857,global,bto:0000042
+Colon - Sigmoid,40-49,DDX18,4.99,global,bto:0000042
+Colon - Sigmoid,40-49,HTATSF1,4.981,global,bto:0000042
+Colon - Sigmoid,40-49,LRPPRC,4.996,global,bto:0000042
+Colon - Sigmoid,40-49,PDHX,4.984,global,bto:0000042
+Colon - Sigmoid,40-49,NAPA,4.997,global,bto:0000042
+Colon - Sigmoid,40-49,TFB2M,4.959,global,bto:0000042
+Colon - Sigmoid,40-49,RNF123,4.978,global,bto:0000042
+Colon - Sigmoid,40-49,SMU1,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,UMPS,4.974,global,bto:0000042
+Colon - Sigmoid,40-49,UBE2O,4.974,global,bto:0000042
+Colon - Sigmoid,40-49,CDCA4,4.944,global,bto:0000042
+Colon - Sigmoid,40-49,CHD4,4.996,global,bto:0000042
+Colon - Sigmoid,40-49,C9ORF64,4.751,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,CAMK2G,4.993,global,bto:0000042
+Colon - Sigmoid,40-49,TRMT5,4.818,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,ENSG00000288670,,,
+Colon - Sigmoid,40-49,ABCF1,4.986,global,bto:0000042
+Colon - Sigmoid,40-49,RALY,4.988,global,bto:0000042
+Colon - Sigmoid,40-49,PSMC1,4.989,global,bto:0000042
+Colon - Sigmoid,40-49,MOB4,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,FUBP3,4.959,global,bto:0000042
+Colon - Sigmoid,40-49,GRSF1,4.993,global,bto:0000042
+Colon - Sigmoid,40-49,CDIP1,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,ZNF287,4.968,global,bto:0000042
+Colon - Sigmoid,40-49,ABT1,4.954,global,bto:0000042
+Colon - Sigmoid,40-49,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,ZBTB39,4.67,global,bto:0000042
+Colon - Sigmoid,40-49,NOL11,4.988,global,bto:0000042
+Colon - Sigmoid,40-49,BCKDHA,4.991,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,FH,4.992,global,bto:0000042
+Colon - Sigmoid,40-49,VIRMA,4.977,global,bto:0000042
+Colon - Sigmoid,40-49,NAF1,4.524,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,AARSD1,4.319,global,bto:0000042
+Colon - Sigmoid,40-49,APEX1,4.998,global,bto:0000042
+Colon - Sigmoid,40-49,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,ZNF687,4.875,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,TAF6L,4.985,global,bto:0000042
+Colon - Sigmoid,40-49,NDUFS1,4.994,global,bto:0000042
+Colon - Sigmoid,40-49,OSBP,4.975,global,bto:0000042
+Colon - Sigmoid,40-49,DCAF11,4.995,global,bto:0000042
+Colon - Sigmoid,40-49,ZNF140,4.93,global,bto:0000042
+Colon - Sigmoid,40-49,SMARCA5,5.0,global,bto:0000042
+Colon - Sigmoid,40-49,MANSC1,4.972,global,bto:0000042
+Colon - Sigmoid,40-49,MUL1,4.993,global,bto:0000042
+Colon - Sigmoid,40-49,RNF40,4.997,global,bto:0000042
+Colon - Sigmoid,40-49,XRCC5,4.999,global,bto:0000042
+Colon - Sigmoid,40-49,COPA,4.997,global,bto:0000042
+Colon - Sigmoid,40-49,TFIP11,4.982,global,bto:0000042
+Colon - Sigmoid,40-49,C11ORF49,4.976,global,bto:0000042
+Colon - Sigmoid,40-49,WAPL,4.99,global,bto:0000042
+Colon - Sigmoid,40-49,AP2A1,4.976,global,bto:0000042
+Colon - Sigmoid,40-49,BICD2,4.961,global,bto:0000042
+Colon - Sigmoid,40-49,INTS4,4.941,global,bto:0000042
+Colon - Sigmoid,40-49,C1D,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,RBM42,4.991,global,bto:0000042
+Colon - Sigmoid,40-49,CCNJ,4.89,global,bto:0000042
+Colon - Sigmoid,40-49,PIGT,4.997,global,bto:0000042
+Colon - Sigmoid,40-49,TRMT2B,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,MRPL39,4.931,global,bto:0000042
+Colon - Sigmoid,40-49,IFT27,4.916,global,bto:0000042
+Colon - Sigmoid,40-49,SPRYD4,4.928,global,bto:0000042
+Colon - Sigmoid,40-49,TMEM87A,4.994,global,bto:0000042
+Colon - Sigmoid,40-49,SACM1L,,,
+Colon - Sigmoid,40-49,SNIP1,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,DDX1,4.998,global,bto:0000042
+Colon - Sigmoid,40-49,DHX9,4.998,global,bto:0000042
+Colon - Sigmoid,40-49,WDR33,4.981,global,bto:0000042
+Colon - Sigmoid,40-49,CHMP2B,4.996,global,bto:0000042
+Colon - Sigmoid,40-49,RAB34,4.99,global,bto:0000042
+Colon - Sigmoid,40-49,POM121,4.992,global,bto:0000042
+Colon - Sigmoid,40-49,ZCCHC17,4.979,global,bto:0000042
+Colon - Sigmoid,40-49,PPT1,4.999,global,bto:0000042
+Colon - Sigmoid,40-49,FRS2,4.968,global,bto:0000042
+Colon - Sigmoid,40-49,SPRYD3,4.936,global,bto:0000042
+Colon - Sigmoid,40-49,RTCB,4.997,global,bto:0000042
+Colon - Sigmoid,40-49,ME2,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,TRMT10C,4.527,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,USP19,4.965,global,bto:0000042
+Colon - Sigmoid,40-49,TARDBP,4.999,global,bto:0000042
+Colon - Sigmoid,40-49,SCAF1,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,40-49,HERC2,4.977,global,bto:0000042
+Colon - Sigmoid,40-49,FTSJ3,4.986,global,bto:0000042
+Colon - Sigmoid,40-49,PDCD2L,4.896,global,bto:0000042
+Colon - Sigmoid,40-49,CHERP,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ATXN7L1,4.505,global,bto:0000042
+Colon - Sigmoid,50-59,SNAPC3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,EXOSC2,4.969,global,bto:0000042
+Colon - Sigmoid,50-59,FBXO21,4.988,global,bto:0000042
+Colon - Sigmoid,50-59,MAIP1,4.811,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,CCDC107,4.742,global,bto:0000042
+Colon - Sigmoid,50-59,ZXDB,4.791,global,bto:0000042
+Colon - Sigmoid,50-59,NSUN5,4.973,global,bto:0000042
+Colon - Sigmoid,50-59,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TMEM50A,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,COQ9,4.987,global,bto:0000042
+Colon - Sigmoid,50-59,TSPYL5,4.931,global,bto:0000042
+Colon - Sigmoid,50-59,LEMD3,4.93,global,bto:0000042
+Colon - Sigmoid,50-59,ING4,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,RPUSD2,4.908,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,CEP89,4.446,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,EHD2,4.993,global,bto:0000042
+Colon - Sigmoid,50-59,EWSR1,4.999,global,bto:0000042
+Colon - Sigmoid,50-59,FBXO22,4.947,global,bto:0000042
+Colon - Sigmoid,50-59,KIFBP,4.981,global,bto:0000042
+Colon - Sigmoid,50-59,SF3B4,4.989,global,bto:0000042
+Colon - Sigmoid,50-59,DDB1,4.999,global,bto:0000042
+Colon - Sigmoid,50-59,KCNIP3,4.928,global,bto:0000042
+Colon - Sigmoid,50-59,KCNH2,4.962,global,bto:0000042
+Colon - Sigmoid,50-59,PYGO2,4.951,global,bto:0000042
+Colon - Sigmoid,50-59,SLC15A4,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,BORCS5,4.857,global,bto:0000042
+Colon - Sigmoid,50-59,BMERB1,4.989,global,bto:0000042
+Colon - Sigmoid,50-59,TTC8,4.961,global,bto:0000042
+Colon - Sigmoid,50-59,KEAP1,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,TFB1M,4.949,global,bto:0000042
+Colon - Sigmoid,50-59,TMEM9,4.992,global,bto:0000042
+Colon - Sigmoid,50-59,RNF11,4.99,global,bto:0000042
+Colon - Sigmoid,50-59,NAP1L4,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,MAGI2-AS3,1.932,global,adenocarcinoma cell
+Colon - Sigmoid,50-59,MGRN1,4.965,global,bto:0000042
+Colon - Sigmoid,50-59,SNHG14,2.154,global,bto:0000042
+Colon - Sigmoid,50-59,NFIA,4.981,global,bto:0000042
+Colon - Sigmoid,50-59,ANXA7,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,EVI5L,4.893,global,bto:0000042
+Colon - Sigmoid,50-59,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ENSG00000255310,,,
+Colon - Sigmoid,50-59,SHF,4.217,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,GOT2,5.0,global,bto:0000042
+Colon - Sigmoid,50-59,DDX18,4.99,global,bto:0000042
+Colon - Sigmoid,50-59,EXOC6B,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,NAPA,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,RNF123,4.978,global,bto:0000042
+Colon - Sigmoid,50-59,GHDC,4.976,global,bto:0000042
+Colon - Sigmoid,50-59,PIN1,4.981,global,bto:0000042
+Colon - Sigmoid,50-59,CHD4,4.996,global,bto:0000042
+Colon - Sigmoid,50-59,MTAP,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,RALY,4.988,global,bto:0000042
+Colon - Sigmoid,50-59,PSMC1,4.989,global,bto:0000042
+Colon - Sigmoid,50-59,TCTN1,4.976,global,bto:0000042
+Colon - Sigmoid,50-59,MBD1,4.989,global,bto:0000042
+Colon - Sigmoid,50-59,CDIP1,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,NR2C2,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ABT1,4.954,global,bto:0000042
+Colon - Sigmoid,50-59,TAF6L,4.985,global,bto:0000042
+Colon - Sigmoid,50-59,OSBP,4.975,global,bto:0000042
+Colon - Sigmoid,50-59,RNF40,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,PREB,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,C11ORF49,4.976,global,bto:0000042
+Colon - Sigmoid,50-59,TFIP11,4.982,global,bto:0000042
+Colon - Sigmoid,50-59,AP2A1,4.976,global,bto:0000042
+Colon - Sigmoid,50-59,C1D,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,DDX1,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,ZCCHC17,4.979,global,bto:0000042
+Colon - Sigmoid,50-59,CAPZB,4.996,global,bto:0000042
+Colon - Sigmoid,50-59,HERC2,4.977,global,bto:0000042
+Colon - Sigmoid,50-59,EBF4,4.79,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,PRDX3,4.999,global,bto:0000042
+Colon - Sigmoid,50-59,YTHDF2,4.996,global,bto:0000042
+Colon - Sigmoid,50-59,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,FASTKD2,4.98,global,bto:0000042
+Colon - Sigmoid,50-59,EXOSC7,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ZNF830,4.86,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,RIMKLB,4.966,global,bto:0000042
+Colon - Sigmoid,50-59,ZNF653,4.647,global,bto:0000042
+Colon - Sigmoid,50-59,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,KLC1,4.996,global,bto:0000042
+Colon - Sigmoid,50-59,SEPTIN6,4.994,global,bto:0000042
+Colon - Sigmoid,50-59,SEC23IP,4.986,global,bto:0000042
+Colon - Sigmoid,50-59,MKRN1,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,DEAF1,4.976,global,bto:0000042
+Colon - Sigmoid,50-59,GIT2,4.985,global,bto:0000042
+Colon - Sigmoid,50-59,TM2D3,4.971,global,bto:0000042
+Colon - Sigmoid,50-59,VPS4B,4.971,global,bto:0000042
+Colon - Sigmoid,50-59,ISCU,4.988,global,bto:0000042
+Colon - Sigmoid,50-59,ATXN1L,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,WDR44,4.936,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TMEM161A,4.959,global,bto:0000042
+Colon - Sigmoid,50-59,VPS35L,4.987,global,bto:0000042
+Colon - Sigmoid,50-59,LARP1,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,ZSCAN25,4.812,global,bto:0000042
+Colon - Sigmoid,50-59,MRPL49,4.988,global,bto:0000042
+Colon - Sigmoid,50-59,SAYSD1,4.441,global,bto:0000042
+Colon - Sigmoid,50-59,ZBTB45,4.937,global,bto:0000042
+Colon - Sigmoid,50-59,DDX20,4.967,global,bto:0000042
+Colon - Sigmoid,50-59,NCAPH2,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,MAPKBP1,4.943,global,bto:0000042
+Colon - Sigmoid,50-59,ANKRD39,3.826,global,bto:0000042
+Colon - Sigmoid,50-59,BNIP2,4.986,global,bto:0000042
+Colon - Sigmoid,50-59,ACTB,5.0,global,alimentary canal
+Colon - Sigmoid,50-59,RAMAC,4.925,global,bto:0000042
+Colon - Sigmoid,50-59,WRAP73,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,MTA1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,FN3KRP,4.966,global,bto:0000042
+Colon - Sigmoid,50-59,NRF1,4.907,global,bto:0000042
+Colon - Sigmoid,50-59,ELP2,4.988,global,bto:0000042
+Colon - Sigmoid,50-59,NUP133,4.99,global,bto:0000042
+Colon - Sigmoid,50-59,ZFPL1,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ACIN1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ZNF346,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,DVL2,4.978,global,bto:0000042
+Colon - Sigmoid,50-59,TJP1,4.989,global,bto:0000042
+Colon - Sigmoid,50-59,MIEF1,4.993,global,bto:0000042
+Colon - Sigmoid,50-59,RFXANK,4.969,global,bto:0000042
+Colon - Sigmoid,50-59,RUBCN,4.984,global,bto:0000042
+Colon - Sigmoid,50-59,ZNF384,4.975,global,bto:0000042
+Colon - Sigmoid,50-59,SLC30A5,4.954,global,bto:0000042
+Colon - Sigmoid,50-59,PSMD2,4.999,global,bto:0000042
+Colon - Sigmoid,50-59,ELMOD3,4.946,global,bto:0000042
+Colon - Sigmoid,50-59,INSIG2,4.96,global,bto:0000042
+Colon - Sigmoid,50-59,TBC1D20,4.962,global,bto:0000042
+Colon - Sigmoid,50-59,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,RIPOR1,4.981,global,bto:0000042
+Colon - Sigmoid,50-59,HGS,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,LRRC47,4.857,global,bto:0000042
+Colon - Sigmoid,50-59,TP73-AS1,2.035,global,glioma cell
+Colon - Sigmoid,50-59,AKIP1,4.838,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TMEM94,4.987,global,bto:0000042
+Colon - Sigmoid,50-59,MPRIP,4.992,global,bto:0000042
+Colon - Sigmoid,50-59,UBE2O,4.974,global,bto:0000042
+Colon - Sigmoid,50-59,RRP8,4.956,global,bto:0000042
+Colon - Sigmoid,50-59,TRMT5,4.818,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,B4GAT1,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,FUBP3,4.959,global,bto:0000042
+Colon - Sigmoid,50-59,DNMT3A,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,DCAF5,4.983,global,bto:0000042
+Colon - Sigmoid,50-59,LINC01278,1.638,global,osteosarcoma cell
+Colon - Sigmoid,50-59,FH,4.992,global,bto:0000042
+Colon - Sigmoid,50-59,ZNF687,4.875,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,MRPS25,4.972,global,bto:0000042
+Colon - Sigmoid,50-59,FKBP15,4.965,global,bto:0000042
+Colon - Sigmoid,50-59,MRPL39,4.931,global,bto:0000042
+Colon - Sigmoid,50-59,SACM1L,,,
+Colon - Sigmoid,50-59,SNIP1,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,WDR33,4.981,global,bto:0000042
+Colon - Sigmoid,50-59,CHMP2B,4.996,global,bto:0000042
+Colon - Sigmoid,50-59,PPT1,4.999,global,bto:0000042
+Colon - Sigmoid,50-59,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,SNX15,4.92,global,bto:0000042
+Colon - Sigmoid,50-59,ME2,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,CERS5,4.561,global,bto:0000042
+Colon - Sigmoid,50-59,ZDHHC1,4.926,global,bto:0000042
+Colon - Sigmoid,50-59,SCAF1,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,POU6F1,4.848,global,bto:0000042
+Colon - Sigmoid,50-59,APBB1,4.99,global,bto:0000042
+Colon - Sigmoid,50-59,CHERP,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ZDHHC17,4.963,global,bto:0000042
+Colon - Sigmoid,50-59,PLPPR2,4.984,global,bto:0000042
+Colon - Sigmoid,50-59,SIRT2,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,TGOLN2,4.996,global,bto:0000042
+Colon - Sigmoid,50-59,RTL6,4.815,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,GYPC,4.976,global,bto:0000042
+Colon - Sigmoid,50-59,SSH3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,XAB2,4.97,global,bto:0000042
+Colon - Sigmoid,50-59,POLK,4.95,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ZNF827,4.935,global,bto:0000042
+Colon - Sigmoid,50-59,WWC2,4.927,global,bto:0000042
+Colon - Sigmoid,50-59,POLDIP3,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,HS1BP3,4.896,global,bto:0000042
+Colon - Sigmoid,50-59,CSNK2B,4.692,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,FER,4.803,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ALDH9A1,4.996,global,bto:0000042
+Colon - Sigmoid,50-59,SCAMP3,4.981,global,bto:0000042
+Colon - Sigmoid,50-59,UBE2E2,4.951,global,bto:0000042
+Colon - Sigmoid,50-59,VPS52,4.992,global,bto:0000042
+Colon - Sigmoid,50-59,EID2B,1.985,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,STT3B,4.985,global,bto:0000042
+Colon - Sigmoid,50-59,USP9X,4.994,global,bto:0000042
+Colon - Sigmoid,50-59,UPRT,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TTC7B,4.961,global,bto:0000042
+Colon - Sigmoid,50-59,RAF1,4.996,global,bto:0000042
+Colon - Sigmoid,50-59,STEEP1,,,
+Colon - Sigmoid,50-59,STARD7,4.992,global,bto:0000042
+Colon - Sigmoid,50-59,EPM2AIP1,4.972,global,bto:0000042
+Colon - Sigmoid,50-59,WDR82,4.989,global,bto:0000042
+Colon - Sigmoid,50-59,PARVB,4.958,global,bto:0000042
+Colon - Sigmoid,50-59,MRPL38,4.985,global,bto:0000042
+Colon - Sigmoid,50-59,PIK3R4,4.835,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,ASB1,4.959,global,bto:0000042
+Colon - Sigmoid,50-59,PRDX2,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,OTUD5,4.978,global,bto:0000042
+Colon - Sigmoid,50-59,PHC1,4.981,global,bto:0000042
+Colon - Sigmoid,50-59,DPH1,4.977,global,bto:0000042
+Colon - Sigmoid,50-59,TPR,5.0,global,blood
+Colon - Sigmoid,50-59,LAPTM4A,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,DNAJA2,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TRAPPC12,4.972,global,bto:0000042
+Colon - Sigmoid,50-59,RAP2C,4.91,global,bto:0000042
+Colon - Sigmoid,50-59,ATP6AP2,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,SMU1,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TFB2M,4.959,global,bto:0000042
+Colon - Sigmoid,50-59,TIAM2,4.945,global,bto:0000042
+Colon - Sigmoid,50-59,GADD45GIP1,4.978,global,bto:0000042
+Colon - Sigmoid,50-59,C9ORF64,4.751,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,FBXO17,4.319,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TUBGCP2,4.986,global,bto:0000042
+Colon - Sigmoid,50-59,ABCF1,4.986,global,bto:0000042
+Colon - Sigmoid,50-59,MOB4,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,GRSF1,4.993,global,bto:0000042
+Colon - Sigmoid,50-59,ZNF287,4.968,global,bto:0000042
+Colon - Sigmoid,50-59,GPI,5.0,global,brain
+Colon - Sigmoid,50-59,CFAP298,4.982,global,bto:0000042
+Colon - Sigmoid,50-59,MTX2,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,NOL11,4.988,global,bto:0000042
+Colon - Sigmoid,50-59,MSL1,4.987,global,bto:0000042
+Colon - Sigmoid,50-59,VIRMA,4.977,global,bto:0000042
+Colon - Sigmoid,50-59,PREPL,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,XRCC5,4.999,global,bto:0000042
+Colon - Sigmoid,50-59,COPA,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,BICD2,4.961,global,bto:0000042
+Colon - Sigmoid,50-59,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,INTS4,4.941,global,bto:0000042
+Colon - Sigmoid,50-59,RBM42,4.991,global,bto:0000042
+Colon - Sigmoid,50-59,RAB34,4.99,global,bto:0000042
+Colon - Sigmoid,50-59,POM121,4.992,global,bto:0000042
+Colon - Sigmoid,50-59,RTCB,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,HTRA2,4.968,global,bto:0000042
+Colon - Sigmoid,50-59,TARDBP,4.999,global,bto:0000042
+Colon - Sigmoid,50-59,ERI3,4.987,global,bto:0000042
+Colon - Sigmoid,50-59,BRD3OS,1.192,global,keratocyte
+Colon - Sigmoid,50-59,C19ORF44,4.527,global,bto:0000042
+Colon - Sigmoid,50-59,TGS1,4.884,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TAX1BP1,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,DNAJC17,4.801,global,bto:0000042
+Colon - Sigmoid,50-59,MRPL15,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,HIKESHI,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,XPO4,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TNRC6A,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,C6ORF47,3.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TNFSF12,4.551,global,bto:0000042
+Colon - Sigmoid,50-59,HNRNPD,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,ZNF414,4.882,global,bto:0000042
+Colon - Sigmoid,50-59,UPF3B,4.618,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,FOXJ3,4.969,global,bto:0000042
+Colon - Sigmoid,50-59,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,SIGMAR1,4.993,global,bto:0000042
+Colon - Sigmoid,50-59,ANKRD52,4.576,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,SPRTN,4.5,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,FCF1,4.199,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,LRRC37BP1,,,
+Colon - Sigmoid,50-59,MAU2,4.985,global,bto:0000042
+Colon - Sigmoid,50-59,CCDC22,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,DNAJC30,4.918,global,bto:0000042
+Colon - Sigmoid,50-59,MAPK1,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,PHF12,4.951,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,KDM3B,4.974,global,bto:0000042
+Colon - Sigmoid,50-59,GNPTG,4.972,global,bto:0000042
+Colon - Sigmoid,50-59,NDUFB11,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,GNA12,4.986,global,bto:0000042
+Colon - Sigmoid,50-59,LAMP1,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,UTP23,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,MAP4,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,PLPP7,4.943,global,bto:0000042
+Colon - Sigmoid,50-59,DYNC1I2,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,GMEB1,4.908,global,bto:0000042
+Colon - Sigmoid,50-59,RRAGA,4.987,global,bto:0000042
+Colon - Sigmoid,50-59,DHX8,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,TOLLIP,4.994,global,bto:0000042
+Colon - Sigmoid,50-59,SNRNP200,4.997,global,bto:0000042
+Colon - Sigmoid,50-59,MGST3,4.993,global,bto:0000042
+Colon - Sigmoid,50-59,HDGFL2,4.957,global,bto:0000042
+Colon - Sigmoid,50-59,ORMDL3,4.972,global,bto:0000042
+Colon - Sigmoid,50-59,IFT46,4.962,global,bto:0000042
+Colon - Sigmoid,50-59,RAB12,4.68,global,bto:0000042
+Colon - Sigmoid,50-59,FUNDC2,4.977,global,bto:0000042
+Colon - Sigmoid,50-59,ZSCAN29,4.859,global,bto:0000042
+Colon - Sigmoid,50-59,SLC12A4,4.984,global,bto:0000042
+Colon - Sigmoid,50-59,MRPL46,4.938,global,bto:0000042
+Colon - Sigmoid,50-59,GHITM,5.0,global,bto:0000042
+Colon - Sigmoid,50-59,RNF187,4.986,global,bto:0000042
+Colon - Sigmoid,50-59,L3MBTL2,4.96,global,bto:0000042
+Colon - Sigmoid,50-59,SEC24C,4.987,global,bto:0000042
+Colon - Sigmoid,50-59,METTL6,4.892,global,bto:0000042
+Colon - Sigmoid,50-59,HTATSF1,4.981,global,bto:0000042
+Colon - Sigmoid,50-59,ZNF512,4.979,global,bto:0000042
+Colon - Sigmoid,50-59,KLHL22,4.977,global,bto:0000042
+Colon - Sigmoid,50-59,CPSF6,5.0,global,bto:0000042
+Colon - Sigmoid,50-59,CDCA4,4.944,global,bto:0000042
+Colon - Sigmoid,50-59,ARMCX3,4.988,global,bto:0000042
+Colon - Sigmoid,50-59,CAMK2G,4.993,global,bto:0000042
+Colon - Sigmoid,50-59,ENSG00000288670,,,
+Colon - Sigmoid,50-59,FBRSL1,4.958,global,bto:0000042
+Colon - Sigmoid,50-59,SF1,4.995,global,bto:0000042
+Colon - Sigmoid,50-59,AARSD1,4.319,global,bto:0000042
+Colon - Sigmoid,50-59,RTL8B,3.825,global,bto:0000042
+Colon - Sigmoid,50-59,MUL1,4.993,global,bto:0000042
+Colon - Sigmoid,50-59,RAB11FIP3,4.959,global,bto:0000042
+Colon - Sigmoid,50-59,CCNJ,4.89,global,bto:0000042
+Colon - Sigmoid,50-59,TRMT2B,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,IFT27,4.916,global,bto:0000042
+Colon - Sigmoid,50-59,ALKBH5,4.989,global,bto:0000042
+Colon - Sigmoid,50-59,SPRYD4,4.928,global,bto:0000042
+Colon - Sigmoid,50-59,DHX9,4.998,global,bto:0000042
+Colon - Sigmoid,50-59,UBE2V1,4.999,global,bto:0000042
+Colon - Sigmoid,50-59,PFDN1,4.989,global,bto:0000042
+Colon - Sigmoid,50-59,DYRK4,4.932,global,bto:0000042
+Colon - Sigmoid,50-59,FRS2,4.968,global,bto:0000042
+Colon - Sigmoid,50-59,SPRYD3,4.936,global,bto:0000042
+Colon - Sigmoid,50-59,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,50-59,LAMB2,4.992,global,bto:0000042
+Colon - Sigmoid,50-59,USP19,4.965,global,bto:0000042
+Colon - Sigmoid,50-59,FTSJ3,4.986,global,bto:0000042
+Colon - Sigmoid,50-59,PDCD2L,4.896,global,bto:0000042
+Colon - Sigmoid,60-69,UBL5,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,ATXN7L1,4.505,global,bto:0000042
+Colon - Sigmoid,60-69,MTERF4,4.971,global,bto:0000042
+Colon - Sigmoid,60-69,SNAPC3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,PDZD11,4.974,global,bto:0000042
+Colon - Sigmoid,60-69,COMMD4,4.977,global,bto:0000042
+Colon - Sigmoid,60-69,NFIB,4.982,global,bto:0000042
+Colon - Sigmoid,60-69,CCDC107,4.742,global,bto:0000042
+Colon - Sigmoid,60-69,UROS,4.972,global,bto:0000042
+Colon - Sigmoid,60-69,ZNF362,4.914,global,bto:0000042
+Colon - Sigmoid,60-69,NSUN5,4.973,global,bto:0000042
+Colon - Sigmoid,60-69,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,ERCC3,4.994,global,bto:0000042
+Colon - Sigmoid,60-69,TMEM50A,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,COQ9,4.987,global,bto:0000042
+Colon - Sigmoid,60-69,MCRIP1,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,FAHD2A,4.948,global,bto:0000042
+Colon - Sigmoid,60-69,ING4,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,CEP89,4.446,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,EHD2,4.993,global,bto:0000042
+Colon - Sigmoid,60-69,EWSR1,4.999,global,bto:0000042
+Colon - Sigmoid,60-69,FBXO22,4.947,global,bto:0000042
+Colon - Sigmoid,60-69,SNRPN,4.999,global,bto:0000042
+Colon - Sigmoid,60-69,KCNIP3,4.928,global,bto:0000042
+Colon - Sigmoid,60-69,KCNH2,4.962,global,bto:0000042
+Colon - Sigmoid,60-69,VEGFB,4.961,global,bto:0000042
+Colon - Sigmoid,60-69,PYGO2,4.951,global,bto:0000042
+Colon - Sigmoid,60-69,SLC15A4,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,BORCS5,4.857,global,bto:0000042
+Colon - Sigmoid,60-69,BMERB1,4.989,global,bto:0000042
+Colon - Sigmoid,60-69,ALKBH7,4.961,global,bto:0000042
+Colon - Sigmoid,60-69,TTC8,4.961,global,bto:0000042
+Colon - Sigmoid,60-69,TFB1M,4.949,global,bto:0000042
+Colon - Sigmoid,60-69,ERG28,4.945,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,TMEM9,4.992,global,bto:0000042
+Colon - Sigmoid,60-69,RNF11,4.99,global,bto:0000042
+Colon - Sigmoid,60-69,PDE6D,4.93,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,NAP1L4,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,MAGI2-AS3,1.932,global,adenocarcinoma cell
+Colon - Sigmoid,60-69,NFIA,4.981,global,bto:0000042
+Colon - Sigmoid,60-69,RABGGTA,4.978,global,bto:0000042
+Colon - Sigmoid,60-69,SERPINB6,4.998,global,bto:0000042
+Colon - Sigmoid,60-69,EVI5L,4.893,global,bto:0000042
+Colon - Sigmoid,60-69,SHF,4.217,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,DPCD,4.916,global,bto:0000042
+Colon - Sigmoid,60-69,EXOC6B,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,GHDC,4.976,global,bto:0000042
+Colon - Sigmoid,60-69,PIN1,4.981,global,bto:0000042
+Colon - Sigmoid,60-69,RTL8C,4.98,global,bto:0000042
+Colon - Sigmoid,60-69,CHCHD2,4.997,global,bto:0000042
+Colon - Sigmoid,60-69,MTAP,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,RALY,4.988,global,bto:0000042
+Colon - Sigmoid,60-69,TCTN1,4.976,global,bto:0000042
+Colon - Sigmoid,60-69,MBD1,4.989,global,bto:0000042
+Colon - Sigmoid,60-69,LTBP3,4.989,global,bto:0000042
+Colon - Sigmoid,60-69,CDIP1,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,NR2C2,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,FZR1,4.946,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,LINC00882,1.766,global,respiratory smooth muscle
+Colon - Sigmoid,60-69,ARHGEF25,4.852,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,PREB,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,C11ORF49,4.976,global,bto:0000042
+Colon - Sigmoid,60-69,AP2A1,4.976,global,bto:0000042
+Colon - Sigmoid,60-69,C1D,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,GTF2H5,4.91,global,bto:0000042
+Colon - Sigmoid,60-69,ENSG00000272578,,,
+Colon - Sigmoid,60-69,ZCCHC17,4.979,global,bto:0000042
+Colon - Sigmoid,60-69,PACS2,4.974,global,bto:0000042
+Colon - Sigmoid,60-69,IFTAP,,,
+Colon - Sigmoid,60-69,CAPZB,4.996,global,bto:0000042
+Colon - Sigmoid,60-69,EBF4,4.79,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,SYNGR1,4.974,global,bto:0000042
+Colon - Sigmoid,60-69,MED9,4.964,global,bto:0000042
+Colon - Sigmoid,60-69,MYH11,4.998,global,bto:0000042
+Colon - Sigmoid,60-69,ARGLU1,4.99,global,bto:0000042
+Colon - Sigmoid,60-69,EXOSC7,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,USP40,4.964,global,bto:0000042
+Colon - Sigmoid,60-69,RIMKLB,4.966,global,bto:0000042
+Colon - Sigmoid,60-69,ZNF653,4.647,global,bto:0000042
+Colon - Sigmoid,60-69,FKBP8,4.996,global,bto:0000042
+Colon - Sigmoid,60-69,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,KLC1,4.996,global,bto:0000042
+Colon - Sigmoid,60-69,TRAPPC6A,4.869,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,SEPTIN6,4.994,global,bto:0000042
+Colon - Sigmoid,60-69,DEAF1,4.976,global,bto:0000042
+Colon - Sigmoid,60-69,GIT2,4.985,global,bto:0000042
+Colon - Sigmoid,60-69,TM2D3,4.971,global,bto:0000042
+Colon - Sigmoid,60-69,PSME3IP1,4.986,global,bto:0000042
+Colon - Sigmoid,60-69,DCAKD,4.853,global,bto:0000042
+Colon - Sigmoid,60-69,ISCU,4.988,global,bto:0000042
+Colon - Sigmoid,60-69,HPS1,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,WDR44,4.936,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,TMEM161A,4.959,global,bto:0000042
+Colon - Sigmoid,60-69,F8A1,4.68,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,ZNF775,4.866,global,bto:0000042
+Colon - Sigmoid,60-69,SAYSD1,4.441,global,bto:0000042
+Colon - Sigmoid,60-69,TBC1D22A,4.98,global,bto:0000042
+Colon - Sigmoid,60-69,NCAPH2,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,MAPKBP1,4.943,global,bto:0000042
+Colon - Sigmoid,60-69,ANKRD39,3.826,global,bto:0000042
+Colon - Sigmoid,60-69,ACTB,5.0,global,alimentary canal
+Colon - Sigmoid,60-69,SHARPIN,4.988,global,bto:0000042
+Colon - Sigmoid,60-69,MKNK1,4.982,global,bto:0000042
+Colon - Sigmoid,60-69,WRAP73,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,SNX21,4.924,global,bto:0000042
+Colon - Sigmoid,60-69,ZMIZ2,4.983,global,bto:0000042
+Colon - Sigmoid,60-69,XYLT2,4.83,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,MYL6,5.0,global,bto:0000042
+Colon - Sigmoid,60-69,MTA1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,ZNHIT1,4.982,global,bto:0000042
+Colon - Sigmoid,60-69,FN3KRP,4.966,global,bto:0000042
+Colon - Sigmoid,60-69,NRF1,4.907,global,bto:0000042
+Colon - Sigmoid,60-69,ELP2,4.988,global,bto:0000042
+Colon - Sigmoid,60-69,DHRS12,4.887,global,bto:0000042
+Colon - Sigmoid,60-69,ZFPL1,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,ACIN1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,ZNF346,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,UBAC2,4.993,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,DVL2,4.978,global,bto:0000042
+Colon - Sigmoid,60-69,RFXANK,4.969,global,bto:0000042
+Colon - Sigmoid,60-69,EIF2D,4.975,global,bto:0000042
+Colon - Sigmoid,60-69,CALM3,5.0,global,bto:0000042
+Colon - Sigmoid,60-69,LMF1,4.972,global,bto:0000042
+Colon - Sigmoid,60-69,ELMOD3,4.946,global,bto:0000042
+Colon - Sigmoid,60-69,INSIG2,4.96,global,bto:0000042
+Colon - Sigmoid,60-69,TBC1D20,4.962,global,bto:0000042
+Colon - Sigmoid,60-69,RIPOR1,4.981,global,bto:0000042
+Colon - Sigmoid,60-69,HGS,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,TCF7L1,4.887,global,bto:0000042
+Colon - Sigmoid,60-69,FAHD2CP,,,
+Colon - Sigmoid,60-69,TP73-AS1,2.035,global,glioma cell
+Colon - Sigmoid,60-69,AKIP1,4.838,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,TMEM94,4.987,global,bto:0000042
+Colon - Sigmoid,60-69,MPRIP,4.992,global,bto:0000042
+Colon - Sigmoid,60-69,UBE2O,4.974,global,bto:0000042
+Colon - Sigmoid,60-69,ATXN2,4.986,global,bto:0000042
+Colon - Sigmoid,60-69,RRP8,4.956,global,bto:0000042
+Colon - Sigmoid,60-69,COA1,4.959,global,bto:0000042
+Colon - Sigmoid,60-69,B4GAT1,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,SNTA1,4.969,global,bto:0000042
+Colon - Sigmoid,60-69,CAMKK2,4.994,global,bto:0000042
+Colon - Sigmoid,60-69,DNMT3A,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,DCAF5,4.983,global,bto:0000042
+Colon - Sigmoid,60-69,LINC01278,1.638,global,osteosarcoma cell
+Colon - Sigmoid,60-69,FH,4.992,global,bto:0000042
+Colon - Sigmoid,60-69,ZNF687,4.875,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,MRPS25,4.972,global,bto:0000042
+Colon - Sigmoid,60-69,FKBP15,4.965,global,bto:0000042
+Colon - Sigmoid,60-69,WDR33,4.981,global,bto:0000042
+Colon - Sigmoid,60-69,PPT1,4.999,global,bto:0000042
+Colon - Sigmoid,60-69,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,SNX15,4.92,global,bto:0000042
+Colon - Sigmoid,60-69,CERS5,4.561,global,bto:0000042
+Colon - Sigmoid,60-69,ZDHHC1,4.926,global,bto:0000042
+Colon - Sigmoid,60-69,SCAF1,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,POU6F1,4.848,global,bto:0000042
+Colon - Sigmoid,60-69,APBB1,4.99,global,bto:0000042
+Colon - Sigmoid,60-69,ZDHHC17,4.963,global,bto:0000042
+Colon - Sigmoid,60-69,PLPPR2,4.984,global,bto:0000042
+Colon - Sigmoid,60-69,SIRT2,4.997,global,bto:0000042
+Colon - Sigmoid,60-69,CZIB,4.951,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,SNAPC2,4.951,global,bto:0000042
+Colon - Sigmoid,60-69,NDUFA11,4.978,global,bto:0000042
+Colon - Sigmoid,60-69,FAM98C,4.856,global,bto:0000042
+Colon - Sigmoid,60-69,GYPC,4.976,global,bto:0000042
+Colon - Sigmoid,60-69,SSH3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,XAB2,4.97,global,bto:0000042
+Colon - Sigmoid,60-69,POLK,4.95,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,POLDIP3,4.998,global,bto:0000042
+Colon - Sigmoid,60-69,COMMD3,4.983,global,bto:0000042
+Colon - Sigmoid,60-69,HS1BP3,4.896,global,bto:0000042
+Colon - Sigmoid,60-69,CSNK2B,4.692,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,FER,4.803,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,NUBP2,4.982,global,bto:0000042
+Colon - Sigmoid,60-69,MYL9,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,COL6A2,4.998,global,bto:0000042
+Colon - Sigmoid,60-69,ENSG00000239665,,,
+Colon - Sigmoid,60-69,SCAMP3,4.981,global,bto:0000042
+Colon - Sigmoid,60-69,SNAPC4,4.0,global,blood cancer cell
+Colon - Sigmoid,60-69,UBE2E2,4.951,global,bto:0000042
+Colon - Sigmoid,60-69,EID2B,1.985,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,MVB12A,4.708,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,STT3B,4.985,global,bto:0000042
+Colon - Sigmoid,60-69,EDF1,4.985,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,TTC7B,4.961,global,bto:0000042
+Colon - Sigmoid,60-69,AGAP5,2.546,global,bto:0000042
+Colon - Sigmoid,60-69,POLR2E,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,ATP5ME,4.967,global,bto:0000042
+Colon - Sigmoid,60-69,EPM2AIP1,4.972,global,bto:0000042
+Colon - Sigmoid,60-69,PARVB,4.958,global,bto:0000042
+Colon - Sigmoid,60-69,MRPL38,4.985,global,bto:0000042
+Colon - Sigmoid,60-69,CACNA1H,4.891,global,bto:0000042
+Colon - Sigmoid,60-69,TMEM231,4.951,global,bto:0000042
+Colon - Sigmoid,60-69,ASB1,4.959,global,bto:0000042
+Colon - Sigmoid,60-69,OTUD5,4.978,global,bto:0000042
+Colon - Sigmoid,60-69,PHC1,4.981,global,bto:0000042
+Colon - Sigmoid,60-69,DPH1,4.977,global,bto:0000042
+Colon - Sigmoid,60-69,LAPTM4A,4.998,global,bto:0000042
+Colon - Sigmoid,60-69,NDUFS7,4.965,global,bto:0000042
+Colon - Sigmoid,60-69,RAP2C,4.91,global,bto:0000042
+Colon - Sigmoid,60-69,URM1,4.987,global,bto:0000042
+Colon - Sigmoid,60-69,ATP6AP2,4.997,global,bto:0000042
+Colon - Sigmoid,60-69,TNRC6C,4.962,global,bto:0000042
+Colon - Sigmoid,60-69,TIAM2,4.945,global,bto:0000042
+Colon - Sigmoid,60-69,GADD45GIP1,4.978,global,bto:0000042
+Colon - Sigmoid,60-69,SIRT3,4.989,global,bto:0000042
+Colon - Sigmoid,60-69,NRM,4.916,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,FBXO17,4.319,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,TUBGCP2,4.986,global,bto:0000042
+Colon - Sigmoid,60-69,STAU2,4.985,global,bto:0000042
+Colon - Sigmoid,60-69,SRSF1,4.998,global,bto:0000042
+Colon - Sigmoid,60-69,MCEE,4.897,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,HEXA,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,GPI,5.0,global,brain
+Colon - Sigmoid,60-69,CFAP298,4.982,global,bto:0000042
+Colon - Sigmoid,60-69,MTX2,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,MSL1,4.987,global,bto:0000042
+Colon - Sigmoid,60-69,PREPL,4.998,global,bto:0000042
+Colon - Sigmoid,60-69,NOSIP,4.982,global,bto:0000042
+Colon - Sigmoid,60-69,TXNDC15,4.962,global,bto:0000042
+Colon - Sigmoid,60-69,LIMS2,4.965,global,bto:0000042
+Colon - Sigmoid,60-69,BICD2,4.961,global,bto:0000042
+Colon - Sigmoid,60-69,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,INTS4,4.941,global,bto:0000042
+Colon - Sigmoid,60-69,RBM42,4.991,global,bto:0000042
+Colon - Sigmoid,60-69,STRN4,4.982,global,bto:0000042
+Colon - Sigmoid,60-69,RAB34,4.99,global,bto:0000042
+Colon - Sigmoid,60-69,TMEM8B,4.886,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,HTRA2,4.968,global,bto:0000042
+Colon - Sigmoid,60-69,TARDBP,4.999,global,bto:0000042
+Colon - Sigmoid,60-69,ERI3,4.987,global,bto:0000042
+Colon - Sigmoid,60-69,BRD3OS,1.192,global,keratocyte
+Colon - Sigmoid,60-69,C19ORF44,4.527,global,bto:0000042
+Colon - Sigmoid,60-69,C3ORF18,4.912,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,PRR14,4.976,global,bto:0000042
+Colon - Sigmoid,60-69,ATP5MJ,,,
+Colon - Sigmoid,60-69,DNAJC17,4.801,global,bto:0000042
+Colon - Sigmoid,60-69,HIKESHI,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,TNRC6A,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,PFN1,4.999,global,bto:0000042
+Colon - Sigmoid,60-69,TNFSF12,4.551,global,bto:0000042
+Colon - Sigmoid,60-69,SLC25A42,4.902,global,bto:0000042
+Colon - Sigmoid,60-69,HNRNPD,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,ZNF414,4.882,global,bto:0000042
+Colon - Sigmoid,60-69,UPF3B,4.618,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,FOXJ3,4.969,global,bto:0000042
+Colon - Sigmoid,60-69,PIAS3,4.987,global,bto:0000042
+Colon - Sigmoid,60-69,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,RBPMS,4.982,global,bto:0000042
+Colon - Sigmoid,60-69,TCEA2,4.976,global,bto:0000042
+Colon - Sigmoid,60-69,COX7B,4.985,global,bto:0000042
+Colon - Sigmoid,60-69,ANKRD52,4.576,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,BLCAP,4.996,global,bto:0000042
+Colon - Sigmoid,60-69,LRRC37BP1,,,
+Colon - Sigmoid,60-69,MAU2,4.985,global,bto:0000042
+Colon - Sigmoid,60-69,CCDC22,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,DNAJC30,4.918,global,bto:0000042
+Colon - Sigmoid,60-69,NCKAP5L,4.726,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,PHF12,4.951,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,NDUFS6,4.964,global,bto:0000042
+Colon - Sigmoid,60-69,GNPTG,4.972,global,bto:0000042
+Colon - Sigmoid,60-69,NDUFB11,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,ORAI3,4.929,global,bto:0000042
+Colon - Sigmoid,60-69,GNA12,4.986,global,bto:0000042
+Colon - Sigmoid,60-69,LAMP1,4.997,global,bto:0000042
+Colon - Sigmoid,60-69,ARHGAP12,4.957,global,bto:0000042
+Colon - Sigmoid,60-69,MAP4,4.998,global,bto:0000042
+Colon - Sigmoid,60-69,PLPP7,4.943,global,bto:0000042
+Colon - Sigmoid,60-69,DCTN6,4.946,global,bto:0000042
+Colon - Sigmoid,60-69,GALNT11,4.933,global,bto:0000042
+Colon - Sigmoid,60-69,NDUFA1,4.984,global,bto:0000042
+Colon - Sigmoid,60-69,TOLLIP,4.994,global,bto:0000042
+Colon - Sigmoid,60-69,ATP6V1G1,4.994,global,bto:0000042
+Colon - Sigmoid,60-69,MGST3,4.993,global,bto:0000042
+Colon - Sigmoid,60-69,HDGFL2,4.957,global,bto:0000042
+Colon - Sigmoid,60-69,SMTN,4.997,global,bto:0000042
+Colon - Sigmoid,60-69,ORMDL3,4.972,global,bto:0000042
+Colon - Sigmoid,60-69,IFT46,4.962,global,bto:0000042
+Colon - Sigmoid,60-69,RAB12,4.68,global,bto:0000042
+Colon - Sigmoid,60-69,ZNF418,4.757,global,bto:0000042
+Colon - Sigmoid,60-69,FUNDC2,4.977,global,bto:0000042
+Colon - Sigmoid,60-69,FAM66C,1.529,global,hpac cell
+Colon - Sigmoid,60-69,BEX3,4.994,global,bto:0000042
+Colon - Sigmoid,60-69,NAA60,4.532,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,PIP4P1,4.958,global,bto:0000042
+Colon - Sigmoid,60-69,SLC12A4,4.984,global,bto:0000042
+Colon - Sigmoid,60-69,RNF187,4.986,global,bto:0000042
+Colon - Sigmoid,60-69,DPM3,3.84,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,L3MBTL2,4.96,global,bto:0000042
+Colon - Sigmoid,60-69,METTL6,4.892,global,bto:0000042
+Colon - Sigmoid,60-69,ZNF512,4.979,global,bto:0000042
+Colon - Sigmoid,60-69,KLHL22,4.977,global,bto:0000042
+Colon - Sigmoid,60-69,CPSF6,5.0,global,bto:0000042
+Colon - Sigmoid,60-69,CDCA4,4.944,global,bto:0000042
+Colon - Sigmoid,60-69,ARMCX3,4.988,global,bto:0000042
+Colon - Sigmoid,60-69,ENSG00000288670,,,
+Colon - Sigmoid,60-69,STK25,4.996,global,bto:0000042
+Colon - Sigmoid,60-69,WDPCP,4.846,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,FBRSL1,4.958,global,bto:0000042
+Colon - Sigmoid,60-69,SF1,4.995,global,bto:0000042
+Colon - Sigmoid,60-69,AARSD1,4.319,global,bto:0000042
+Colon - Sigmoid,60-69,RTL8B,3.825,global,bto:0000042
+Colon - Sigmoid,60-69,MXRA8,5.0,global,alimentary canal
+Colon - Sigmoid,60-69,HDAC8,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,60-69,RAB11FIP3,4.959,global,bto:0000042
+Colon - Sigmoid,60-69,NME4,4.977,global,bto:0000042
+Colon - Sigmoid,60-69,IFT27,4.916,global,bto:0000042
+Colon - Sigmoid,60-69,AGK,4.948,global,bto:0000042
+Colon - Sigmoid,60-69,ALKBH5,4.989,global,bto:0000042
+Colon - Sigmoid,60-69,UBE2V1,4.999,global,bto:0000042
+Colon - Sigmoid,60-69,PFDN1,4.989,global,bto:0000042
+Colon - Sigmoid,60-69,DYRK4,4.932,global,bto:0000042
+Colon - Sigmoid,60-69,SPRYD3,4.936,global,bto:0000042
+Colon - Sigmoid,60-69,LAMB2,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,UBE2G2,4.465,global,bto:0000042
+Colon - Sigmoid,70-79,UIMC1,4.966,global,bto:0000042
+Colon - Sigmoid,70-79,EXT2,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,ACTR1B,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,NAXE,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,CXXC1,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,MZT2B,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,FBXO28,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,CHIC1,4.868,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MRPS2,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,BIVM,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CCDC88A,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFAF6,4.515,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TMEM134,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,MAPK3,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,HELZ,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,PDZD11,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,AGBL5,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,TSC22D4,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,COMMD4,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,GTF3C5,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,MPHOSPH8,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,ABHD14B,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM39B,4.942,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC107,4.742,global,bto:0000042
+Colon - Sigmoid,70-79,ORC4,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC171,2.168,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MRPL4,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,DAGLB,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,FAM149B1,4.896,global,bto:0000042
+Colon - Sigmoid,70-79,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PRKCSH,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,SGMS1,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,EGFL8,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,PHF19,4.963,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ATAD2B,4.879,global,bto:0000042
+Colon - Sigmoid,70-79,ANG,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,RPL34,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,C2CD2,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,RALB,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,EHD2,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,THAP8,4.802,global,bto:0000042
+Colon - Sigmoid,70-79,SORBS3,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CDC16,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,FOXJ2,4.902,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ABTB1,4.832,global,bto:0000042
+Colon - Sigmoid,70-79,LSM4,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,EED,4.935,global,bto:0000042
+Colon - Sigmoid,70-79,TDRD3,4.929,global,bto:0000042
+Colon - Sigmoid,70-79,RDH11,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,EMC3,4.608,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GPN3,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,CLIC4,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,KCNIP3,4.928,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000261474,,,
+Colon - Sigmoid,70-79,TXNRD3,4.441,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FAM241B,4.779,global,bto:0000042
+Colon - Sigmoid,70-79,XPNPEP3,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,SLC15A4,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF25,4.938,global,bto:0000042
+Colon - Sigmoid,70-79,WARS2,4.946,global,bto:0000042
+Colon - Sigmoid,70-79,BORCS5,4.857,global,bto:0000042
+Colon - Sigmoid,70-79,NOB1,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFA12,4.943,global,bto:0000042
+Colon - Sigmoid,70-79,TIGD1,4.746,global,bto:0000042
+Colon - Sigmoid,70-79,EIF2A,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,PHF11,4.905,global,bto:0000042
+Colon - Sigmoid,70-79,C4ORF3,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,CKLF,4.941,global,bto:0000042
+Colon - Sigmoid,70-79,ZNHIT6,4.911,global,bto:0000042
+Colon - Sigmoid,70-79,LARP6,4.943,global,bto:0000042
+Colon - Sigmoid,70-79,SUPT3H,4.782,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KIAA1191,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,ASAH1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,ZSCAN16-AS1,1.997,global,snu-398 cell
+Colon - Sigmoid,70-79,SCARB2,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,DGCR6L,4.936,global,bto:0000042
+Colon - Sigmoid,70-79,SMIM8,4.326,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PPM1M,4.836,global,bto:0000042
+Colon - Sigmoid,70-79,NIPBL,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,GATAD1,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,NT5C,4.952,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,USP35,4.66,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SERPINB6,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,KCTD2,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF284,4.432,global,bto:0000042
+Colon - Sigmoid,70-79,MINK1,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,MAD1L1,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,GNG5,4.953,global,bto:0000042
+Colon - Sigmoid,70-79,ZFPM2,4.8,global,bto:0000042
+Colon - Sigmoid,70-79,COX7A2,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,WASF2,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,UBE2I,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,ZKSCAN8P1,,,
+Colon - Sigmoid,70-79,PTPN23,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,LINC00665,1.914,global,carcinoma cell
+Colon - Sigmoid,70-79,CIZ1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,SLC25A17,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,TOMM6,4.989,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TTC1,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,COQ3,4.947,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TCTN1,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,LTBP3,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,NR2C2,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KBTBD2,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,SMARCAL1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FZR1,4.946,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LINC00882,1.766,global,respiratory smooth muscle
+Colon - Sigmoid,70-79,ZC3H6,4.901,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MAD2L1-DT,,,
+Colon - Sigmoid,70-79,VKORC1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,SAP18,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,MPG,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,NGLY1,4.975,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPLP0,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,ATP5MC2,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,GPATCH1,4.847,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000272578,,,
+Colon - Sigmoid,70-79,HADHA,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,ZCCHC17,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,PLP2,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,COX7A2L,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FBXL7,4.946,global,bto:0000042
+Colon - Sigmoid,70-79,WBP1,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF438,4.832,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000260404,,,
+Colon - Sigmoid,70-79,C11ORF1,4.907,global,bto:0000042
+Colon - Sigmoid,70-79,TATDN1,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,BRAT1,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,SEC63,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,TMED10,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,HMGXB4,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,EXOSC7,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,STX17,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,NCOR1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,MAN2B2,4.896,global,bto:0000042
+Colon - Sigmoid,70-79,LRCH4,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,IAH1,4.94,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KLC1,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,PRPF3,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,METAP2,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,HYKK,4.465,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SEPTIN6,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,DEAF1,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,IER3IP1,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,RBM18,4.966,global,bto:0000042
+Colon - Sigmoid,70-79,RAB11B,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000259877,,,
+Colon - Sigmoid,70-79,TTC28,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,PTK2,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,PMF1,4.443,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,INTS12,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,BBS9,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,POLR2L,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KANSL1L,4.874,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,R3HDM1,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,F8A1,4.68,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RASA1,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,PRDM2,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,RRAS,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM107,4.817,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PHF10,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,SAYSD1,4.441,global,bto:0000042
+Colon - Sigmoid,70-79,ARL6IP5,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,PCDHB10,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM218,4.698,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,USP25,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF34,4.579,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KMT2E,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,LINC00630,1.47,global,ncm-460 cell
+Colon - Sigmoid,70-79,KCMF1,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,PHTF1,4.949,global,bto:0000042
+Colon - Sigmoid,70-79,SYS1,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,EPC1,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MFSD10,4.824,global,bto:0000042
+Colon - Sigmoid,70-79,LDAH,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,SHARPIN,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM256,4.514,global,bto:0000042
+Colon - Sigmoid,70-79,MAP2K4,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,MKS1,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,XYLT2,4.83,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NAA16,4.831,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MTA1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HTRA1,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,FN3KRP,4.966,global,bto:0000042
+Colon - Sigmoid,70-79,NRF1,4.907,global,bto:0000042
+Colon - Sigmoid,70-79,ELP2,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,ZFP90,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,ENKD1,4.386,global,bto:0000042
+Colon - Sigmoid,70-79,EFCAB14,4.472,global,bto:0000042
+Colon - Sigmoid,70-79,FBXO42,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF630,4.707,global,bto:0000042
+Colon - Sigmoid,70-79,TBCB,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,ZFPL1,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HAUS6,4.927,global,bto:0000042
+Colon - Sigmoid,70-79,NPRL2,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,KARS1,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,MED15,4.994,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TMEM62,4.866,global,bto:0000042
+Colon - Sigmoid,70-79,RP9,4.9,global,bto:0000042
+Colon - Sigmoid,70-79,LDOC1,4.91,global,bto:0000042
+Colon - Sigmoid,70-79,SMAD2,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,UBAC2,4.993,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ABHD4,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,DVL2,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,EMSY,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF563,4.895,global,bto:0000042
+Colon - Sigmoid,70-79,EIF2D,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,GNAI2,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,PPP1R7,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,EMC10,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,ECD,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,TBC1D20,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,ATP5MK,,,
+Colon - Sigmoid,70-79,NKAPD1,4.963,global,bto:0000042
+Colon - Sigmoid,70-79,LAMTOR4,4.641,global,bto:0000042
+Colon - Sigmoid,70-79,RIPOR1,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,ANAPC11,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,UBL7-DT,,,
+Colon - Sigmoid,70-79,RPS19BP1,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,PCNP,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,OLA1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,TCF7L1,4.887,global,bto:0000042
+Colon - Sigmoid,70-79,DAXX,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,SUB1,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,FAHD2CP,,,
+Colon - Sigmoid,70-79,SDF4,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,NPHP1,4.86,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AKIP1,4.838,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TBKBP1,4.829,global,bto:0000042
+Colon - Sigmoid,70-79,BAG4,4.891,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CCDC61,4.795,global,bto:0000042
+Colon - Sigmoid,70-79,HMGB1P6,,,
+Colon - Sigmoid,70-79,MRPL45,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,COA1,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,ATP5F1D,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,STMN1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,SMPD4,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,ZFAND4,4.933,global,bto:0000042
+Colon - Sigmoid,70-79,TNPO2,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,SEMA6C,4.864,global,bto:0000042
+Colon - Sigmoid,70-79,CNOT4,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,MRPL42,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,USP46,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,RPL31,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,PAK2,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM101,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,DALRD3,4.957,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFA2,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,PARP16,4.886,global,bto:0000042
+Colon - Sigmoid,70-79,PPCDC,4.872,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RARS2,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,TAFAZZIN,,,
+Colon - Sigmoid,70-79,NOP53,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF84,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,WDR33,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,SCARA3,4.862,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF565,4.732,global,bto:0000042
+Colon - Sigmoid,70-79,NKAP,4.901,global,bto:0000042
+Colon - Sigmoid,70-79,ACBD4,4.883,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DYNLRB1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,GALK2,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ENSG00000242861,,,
+Colon - Sigmoid,70-79,RPL7A,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,POC5,4.957,global,bto:0000042
+Colon - Sigmoid,70-79,TFG,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,OGT,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF136,4.832,global,bto:0000042
+Colon - Sigmoid,70-79,CDKN2C,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,SIRT2,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,ALS2,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CZIB,4.951,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPS24,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,ORC5,4.922,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF616,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,LINC01145,,,
+Colon - Sigmoid,70-79,KIF7,4.718,global,bto:0000042
+Colon - Sigmoid,70-79,DENND6A,4.803,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LRRC49,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,GYPC,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,TRMT2A,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HIGD2A,4.909,global,bto:0000042
+Colon - Sigmoid,70-79,CBFA2T2,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,PLSCR3,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,TBCA,4.905,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MED11,4.875,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,OSGEPL1,4.853,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC146,4.866,global,bto:0000042
+Colon - Sigmoid,70-79,DMAC2,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,COMMD3,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,CHN1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,UFC1,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,SPATA20,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,MTARC2,,,
+Colon - Sigmoid,70-79,PHYHD1,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,MYL9,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,IFT122,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,EYA3,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000239665,,,
+Colon - Sigmoid,70-79,MANBA,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MSL2,4.921,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DHRSX,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,SNAPC4,4.0,global,blood cancer cell
+Colon - Sigmoid,70-79,PGRMC1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,C16ORF87,4.428,global,bto:0000042
+Colon - Sigmoid,70-79,TECR,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,WDR75,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF639,4.903,global,bto:0000042
+Colon - Sigmoid,70-79,COPZ2,4.176,global,bto:0000042
+Colon - Sigmoid,70-79,P3H3,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,MVB12A,4.708,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ADCK1,4.838,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PMVK,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TSSC4,4.9,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CLK3,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,LRRC75B,4.087,global,bto:0000042
+Colon - Sigmoid,70-79,SSR2,4.997,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C18ORF21,4.796,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,POLR2K,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,ABCB10,4.903,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TUBG2,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,GDF11,4.942,global,bto:0000042
+Colon - Sigmoid,70-79,ATP5ME,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF18,4.811,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,EPM2AIP1,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,PARVB,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,CIAO2B,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM231,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,FAXDC2,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CBY1,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TMEM11,4.972,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PFDN5,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,MED8,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,ZDHHC15,4.769,global,bto:0000042
+Colon - Sigmoid,70-79,C2ORF81,2.544,global,bto:0000042
+Colon - Sigmoid,70-79,NMT2,4.877,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,THEM4,4.533,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HSF1,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,BEND5,4.928,global,bto:0000042
+Colon - Sigmoid,70-79,SLC38A7,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,RAP2C,4.91,global,bto:0000042
+Colon - Sigmoid,70-79,RGL2,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,COMMD7,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,SUDS3,4.95,global,bto:0000042
+Colon - Sigmoid,70-79,PRR3,4.578,global,bto:0000042
+Colon - Sigmoid,70-79,AKR7A2,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,DMTF1,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,URM1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,SCAPER,4.94,global,bto:0000042
+Colon - Sigmoid,70-79,MRPL1,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,NABP2,4.9,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GADD45GIP1,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,MED21,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,GET1,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,SENP5,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,FBXO17,4.319,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RCBTB1,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,ATG4A,4.935,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SH3GLB2,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,XRCC3,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MSRA,4.941,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SDHAP1,,,
+Colon - Sigmoid,70-79,ENSG00000239556,,,
+Colon - Sigmoid,70-79,MSL1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,SMIM19,4.927,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TAPT1,4.939,global,bto:0000042
+Colon - Sigmoid,70-79,LINC00869,1.096,global,renal cell carcinoma cell
+Colon - Sigmoid,70-79,GABARAP,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,FKBP3,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,NOSIP,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,SGTA,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,MED31,4.887,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TK2,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,TTF1,4.905,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,APOBEC3C,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,ZFYVE19,4.952,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ARMCX6,4.91,global,bto:0000042
+Colon - Sigmoid,70-79,LINC01560,1.396,global,caski cell
+Colon - Sigmoid,70-79,TMEM242,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SFT2D1,4.774,global,bto:0000042
+Colon - Sigmoid,70-79,HELQ,4.872,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HNRNPDL,5.0,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,STRN4,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,RAB34,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,TPGS2,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,BRD3OS,1.192,global,keratocyte
+Colon - Sigmoid,70-79,RPL23A,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,C3ORF18,4.912,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FUT10,4.804,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RALA,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,CHST14,4.87,global,bto:0000042
+Colon - Sigmoid,70-79,CHPT1,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZC3H15,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,PRR14,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,GIN1,4.763,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,REPS1,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,NEIL1,4.921,global,bto:0000042
+Colon - Sigmoid,70-79,STK4,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,DNAJC17,4.801,global,bto:0000042
+Colon - Sigmoid,70-79,SCD5,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,NPHP4,4.926,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPS6,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,MNAT1,4.952,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPS16,5.0,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,METTL5,4.932,global,bto:0000042
+Colon - Sigmoid,70-79,PLXNB2,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,TNFSF12,4.551,global,bto:0000042
+Colon - Sigmoid,70-79,SLC25A42,4.902,global,bto:0000042
+Colon - Sigmoid,70-79,RPL29,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF414,4.882,global,bto:0000042
+Colon - Sigmoid,70-79,FOXJ3,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,POMT1,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,PIAS3,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,POLR1D,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,SELENOH,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF383,4.581,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SLC66A3,4.919,global,bto:0000042
+Colon - Sigmoid,70-79,CTDSPL2,4.952,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,EXOC3,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,SMG9,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,LETMD1,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,RHNO1,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,RBMX2,4.922,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LRRC37BP1,,,
+Colon - Sigmoid,70-79,BOD1,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,GGA2,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,MVB12B,4.963,global,bto:0000042
+Colon - Sigmoid,70-79,CAMTA1,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFA4,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,GPX4,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,TRIM6,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KRTCAP2,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,PPM1F,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,RPL22,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,PHF12,4.951,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CFDP1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SLBP,4.974,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,WWOX,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,TBPL1,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,LMF2,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,MOSMO,4.2,global,bto:0000042
+Colon - Sigmoid,70-79,CUL9,4.927,global,bto:0000042
+Colon - Sigmoid,70-79,ANKMY2,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,EHMT2,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,ORAI3,4.929,global,bto:0000042
+Colon - Sigmoid,70-79,GNA12,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,ATP9A,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,LAMP1,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,EEF1B2,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,TBC1D17,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,FBLN5,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,ANAPC16,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPP21,4.876,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GALNT11,4.933,global,bto:0000042
+Colon - Sigmoid,70-79,CNRIP1,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,SERP2,4.828,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CYP46A1,4.772,global,bto:0000042
+Colon - Sigmoid,70-79,NAGK,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,SF3B6,4.928,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PTCH2,3.149,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CIAO1,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,NUDT3,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ARPC4,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,AIP,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,IFT46,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,AKT2,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,RAB12,4.68,global,bto:0000042
+Colon - Sigmoid,70-79,CYTH3,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF559,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000276334,,,
+Colon - Sigmoid,70-79,EPB41L1,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,CYB5RL,4.84,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FAM66C,1.529,global,hpac cell
+Colon - Sigmoid,70-79,KRCC1,4.48,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,IST1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,IFT20,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,SNRPA,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,PABPC1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,CRCP,4.939,global,bto:0000042
+Colon - Sigmoid,70-79,FNTB,4.447,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CCDC28A,4.744,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SLC12A4,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,DPM3,3.84,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,EEF1A1,5.0,global,alimentary canal
+Colon - Sigmoid,70-79,LMBR1,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000273007,,,
+Colon - Sigmoid,70-79,MED7,4.936,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF512,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,PORCN,4.907,global,bto:0000042
+Colon - Sigmoid,70-79,YAF2,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,ATP6V1F,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,EDA,4.678,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SNRPD2,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,AP3S1,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,EIF3H,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,ERCC5,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,ARMCX5,4.749,global,bto:0000042
+Colon - Sigmoid,70-79,STK25,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,WDPCP,4.846,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ENSG00000273576,,,
+Colon - Sigmoid,70-79,MTMR3,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,ADPRH,4.797,global,bto:0000042
+Colon - Sigmoid,70-79,NUCB2,4.957,global,bto:0000042
+Colon - Sigmoid,70-79,ATM,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,TDP1,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,CALHM2,4.953,global,bto:0000042
+Colon - Sigmoid,70-79,WDR83OS,4.521,global,bto:0000042
+Colon - Sigmoid,70-79,DPH5,4.943,global,bto:0000042
+Colon - Sigmoid,70-79,APLF,4.772,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LINC00526,1.403,global,tr-146 cell
+Colon - Sigmoid,70-79,SLC12A6,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,MXRA8,5.0,global,alimentary canal
+Colon - Sigmoid,70-79,ANAPC13,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,PPFIBP1,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,CYP2U1,4.932,global,bto:0000042
+Colon - Sigmoid,70-79,RAB11FIP3,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,NME4,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,IFT27,4.916,global,bto:0000042
+Colon - Sigmoid,70-79,VPS8,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KBTBD3,4.72,global,bto:0000042
+Colon - Sigmoid,70-79,MOB2,4.957,global,bto:0000042
+Colon - Sigmoid,70-79,FKBP7,4.797,global,bto:0000042
+Colon - Sigmoid,70-79,KIFAP3,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,METTL3,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,RPS6KA2,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,PABIR3,,,
+Colon - Sigmoid,70-79,SPRYD3,4.936,global,bto:0000042
+Colon - Sigmoid,70-79,C1ORF50,4.749,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TFAP4,4.724,global,bto:0000042
+Colon - Sigmoid,70-79,NCSTN,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,UBE2Q1,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,HDGFL3,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,CEP57L1,4.79,global,bto:0000042
+Colon - Sigmoid,70-79,MTRES1,4.622,global,bto:0000042
+Colon - Sigmoid,70-79,PMS2CL,,,
+Colon - Sigmoid,70-79,FBXW8,4.864,global,bto:0000042
+Colon - Sigmoid,70-79,NPC1,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,DHRS4-AS1,2.1,global,yy-8103 cell
+Colon - Sigmoid,70-79,RABEPK,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,MIR762HG,1.094,global,synovial sarcoma cell
+Colon - Sigmoid,70-79,GJC2,4.664,global,bto:0000042
+Colon - Sigmoid,70-79,MRPL55,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,ARL6IP4,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PLD3,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,UBL5,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,BICD1,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ATAD1,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000285761,,,
+Colon - Sigmoid,70-79,DOCK7,4.943,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM230,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,MGAT5,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,RPL27A,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,RGS10,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,VAMP3,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,CEP350,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,KIN,4.868,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TGDS,4.907,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AAK1,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,MTERF4,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,CNTRL,4.922,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CASC3,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,KAT2B,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,UROS,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,SLC38A6,4.86,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C1ORF174,4.786,global,bto:0000042
+Colon - Sigmoid,70-79,LIX1L-AS1,,,
+Colon - Sigmoid,70-79,SUZ12P1,,,
+Colon - Sigmoid,70-79,CCND3,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,ACYP2,4.848,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PGAP2,4.963,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM50A,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,COQ9,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,KIAA1614,4.593,global,bto:0000042
+Colon - Sigmoid,70-79,TULP3,4.917,global,bto:0000042
+Colon - Sigmoid,70-79,NAA38,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SUMO2,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,MCRIP1,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF880,4.757,global,bto:0000042
+Colon - Sigmoid,70-79,ING4,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,YTHDC1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,XPA,4.865,global,bto:0000042
+Colon - Sigmoid,70-79,MRAS,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,BNIP1,4.916,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FBXO22,4.947,global,bto:0000042
+Colon - Sigmoid,70-79,THUMPD2,4.845,global,bto:0000042
+Colon - Sigmoid,70-79,TRAM1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,KCNH2,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,VEGFB,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,PSMA7,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,RNF7,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,ANXA5,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,DNAJC8,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000287966,,,
+Colon - Sigmoid,70-79,ITGA9-AS1,1.523,global,endometrioid carcinoma cell
+Colon - Sigmoid,70-79,ENSG00000212978,,,
+Colon - Sigmoid,70-79,WWP2,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,RNF11,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,SF3A2,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,ZCCHC7,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SSNA1,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MAP3K3,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000289516,,,
+Colon - Sigmoid,70-79,NDFIP1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,NAP1L4,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,CWC25,4.949,global,bto:0000042
+Colon - Sigmoid,70-79,MAGI2-AS3,1.932,global,adenocarcinoma cell
+Colon - Sigmoid,70-79,EZH1,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,BBX,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MAP4K2,4.911,global,bto:0000042
+Colon - Sigmoid,70-79,MICOS13,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ARHGEF9,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,RABGGTA,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,TRIR,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,IFI27L2,4.796,global,bto:0000042
+Colon - Sigmoid,70-79,METTL15,4.852,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RFC5,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,EVI5L,4.893,global,bto:0000042
+Colon - Sigmoid,70-79,METTL22,4.426,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GGPS1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,SHF,4.217,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SMYD3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NDUFA7,4.633,global,bto:0000042
+Colon - Sigmoid,70-79,HTT,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,EXOC6B,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,STX1A,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,EMC7,4.556,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PIN4,4.941,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GHDC,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,PIN1,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM161B,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,LRRC28,4.916,global,bto:0000042
+Colon - Sigmoid,70-79,CHCHD2,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,PPP2R5A,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,ATP5MG,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,KCNMB3,4.405,global,bto:0000042
+Colon - Sigmoid,70-79,RBX1,4.625,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF133,4.888,global,bto:0000042
+Colon - Sigmoid,70-79,MAP7D3,4.891,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ANKRD65,1.438,global,nci-h1975 cell
+Colon - Sigmoid,70-79,RNF130,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,WASHC4,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF138,4.771,global,bto:0000042
+Colon - Sigmoid,70-79,ARL3,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,PEBP1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,SCMH1,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,RNF113A,4.901,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C11ORF49,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,AP2A1,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,RNPS1,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,PARP11,4.831,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,S100A6,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,KATNA1,4.813,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GTF2H5,4.91,global,bto:0000042
+Colon - Sigmoid,70-79,B3GALT4,4.841,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TLE5,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000269069,,,
+Colon - Sigmoid,70-79,PACS2,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000278730,,,
+Colon - Sigmoid,70-79,RNF111,4.953,global,bto:0000042
+Colon - Sigmoid,70-79,PGLS,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,EBF4,4.79,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,USP11,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,BAALC-AS1,1.577,global,esophageal epithelial cell line
+Colon - Sigmoid,70-79,ENSG00000258634,,,
+Colon - Sigmoid,70-79,C4ORF36,1.215,global,ameloblastic layer
+Colon - Sigmoid,70-79,SCARF2,4.818,global,bto:0000042
+Colon - Sigmoid,70-79,SGCA,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,ARGLU1,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,GGNBP2,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,TBC1D31,4.776,global,bto:0000042
+Colon - Sigmoid,70-79,USP40,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,DUSP7,4.811,global,bto:0000042
+Colon - Sigmoid,70-79,ST7,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HEIH,2.264,global,liver cancer cell
+Colon - Sigmoid,70-79,ARMC10,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MRGBP,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF419,4.878,global,bto:0000042
+Colon - Sigmoid,70-79,RPL24P2,,,
+Colon - Sigmoid,70-79,REEP2,4.946,global,bto:0000042
+Colon - Sigmoid,70-79,EIF3F,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,MRPL36,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PSME3IP1,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,REEP5,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,AAMDC,4.561,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DCAKD,4.853,global,bto:0000042
+Colon - Sigmoid,70-79,LRRC20,4.791,global,bto:0000042
+Colon - Sigmoid,70-79,ISCU,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,PON2,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,ACAP2,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,FLJ37453,1.264,global,oropharynx
+Colon - Sigmoid,70-79,RPS21,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,GABARAPL2,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,LYST,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,HS2ST1,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,NMD3,4.985,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CLK4,4.939,global,bto:0000042
+Colon - Sigmoid,70-79,FMR1,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TCEAL7,4.84,global,bto:0000042
+Colon - Sigmoid,70-79,FCHSD1,4.829,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC149,4.27,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,R3HCC1L,2.991,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZFP82,4.783,global,bto:0000042
+Colon - Sigmoid,70-79,RPL30,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,TAF12,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,NEURL4,4.876,global,bto:0000042
+Colon - Sigmoid,70-79,FAM86DP,,,
+Colon - Sigmoid,70-79,ACTB,5.0,global,alimentary canal
+Colon - Sigmoid,70-79,FAM220A,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DENND5B,4.923,global,bto:0000042
+Colon - Sigmoid,70-79,WRAP73,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ST3GAL2,4.929,global,bto:0000042
+Colon - Sigmoid,70-79,NUDT1,4.863,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MTMR14,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,MUS81,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,APH1B,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,SHISA4,4.926,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFB3,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,ZNHIT1,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,CNPY2-AS1,,,
+Colon - Sigmoid,70-79,EFHC1,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,TRAF6,4.938,global,bto:0000042
+Colon - Sigmoid,70-79,WDR59,4.963,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ABHD12,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM222,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CBX1,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MAF1,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SARNP,4.983,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF346,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TRIM3,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,BSCL2,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,RUFY2,4.9,global,bto:0000042
+Colon - Sigmoid,70-79,METTL9,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,SAMD4B,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,DNAJC4,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,SERAC1,4.853,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FAM120C,4.825,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TRMT10B,4.813,global,bto:0000042
+Colon - Sigmoid,70-79,FXYD6,4.352,global,bto:0000042
+Colon - Sigmoid,70-79,PPT2,4.571,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UBE2O,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,GMDS-DT,,,
+Colon - Sigmoid,70-79,USP4,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,GUF1,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SNTA1,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,DNMT3A,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DCAF5,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,KATNB1,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,MED10,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZDHHC7,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,SMARCD1,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,FAM200A,4.842,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000177738,,,
+Colon - Sigmoid,70-79,MOSPD3,4.885,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,STK11,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,EXOSC3,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,CACNB1,4.934,global,bto:0000042
+Colon - Sigmoid,70-79,UQCC1,4.994,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UBE3D,4.412,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LAMTOR5,4.718,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,BAIAP2-DT,,,
+Colon - Sigmoid,70-79,FKBP15,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,MAGED2,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,POLR2J,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,EFEMP2,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,POGLUT3,4.924,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF595,4.801,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RNF2,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,LAS1L,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,SLC39A13,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,GPS2,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ALG13,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,OAZ2,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LENG1,4.498,global,bto:0000042
+Colon - Sigmoid,70-79,COPRS,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,SEPTIN2,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,CERS5,4.561,global,bto:0000042
+Colon - Sigmoid,70-79,ZDHHC1,4.926,global,bto:0000042
+Colon - Sigmoid,70-79,POU6F1,4.848,global,bto:0000042
+Colon - Sigmoid,70-79,POLR2M,4.395,global,bto:0000042
+Colon - Sigmoid,70-79,MRPS15,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,ARAF,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,SMG7,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000241057,,,
+Colon - Sigmoid,70-79,ATOX1,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,FBXO8,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,MED28,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF358,4.923,global,bto:0000042
+Colon - Sigmoid,70-79,GNG11,4.926,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF576,4.802,global,bto:0000042
+Colon - Sigmoid,70-79,TBC1D5,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,SNAPC2,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,MYPOP,4.615,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SYF2,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,WDR45B,4.546,global,bto:0000042
+Colon - Sigmoid,70-79,MGMT,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,XAB2,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,PLAAT3,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,POLK,4.95,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MRPL20,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,EIF4ENIF1,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,ADCK2,4.933,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF875,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,RABGEF1,4.486,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,POLDIP3,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,FAM136A,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,SELENOW,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000242282,,,
+Colon - Sigmoid,70-79,ATP5MF,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,KIF3B,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF225,4.212,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,POLR2F,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,ANKRD16,4.728,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MCM7,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,FBL,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,ZCRB1,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NF1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,NPAS3,4.929,global,bto:0000042
+Colon - Sigmoid,70-79,THAP3,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,STX8,4.912,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GNPAT,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,CLASP2,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,LSM8,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HSPB2,4.871,global,bto:0000042
+Colon - Sigmoid,70-79,EDF1,4.985,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TTC7B,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000259658,,,
+Colon - Sigmoid,70-79,SLIRP,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GSTA4,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,DDX50,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PATL1,4.952,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MOSPD2,4.92,global,bto:0000042
+Colon - Sigmoid,70-79,DDX41,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,NPHP3,4.913,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,OSER1-DT,,,
+Colon - Sigmoid,70-79,PRPF31,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,AURKAIP1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,PPIL3,4.862,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PINLYP,4.157,global,bto:0000042
+Colon - Sigmoid,70-79,DUBR,,,
+Colon - Sigmoid,70-79,CACNA1H,4.891,global,bto:0000042
+Colon - Sigmoid,70-79,RHBDD2,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,MSI2,4.957,global,bto:0000042
+Colon - Sigmoid,70-79,DIP2A,4.946,global,bto:0000042
+Colon - Sigmoid,70-79,PSMD9,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,FAM227B,4.359,global,bto:0000042
+Colon - Sigmoid,70-79,SARM1,4.877,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TMBIM4,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,DDHD2,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,YY1AP1,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,MARVELD1,4.388,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SAT2,4.943,global,bto:0000042
+Colon - Sigmoid,70-79,DYSF,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,COX14,4.576,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF354B,4.796,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LAMTOR2,4.63,global,bto:0000042
+Colon - Sigmoid,70-79,TIMP2,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFB7,4.956,global,bto:0000042
+Colon - Sigmoid,70-79,NRM,4.916,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,EGLN2,4.534,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPL36A,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,GUSB,4.997,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FANCL,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,LRRN4CL,4.613,global,bto:0000042
+Colon - Sigmoid,70-79,RARRES2,4.956,global,bto:0000042
+Colon - Sigmoid,70-79,TUBGCP2,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF524,4.446,global,bto:0000042
+Colon - Sigmoid,70-79,C18ORF25,4.922,global,bto:0000042
+Colon - Sigmoid,70-79,STAU2,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,SRSF1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,SPTLC1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,LINC00294,1.806,global,sw-872 cell
+Colon - Sigmoid,70-79,GPI,5.0,global,brain
+Colon - Sigmoid,70-79,ANKRD13D,4.936,global,bto:0000042
+Colon - Sigmoid,70-79,RPL9,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,PREPL,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,RNF141,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,MARK3,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UHRF2,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF407-AS1,,,
+Colon - Sigmoid,70-79,TTLL3,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,RWDD2A,4.132,global,bto:0000042
+Colon - Sigmoid,70-79,NFU1,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TXNDC15,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,TOMM20,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,PPP1CC,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,LIMS2,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,BICD2,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,INTS4,4.941,global,bto:0000042
+Colon - Sigmoid,70-79,POLR2H,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,FIBIN,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,RTL8A,4.778,global,bto:0000042
+Colon - Sigmoid,70-79,LINC00623,,,
+Colon - Sigmoid,70-79,CGRRF1,4.886,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM8B,4.886,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF785,4.639,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM14C,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM219,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,SNX9,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,RPL23AP82,,,
+Colon - Sigmoid,70-79,KLHL12,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,ERI3,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,SMURF2,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,ERMARD,4.882,global,bto:0000042
+Colon - Sigmoid,70-79,ZMPSTE24-DT,,,
+Colon - Sigmoid,70-79,ATG12,4.983,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DZIP1,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GIHCG,,,
+Colon - Sigmoid,70-79,MRPL21,4.699,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ATPAF2,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PPP1R13B,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,ATF2,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,LAMTOR1,4.713,global,bto:0000042
+Colon - Sigmoid,70-79,SMDT1,4.686,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,EIF4E3,4.927,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UBXN2B,4.941,global,bto:0000042
+Colon - Sigmoid,70-79,HIKESHI,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TMEM258,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,KCTD13,4.9,global,bto:0000042
+Colon - Sigmoid,70-79,LRRC34,4.789,global,bto:0000042
+Colon - Sigmoid,70-79,POM121C,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF691,4.858,global,bto:0000042
+Colon - Sigmoid,70-79,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MARK4,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,TCEA2,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,BLCAP,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,RPS3,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,CSNK2A2,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,GTF2A2,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GEMIN2,4.841,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,BLVRB,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FAM149A,4.17,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GALT,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,MTMR2,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,RAB6A,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,ANKRD26,4.868,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C8ORF58,4.064,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFS6,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,GLT8D1,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,THAP4,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,VIPAS39,4.963,global,bto:0000042
+Colon - Sigmoid,70-79,ARHGAP12,4.957,global,bto:0000042
+Colon - Sigmoid,70-79,MESD,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,SP3,4.98,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HDDC2,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,ORC2,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,KIAA1143,4.646,global,bto:0000042
+Colon - Sigmoid,70-79,ZBTB37,4.591,global,bto:0000042
+Colon - Sigmoid,70-79,UBL3,4.992,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KANSL3,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,ANKMY1,4.901,global,bto:0000042
+Colon - Sigmoid,70-79,SCOC,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,MRS2,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FAM222B,4.966,global,bto:0000042
+Colon - Sigmoid,70-79,SUGP1,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SPCS2,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,DHRS7,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,C3ORF33,4.36,global,bto:0000042
+Colon - Sigmoid,70-79,CREBL2,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,SMTN,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,HNRNPUL1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,DARS1,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,EEF1AKMT1,4.761,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NQO2,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,FAM104A,4.907,global,bto:0000042
+Colon - Sigmoid,70-79,VAMP5,4.921,global,bto:0000042
+Colon - Sigmoid,70-79,COX18,4.928,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FUNDC2,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF16,4.849,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000266865,,,
+Colon - Sigmoid,70-79,MRPS30-DT,,,
+Colon - Sigmoid,70-79,RUSC1,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,BEX3,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,OTUD6B,4.881,global,bto:0000042
+Colon - Sigmoid,70-79,SUPT7L,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,ITPKB,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SUPT6H,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,SECISBP2,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,CEP112,4.828,global,bto:0000042
+Colon - Sigmoid,70-79,HAUS3,4.956,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM43,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,MAP3K7,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,SSBP3,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,L3MBTL2,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,ASB3,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SEC11A,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,CNTLN,4.821,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,STK32C,4.733,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC77,4.816,global,bto:0000042
+Colon - Sigmoid,70-79,CYB5R3,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF514,4.759,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LZIC,4.921,global,bto:0000042
+Colon - Sigmoid,70-79,RP9P,,,
+Colon - Sigmoid,70-79,TUBGCP4,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF182,4.855,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TMEM42,4.856,global,bto:0000042
+Colon - Sigmoid,70-79,RPSAP70,,,
+Colon - Sigmoid,70-79,DCTN4,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000283236,,,
+Colon - Sigmoid,70-79,FAM229B,4.538,global,bto:0000042
+Colon - Sigmoid,70-79,FBXL15,4.923,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZFAND2B,4.938,global,bto:0000042
+Colon - Sigmoid,70-79,PIP4P2,4.913,global,bto:0000042
+Colon - Sigmoid,70-79,AMMECR1L,4.906,global,bto:0000042
+Colon - Sigmoid,70-79,KLHL2,4.885,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC174,4.908,global,bto:0000042
+Colon - Sigmoid,70-79,VBP1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,CDAN1,4.771,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RNF135,4.875,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PHF13,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,SAP130,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,CHST10,4.912,global,bto:0000042
+Colon - Sigmoid,70-79,BEND7,4.86,global,bto:0000042
+Colon - Sigmoid,70-79,ALKBH1,4.821,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DTX3,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,COMMD6,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,CD27-AS1,1.613,global,hone-1 cell
+Colon - Sigmoid,70-79,SLC30A9,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,SETD2,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FES,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NEPRO,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,SPIN2B,4.873,global,bto:0000042
+Colon - Sigmoid,70-79,ALG5,4.965,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MCC,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NBPF11,4.305,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SMAD5,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,DET1,4.902,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,IQCB1,4.924,global,bto:0000042
+Colon - Sigmoid,70-79,SNX5,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC91,4.936,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM120A,4.412,global,bto:0000042
+Colon - Sigmoid,70-79,MAGEH1,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NFIB,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF561,4.914,global,bto:0000042
+Colon - Sigmoid,70-79,SUFU,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ENSG00000170846,,,
+Colon - Sigmoid,70-79,COMMD10,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,CDKN2AIPNL,3.906,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF362,4.914,global,bto:0000042
+Colon - Sigmoid,70-79,PPWD1,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,UBE2M,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,ATP6V1C1,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,DGLUCY,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,UBE2R2,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,MLH3,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NSUN5,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,ERCC3,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,TMCC1,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,NENF,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,FAAP20,4.299,global,bto:0000042
+Colon - Sigmoid,70-79,ECI2,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,FAHD2A,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,POLR1H,,,
+Colon - Sigmoid,70-79,UCKL1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPL32,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,RSRC1,4.82,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,VPS26A,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,ODR4,4.939,global,bto:0000042
+Colon - Sigmoid,70-79,CAPNS1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,CRKL,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,CHMP5,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,EPB41L3,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,BABAM2,4.928,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RNF180,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,WDR5B,4.889,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,YARS2,4.947,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ADK,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,PLA2G4B,4.326,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C1ORF35,4.885,global,bto:0000042
+Colon - Sigmoid,70-79,ATXN1,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,GPAA1,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,HEBP1,4.922,global,bto:0000042
+Colon - Sigmoid,70-79,PPP1R12A-AS1,,,
+Colon - Sigmoid,70-79,C1ORF54,4.749,global,bto:0000042
+Colon - Sigmoid,70-79,BMERB1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,ADAM10,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,HNRNPA1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,TFB1M,4.949,global,bto:0000042
+Colon - Sigmoid,70-79,FNTA,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,SCAF11,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM9,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,PDE6D,4.93,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RABAC1,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,AASDHPPT,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000273702,,,
+Colon - Sigmoid,70-79,CCDC66,4.913,global,bto:0000042
+Colon - Sigmoid,70-79,COQ5,4.965,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FKBP9,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC124,4.956,global,bto:0000042
+Colon - Sigmoid,70-79,SDCCAG8,4.936,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TWF2,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PAXBP1,4.523,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FAM171B,4.911,global,bto:0000042
+Colon - Sigmoid,70-79,SPIN1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,AEBP2,4.938,global,bto:0000042
+Colon - Sigmoid,70-79,RIC8B,4.928,global,bto:0000042
+Colon - Sigmoid,70-79,HIBADH,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,FAM114A1,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,KIAA1328,2.45,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PEX2,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,MTMR10,4.944,global,bto:0000042
+Colon - Sigmoid,70-79,FBXO44,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DPCD,4.916,global,bto:0000042
+Colon - Sigmoid,70-79,GGA3,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,PIH1D1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,RANGRF,4.944,global,bto:0000042
+Colon - Sigmoid,70-79,C12ORF57,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,MINDY3,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,RAB22A,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,COPS8,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,UBQLN4,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,RTL8C,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,MAPRE3,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,RALY,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,MBD1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM241,4.709,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF506,4.821,global,bto:0000042
+Colon - Sigmoid,70-79,SBF2-AS1,2.043,global,glioma cell
+Colon - Sigmoid,70-79,EEF1G,4.604,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CDIP1,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FAM216A,2.173,global,bto:0000042
+Colon - Sigmoid,70-79,RHOQ,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,CNIH1,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000288973,,,
+Colon - Sigmoid,70-79,RWDD1,4.924,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,COMMD2,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SPIN3,4.869,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TBC1D22B,4.947,global,bto:0000042
+Colon - Sigmoid,70-79,STXBP3,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,PPM1D,4.95,global,bto:0000042
+Colon - Sigmoid,70-79,MZT2A,4.928,global,bto:0000042
+Colon - Sigmoid,70-79,PPP3CC,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,RSL24D1,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,GLE1,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,JOSD1,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,DAD1,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,PTPRA,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,TRPC1,4.864,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF250,4.805,global,bto:0000042
+Colon - Sigmoid,70-79,ENOPH1,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,TCAIM,4.946,global,bto:0000042
+Colon - Sigmoid,70-79,BRD9,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CAPZB,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,SCAMP1-AS1,1.643,global,brodmann area 36
+Colon - Sigmoid,70-79,FAU,4.998,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PLEKHM2,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,IPO5,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,GPRASP1,4.935,global,bto:0000042
+Colon - Sigmoid,70-79,RBM39,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,MED9,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,MYH11,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,MCOLN1,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,RAB11A,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,NSUN3,4.773,global,bto:0000042
+Colon - Sigmoid,70-79,PTPMT1,4.951,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ENSG00000233223,,,
+Colon - Sigmoid,70-79,SLC41A3,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,TATDN2,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,WDSUB1,4.773,global,bto:0000042
+Colon - Sigmoid,70-79,TM2D3,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,SRD5A1,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,STARD7-AS1,1.614,global,mrsv
+Colon - Sigmoid,70-79,SETDB2,4.902,global,bto:0000042
+Colon - Sigmoid,70-79,TESK1,4.921,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SNUPN,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,HPS1,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TMEM161A,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,SMIM30,4.216,global,bto:0000042
+Colon - Sigmoid,70-79,SLC27A5,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFA3,4.946,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF775,4.866,global,bto:0000042
+Colon - Sigmoid,70-79,RTCA,4.594,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TBC1D10B,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,GUCD1,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,ERICH1,4.83,global,bto:0000042
+Colon - Sigmoid,70-79,CHMP1A,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,SELENOM,4.919,global,bto:0000042
+Colon - Sigmoid,70-79,VAT1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,TBC1D22A,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,CCNK,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NCAPH2,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SMS,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CLEC16A,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,CYP27A1,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,MAPKBP1,4.943,global,bto:0000042
+Colon - Sigmoid,70-79,ANKRD39,3.826,global,bto:0000042
+Colon - Sigmoid,70-79,SNX21,4.924,global,bto:0000042
+Colon - Sigmoid,70-79,MPLKIP,4.547,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPS6KB1,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,FILIP1,4.811,global,bto:0000042
+Colon - Sigmoid,70-79,MZT1,4.797,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RARS1,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,POLI,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPS13,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,BCL7C,4.924,global,bto:0000042
+Colon - Sigmoid,70-79,DHRS12,4.887,global,bto:0000042
+Colon - Sigmoid,70-79,CEP164,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CPSF7,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,SERBP1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,DYNLT2B,,,
+Colon - Sigmoid,70-79,CCDC25,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,ACIN1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NACA,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,CPQ,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SMIM20,4.931,global,bto:0000042
+Colon - Sigmoid,70-79,YWHAE,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,TTC9C,4.404,global,bto:0000042
+Colon - Sigmoid,70-79,BRAF,4.945,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZC3H18,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,ISCA2,4.894,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,BCLAF3,4.626,global,bto:0000042
+Colon - Sigmoid,70-79,LYSMD1,4.544,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPL21,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,ANKAR,4.635,global,bto:0000042
+Colon - Sigmoid,70-79,HOXB3,4.735,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ELMOD3,4.946,global,bto:0000042
+Colon - Sigmoid,70-79,RNF220,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,SMARCB1,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,PMS2P1,,,
+Colon - Sigmoid,70-79,PDLIM2,4.941,global,bto:0000042
+Colon - Sigmoid,70-79,SMUG1,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM126B,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,HUS1,4.9,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DRG1,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,HGS,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MMP24OS,1.447,global,pos cell
+Colon - Sigmoid,70-79,TP73-AS1,2.035,global,glioma cell
+Colon - Sigmoid,70-79,MAGI2,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,PTPA,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,NBDY,1.691,global,npc
+Colon - Sigmoid,70-79,KTN1-AS1,1.695,global,non-small cell lung cancer cell
+Colon - Sigmoid,70-79,ARHGEF12,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,ZRSR2,4.727,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ERGIC3,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF549,4.793,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PLS3,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,PAAF1,4.939,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CAMKK2,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,BBLN,,,
+Colon - Sigmoid,70-79,RPL24,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,CYREN,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,ANP32A,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,ZCCHC8,4.953,global,bto:0000042
+Colon - Sigmoid,70-79,E4F1,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,ELOF1,4.942,global,bto:0000042
+Colon - Sigmoid,70-79,KAT8,4.949,global,bto:0000042
+Colon - Sigmoid,70-79,RPS23,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,TTC37,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,SEC31B,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,LINC00662,1.942,global,liver cancer cell
+Colon - Sigmoid,70-79,HSPB11,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,METTL26,4.763,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPL23,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,DIP2B,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,EXOC1,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,SFR1,4.47,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CAPRIN2,4.947,global,bto:0000042
+Colon - Sigmoid,70-79,TCF4,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,NSFL1C,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,HDAC5,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,TOMM34,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,BAD,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,PPT1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,TTL,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,SNX15,4.92,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF767P,,,
+Colon - Sigmoid,70-79,TMEM123,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,SCAF1,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,JMJD7,4.941,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UBAP2,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF19,4.368,global,bto:0000042
+Colon - Sigmoid,70-79,ZDHHC17,4.963,global,bto:0000042
+Colon - Sigmoid,70-79,BTBD1,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,ORC3,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,SRSF9,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,VEZT,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,PLPPR2,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,DPP7,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,MICA,4.517,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM267,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,ARL8A,4.935,global,bto:0000042
+Colon - Sigmoid,70-79,SAP30BP,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,SPARCL1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,STK19,4.947,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UQCRB,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,SBF2,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,CSNK1E,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,NECAP1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,TLK2,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,SSH3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LSM3,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,ATRAID,4.626,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DAP3,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,CSRP1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,ARL1,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,TOGARAM1,4.895,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GLRX2,4.756,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HEBP2,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,FIS1,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,PHF5A,4.935,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,BRD2,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,TBX19,3.498,global,corticotropic cell
+Colon - Sigmoid,70-79,SSR1,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,TXNL1,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,HS1BP3,4.896,global,bto:0000042
+Colon - Sigmoid,70-79,RPS20,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFV1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,FER,4.803,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CNN3-DT,,,
+Colon - Sigmoid,70-79,TFCP2,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,PPP4C,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,CACTIN,4.479,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GFER,4.93,global,bto:0000042
+Colon - Sigmoid,70-79,DPM1,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,SCAMP3,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFC1,4.59,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,INTS3,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,TFPT,4.92,global,bto:0000042
+Colon - Sigmoid,70-79,GTPBP8,4.854,global,bto:0000042
+Colon - Sigmoid,70-79,DCAF6,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,VPS33B,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,C18ORF32,4.171,global,bto:0000042
+Colon - Sigmoid,70-79,TERF1,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,EID2B,1.985,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,STT3B,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,C8ORF76,4.765,global,bto:0000042
+Colon - Sigmoid,70-79,PABIR2,,,
+Colon - Sigmoid,70-79,ZNF776,4.859,global,bto:0000042
+Colon - Sigmoid,70-79,ETFB,4.98,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PALM,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ASCC2,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,SRSF5,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,FANCG,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TSTD3,0.939,global,talus
+Colon - Sigmoid,70-79,TGIF2,4.915,global,bto:0000042
+Colon - Sigmoid,70-79,TRPT1,4.904,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PTS,4.947,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CPNE1,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,STAM2,4.942,global,bto:0000042
+Colon - Sigmoid,70-79,FAM204A,4.796,global,bto:0000042
+Colon - Sigmoid,70-79,ITGB5,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,AGAP5,2.546,global,bto:0000042
+Colon - Sigmoid,70-79,MBD5,4.856,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ELK4,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,TCF3,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,WNK1,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,OTUD5,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,PHC1,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,RPF1,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPL8,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,P3H1,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,NELFE,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF766,4.843,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF526,4.916,global,bto:0000042
+Colon - Sigmoid,70-79,ASCC3,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KPNA5,4.899,global,bto:0000042
+Colon - Sigmoid,70-79,SNRNP27,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,N4BP2L2,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFS7,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,SMNDC1,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPL37,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF76,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,PCBP4,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,TRAPPC2L,4.963,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000260927,,,
+Colon - Sigmoid,70-79,DYM,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,TNRC6C,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,MRPL28,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,TIAM2,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,CAPN2,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,ATG13,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,EP400P1,,,
+Colon - Sigmoid,70-79,GID8,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,RPS18,4.794,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPS28,4.995,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NAA10,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,ASXL3,4.803,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TMEM243,4.956,global,bto:0000042
+Colon - Sigmoid,70-79,TBC1D1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,KPNA2P3,,,
+Colon - Sigmoid,70-79,TTN-AS1,1.886,global,esophageal squamous cell carcinoma cell
+Colon - Sigmoid,70-79,STARD3NL,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,WHAMMP2,,,
+Colon - Sigmoid,70-79,GNB5,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SMIM26,1.451,global,lim1863 cell
+Colon - Sigmoid,70-79,THAP6,4.91,global,bto:0000042
+Colon - Sigmoid,70-79,MCEE,4.897,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CWC15,4.568,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C19ORF53,4.845,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C1ORF131,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,MIOS,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SLC16A2,4.64,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF197,4.875,global,bto:0000042
+Colon - Sigmoid,70-79,LRRC23,4.877,global,bto:0000042
+Colon - Sigmoid,70-79,CREB1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,TAF11,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RBM42,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,BTBD2,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000261351,,,
+Colon - Sigmoid,70-79,NCKIPSD,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,POLM,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CTSF,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,SIMC1,4.467,global,bto:0000042
+Colon - Sigmoid,70-79,FHL3,4.938,global,bto:0000042
+Colon - Sigmoid,70-79,KRIT1,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,TSPAN4,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,MED17,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,CNOT7,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,AASDH,4.901,global,bto:0000042
+Colon - Sigmoid,70-79,STX7,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000273314,,,
+Colon - Sigmoid,70-79,BBOF1,4.794,global,bto:0000042
+Colon - Sigmoid,70-79,RND2,4.908,global,bto:0000042
+Colon - Sigmoid,70-79,MORC4,4.911,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ATP5MJ,,,
+Colon - Sigmoid,70-79,TUBE1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PTMA,5.0,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,IMMP2L,4.917,global,bto:0000042
+Colon - Sigmoid,70-79,PFN1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,BBS4,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,TSC1,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,DCAF15,4.944,global,bto:0000042
+Colon - Sigmoid,70-79,ZFYVE1,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,PSMA1,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,DDX59,4.897,global,bto:0000042
+Colon - Sigmoid,70-79,CDC42BPA,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,DEPDC5,4.889,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RBPMS,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,NCOR2,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,COX7B,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,SET,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,WIPF2,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,BPGM,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,SOS2,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TYK2,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,MAU2,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,TIMM9,4.939,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,OPTN,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,CCDC22,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NCKAP5L,4.726,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UFD1,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,LRP11,4.931,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000280077,,,
+Colon - Sigmoid,70-79,CERS4,4.616,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000279227,,,
+Colon - Sigmoid,70-79,RPL10A,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,MEA1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,PHIP,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,CENPC,4.926,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FUBP1,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,CHID1,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,CHCHD5,4.91,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NDUFB11,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RING1,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,REEP1,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,LMO4,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,CDKL3,4.766,global,bto:0000042
+Colon - Sigmoid,70-79,TRIM68,4.798,global,bto:0000042
+Colon - Sigmoid,70-79,FAM172A,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,CRYZL1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AIG1,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SHC2,4.894,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,BRF1,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MAP4,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,GDI1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,ZNHIT3,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF665,4.452,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GDI2,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,LRSAM1,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,WASHC2C,4.409,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AKAP10,4.957,global,bto:0000042
+Colon - Sigmoid,70-79,PPP4R1L,,,
+Colon - Sigmoid,70-79,MED30,4.789,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ATP6V1G1,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,MBD2,4.965,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RAB9A,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,CTDNEP1,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,PHF6,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RABGAP1L,4.87,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF621,4.729,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF418,4.757,global,bto:0000042
+Colon - Sigmoid,70-79,ASPH,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,CDADC1,4.877,global,bto:0000042
+Colon - Sigmoid,70-79,RPS12,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,NAA60,4.532,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GNAS,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,AKR1B1,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF717,4.716,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RBM22,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,PBX3,4.949,global,bto:0000042
+Colon - Sigmoid,70-79,METTL6,4.892,global,bto:0000042
+Colon - Sigmoid,70-79,DYNLT1,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,TIMMDC1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,RPS8,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,SMO,4.925,global,bto:0000042
+Colon - Sigmoid,70-79,KLHL22,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,CMC1,4.891,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPS29,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,RSU1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,VPS28,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,TCEAL8,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000288670,,,
+Colon - Sigmoid,70-79,ZMYM4,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,ZDHHC6,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF510,4.853,global,bto:0000042
+Colon - Sigmoid,70-79,BFAR,5.0,global,alimentary canal
+Colon - Sigmoid,70-79,FBRSL1,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,TERF2IP,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,UBN1,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,UQCR10,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RTL8B,3.825,global,bto:0000042
+Colon - Sigmoid,70-79,LINC01184,1.544,global,ovarian serous carcinoma cell
+Colon - Sigmoid,70-79,STX6,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,HDAC8,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SOS1,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,ARF1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,GPAT4,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000284671,,,
+Colon - Sigmoid,70-79,PPP3R1,4.891,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,WAC-AS1,1.425,global,hep-g2/2.15 cell
+Colon - Sigmoid,70-79,STIMATE,4.288,global,bto:0000042
+Colon - Sigmoid,70-79,RPE,4.977,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF439,4.683,global,bto:0000042
+Colon - Sigmoid,70-79,SS18,4.93,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZDHHC3,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,DNAL4,4.94,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000227486,,,
+Colon - Sigmoid,70-79,BLOC1S6,4.64,global,bto:0000042
+Colon - Sigmoid,70-79,DHPS,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HACE1,4.878,global,bto:0000042
+Colon - Sigmoid,70-79,PPIEL,,,
+Colon - Sigmoid,70-79,RPS3A,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,RBMS3,4.865,global,bto:0000042
+Colon - Sigmoid,70-79,ANKRD44,4.437,global,bto:0000042
+Colon - Sigmoid,70-79,CLK1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000272240,,,
+Colon - Sigmoid,70-79,UBAP2L,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,FUZ,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UBE2A,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,RPL12,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,RAC1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,CNOT9,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,FUNDC1,4.759,global,bto:0000042
+Colon - Sigmoid,70-79,MAP4K4,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,MYG1,,,
+Colon - Sigmoid,70-79,USP48,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,ABITRAM,4.46,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ATXN7L1,4.505,global,bto:0000042
+Colon - Sigmoid,70-79,SCPEP1,4.989,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CDIPT,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,SNAPC3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ETFRF1,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,TRA2B,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,SPATA7,4.934,global,bto:0000042
+Colon - Sigmoid,70-79,ABI1,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,IFT172,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SMIM27,1.558,global,ovca-5 cell
+Colon - Sigmoid,70-79,PRMT2,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,DPP9,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,CDPF1,4.206,global,bto:0000042
+Colon - Sigmoid,70-79,SRSF3,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000228801,,,
+Colon - Sigmoid,70-79,CFAP91,,,
+Colon - Sigmoid,70-79,ZW10,4.935,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SZT2,4.956,global,bto:0000042
+Colon - Sigmoid,70-79,COPS9,4.912,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CIR1,4.941,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CEP89,4.446,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TRAPPC3,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,PAQR7,4.78,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,H3-3A,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,KATNBL1,4.921,global,bto:0000042
+Colon - Sigmoid,70-79,KIAA1109,4.974,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ECSIT,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,CAPRIN1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000289047,,,
+Colon - Sigmoid,70-79,SNRPN,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,MTIF3,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,CYB5D2,4.947,global,bto:0000042
+Colon - Sigmoid,70-79,PPIL4,4.929,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,THOC7,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,PYGO2,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,ASNSD1,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000254837,,,
+Colon - Sigmoid,70-79,DDB2,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,FOCAD,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,WIPF1,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ALKBH7,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,L3MBTL1,4.875,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DENND3-AS1,,,
+Colon - Sigmoid,70-79,RNF181,4.963,global,bto:0000042
+Colon - Sigmoid,70-79,UBL7,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM179B,4.923,global,bto:0000042
+Colon - Sigmoid,70-79,ERG28,4.945,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MRPS24,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,SFSWAP,4.497,global,bto:0000042
+Colon - Sigmoid,70-79,TRPM7,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,PRANCR,,,
+Colon - Sigmoid,70-79,RCC1L,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,GSAP,4.897,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TOR3A,4.966,global,bto:0000042
+Colon - Sigmoid,70-79,BCL11A,4.93,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MEX3C,4.939,global,bto:0000042
+Colon - Sigmoid,70-79,GCFC2,4.894,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DPP8,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PABIR1,,,
+Colon - Sigmoid,70-79,RGS12,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,BTF3,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,NFIA,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF790,3.647,global,bto:0000042
+Colon - Sigmoid,70-79,ZBTB17,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,SPATS2L,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,PMS2P4,,,
+Colon - Sigmoid,70-79,PABPC5,4.482,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NUTF2,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,PHF14,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,HAUS4,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,CCNC,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,ARL2,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,MEF2C,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,ANKRD6,4.92,global,bto:0000042
+Colon - Sigmoid,70-79,LYRM4,4.497,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PRKACB-DT,,,
+Colon - Sigmoid,70-79,ZNF143,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,TRIM27,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,NPM1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,NUDT5,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,GNAI3,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,HOMER3,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MTAP,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,OIP5-AS1,2.168,global,bto:0000042
+Colon - Sigmoid,70-79,ITSN1,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,RPL39,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,ANAPC10,4.823,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CAMLG,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,MED19,4.928,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PFDN4,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ADSL,4.988,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CDK9,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,ZGPAT,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,ARHGEF25,4.852,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DESI1,4.476,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PREB,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,EEF1AKMT3,4.852,global,bto:0000042
+Colon - Sigmoid,70-79,INPPL1,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,C1D,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GOLGA2,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,BET1L,4.939,global,bto:0000042
+Colon - Sigmoid,70-79,MARCHF5,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,KRBA2,4.465,global,bto:0000042
+Colon - Sigmoid,70-79,PRPF38A,4.977,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PSTK,4.788,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,STX5,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,IFTAP,,,
+Colon - Sigmoid,70-79,SPAG16,4.907,global,bto:0000042
+Colon - Sigmoid,70-79,ATP6V0C,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,DLG3,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,SRRM1,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,TBC1D12,4.916,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SYNGR1,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000288764,,,
+Colon - Sigmoid,70-79,CC2D1B,4.945,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ABHD18,4.829,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MYO5A,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,CTNNA1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,RPS11,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,SCAF4,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF571,4.341,global,bto:0000042
+Colon - Sigmoid,70-79,CAMTA2,4.98,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RIMKLB,4.966,global,bto:0000042
+Colon - Sigmoid,70-79,FKBP8,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,SAV1,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,TRAPPC6A,4.869,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RAB28,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PMS1,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,GIT2,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,SNRPE,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AGAP3,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,RPL5,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,NOP10,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,DCTD,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF799,4.621,global,bto:0000042
+Colon - Sigmoid,70-79,KANTR,,,
+Colon - Sigmoid,70-79,OGA,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF609,4.945,global,bto:0000042
+Colon - Sigmoid,70-79,PAIP2,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,KDM2A,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,PLD2,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,EID1,2.317,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NASP,4.997,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SLC35A5,4.976,global,bto:0000042
+Colon - Sigmoid,70-79,RPL7,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF37A,4.89,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LDB1,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,LUC7L3,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,UBAC1,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ANXA11,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,ZCCHC9,4.879,global,bto:0000042
+Colon - Sigmoid,70-79,GATD3B,4.722,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ELOB,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,PXDN,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,COMMD1,4.926,global,bto:0000042
+Colon - Sigmoid,70-79,MKNK1,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,C14ORF93,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C9ORF78,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,THRA,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,GNL1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,UBXN1,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,EIF3G,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,ZFAND1,4.934,global,bto:0000042
+Colon - Sigmoid,70-79,ZMIZ2,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,PRKACA,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,RNF170,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,INTS6,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,CSNK1G3,4.936,global,bto:0000042
+Colon - Sigmoid,70-79,TENT4A,4.964,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,VAMP2,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,NME3,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,MYL6,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,PDCD7,4.851,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,OST4,1.614,global,mi8-5 cho cell
+Colon - Sigmoid,70-79,PCDHB4,3.555,global,bto:0000042
+Colon - Sigmoid,70-79,TTC5,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TXN2,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,FAM20B,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,MACROD1,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,EIF1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF606,4.883,global,bto:0000042
+Colon - Sigmoid,70-79,GPR108,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,SERGEF,4.915,global,bto:0000042
+Colon - Sigmoid,70-79,RPL17,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,RFXANK,4.969,global,bto:0000042
+Colon - Sigmoid,70-79,TUSC3,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,LRRC27,4.59,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFA6,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,CALM3,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,PHF20L1,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPL18,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,LMF1,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,INSIG2,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,SH3BGRL,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,LMLN,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SCAND1,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,SLC35C2,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFS8,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,ETAA1,4.809,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,WDR41,4.977,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM205,4.956,global,bto:0000042
+Colon - Sigmoid,70-79,TXNDC12,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000225507,,,
+Colon - Sigmoid,70-79,LURAP1,4.528,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,DESI2,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,PHKG2,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,MYNN,4.95,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM94,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,MPRIP,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,ATXN2,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,RRP8,4.956,global,bto:0000042
+Colon - Sigmoid,70-79,BRK1,4.52,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NCK1,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,RPL19,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,EMSY-DT,,,
+Colon - Sigmoid,70-79,B4GAT1,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,LSM2,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LINC01278,1.638,global,osteosarcoma cell
+Colon - Sigmoid,70-79,FAHD2B,4.648,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NR3C1,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,INSR,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,PTEN,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,PUS10,4.653,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CELF1,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,MRPS25,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,AKAP8L,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,ERCC2,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NTHL1,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UXT,4.938,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CCNI,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,NELFA,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,APBB1,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,EIF2S3,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,NAA80,4.534,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CDR2L,4.895,global,bto:0000042
+Colon - Sigmoid,70-79,C1ORF43,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,SDHAF4,2.645,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,COPS7B,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,SPATS2,4.938,global,bto:0000042
+Colon - Sigmoid,70-79,UQCR11,4.496,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CHCHD1,4.764,global,bto:0000042
+Colon - Sigmoid,70-79,CCAR1,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,AHCTF1,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,GM2A,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,NISCH,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFA11,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,FAM98C,4.856,global,bto:0000042
+Colon - Sigmoid,70-79,CERT1,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,RPL36AL,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,DELE1,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,AGPAT1,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,CEP170,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,USB1,4.538,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,OGG1,4.961,global,bto:0000042
+Colon - Sigmoid,70-79,CDC34,4.974,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,EHBP1,4.966,global,bto:0000042
+Colon - Sigmoid,70-79,TOMM22,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,FDX2,4.458,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LCMT1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SNF8,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RHOT1,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GRIPAP1,4.944,global,bto:0000042
+Colon - Sigmoid,70-79,CSNK2B,4.692,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CYP39A1,4.791,global,bto:0000042
+Colon - Sigmoid,70-79,MR1,4.883,global,bto:0000042
+Colon - Sigmoid,70-79,NUBP2,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,MAP2K2,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,EMC8,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,COL6A2,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,RSAD1,4.966,global,bto:0000042
+Colon - Sigmoid,70-79,CDK16,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,C9ORF85,3.334,global,bto:0000042
+Colon - Sigmoid,70-79,CHCHD6,4.938,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,POLL,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,UBE2E2,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,IMMP1L,4.718,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZNF862,4.894,global,bto:0000042
+Colon - Sigmoid,70-79,SUMF2,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,CLCN6,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,TTC28-AS1,1.493,global,lim1863 cell
+Colon - Sigmoid,70-79,RPS27A,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,RTN3,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,LYRM9,4.417,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SNHG21,1.489,global,snu-398 cell
+Colon - Sigmoid,70-79,MARCHF2,4.842,global,bto:0000042
+Colon - Sigmoid,70-79,CRTC2,4.96,global,bto:0000042
+Colon - Sigmoid,70-79,STX10,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PHF1,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,KIAA1586,4.738,global,bto:0000042
+Colon - Sigmoid,70-79,HAUS1,4.951,global,bto:0000042
+Colon - Sigmoid,70-79,RBMS2,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,RNASEK,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,YBX1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,WDR13,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,CYB5B,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,CDK4,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,POLR2E,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,SGCE,4.953,global,bto:0000042
+Colon - Sigmoid,70-79,C8ORF44,,,
+Colon - Sigmoid,70-79,EIF2B5,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,ST7L,4.935,global,bto:0000042
+Colon - Sigmoid,70-79,MFF,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,WDR37,4.955,global,bto:0000042
+Colon - Sigmoid,70-79,RESF1,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,MRPL38,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,LINC00847,1.383,global,a-673 cell
+Colon - Sigmoid,70-79,RNASEH2B,4.927,global,bto:0000042
+Colon - Sigmoid,70-79,RNF13,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,ESCO1,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LINC00667,1.522,global,bto:0000042
+Colon - Sigmoid,70-79,SEPTIN4,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,PCDHGA6,4.219,global,bto:0000042
+Colon - Sigmoid,70-79,ROMO1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ASB1,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,ATP5F1E,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,MSRB2,4.941,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SYMPK,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,RNF185,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,LAPTM4A,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,PKN1,4.991,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ACOT8,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,BRI3,4.996,global,bto:0000042
+Colon - Sigmoid,70-79,RRAGB,4.91,global,bto:0000042
+Colon - Sigmoid,70-79,SLC27A3,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,AMBRA1,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,DPY30,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,UBAP1,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,PIGB,4.882,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MBD4,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UBE2E1,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,ITGAE,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,SNRNP25,4.939,global,bto:0000042
+Colon - Sigmoid,70-79,LAMA4,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,ATP6AP2,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,CRAMP1,4.933,global,bto:0000042
+Colon - Sigmoid,70-79,FAM117A,4.61,global,bto:0000042
+Colon - Sigmoid,70-79,PRDM8,4.854,global,bto:0000042
+Colon - Sigmoid,70-79,DNAJC9-AS1,1.265,global,nephroblastoma cell
+Colon - Sigmoid,70-79,SIRT3,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,PRRT1,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AKTIP,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,ANKRD35,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HEXA,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,CFAP298,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,MTX2,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AMZ2,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CSTB,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,HNRNPA3,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,NLGN2,4.953,global,bto:0000042
+Colon - Sigmoid,70-79,IFT81,4.919,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HDLBP,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,AKT3,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,MALSU1,4.937,global,bto:0000042
+Colon - Sigmoid,70-79,PELP1,4.987,global,bto:0000042
+Colon - Sigmoid,70-79,TEX30,4.675,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ILKAP,4.932,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ANP32B,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,CRBN,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,PI4KB,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,INVS,4.913,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HTRA2,4.968,global,bto:0000042
+Colon - Sigmoid,70-79,TCTA,4.978,global,bto:0000042
+Colon - Sigmoid,70-79,TARDBP,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,RMND1,4.536,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,C19ORF44,4.527,global,bto:0000042
+Colon - Sigmoid,70-79,CREG1,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,MRPL11,4.965,global,bto:0000042
+Colon - Sigmoid,70-79,PIK3IP1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,TRIP4,4.95,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SERF2,4.998,global,bto:0000042
+Colon - Sigmoid,70-79,COX6B1,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,OS9,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,NMNAT3,4.874,global,bto:0000042
+Colon - Sigmoid,70-79,TNRC6A,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AGO1,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ADAL,4.941,global,bto:0000042
+Colon - Sigmoid,70-79,DLG1,4.98,global,bto:0000042
+Colon - Sigmoid,70-79,HNRNPD,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,COX5B,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,UPF3B,4.618,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,TP53TG1,1.762,global,carcinoma cell
+Colon - Sigmoid,70-79,EIF1B,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ST13,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,FLYWCH2,4.867,global,bto:0000042
+Colon - Sigmoid,70-79,MAST2,4.964,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RUSF1,,,
+Colon - Sigmoid,70-79,EBAG9,4.952,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ENSG00000280206,,,
+Colon - Sigmoid,70-79,ECI1,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,NPRL3,4.981,global,bto:0000042
+Colon - Sigmoid,70-79,ZFP14,4.632,global,bto:0000042
+Colon - Sigmoid,70-79,METTL23,4.492,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,STX4,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF496,4.928,global,bto:0000042
+Colon - Sigmoid,70-79,GEMIN8,4.915,global,bto:0000042
+Colon - Sigmoid,70-79,LRRC57,4.757,global,bto:0000042
+Colon - Sigmoid,70-79,PDE1A,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,SNX33,4.812,global,bto:0000042
+Colon - Sigmoid,70-79,TRIP11,4.937,global,bto:0000042
+Colon - Sigmoid,70-79,CAMKMT,4.854,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SEC24B,4.974,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,ZMYM3,4.971,global,bto:0000042
+Colon - Sigmoid,70-79,ENSG00000247121,,,
+Colon - Sigmoid,70-79,GNPTG,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,RPL15,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,G6PC3,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,FBXL3,4.985,global,bto:0000042
+Colon - Sigmoid,70-79,TPRKB,4.918,global,bto:0000042
+Colon - Sigmoid,70-79,TMEM184B,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF569,4.913,global,bto:0000042
+Colon - Sigmoid,70-79,POLR2I,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,PLPP7,4.943,global,bto:0000042
+Colon - Sigmoid,70-79,UVRAG,4.962,global,bto:0000042
+Colon - Sigmoid,70-79,DCTN6,4.946,global,bto:0000042
+Colon - Sigmoid,70-79,C4ORF46,4.935,global,bto:0000042
+Colon - Sigmoid,70-79,NSMCE2,4.902,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,GNG10,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,FBXL20,4.944,global,bto:0000042
+Colon - Sigmoid,70-79,C11ORF58,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,HLA-F-AS1,1.606,global,colorectal cancer cell
+Colon - Sigmoid,70-79,NDUFA1,4.984,global,bto:0000042
+Colon - Sigmoid,70-79,TOLLIP,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,INTS13,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,C7ORF25,4.822,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SLC2A4RG,4.975,global,bto:0000042
+Colon - Sigmoid,70-79,SMIM29,4.878,global,bto:0000042
+Colon - Sigmoid,70-79,DTD1,4.0,global,adenocarcinoma cell
+Colon - Sigmoid,70-79,MGST3,4.993,global,bto:0000042
+Colon - Sigmoid,70-79,HDGFL2,4.957,global,bto:0000042
+Colon - Sigmoid,70-79,ORMDL3,4.972,global,bto:0000042
+Colon - Sigmoid,70-79,ECPAS,4.982,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF836,4.684,global,bto:0000042
+Colon - Sigmoid,70-79,SUMO1,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,HMG20B,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,BTN2A1,4.959,global,bto:0000042
+Colon - Sigmoid,70-79,UBE2E3,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,RPL37A,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,CCZ1B,4.57,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,MTERF2,4.82,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,XRCC1,4.97,global,bto:0000042
+Colon - Sigmoid,70-79,RPS18P9,,,
+Colon - Sigmoid,70-79,SWI5,4.59,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,PIP4P1,4.958,global,bto:0000042
+Colon - Sigmoid,70-79,NAP1L1,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,RENBP,4.733,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RNF187,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,DTWD1,4.928,global,bto:0000042
+Colon - Sigmoid,70-79,FCSK,4.954,global,bto:0000042
+Colon - Sigmoid,70-79,HIP1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,CPSF6,5.0,global,bto:0000042
+Colon - Sigmoid,70-79,CDCA4,4.944,global,bto:0000042
+Colon - Sigmoid,70-79,MRPS34,4.964,global,bto:0000042
+Colon - Sigmoid,70-79,MDP1,4.903,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,RPL26,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,ARMCX3,4.988,global,bto:0000042
+Colon - Sigmoid,70-79,APTX,4.979,global,bto:0000042
+Colon - Sigmoid,70-79,UBE2D2,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,CNOT2,4.99,global,bto:0000042
+Colon - Sigmoid,70-79,CTSZ,4.974,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF280D,4.942,global,bto:0000042
+Colon - Sigmoid,70-79,NDUFA13,4.991,global,bto:0000042
+Colon - Sigmoid,70-79,HAX1,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,SF1,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,AARSD1,4.319,global,bto:0000042
+Colon - Sigmoid,70-79,FIBP,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,BRMS1,4.952,global,bto:0000042
+Colon - Sigmoid,70-79,PIBF1,4.887,global,bto:0000042
+Colon - Sigmoid,70-79,MPV17,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,AGAP4,3.918,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,SIL1,4.983,global,bto:0000042
+Colon - Sigmoid,70-79,ANKRD61,3.026,global,bto:0000042
+Colon - Sigmoid,70-79,AGK,4.948,global,bto:0000042
+Colon - Sigmoid,70-79,ALKBH5,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,MEAF6,4.986,global,bto:0000042
+Colon - Sigmoid,70-79,CFAP36,4.82,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,UBE2V1,4.999,global,bto:0000042
+Colon - Sigmoid,70-79,PFDN1,4.989,global,bto:0000042
+Colon - Sigmoid,70-79,PIGX,4.881,global,bto:0000042
+Colon - Sigmoid,70-79,DYRK4,4.932,global,bto:0000042
+Colon - Sigmoid,70-79,DCUN1D4,4.973,global,bto:0000042
+Colon - Sigmoid,70-79,COA5,4.967,global,bto:0000042
+Colon - Sigmoid,70-79,EI24,4.995,global,bto:0000042
+Colon - Sigmoid,70-79,ZNF397,4.902,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,KIRREL1,4.833,global,bto:0000042
+Colon - Sigmoid,70-79,RBM5,4.997,global,bto:0000042
+Colon - Sigmoid,70-79,TLCD5,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Sigmoid,70-79,LAMB2,4.992,global,bto:0000042
+Colon - Sigmoid,70-79,C16ORF72,4.953,global,bto:0000042
+Colon - Sigmoid,70-79,RNF114,4.994,global,bto:0000042
+Colon - Sigmoid,70-79,COPG2,4.944,global,bto:0000042
+Colon - Sigmoid,70-79,CTBS,4.932,global,"tissues, cell types and enzyme sources"

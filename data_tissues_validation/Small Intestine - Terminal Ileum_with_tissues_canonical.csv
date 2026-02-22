@@ -1,0 +1,2420 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Small Intestine - Terminal Ileum,30-39,ABR,1.56,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TM9SF4,1.705,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,PEX3,1.639,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZC3H7B,1.154,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,PLPP6,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TMEM115,1.072,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,C6ORF47,1.471,exact,intestine
+Small Intestine - Terminal Ileum,30-39,ZSWIM3,0.182,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,EFNA3,4.212,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,HDDC3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RGP1,0.938,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZNF213,0.58,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,FASTKD5,0.778,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,SMAP1,1.227,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,CLP1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,SMG8,0.556,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ALKBH2,0.727,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZNF408,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,PSKH1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RPP25L,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TMEM186,0.815,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,DMAC2L,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ARF6,0.873,exact,ileum
+Small Intestine - Terminal Ileum,30-39,GOLGB1,3.367,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,CLPTM1,1.467,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,SLC39A9,4.458,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZMYND8,0.892,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZNF416,0.078,exact,intestine
+Small Intestine - Terminal Ileum,30-39,TMED4,1.75,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,HPS6,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ALDH9A1,0.741,exact,ileum
+Small Intestine - Terminal Ileum,30-39,ACSF3,1.311,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RPUSD2,1.991,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,CHMP6,0.903,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MRM3,1.377,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,PRPF6,1.23,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ELMOD2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,BTBD9,0.802,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZNF324,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,DDX28,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,USP9X,1.74,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MFSD5,0.877,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ARMH3,1.442,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MGAT2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,OPA3,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,SP2,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,NCOA6,1.877,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZNF747,0.477,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TMEM254,1.691,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,HACL1,2.161,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TOE1,0.616,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MT-ND4L,3.726,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MED18,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MAP10,0.653,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,CNPPD1,1.474,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,SNHG11,1.245,exact,intestine
+Small Intestine - Terminal Ileum,30-39,GPATCH3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MIEF1,0.976,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZBTB42,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MGRN1,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,IKBKG,1.851,exact,ileum
+Small Intestine - Terminal Ileum,30-39,GPANK1,4.943,global,bto:0000042
+Small Intestine - Terminal Ileum,30-39,ZNF384,1.751,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,NUDCD2,0.97,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,CICP14,,,
+Small Intestine - Terminal Ileum,30-39,CACNA2D4,0.663,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RMDN1,1.322,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RBM15B,0.815,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,FRG1BP,,,
+Small Intestine - Terminal Ileum,30-39,ZNF689,0.457,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,CTDSP1,1.635,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MOCS3,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,SEC24C,1.865,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TET3,0.509,exact,ileum
+Small Intestine - Terminal Ileum,30-39,DENND1A,0.917,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,CENPBD1,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RNF123,1.096,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,SNX17,2.018,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,DBR1,0.616,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ELAC2,1.162,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TRAPPC9,0.881,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,FADD,1.421,exact,ileum
+Small Intestine - Terminal Ileum,30-39,DOT1L,1.838,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MAD2L1BP,1.174,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,AFG3L2,1.659,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,AKAP1-DT,,,
+Small Intestine - Terminal Ileum,30-39,ZNF687,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,DNAJC14,0.985,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,DGCR2,1.18,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TRAPPC10,1.168,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,PEX16,1.191,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,KBTBD4,0.736,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,AP5S1,0.595,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RREB1,1.882,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,CYB561D2,2.054,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RNF40,1.301,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,YJU2,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TFIP11,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,DOLK,0.839,exact,ileum
+Small Intestine - Terminal Ileum,30-39,ALAD,2.12,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,PPP1R11,4.181,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,AARS2,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,GET4,1.14,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,RAB8A,1.017,exact,ileum
+Small Intestine - Terminal Ileum,30-39,CLCA4-AS1,,,
+Small Intestine - Terminal Ileum,30-39,KATNIP,,,
+Small Intestine - Terminal Ileum,30-39,KLF13,1.947,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,HNRNPUL2,1.282,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,DGCR8,0.509,exact,ileum
+Small Intestine - Terminal Ileum,30-39,TBC1D14,1.146,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,USP19,1.58,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ATP6AP1,2.305,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,NCSTN,2.349,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,EEFSEC,1.336,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,MAPK7,0.659,exact,ileum
+Small Intestine - Terminal Ileum,30-39,CTDP1,1.113,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,ZC3H4,1.2,exact,small intestine
+Small Intestine - Terminal Ileum,30-39,TEX264,1.368,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,GPATCH3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,ABR,1.56,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,MAD2L1BP,1.174,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,ZBTB42,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,ALDH9A1,0.741,exact,ileum
+Small Intestine - Terminal Ileum,40-49,MGRN1,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,RPUSD2,1.991,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,MRM3,1.377,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,PEX3,1.639,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,DNAJC14,0.985,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,PRPF6,1.23,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,BTBD9,0.802,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,ZNF324,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,PEX16,1.191,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,AP5S1,0.595,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,C6ORF47,1.471,exact,intestine
+Small Intestine - Terminal Ileum,40-49,RREB1,1.882,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,RNF40,1.301,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,YJU2,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,ARMH3,1.442,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,FRG1BP,,,
+Small Intestine - Terminal Ileum,40-49,MGAT2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,PPP1R11,4.181,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,ZNF689,0.457,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,OPA3,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,HDDC3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,RGP1,0.938,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,SLC35B3,1.685,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,SEC24C,1.865,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,TMEM254,1.691,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,PSKH1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,SNX17,2.018,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,DGCR8,0.509,exact,ileum
+Small Intestine - Terminal Ileum,40-49,ZNF408,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,TOE1,0.616,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,MT-ND4L,3.726,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,RPP25L,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,DBR1,0.616,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,EEFSEC,1.336,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,MED18,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,ZC3H4,1.2,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,TEX264,1.368,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,CLPTM1,1.467,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,ELAC2,1.162,exact,small intestine
+Small Intestine - Terminal Ileum,40-49,SLC39A9,4.458,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,TMEM254,1.691,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,DNAJC14,0.985,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,PPP1R11,4.181,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,OPA3,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,PSKH1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,TMEM219,1.846,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,GPATCH3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,RGP1,0.938,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,SLC35B3,1.685,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,ABR,1.56,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,MT-ND4L,3.726,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,RPP25L,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,ZBTB42,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,AP5S1,0.595,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,MED18,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,TEX264,1.368,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,SLC39A9,4.458,exact,small intestine
+Small Intestine - Terminal Ileum,50-59,ARMH3,1.442,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,TMEM254,1.691,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,DNAJC14,0.985,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,PPP1R11,4.181,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,TMEM219,1.846,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,ABR,1.56,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,RGP1,0.938,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,SLC35B3,1.685,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,SNX4,1.364,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,MT-ND4L,3.726,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,RPP25L,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,GSTK1,0.78,exact,ileum
+Small Intestine - Terminal Ileum,60-69,AP5S1,0.595,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,TRIM2,1.197,exact,small intestine
+Small Intestine - Terminal Ileum,60-69,SLC39A9,4.458,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GATC,0.553,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RNU5E-10P,,,
+Small Intestine - Terminal Ileum,70-79,UIMC1,1.176,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACTR1B,1.398,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNX27,1.497,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RDX,0.951,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZHX1,1.129,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HSD17B7,0.655,exact,ileum
+Small Intestine - Terminal Ileum,70-79,HLA-C,0.973,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FBXO28,0.82,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CHIC1,0.315,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IPO9-AS1,1.312,global,aortic root
+Small Intestine - Terminal Ileum,70-79,ENSG00000280355,,,
+Small Intestine - Terminal Ileum,70-79,P4HTM,4.345,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NDRG3,1.054,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BIVM,0.845,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POLR1E,0.693,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000279332,,,
+Small Intestine - Terminal Ileum,70-79,N4BP2L1,1.096,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBM41,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AIDA,1.0,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF207,2.836,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF148,0.881,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GTF3C5,1.289,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF256,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM39B,1.078,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,INHCAP,,,
+Small Intestine - Terminal Ileum,70-79,CCDC171,0.443,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000213939,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000273014,,,
+Small Intestine - Terminal Ileum,70-79,DAGLB,0.805,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FAM149B1,0.783,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CBWD1,1.195,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WRNIP1,1.152,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GULP1,1.18,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBM27,1.186,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRKCSH,0.806,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CCDC126,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ADIPOR1,1.105,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PHF19,0.811,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MARCKS,0.611,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF792,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL34,2.423,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAPK10,,,
+Small Intestine - Terminal Ileum,70-79,TMEM199,0.811,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C2CD2,0.916,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000275120,,,
+Small Intestine - Terminal Ileum,70-79,CCNY,0.583,exact,ileum
+Small Intestine - Terminal Ileum,70-79,EIF4A2,2.743,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCDC117,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAB2B,0.806,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TEX10,1.385,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000287299,,,
+Small Intestine - Terminal Ileum,70-79,TDRD3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000254943,,,
+Small Intestine - Terminal Ileum,70-79,SFTPD-AS1,,,
+Small Intestine - Terminal Ileum,70-79,ATF6,1.458,exact,ileum
+Small Intestine - Terminal Ileum,70-79,XPNPEP3,1.632,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BTBD7,0.792,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF25,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPP4R3A,4.0,exact,ileum
+Small Intestine - Terminal Ileum,70-79,WARS2,1.432,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BORCS5,0.664,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NOB1,4.228,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PTDSS1,1.95,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KIF3A,1.177,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TIGD1,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NEDD1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PLEKHA1,1.197,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF2A,2.369,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPLP1,3.016,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000263990,,,
+Small Intestine - Terminal Ileum,70-79,RASGRF2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DPH7,1.036,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BIN3,1.0,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNHIT6,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAMA,3.104,global,flag leaf
+Small Intestine - Terminal Ileum,70-79,KIAA1191,4.29,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC8C,1.613,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000283057,,,
+Small Intestine - Terminal Ileum,70-79,LINC02881,,,
+Small Intestine - Terminal Ileum,70-79,ATF1,0.745,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF527,0.674,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PIP4K2C,1.062,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNTB2,0.477,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMIM8,0.368,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MIER1,0.895,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PPM1M,0.768,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GATAD1,1.17,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NT5C,2.137,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EMC1,0.806,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RIT1,1.638,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HOXC4,0.672,exact,ileum
+Small Intestine - Terminal Ileum,70-79,HMGB1P24,,,
+Small Intestine - Terminal Ileum,70-79,LINC01772,,,
+Small Intestine - Terminal Ileum,70-79,UBE2I,2.287,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL7P9,,,
+Small Intestine - Terminal Ileum,70-79,SLC25A17,1.169,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GOLGA6L5P,,,
+Small Intestine - Terminal Ileum,70-79,GNB1,1.997,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM52,0.931,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TCTN1,4.139,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS15,0.822,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FBXO7,1.557,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ING1,1.3,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTFMT,0.831,exact,ileum
+Small Intestine - Terminal Ileum,70-79,UXS1,0.979,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,COG7,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF131,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,QARS1,1.982,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274104,,,
+Small Intestine - Terminal Ileum,70-79,SNHG30,,,
+Small Intestine - Terminal Ileum,70-79,GPR89A,0.061,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PSMB1,1.914,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GPATCH1,0.663,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NSRP1,0.97,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC4B,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272885,,,
+Small Intestine - Terminal Ileum,70-79,LINC00893,2.107,global,lim1863 cell
+Small Intestine - Terminal Ileum,70-79,DRG2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PGM5P2,,,
+Small Intestine - Terminal Ileum,70-79,DTX4,1.036,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,COX7A2L,1.731,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287808,,,
+Small Intestine - Terminal Ileum,70-79,SAMD8,0.663,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WBP1,1.31,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SULT1C4,1.146,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000267707,,,
+Small Intestine - Terminal Ileum,70-79,NRDE2,1.144,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,OBI1,1.052,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM71,0.595,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ALKBH4,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000234353,,,
+Small Intestine - Terminal Ileum,70-79,OR7E38P,,,
+Small Intestine - Terminal Ileum,70-79,C11ORF1,1.14,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GPBP1,1.394,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SEC63,1.87,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CWF19L1,0.705,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM52-AS1,1.897,global,adrenocortical carcinoma cell
+Small Intestine - Terminal Ileum,70-79,STX17,1.673,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000289234,,,
+Small Intestine - Terminal Ileum,70-79,MAN2B2,0.881,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000276250,,,
+Small Intestine - Terminal Ileum,70-79,IAH1,4.258,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NPIPA5,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274677,,,
+Small Intestine - Terminal Ileum,70-79,PRPF3,1.289,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PMS2P11,,,
+Small Intestine - Terminal Ileum,70-79,ABCD4,1.378,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DEAF1,1.628,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBM18,0.716,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANKHD1,0.604,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PTK2,1.06,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CNNM3,1.671,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAPK1IP1L,1.282,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BBS9,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,N4BP2L2-IT2,1.58,global,y-79 cell
+Small Intestine - Terminal Ileum,70-79,ENSG00000226849,,,
+Small Intestine - Terminal Ileum,70-79,F8A1,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPA2,1.077,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LUC7L,1.4,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MDFIC,1.833,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000275854,,,
+Small Intestine - Terminal Ileum,70-79,MFSD11,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,USP16,1.22,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272100,,,
+Small Intestine - Terminal Ileum,70-79,PHF10,1.26,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARL6IP5,0.626,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SNX13,1.023,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBM28,0.806,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BAZ1A-AS1,,,
+Small Intestine - Terminal Ileum,70-79,ZNF34,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC00630,0.529,exact,intestine
+Small Intestine - Terminal Ileum,70-79,MAP3K7CL,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KCMF1,1.738,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF568,0.239,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZEB1-AS1,1.607,exact,intestine
+Small Intestine - Terminal Ileum,70-79,GCK,1.501,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PREX2,1.753,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAP2K4,0.832,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GSTM2,1.007,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SUPV3L1,1.37,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNF14,1.301,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000230433,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000270760,,,
+Small Intestine - Terminal Ileum,70-79,AGO4,0.65,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBM25,1.427,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAA16,0.753,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NRF1,0.863,exact,ileum
+Small Intestine - Terminal Ileum,70-79,UBE2B,1.743,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ELP2,1.6,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFP90,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FTX,1.303,exact,intestine
+Small Intestine - Terminal Ileum,70-79,WAC,1.55,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GXYLT1,0.548,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF354C,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FBXO42,0.663,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000261467,,,
+Small Intestine - Terminal Ileum,70-79,ZBED1,1.082,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS7,2.318,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM44,0.522,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CYP2R1,1.096,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000229587,,,
+Small Intestine - Terminal Ileum,70-79,NPRL2,1.46,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM24B,0.439,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274987,,,
+Small Intestine - Terminal Ileum,70-79,EBF1,0.669,exact,ileum
+Small Intestine - Terminal Ileum,70-79,UMAD1,1.172,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMAD2,1.364,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPS7P3,,,
+Small Intestine - Terminal Ileum,70-79,DVL2,0.69,exact,ileum
+Small Intestine - Terminal Ileum,70-79,OSBPL2,1.487,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF2D,0.877,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GNAI2,0.631,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000263321,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000214135,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000279865,,,
+Small Intestine - Terminal Ileum,70-79,CNPY4,0.693,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ECD,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TBC1D20,0.928,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRIT3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TXLNG,0.842,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NKAPD1,0.881,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DAP3P2,,,
+Small Intestine - Terminal Ileum,70-79,SFPQ,2.379,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCDC115,1.614,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HOXB-AS1,1.473,global,glioma cell
+Small Intestine - Terminal Ileum,70-79,ENSG00000233654,,,
+Small Intestine - Terminal Ileum,70-79,LAMTOR4,1.733,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PLEKHA3,1.258,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCNP,4.313,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TCHP,1.073,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZKSCAN5,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAHD2CP,,,
+Small Intestine - Terminal Ileum,70-79,TBKBP1,1.033,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FYN,0.873,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000274204,,,
+Small Intestine - Terminal Ileum,70-79,LINC01415,1.55,global,pc-9 cell
+Small Intestine - Terminal Ileum,70-79,NEMF,4.225,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MRPL30,4.348,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,RUFY3,1.036,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFAND4,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287011,,,
+Small Intestine - Terminal Ileum,70-79,DONSON,1.289,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ZNF680,0.556,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CNOT4,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MRPL42,1.372,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,USP46,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL31,2.853,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM37,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000285517,,,
+Small Intestine - Terminal Ileum,70-79,PCAT19,0.941,exact,intestine
+Small Intestine - Terminal Ileum,70-79,FSD1L,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KCTD9,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRCC,1.241,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PAK2,1.591,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GTF2IRD2B,0.892,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DALRD3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NR1D2,0.944,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PARP16,1.122,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMA16,0.845,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM5,0.641,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RARS2,1.195,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAFAZZIN,,,
+Small Intestine - Terminal Ileum,70-79,SLC35B3,1.685,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NOP53,1.211,exact,ileum
+Small Intestine - Terminal Ileum,70-79,TERF2,1.465,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF84,0.903,exact,intestine
+Small Intestine - Terminal Ileum,70-79,WDR33,4.218,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000213542,,,
+Small Intestine - Terminal Ileum,70-79,RPS5,0.655,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RHOT2,1.551,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NKAP,4.183,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C19ORF47,0.757,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,H2BW3P,,,
+Small Intestine - Terminal Ileum,70-79,STMP1,2.046,global,7/8
+Small Intestine - Terminal Ileum,70-79,USP39,1.116,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CEP44,0.806,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SRRT,2.342,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL7A,2.065,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF136,0.426,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IFFO1,0.732,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS24,3.129,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ORC5,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF616,0.301,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287129,,,
+Small Intestine - Terminal Ileum,70-79,TMEM167B,1.215,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272465,,,
+Small Intestine - Terminal Ileum,70-79,CAMK2D,1.36,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PHLDB3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DUSP12,0.873,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FAM229A,1.936,global,ppc-1 cell
+Small Intestine - Terminal Ileum,70-79,DENND6A,0.732,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GYPC,0.812,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000228335,,,
+Small Intestine - Terminal Ileum,70-79,PPP1R14BP3,,,
+Small Intestine - Terminal Ileum,70-79,TMEM167A,1.377,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL21P16,,,
+Small Intestine - Terminal Ileum,70-79,RPL23AP42,,,
+Small Intestine - Terminal Ileum,70-79,MYCBPAP,1.181,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM185B,4.0,exact,intestine
+Small Intestine - Terminal Ileum,70-79,CROCC,0.693,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS9,1.151,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ARPP19,1.232,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL29P19,,,
+Small Intestine - Terminal Ileum,70-79,CCDC146,0.548,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,OSGEPL1,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GSTK1,0.78,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SH3PXD2A,0.738,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF566-AS1,,,
+Small Intestine - Terminal Ileum,70-79,SPATA20,1.237,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KIZ,0.593,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000237324,,,
+Small Intestine - Terminal Ileum,70-79,GBP2,0.832,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000239665,,,
+Small Intestine - Terminal Ileum,70-79,FNDC3A,1.501,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EDEM2,1.316,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HSBP1L1,0.934,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SDHDP6,,,
+Small Intestine - Terminal Ileum,70-79,WDR75,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF639,1.009,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BPIFB9P,,,
+Small Intestine - Terminal Ileum,70-79,P3H3,0.831,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL19P5,,,
+Small Intestine - Terminal Ileum,70-79,TTLL4,0.885,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MYH9,2.525,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IWS1,1.134,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CLK3,1.383,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SSR2,2.417,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CFAP92,,,
+Small Intestine - Terminal Ileum,70-79,MIR4733HG,,,
+Small Intestine - Terminal Ileum,70-79,ABCB10,1.996,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TUBG2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARHGEF3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GDF11,1.463,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SUMO3,1.838,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GMPS,1.697,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FTO,0.922,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PRORSD1P,,,
+Small Intestine - Terminal Ileum,70-79,PARVB,1.558,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMOD3,1.286,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000286045,,,
+Small Intestine - Terminal Ileum,70-79,CCNL2,1.138,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RSF1,1.867,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TBCE,1.606,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC8B,1.221,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PAPLN-AS1,,,
+Small Intestine - Terminal Ileum,70-79,PFDN5,2.247,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTPAP,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000227719,,,
+Small Intestine - Terminal Ileum,70-79,THYN1,1.317,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS14P8,,,
+Small Intestine - Terminal Ileum,70-79,GSEC,,,
+Small Intestine - Terminal Ileum,70-79,SPIN4,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,THEM4,1.624,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HSF1,0.677,exact,ileum
+Small Intestine - Terminal Ileum,70-79,BPTF,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ATXN10,1.399,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,VMA21,0.595,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAP2C,1.635,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AK3P3,,,
+Small Intestine - Terminal Ileum,70-79,TINF2,1.919,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,COMMD7,0.903,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRR3,0.408,exact,intestine
+Small Intestine - Terminal Ileum,70-79,KPNA4P1,,,
+Small Intestine - Terminal Ileum,70-79,RPS10,2.342,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM7,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AMY2B,2.228,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DMTF1,1.763,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAF3,0.315,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PDCD2,1.349,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MRPL1,1.129,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KLF8,0.79,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ALDH5A1,1.796,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ABRAXAS1,0.964,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PARP12,4.398,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PDPR,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000226471,,,
+Small Intestine - Terminal Ileum,70-79,XRCC3,1.151,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,APIP,1.501,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SPTAN1,0.517,exact,ileum
+Small Intestine - Terminal Ileum,70-79,INPP4A,1.316,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000289132,,,
+Small Intestine - Terminal Ileum,70-79,B3GALNT1,1.136,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SMIM19,1.39,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ABCF3,1.793,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAPT1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C5ORF24,1.166,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PICALM,2.358,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAF1,0.768,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC00869,1.096,global,renal cell carcinoma cell
+Small Intestine - Terminal Ileum,70-79,DHX40,0.934,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000276564,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000237550,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000277425,,,
+Small Intestine - Terminal Ileum,70-79,UBA2,1.336,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF350,1.073,exact,intestine
+Small Intestine - Terminal Ileum,70-79,POT1,4.216,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZC3H14,1.208,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMCO4,4.231,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KCNH1-IT1,1.076,global,medulloblastoma cell line
+Small Intestine - Terminal Ileum,70-79,DIS3L,0.917,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000278126,,,
+Small Intestine - Terminal Ileum,70-79,SEC22C,1.34,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DEDD,1.614,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NCBP2,1.33,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HSFX2,0.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARL5A,1.364,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274265,,,
+Small Intestine - Terminal Ileum,70-79,TADA2A,0.778,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL23A,2.432,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FKBP1AP1,,,
+Small Intestine - Terminal Ileum,70-79,HARS1,1.791,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000273925,,,
+Small Intestine - Terminal Ileum,70-79,AMT,0.574,exact,ileum
+Small Intestine - Terminal Ileum,70-79,EIF3K,2.155,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PDLIM5,2.148,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRR14,1.105,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,REPS1,2.138,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FYTTD1,1.686,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HECTD2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UPF3A,1.112,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCBD2,0.523,exact,ileum
+Small Intestine - Terminal Ileum,70-79,UBQLN2,1.13,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000230896,,,
+Small Intestine - Terminal Ileum,70-79,RPS6,1.206,exact,ileum
+Small Intestine - Terminal Ileum,70-79,IQCN,0.028,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPLP2,1.056,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CACNA2D2,1.553,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RPS16,2.856,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MRPS14,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RARG,0.757,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GAB2,0.914,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL29,2.785,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PIAS3,1.61,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POLR1D,2.265,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TUBD1,0.61,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C11ORF71,0.222,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF383,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C5ORF34,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WWC3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NXT1,0.548,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ASS1P13,,,
+Small Intestine - Terminal Ileum,70-79,RBM4B,1.135,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TICAM2,1.074,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LETMD1,1.67,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCYOX1L,0.587,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,QKI,1.705,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZXDC,0.732,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DCST2,0.166,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000271964,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000262003,,,
+Small Intestine - Terminal Ileum,70-79,RBMX2,0.743,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC37BP1,,,
+Small Intestine - Terminal Ileum,70-79,SMYD4,0.705,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ABHD10,0.924,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF8-DT,,,
+Small Intestine - Terminal Ileum,70-79,FGD5-AS1,1.046,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RPL22,2.428,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM263,0.967,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TBPL1,1.766,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SH3GLB1,1.92,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GAPDHP52,,,
+Small Intestine - Terminal Ileum,70-79,MOSMO,4.2,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,EHMT2,0.55,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GNA12,1.271,exact,ileum
+Small Intestine - Terminal Ileum,70-79,EEF1B2,2.479,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,STYXL1,0.994,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,THAP12,1.129,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF542P,,,
+Small Intestine - Terminal Ileum,70-79,DDX27,0.683,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DIS3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SEC22A,0.693,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KAT2A,1.083,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PPIH,1.2,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF2AK1,2.09,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRAPPC11,0.907,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC00989,1.492,global,smmc-7721 cell
+Small Intestine - Terminal Ileum,70-79,TAF9B,0.669,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GLG1,0.524,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NUDT3,0.681,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC25A27,1.632,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZRANB2,1.551,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RB1CC1,0.862,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CMPK1,4.494,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AIP,0.597,exact,ileum
+Small Intestine - Terminal Ileum,70-79,POLE3,1.213,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IFT46,0.675,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,OR10AB1P,,,
+Small Intestine - Terminal Ileum,70-79,ARL14EP,1.268,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF559,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000213385,,,
+Small Intestine - Terminal Ileum,70-79,AFMID,1.829,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF4BP6,,,
+Small Intestine - Terminal Ileum,70-79,CCL27,1.7,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF487,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM66C,1.529,global,hpac cell
+Small Intestine - Terminal Ileum,70-79,CCDC28A,1.144,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL13AP20,,,
+Small Intestine - Terminal Ileum,70-79,LCN1P1,,,
+Small Intestine - Terminal Ileum,70-79,TGIF1,2.048,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC12A4,1.569,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DDX19B,4.0,global,alimentary canal
+Small Intestine - Terminal Ileum,70-79,CNOT6L,1.315,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC01929,,,
+Small Intestine - Terminal Ileum,70-79,EEF1A1,1.245,exact,ileum
+Small Intestine - Terminal Ileum,70-79,LMBR1,1.532,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NRN1L,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF512,0.944,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,YAF2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ATP23,0.637,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ATXN3,1.362,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF3H,1.947,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274403,,,
+Small Intestine - Terminal Ileum,70-79,ERCC5,2.107,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC6A1,0.534,exact,ileum
+Small Intestine - Terminal Ileum,70-79,KRT18P4,,,
+Small Intestine - Terminal Ileum,70-79,PTPDC1,0.321,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRNAU1AP,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARMCX5,0.687,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF121,0.699,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF354A,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WDPCP,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CRYGS,0.103,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTMR3,0.7,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF22,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272416,,,
+Small Intestine - Terminal Ileum,70-79,SHLD3,4.186,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,OXSR1,1.494,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WDR83OS,4.347,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DPH5,0.924,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,APLF,0.284,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC25A51,1.365,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POC1B-AS1,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000263272,,,
+Small Intestine - Terminal Ileum,70-79,PRMT9,0.342,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PLCB4,1.072,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PGM3,0.562,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZC3H12B,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS4Y1,0.671,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000277763,,,
+Small Intestine - Terminal Ileum,70-79,NIFK-AS1,0.85,exact,intestine
+Small Intestine - Terminal Ileum,70-79,CASD1,1.263,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTMR6,0.716,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,METTL3,0.77,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RRP15,0.805,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PLXND1,1.608,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CA5B,0.612,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF345,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,VPS4A,2.139,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HDGFL3,0.71,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MEGF6,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000243648,,,
+Small Intestine - Terminal Ileum,70-79,PMS2CL,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000273209,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000280083,,,
+Small Intestine - Terminal Ileum,70-79,MDC1,1.013,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DMAP1,1.208,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,YY1,0.998,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MIR324,,,
+Small Intestine - Terminal Ileum,70-79,LINC00670,1.614,global,endometrioid carcinoma cell
+Small Intestine - Terminal Ileum,70-79,ARL6IP4,1.846,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ROBO2,1.415,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENDOV,4.161,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SOX5,0.997,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000269892,,,
+Small Intestine - Terminal Ileum,70-79,FAM133B,0.778,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000279762,,,
+Small Intestine - Terminal Ileum,70-79,TMEM230,1.574,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL27A,3.0,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAOK2,1.714,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,VAMP3,0.53,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SIPA1L1-AS1,,,
+Small Intestine - Terminal Ileum,70-79,KIN,0.778,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TGDS,0.778,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HNRNPR,1.519,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ITPRID2,1.56,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TBC1D23,1.107,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UQCRHL,0.984,global,hepatoma hle cell
+Small Intestine - Terminal Ileum,70-79,MSTO1,0.976,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CASC3,4.251,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000241220,,,
+Small Intestine - Terminal Ileum,70-79,PCGF6,0.404,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF277,1.669,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KAT2B,1.042,exact,ileum
+Small Intestine - Terminal Ileum,70-79,C1ORF174,1.006,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000228923,,,
+Small Intestine - Terminal Ileum,70-79,NCAPGP1,,,
+Small Intestine - Terminal Ileum,70-79,SUZ12P1,,,
+Small Intestine - Terminal Ileum,70-79,CCND3,0.748,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ACYP2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PGAP2,1.156,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNRNP48,0.911,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BPTFP1,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000229116,,,
+Small Intestine - Terminal Ileum,70-79,VPS36,1.314,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SUMO2,0.549,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZBTB10,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF880,0.587,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,YTHDC1,1.807,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCDHGB8P,,,
+Small Intestine - Terminal Ileum,70-79,XPA,1.947,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NDUFB1P2,,,
+Small Intestine - Terminal Ileum,70-79,PPIG,2.003,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SMN1,1.26,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NUDCD3,1.218,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000286216,,,
+Small Intestine - Terminal Ileum,70-79,ZNF567,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DENND5A,0.82,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,THUMPD2,4.218,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DCUN1D2,0.699,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HNRNPH3,1.832,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SUPT4H1,1.405,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF251,0.82,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CPLANE1,0.278,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRAF3IP2-AS1,1.616,global,act-1 cell
+Small Intestine - Terminal Ileum,70-79,ENSG00000250906,,,
+Small Intestine - Terminal Ileum,70-79,DHODH,2.066,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BBS2,1.098,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARL14EPP1,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000275764,,,
+Small Intestine - Terminal Ileum,70-79,BRD7,1.614,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRKCH-AS1,,,
+Small Intestine - Terminal Ileum,70-79,MRTFA,1.59,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000280231,,,
+Small Intestine - Terminal Ileum,70-79,TMEM216,0.716,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,G2E3,0.616,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GPATCH2,0.571,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000286736,,,
+Small Intestine - Terminal Ileum,70-79,RNF11,1.493,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SF3A2,1.574,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,THAP5,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CWC25,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MON2,0.979,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000253636,,,
+Small Intestine - Terminal Ileum,70-79,EZH1,1.66,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPUSD4,0.964,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBPJ,1.01,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SUN1,1.479,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CGGBP1,1.423,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF398,0.368,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RABGGTA,1.103,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000262089,,,
+Small Intestine - Terminal Ileum,70-79,BEX5,0.315,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,STN1,4.168,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF83,1.211,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SH3YL1,1.56,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDRT4,1.217,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,VASH1-AS1,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000276148,,,
+Small Intestine - Terminal Ileum,70-79,ALG6,1.357,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000251023,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000273796,,,
+Small Intestine - Terminal Ileum,70-79,URI1,1.958,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL5P34,,,
+Small Intestine - Terminal Ileum,70-79,MAP3K11,1.952,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GGPS1,0.585,exact,ileum
+Small Intestine - Terminal Ileum,70-79,LINC02580,,,
+Small Intestine - Terminal Ileum,70-79,PLCD1,1.519,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000280402,,,
+Small Intestine - Terminal Ileum,70-79,RXRB,1.867,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000289045,,,
+Small Intestine - Terminal Ileum,70-79,PIN4,1.59,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BAG5,1.368,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PTDSS2,1.041,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000288984,,,
+Small Intestine - Terminal Ileum,70-79,GNB4,0.572,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDC73,0.654,exact,ileum
+Small Intestine - Terminal Ileum,70-79,IFRD1,0.774,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PPP2R5A,1.691,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GTPBP2,1.273,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAN2A2,1.705,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAP7D3,0.392,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANKRD65,1.438,global,nci-h1975 cell
+Small Intestine - Terminal Ileum,70-79,PHF20,0.758,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,STYX,0.602,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IMP4,1.26,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AGO3,0.271,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF140,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EPOR,1.438,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000289138,,,
+Small Intestine - Terminal Ileum,70-79,RNF113A,1.498,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF77,1.423,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNPS1,1.39,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PARP11,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFP69,0.255,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000224992,,,
+Small Intestine - Terminal Ileum,70-79,MRPL45P2,,,
+Small Intestine - Terminal Ileum,70-79,TAF5,1.612,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RCBTB2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PIGG,1.178,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF708,0.437,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF334,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000278730,,,
+Small Intestine - Terminal Ileum,70-79,ZNF302,1.047,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IGBP1,0.813,exact,ileum
+Small Intestine - Terminal Ileum,70-79,BAALC-AS1,1.577,global,esophageal epithelial cell line
+Small Intestine - Terminal Ileum,70-79,USP11,0.985,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FRA10AC1,0.982,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SART3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000286634,,,
+Small Intestine - Terminal Ileum,70-79,PHF3,1.19,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FBXO25,1.118,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WASH6P,,,
+Small Intestine - Terminal Ileum,70-79,C2ORF27A,,,
+Small Intestine - Terminal Ileum,70-79,HNRNPA2B1,2.885,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GGNBP2,4.293,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DCAF10,4.0,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DTNB,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TUG1,0.817,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WDR89,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DUSP7,0.901,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PDP1,1.483,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HLA-B,1.351,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF204P,,,
+Small Intestine - Terminal Ileum,70-79,MRGBP,0.865,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDKN1B,1.23,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF644,4.218,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MIR3942,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000261189,,,
+Small Intestine - Terminal Ileum,70-79,EIF3F,2.117,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C16ORF86,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCMTD2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PIGH,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FIP1L1,1.029,exact,ileum
+Small Intestine - Terminal Ileum,70-79,WIPI2,0.566,exact,ileum
+Small Intestine - Terminal Ileum,70-79,TPT1,3.405,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DCAKD,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZC2HC1A,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000267364,,,
+Small Intestine - Terminal Ileum,70-79,ISCU,2.488,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNF217,1.56,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000285755,,,
+Small Intestine - Terminal Ileum,70-79,RPS21,0.638,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GABARAPL2,1.097,exact,ileum
+Small Intestine - Terminal Ileum,70-79,POLR3F,0.721,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NMD3,1.28,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FMR1,2.062,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FCHSD1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFP28,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL11,0.959,exact,ileum
+Small Intestine - Terminal Ileum,70-79,LANCL1,1.105,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000258695,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000275703,,,
+Small Intestine - Terminal Ileum,70-79,NUS1P1,,,
+Small Intestine - Terminal Ileum,70-79,ZFP82,1.422,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RPL30,3.069,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNF14P4,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000233820,,,
+Small Intestine - Terminal Ileum,70-79,RAB5A,1.172,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FAM220A,0.595,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS15A,2.293,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,APH1B,0.437,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CBFB,1.916,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PARN,1.708,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNU6-94P,,,
+Small Intestine - Terminal Ileum,70-79,ZNHIT1,1.283,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NUP133,0.861,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000235574,,,
+Small Intestine - Terminal Ileum,70-79,CNPY2-AS1,,,
+Small Intestine - Terminal Ileum,70-79,SLC25A14,1.398,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRAF6,1.828,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PCGF5,1.37,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL35,0.635,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RAB33B-AS1,,,
+Small Intestine - Terminal Ileum,70-79,GFRA2,0.974,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF346,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCIF1,1.618,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF2B1,1.191,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FBXO15,1.018,exact,intestine
+Small Intestine - Terminal Ileum,70-79,NUB1,1.584,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RRP7BP,,,
+Small Intestine - Terminal Ileum,70-79,WDR48,1.107,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MACO1,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000276007,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000251867,,,
+Small Intestine - Terminal Ileum,70-79,USP32P2,,,
+Small Intestine - Terminal Ileum,70-79,CTNNB1,2.357,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PPP2R2A,1.84,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARHGEF35-AS1,,,
+Small Intestine - Terminal Ileum,70-79,RSBN1L,0.828,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC01389,1.637,global,kyse-30 cell
+Small Intestine - Terminal Ileum,70-79,RUFY2,0.58,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZKSCAN1,1.074,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,METTL9,1.466,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DNAJC4,1.45,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000284128,,,
+Small Intestine - Terminal Ileum,70-79,ACVR2B,1.207,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM120C,1.186,exact,intestine
+Small Intestine - Terminal Ileum,70-79,PMS2P9,,,
+Small Intestine - Terminal Ileum,70-79,TRMT10B,0.637,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARRDC3,1.564,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LSM14A,0.973,exact,intestine
+Small Intestine - Terminal Ileum,70-79,OXA1L,0.811,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CUL2,1.899,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GARS1-DT,,,
+Small Intestine - Terminal Ileum,70-79,PDE4A,1.154,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NCK1-DT,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000289603,,,
+Small Intestine - Terminal Ileum,70-79,RBAK,0.505,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GMDS-DT,,,
+Small Intestine - Terminal Ileum,70-79,PGGT1B,1.254,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RANBP3,1.255,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DDX39B,3.923,exact,intestine
+Small Intestine - Terminal Ileum,70-79,METTL16,0.681,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAK16,1.004,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SEPTIN8,1.2,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TINCR,0.975,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RNA5SP383,,,
+Small Intestine - Terminal Ileum,70-79,SMARCD1,1.789,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MRFAP1L1,1.295,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM200A,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ODF2,0.91,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TOPORS,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBA52,2.646,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CACNB1,0.905,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000267049,,,
+Small Intestine - Terminal Ileum,70-79,UQCC1,1.14,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ITIH2,0.598,exact,ileum
+Small Intestine - Terminal Ileum,70-79,UBE3D,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CMTM3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PMS2P3,,,
+Small Intestine - Terminal Ileum,70-79,WDR73,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000280758,,,
+Small Intestine - Terminal Ileum,70-79,FOXN2,0.853,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNF2,1.376,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KIAA0040,4.252,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,COPB2-DT,,,
+Small Intestine - Terminal Ileum,70-79,SLC39A13,2.157,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,OAZ2,1.268,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC02210,,,
+Small Intestine - Terminal Ileum,70-79,EIF3M,1.946,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CERS5,4.341,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000226465,,,
+Small Intestine - Terminal Ileum,70-79,PRDX2P3,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000243697,,,
+Small Intestine - Terminal Ileum,70-79,POU6F1,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BUD13,2.063,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBMX,4.441,exact,intestine
+Small Intestine - Terminal Ileum,70-79,POLR2M,0.879,exact,intestine
+Small Intestine - Terminal Ileum,70-79,EIF3E,2.666,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNTB1,0.548,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SEC14L1,1.103,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000270409,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000241057,,,
+Small Intestine - Terminal Ileum,70-79,RPS3AP20,,,
+Small Intestine - Terminal Ileum,70-79,ZDHHC20,2.063,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000268845,,,
+Small Intestine - Terminal Ileum,70-79,RPRD1B,1.46,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000253829,,,
+Small Intestine - Terminal Ileum,70-79,CENPP,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS2P17,,,
+Small Intestine - Terminal Ileum,70-79,TBC1D5,1.589,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LMO2,1.544,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF433-AS1,,,
+Small Intestine - Terminal Ileum,70-79,RSPO4,2.264,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZBTB49,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBL2,0.907,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SYF2,1.528,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DNAAF10,,,
+Small Intestine - Terminal Ileum,70-79,WDR45B,1.393,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPP2CA,2.162,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POLK,0.792,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNHG32,,,
+Small Intestine - Terminal Ileum,70-79,LINC02614,,,
+Small Intestine - Terminal Ileum,70-79,ZNF875,0.788,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TET1,2.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,APOL3,1.2,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF260,0.607,exact,intestine
+Small Intestine - Terminal Ileum,70-79,CMC4,0.616,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CSTF3,1.079,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,YPEL5,1.449,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NARS2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,REXO4,0.753,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,YWHAZ,1.322,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FBL,0.97,exact,ileum
+Small Intestine - Terminal Ileum,70-79,LYPLA1,2.131,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CATSPER2,0.687,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CARHSP1,1.292,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAP4K3-DT,,,
+Small Intestine - Terminal Ileum,70-79,RC3H1,0.588,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZCRB1,1.262,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NF1,1.668,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000227542,,,
+Small Intestine - Terminal Ileum,70-79,PCMTD1,1.342,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CUL1,0.566,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GNPAT,2.07,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WBP2,1.567,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GPR89B,1.125,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DUS4L,0.437,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MOV10,1.86,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMAD7,1.655,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZDHHC13,0.899,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SDHAF1,0.849,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CLASP2,0.885,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CFAP97,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EDF1,0.503,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GOLGA8A,1.39,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ELP5,1.123,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000259658,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000272732,,,
+Small Intestine - Terminal Ileum,70-79,RBM10,1.756,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CRK,2.161,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TCF25,1.809,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GSTA4,0.83,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DDX50,0.921,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PATL1,1.129,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GTF2IRD2,0.833,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF460-AS1,,,
+Small Intestine - Terminal Ileum,70-79,A1BG,1.396,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MOSPD2,0.753,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPOX,1.584,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAD21,2.502,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPIL3,1.16,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000273674,,,
+Small Intestine - Terminal Ileum,70-79,SLC25A26,1.281,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000289194,,,
+Small Intestine - Terminal Ileum,70-79,SOX3,0.788,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GIT1,2.237,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM56,1.271,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000279662,,,
+Small Intestine - Terminal Ileum,70-79,MRPL43,1.443,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WASH9P,,,
+Small Intestine - Terminal Ileum,70-79,FAM227B,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POGLUT1,1.286,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMAD9-IT1,,,
+Small Intestine - Terminal Ileum,70-79,DDHD2,1.345,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000279469,,,
+Small Intestine - Terminal Ileum,70-79,CEP120,0.71,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RCAN3,0.514,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,YY1AP1,1.208,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FMO6P,,,
+Small Intestine - Terminal Ileum,70-79,TIMM10B,1.039,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,THRAP3,1.6,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPSA,0.802,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SLC16A4,1.103,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPL4,1.571,exact,ileum
+Small Intestine - Terminal Ileum,70-79,C3ORF86,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000288066,,,
+Small Intestine - Terminal Ileum,70-79,C6ORF226,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBE3A,1.972,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LYRM1,1.047,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000280339,,,
+Small Intestine - Terminal Ileum,70-79,RPL12P12,,,
+Small Intestine - Terminal Ileum,70-79,HLA-E,0.889,exact,ileum
+Small Intestine - Terminal Ileum,70-79,HNRNPK,2.736,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EGLN2,0.787,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPL36A,1.98,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GUSB,1.79,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SMYD5,0.687,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WWP1-AS1,,,
+Small Intestine - Terminal Ileum,70-79,SVIP,1.566,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SRSF1,3.031,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000203644,,,
+Small Intestine - Terminal Ileum,70-79,ZNF160,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TTC3,4.254,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTMR9LP,,,
+Small Intestine - Terminal Ileum,70-79,PRPS1,1.517,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANKRD13D,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNU5B-2P,,,
+Small Intestine - Terminal Ileum,70-79,RPL9,2.803,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PREPL,1.059,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MARK3,2.0,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RFX8,4.915,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,MARCHF7,2.373,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000266490,,,
+Small Intestine - Terminal Ileum,70-79,TTLL3,1.397,exact,intestine
+Small Intestine - Terminal Ileum,70-79,BUD23,1.467,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LIX1L,0.637,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM183A,4.213,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TOMM20,0.648,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DDX19A,0.91,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC00623,,,
+Small Intestine - Terminal Ileum,70-79,IPO9,0.853,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EBF3,1.148,exact,intestine
+Small Intestine - Terminal Ileum,70-79,CGRRF1,0.727,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GLUD1P2,,,
+Small Intestine - Terminal Ileum,70-79,TMEM8B,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HMGN3,4.4,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM219,1.846,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AKAP7,1.252,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TC2N,1.15,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNX9,2.166,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCSAP,4.127,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMURF2,1.851,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ERCC8,0.437,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TASOR,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,THG1L,1.861,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RRN3P1,,,
+Small Intestine - Terminal Ileum,70-79,KATNAL2,0.69,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRMT12,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAB1,0.954,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HMGB1P41,,,
+Small Intestine - Terminal Ileum,70-79,TYW3,0.738,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ATF2,0.624,exact,ileum
+Small Intestine - Terminal Ileum,70-79,EIF4E3,1.064,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SULF1,1.606,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000232692,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000272447,,,
+Small Intestine - Terminal Ileum,70-79,HIKESHI,0.892,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C10ORF88,1.027,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAPRE2,1.492,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CLASRP,1.489,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL36AP45,,,
+Small Intestine - Terminal Ileum,70-79,ZNF343,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS2,2.681,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KCTD13,0.907,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POM121C,0.931,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NUMB,0.734,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000272733,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000231362,,,
+Small Intestine - Terminal Ileum,70-79,SRGAP2,0.901,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL41,0.515,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TCEA2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TTC33,0.773,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GABBR1,0.998,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000279168,,,
+Small Intestine - Terminal Ileum,70-79,ZFP91,2.185,exact,intestine
+Small Intestine - Terminal Ileum,70-79,KANSL2,1.625,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PIK3CA,2.119,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PRPF4,1.883,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRMT13,0.892,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS3,0.715,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000248234,,,
+Small Intestine - Terminal Ileum,70-79,PPP2R5C,1.911,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL14,2.386,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GEMIN2,0.739,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PFN4,1.06,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MTMR2,0.788,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAB6A,2.302,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC01117,1.58,global,sklu-1 cell
+Small Intestine - Terminal Ileum,70-79,EBPL,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM76A,0.609,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KLHL8,0.705,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC02145,,,
+Small Intestine - Terminal Ileum,70-79,SLC47A1P2,,,
+Small Intestine - Terminal Ileum,70-79,RBBP9,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GNRH1,1.261,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000272518,,,
+Small Intestine - Terminal Ileum,70-79,PCAT1,1.832,exact,intestine
+Small Intestine - Terminal Ileum,70-79,VIPAS39,0.849,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SREK1IP1,0.643,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SP3,0.947,exact,ileum
+Small Intestine - Terminal Ileum,70-79,HDDC2,0.985,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TARS1-DT,,,
+Small Intestine - Terminal Ileum,70-79,ORC2,0.917,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DNAJC7,1.48,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GMPR2,1.521,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZBTB37,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KIAA1143,0.911,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000286588,,,
+Small Intestine - Terminal Ileum,70-79,UBL3,0.56,exact,ileum
+Small Intestine - Terminal Ileum,70-79,KANSL3,4.343,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000284734,,,
+Small Intestine - Terminal Ileum,70-79,ANKMY1,0.663,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MRS2,0.581,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FAM222B,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SUGP1,1.608,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FARP1,0.837,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TSEN15P2,,,
+Small Intestine - Terminal Ileum,70-79,DARS1,1.218,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAML3,0.613,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ANKRD46,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAB33B,0.447,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM104A,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MLLT3,1.769,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM69,1.186,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAPK9,1.074,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MTMR9,0.329,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SIKE1,1.072,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SOCS2,1.102,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MAP3K7,1.128,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPL5P12,,,
+Small Intestine - Terminal Ileum,70-79,ZHX2,0.572,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PWP1,0.805,exact,ileum
+Small Intestine - Terminal Ileum,70-79,AHSA2P,,,
+Small Intestine - Terminal Ileum,70-79,CCDC77,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HLA-A,1.115,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF7,1.515,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZSCAN18,1.062,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RP9P,,,
+Small Intestine - Terminal Ileum,70-79,TUBGCP4,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000267130,,,
+Small Intestine - Terminal Ileum,70-79,FAR2P2,,,
+Small Intestine - Terminal Ileum,70-79,ZNF182,0.222,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBE2D3,2.075,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF274,0.948,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272768,,,
+Small Intestine - Terminal Ileum,70-79,ZNF544,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DEFB109D,,,
+Small Intestine - Terminal Ileum,70-79,ZFAND2B,1.491,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KLHL2,0.681,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCDC174,0.961,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDAN1,1.584,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF184,0.368,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BLOC1S5,0.607,exact,intestine
+Small Intestine - Terminal Ileum,70-79,TERF1P7,,,
+Small Intestine - Terminal Ileum,70-79,SAP130,0.656,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CHST10,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000275160,,,
+Small Intestine - Terminal Ileum,70-79,SKAP1-AS1,,,
+Small Intestine - Terminal Ileum,70-79,TMEM106B,1.215,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NUDT21,1.438,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PHF2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MCUB,0.687,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GNPDA2,1.431,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAB3IL1,1.11,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCNDBP1,1.454,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000285710,,,
+Small Intestine - Terminal Ileum,70-79,YEATS4,0.938,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDK5RAP1,0.504,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SLC30A9,0.603,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SETD2,0.948,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FES,1.635,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL27,3.006,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DDX60L,0.924,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ASAP3,0.487,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS25,2.401,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MCC,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CFAP418,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000269934,,,
+Small Intestine - Terminal Ileum,70-79,FHIP2A,,,
+Small Intestine - Terminal Ileum,70-79,ERO1B,1.294,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMAD5,0.542,exact,ileum
+Small Intestine - Terminal Ileum,70-79,TRGC1,,,
+Small Intestine - Terminal Ileum,70-79,ZNF702P,,,
+Small Intestine - Terminal Ileum,70-79,IQCB1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POLR3GL,1.125,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AK4P4,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000279206,,,
+Small Intestine - Terminal Ileum,70-79,FBXO21,0.976,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAGEH1,1.884,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AK3,2.02,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF415,0.38,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZBTB46,0.999,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NFIB,1.572,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IDS,1.478,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NUTM2B-AS1,1.384,global,masseter
+Small Intestine - Terminal Ileum,70-79,ZNF473,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCDC14,1.258,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000170846,,,
+Small Intestine - Terminal Ileum,70-79,CEROX1,,,
+Small Intestine - Terminal Ileum,70-79,UBE2R2,1.242,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MLH3,0.667,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ERCC3,1.813,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPP30,0.859,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000277558,,,
+Small Intestine - Terminal Ileum,70-79,RPL32,1.388,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PPP1R21,1.225,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ODR4,0.961,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAS2R63P,,,
+Small Intestine - Terminal Ileum,70-79,LIN52,0.669,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KRR1,1.031,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SERP1,1.981,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CASTOR3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NCBP1,0.861,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBE2D1,0.522,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPS12P28,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000287527,,,
+Small Intestine - Terminal Ileum,70-79,RNF180,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,U2SURP,1.39,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DISC1,1.511,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACER3,1.859,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CFLAR,1.074,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SPDYA,0.752,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPM1B,1.925,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNU13,1.531,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HNRNPA1,0.519,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PBX2,1.975,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000279803,,,
+Small Intestine - Terminal Ileum,70-79,RAD51D,1.291,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SCAF8,2.371,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZMAT1,0.564,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PDE6D,1.192,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AASDHPPT,1.018,exact,ileum
+Small Intestine - Terminal Ileum,70-79,COPS2,1.428,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ELF1,1.505,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNHG7,1.56,exact,intestine
+Small Intestine - Terminal Ileum,70-79,CCDC66,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AZIN1,2.036,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC00920,1.319,global,prostate gland cancer cell
+Small Intestine - Terminal Ileum,70-79,AMZ2P1,,,
+Small Intestine - Terminal Ileum,70-79,ODF3B,1.033,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LYSMD3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PITHD1,1.208,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AEBP2,0.914,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GEMIN4,0.681,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS2P5,,,
+Small Intestine - Terminal Ileum,70-79,FAM114A1,1.202,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARHGAP15,1.588,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PEX2,1.391,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNF138,1.507,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000285852,,,
+Small Intestine - Terminal Ileum,70-79,RANGRF,0.928,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MINDY3,1.549,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAB22A,1.632,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBQLN4,0.861,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MSN,0.901,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NOM1,0.752,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CEP152,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NEK1,1.114,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RALY,2.164,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EEF1G,0.951,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IGSF22-AS1,,,
+Small Intestine - Terminal Ileum,70-79,PTP4A2,2.399,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,VEZTP1,,,
+Small Intestine - Terminal Ileum,70-79,ALG1L9P,,,
+Small Intestine - Terminal Ileum,70-79,NGDN,0.782,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DDX51,4.142,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RWDD1,1.204,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,COMMD2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TBC1D22B,0.687,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,STXBP3,1.768,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPP3CC,0.687,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTRFR,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000223908,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000197149,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000285783,,,
+Small Intestine - Terminal Ileum,70-79,CEP63,0.877,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RSL24D1,1.358,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CUL5,1.682,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRPC1,0.983,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CCDC43,4.218,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NSUN4,4.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM192BP,,,
+Small Intestine - Terminal Ileum,70-79,ZNF250,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENOPH1,1.064,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272715,,,
+Small Intestine - Terminal Ileum,70-79,DYNLT3,0.924,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GARRE1,,,
+Small Intestine - Terminal Ileum,70-79,CDK19,1.201,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAU,0.608,exact,ileum
+Small Intestine - Terminal Ileum,70-79,IPO5,1.617,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GPRASP1,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF3J-DT,,,
+Small Intestine - Terminal Ileum,70-79,NSUN3,4.218,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000267565,,,
+Small Intestine - Terminal Ileum,70-79,POLR3C,0.917,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FTSJ1,0.989,exact,ileum
+Small Intestine - Terminal Ileum,70-79,R3HDM2,1.677,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NNT-AS1,1.176,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ATF5,0.665,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SDHAP3,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000281333,,,
+Small Intestine - Terminal Ileum,70-79,SLC41A3,0.782,exact,ileum
+Small Intestine - Terminal Ileum,70-79,VPS72,1.668,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PTPRD-AS1,1.452,global,renal clear cell
+Small Intestine - Terminal Ileum,70-79,WDSUB1,0.548,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL3,0.854,exact,ileum
+Small Intestine - Terminal Ileum,70-79,KIF28P,,,
+Small Intestine - Terminal Ileum,70-79,STAT5B,1.564,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SRD5A1,1.462,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000235038,,,
+Small Intestine - Terminal Ileum,70-79,ATXN7,4.206,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ZZZ3,0.853,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DZANK1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF782,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LCAT,1.033,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RNF10,1.671,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF254,0.457,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNUPN,0.921,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GTF3A,1.777,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SPTSSB,0.811,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000278932,,,
+Small Intestine - Terminal Ileum,70-79,PLEKHM1P1,,,
+Small Intestine - Terminal Ileum,70-79,MAPKAPK5-AS1,0.822,exact,intestine
+Small Intestine - Terminal Ileum,70-79,FAM228B,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EFCAB7,0.376,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,COQ10A,0.643,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PURG,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF322,1.245,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF32,0.941,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AP4E1,1.481,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000247679,,,
+Small Intestine - Terminal Ileum,70-79,CUL4B,1.727,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC18B1,1.093,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000278112,,,
+Small Intestine - Terminal Ileum,70-79,NUP42,1.131,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANKRD39,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ICE2,1.684,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EXOC5,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000277476,,,
+Small Intestine - Terminal Ileum,70-79,PRKAR1A,2.341,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SEPTIN7P14,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000276573,,,
+Small Intestine - Terminal Ileum,70-79,FAM89A,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBA5,1.762,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MPLKIP,1.031,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS6KB1,1.706,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CEP83,0.587,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS13,0.619,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000272755,,,
+Small Intestine - Terminal Ileum,70-79,DHRS12,1.162,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FITM1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GTPBP10,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ITIH4,1.364,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CPSF7,1.418,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000255348,,,
+Small Intestine - Terminal Ileum,70-79,SERBP1,2.487,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCNB1IP1,4.229,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TTC19,1.314,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACIN1,2.034,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NACA,4.563,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000233235,,,
+Small Intestine - Terminal Ileum,70-79,TTC9C,1.189,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EXOSC10,1.715,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BRAF,1.797,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZC3H18,2.288,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BCLAF3,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAPB,0.805,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,QSER1,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL21,0.55,exact,ileum
+Small Intestine - Terminal Ileum,70-79,TSR2,1.129,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANKAR,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAMALIN,,,
+Small Intestine - Terminal Ileum,70-79,ZNF420,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MYO3A,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LDB2,1.333,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL13A,1.115,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MAP4K5,1.041,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM126B,1.39,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000273771,,,
+Small Intestine - Terminal Ileum,70-79,TMEM233,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL6,2.641,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POU5F2,4.28,global,male reproductive system
+Small Intestine - Terminal Ileum,70-79,B3GNTL1,0.839,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NBDY,0.56,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RNF125,1.366,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000284673,,,
+Small Intestine - Terminal Ileum,70-79,KTN1-AS1,0.64,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ARHGEF12,1.73,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPIP5K2,1.003,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PJVK,1.899,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANAPC10P1,,,
+Small Intestine - Terminal Ileum,70-79,TPRXL,,,
+Small Intestine - Terminal Ileum,70-79,KIF5C,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KDM2B,1.393,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF549,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF91,1.089,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFR,4.246,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCDHA3,0.569,exact,intestine
+Small Intestine - Terminal Ileum,70-79,BBLN,,,
+Small Intestine - Terminal Ileum,70-79,RPL24,2.381,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NIPSNAP3A,1.247,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SETD6,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZCCHC8,4.261,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,E4F1,0.687,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KAT8,1.684,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS23,2.822,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TTC37,0.813,exact,ileum
+Small Intestine - Terminal Ileum,70-79,KIAA2026,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CLEC1A,1.389,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC00662,1.204,exact,intestine
+Small Intestine - Terminal Ileum,70-79,METTL26,1.168,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EXOC1,1.519,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000244716,,,
+Small Intestine - Terminal Ileum,70-79,CIRBP,0.614,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SFR1,0.616,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF511,1.428,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DCUN1D5,0.693,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CAPRIN2,0.699,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CEP95,4.194,global,"tissues, cell types and enzyme sources"
+Small Intestine - Terminal Ileum,70-79,NSMAF,0.988,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SENP6,1.9,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL13AP25,,,
+Small Intestine - Terminal Ileum,70-79,TTL,0.531,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF767P,,,
+Small Intestine - Terminal Ileum,70-79,USP7,2.205,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACADSB,0.657,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SERHL2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PHACTR2,0.738,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACSS1,0.916,exact,ileum
+Small Intestine - Terminal Ileum,70-79,UBAP2,0.727,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF19,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZDHHC17,1.507,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ORC3,0.792,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM185A,1.162,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,VEZT,1.62,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KCNC4,1.054,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MFSD4A,0.342,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MICA,0.756,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SPATA13,2.074,exact,intestine
+Small Intestine - Terminal Ileum,70-79,TMEM267,0.669,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000278867,,,
+Small Intestine - Terminal Ileum,70-79,ARL8A,1.114,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRKCH,0.921,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000226310,,,
+Small Intestine - Terminal Ileum,70-79,DNAJC19,1.077,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DHX36,1.566,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000228513,,,
+Small Intestine - Terminal Ileum,70-79,RNASEH1,1.164,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TOMM7,1.83,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ELAVL1,0.871,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DAP3,1.587,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GLRX2,1.662,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DDX17,2.517,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HEBP2,1.093,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRR29-AS1,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000244398,,,
+Small Intestine - Terminal Ileum,70-79,FCHO2,1.368,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274898,,,
+Small Intestine - Terminal Ileum,70-79,FOXO3B,0.707,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RPS20,0.554,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NDUFV1,2.297,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TFCP2,1.667,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF347,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC37A2,0.531,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PTTG2,0.631,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UTP6,1.134,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GLMN,1.115,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BUB3,2.086,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287330,,,
+Small Intestine - Terminal Ileum,70-79,MADD,1.506,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KLHDC1,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LZTS1,1.408,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GTPBP8,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274561,,,
+Small Intestine - Terminal Ileum,70-79,SEPTIN7-DT,,,
+Small Intestine - Terminal Ileum,70-79,VPS33B,1.529,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C18ORF32,4.171,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,ELK3,0.833,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C8ORF76,0.954,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EID2B,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC58,0.705,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000256705,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000273198,,,
+Small Intestine - Terminal Ileum,70-79,LDLRAD2,0.239,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000268810,,,
+Small Intestine - Terminal Ileum,70-79,FANCG,1.613,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TGIF2,1.092,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CPNE1,3.537,exact,intestine
+Small Intestine - Terminal Ileum,70-79,POGZ,1.659,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARHGEF6,0.578,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FAM204A,1.311,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CEP128,0.43,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,STEEP1,,,
+Small Intestine - Terminal Ileum,70-79,PAFAH1B1,1.656,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000263683,,,
+Small Intestine - Terminal Ileum,70-79,PCBP2P2,,,
+Small Intestine - Terminal Ileum,70-79,RPL35A,2.601,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TOP1MT,2.379,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,USP14,1.747,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZCCHC14,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HS3ST3B1,0.028,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFPM2-AS1,0.793,exact,intestine
+Small Intestine - Terminal Ileum,70-79,CEBPZOS,1.121,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF394,0.91,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PIP4K2B,0.903,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KMT5C,0.81,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WNK1,2.003,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000269906,,,
+Small Intestine - Terminal Ileum,70-79,RPL10AP6,,,
+Small Intestine - Terminal Ileum,70-79,STAU1,1.484,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAE1,2.288,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPF1,1.15,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL8,0.626,exact,ileum
+Small Intestine - Terminal Ileum,70-79,P3H1,0.905,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF766,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ALS2CL,1.057,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNRNP27,1.252,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,N4BP2L2,1.596,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRDX6-AS1,,,
+Small Intestine - Terminal Ileum,70-79,NUCKS1,1.682,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACBD6,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMNDC1,1.074,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL37,0.71,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF76,1.096,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NTNG2,1.0,exact,intestine
+Small Intestine - Terminal Ileum,70-79,LPCAT2,1.801,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000279970,,,
+Small Intestine - Terminal Ileum,70-79,SLC9B1,1.095,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000260927,,,
+Small Intestine - Terminal Ileum,70-79,BMPR2,1.912,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TNRC6C,0.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,USP38-DT,,,
+Small Intestine - Terminal Ileum,70-79,DOCK4,0.977,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CAPN2,0.507,exact,ileum
+Small Intestine - Terminal Ileum,70-79,EP400P1,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000275343,,,
+Small Intestine - Terminal Ileum,70-79,BTF3L4,0.833,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS18,0.973,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPS28,2.552,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAA10,1.353,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CHRNE,4.598,global,muscle
+Small Intestine - Terminal Ileum,70-79,RPRD2,0.885,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TTN-AS1,1.133,exact,intestine
+Small Intestine - Terminal Ileum,70-79,GNB5,1.13,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MCEE,0.703,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ANKRD23,0.286,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C19ORF53,1.45,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GOSR1,1.633,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C1ORF131,1.257,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTERF3,0.811,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF197,0.643,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAML1,2.135,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000276663,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000261351,,,
+Small Intestine - Terminal Ileum,70-79,CRIM1,1.036,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GABRD,0.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,OR51B5,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000240291,,,
+Small Intestine - Terminal Ileum,70-79,TAF9,0.477,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287077,,,
+Small Intestine - Terminal Ileum,70-79,HEY1,0.691,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CRTC3,0.848,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DNM1L,0.87,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DNAJC18,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BEGAIN,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF528-AS1,2.46,global,g-292 cell
+Small Intestine - Terminal Ileum,70-79,YTHDF1,4.0,exact,ileum
+Small Intestine - Terminal Ileum,70-79,TBCEL,1.341,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SUPT5H,0.641,exact,ileum
+Small Intestine - Terminal Ileum,70-79,LRRC8C-DT,,,
+Small Intestine - Terminal Ileum,70-79,KRIT1,1.562,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MED17,1.054,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CNOT7,1.292,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RWDD4,0.556,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IMMP2L,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CHMP4A,0.362,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BBS4,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAD51-AS1,0.673,exact,intestine
+Small Intestine - Terminal Ileum,70-79,TSC1,1.704,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DCAF15,1.003,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBSN,1.448,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZSCAN9,4.285,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000259081,,,
+Small Intestine - Terminal Ileum,70-79,FXYD5,1.244,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272221,,,
+Small Intestine - Terminal Ileum,70-79,TCAF1,0.944,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC01315,0.895,exact,intestine
+Small Intestine - Terminal Ileum,70-79,DDX59,0.778,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MRPS31P4,,,
+Small Intestine - Terminal Ileum,70-79,DEPDC5,1.409,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BOLA3-AS1,1.32,global,k22
+Small Intestine - Terminal Ileum,70-79,ENSG00000271283,,,
+Small Intestine - Terminal Ileum,70-79,RNF216P1,,,
+Small Intestine - Terminal Ileum,70-79,HSPA12A,0.054,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NXPE3,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SET,2.347,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BPGM,0.727,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SOS2,2.024,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GTF3C2,1.164,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAU2,1.72,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000289052,,,
+Small Intestine - Terminal Ileum,70-79,TIMM9,1.222,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCDC22,4.314,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NCKAP5L,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CERS4,1.067,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000261168,,,
+Small Intestine - Terminal Ileum,70-79,RPL10A,2.683,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PHIP,0.797,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CENPC,0.768,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF528,0.693,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DDX50P1,,,
+Small Intestine - Terminal Ileum,70-79,PAPOLA,2.076,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACTR3B,0.663,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RING1,1.509,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDKL3,1.027,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PEX11B,1.131,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL13,0.695,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CRYZL1,1.047,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000275569,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000236498,,,
+Small Intestine - Terminal Ileum,70-79,TRAPPC13,4.184,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GDI1,1.487,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNHIT3,1.676,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNF214,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HOOK3,4.311,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MED12,1.608,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC66A2,0.841,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000273402,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000280048,,,
+Small Intestine - Terminal Ileum,70-79,GATA3,2.061,exact,ileum
+Small Intestine - Terminal Ileum,70-79,TSEN15,0.853,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WASHC2C,4.409,global,"tissues, cell types and enzyme sources"
+Small Intestine - Terminal Ileum,70-79,ZNF286A,0.38,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KCTD6,0.564,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AKAP10,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C12ORF73,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPP4R1L,,,
+Small Intestine - Terminal Ileum,70-79,ATP6V1G1,1.641,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MBD2,1.897,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAB9A,1.44,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287978,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000235189,,,
+Small Intestine - Terminal Ileum,70-79,ZNF621,0.556,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF418,0.357,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAF4,0.616,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TTC39C-AS1,0.942,global,peripheral blood mononuclear cell
+Small Intestine - Terminal Ileum,70-79,CDADC1,0.487,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS12,2.398,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SRSF4,1.571,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,COQ6,1.551,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CWC22,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FLI1,1.462,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KLC4-AS1,,,
+Small Intestine - Terminal Ileum,70-79,AKIRIN2,0.873,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GNAS,1.099,exact,ileum
+Small Intestine - Terminal Ileum,70-79,AKR1B1,1.093,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ERICH6-AS1,1.137,global,cervical mucosa
+Small Intestine - Terminal Ileum,70-79,RBM22,1.236,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000278769,,,
+Small Intestine - Terminal Ileum,70-79,GALK1,0.638,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF385D,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS8,2.694,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LIN54,0.556,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000250726,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000238039,,,
+Small Intestine - Terminal Ileum,70-79,RSL1D1,1.658,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM50B,1.4,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNX4,1.364,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS29,1.131,exact,ileum
+Small Intestine - Terminal Ileum,70-79,STAMBP,0.5,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ATP8B2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TCEAL8,1.387,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZMYM4,0.522,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZDHHC6,1.508,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PITPNC1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF510,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BFAR,1.341,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TERF2IP,4.0,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RBMS1,1.551,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC25A46,1.249,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PAFAH1B2,1.114,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BCLAF1,2.104,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRCP,0.649,exact,ileum
+Small Intestine - Terminal Ileum,70-79,AKR1C8P,4.182,global,gonad
+Small Intestine - Terminal Ileum,70-79,TDG,0.515,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SYNE2,1.405,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,B3GLCT,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HDAC8,0.58,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000280167,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000284671,,,
+Small Intestine - Terminal Ileum,70-79,SRGAP2D,,,
+Small Intestine - Terminal Ileum,70-79,SLC25A32,1.384,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WAC-AS1,0.514,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RPS14,2.928,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNX14,1.346,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SS18,1.246,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CENPT,1.15,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BLOC1S6,1.166,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HMGN5,1.17,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL18A,2.101,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF4B,2.326,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HACE1,0.477,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,XPO7,1.009,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPIEL,,,
+Small Intestine - Terminal Ileum,70-79,RPS3A,0.562,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MKLN1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BCL2L11,1.08,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000285813,,,
+Small Intestine - Terminal Ileum,70-79,ELMO1,0.745,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000272240,,,
+Small Intestine - Terminal Ileum,70-79,UBAP2L,1.444,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCNX2,0.368,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,B2M,1.792,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ADD3,2.497,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL12,1.392,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF271P,,,
+Small Intestine - Terminal Ileum,70-79,ZNF815P,,,
+Small Intestine - Terminal Ileum,70-79,RAC1,1.071,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PET117,0.865,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GIMAP4,1.22,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287134,,,
+Small Intestine - Terminal Ileum,70-79,NAV1,0.829,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PP7080,1.397,global,sas cell
+Small Intestine - Terminal Ileum,70-79,ATXN7L1,0.967,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRA2B,1.607,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272316,,,
+Small Intestine - Terminal Ileum,70-79,RPL21P28,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000270035,,,
+Small Intestine - Terminal Ileum,70-79,EXOSC2,0.841,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMIM27,1.558,global,ovca-5 cell
+Small Intestine - Terminal Ileum,70-79,ENSG00000286241,,,
+Small Intestine - Terminal Ileum,70-79,SLC8B1,1.53,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAPK15,1.066,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CLTRN,1.258,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZBTB41,0.383,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CEBPB-AS1,2.329,global,mnt-1 cell
+Small Intestine - Terminal Ileum,70-79,ZNF146,1.234,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BCO2,0.989,exact,ileum
+Small Intestine - Terminal Ileum,70-79,IGFBP7-AS1,1.802,global,odontoblast
+Small Intestine - Terminal Ileum,70-79,ENSG00000255910,,,
+Small Intestine - Terminal Ileum,70-79,GAB3,0.368,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DBF4,0.437,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NBEAP2,,,
+Small Intestine - Terminal Ileum,70-79,NR2F2-AS1,1.515,global,oc315
+Small Intestine - Terminal Ileum,70-79,CIR1,1.164,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000246851,,,
+Small Intestine - Terminal Ileum,70-79,ZNF224,2.075,exact,intestine
+Small Intestine - Terminal Ileum,70-79,LINC00674,1.988,global,nci-h441 cell
+Small Intestine - Terminal Ileum,70-79,TRAPPC3,1.387,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KIAA1109,1.84,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SNRPN,0.549,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTIF3,1.567,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C1ORF21,1.605,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287109,,,
+Small Intestine - Terminal Ileum,70-79,MICU3,0.27,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ASNSD1,1.501,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RASGRF2-AS1,0.594,global,joint
+Small Intestine - Terminal Ileum,70-79,RNF144A,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,L3MBTL1,0.58,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFP1,0.368,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MBTPS1,0.797,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ONECUT1,0.602,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MTR,1.745,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF841,0.496,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SSBP2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SFSWAP,1.104,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAP3K4,1.539,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MATR3,0.625,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DUS4L-BCAP29,1.505,global,rwpe-1 cell
+Small Intestine - Terminal Ileum,70-79,PPP6C,1.909,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SMARCE1,1.582,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACAD8,1.993,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NOL8,0.899,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SKINT1L,,,
+Small Intestine - Terminal Ileum,70-79,MEX3C,1.417,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GCFC2,1.169,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAP2A,1.631,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PABIR1,,,
+Small Intestine - Terminal Ileum,70-79,SLTM,1.442,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000268536,,,
+Small Intestine - Terminal Ileum,70-79,BTF3,2.3,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000214970,,,
+Small Intestine - Terminal Ileum,70-79,PMS2P4,,,
+Small Intestine - Terminal Ileum,70-79,ZNF17,0.271,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HAUS4,1.26,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TSHZ2,1.01,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCNC,2.087,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TBC1D3L,4.0,global,brain
+Small Intestine - Terminal Ileum,70-79,RAPGEF5,0.743,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000255237,,,
+Small Intestine - Terminal Ileum,70-79,ANKRD6,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM27,0.53,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF143,1.272,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NICN1,0.783,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PTCD3,1.983,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC9A6,0.713,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SLC29A3,0.651,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MTAP,1.662,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ADAMTS10,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BCL2,2.231,exact,ileum
+Small Intestine - Terminal Ileum,70-79,BLOC1S2,1.246,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MIA3,2.397,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCT6P1,,,
+Small Intestine - Terminal Ileum,70-79,TVP23C,0.857,exact,intestine
+Small Intestine - Terminal Ileum,70-79,FLT3LG,1.21,exact,ileum
+Small Intestine - Terminal Ileum,70-79,EIF3L,2.146,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ERCC1,0.648,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF329,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANAPC10,0.71,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CAMLG,0.643,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RACK1,0.779,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000286732,,,
+Small Intestine - Terminal Ileum,70-79,CRYBB2P1,,,
+Small Intestine - Terminal Ileum,70-79,RGS6,1.668,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDK9,3.07,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HHEX,0.537,exact,ileum
+Small Intestine - Terminal Ileum,70-79,APPBP2,0.802,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EEF1AKMT3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,POMZP3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C1D,0.828,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GOLGA2,2.112,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BET1L,1.211,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HNRNPA1L2,1.713,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ITCH,0.763,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DCTN5,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MBLAC2,4.06,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAB11FIP2,1.641,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GTPBP6,1.154,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRPF38A,1.114,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF43,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,STX5,2.037,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC01881,,,
+Small Intestine - Terminal Ileum,70-79,HARS2,0.619,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SSB,1.88,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PACRGL,0.792,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FKBP10,1.335,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS11P7,,,
+Small Intestine - Terminal Ileum,70-79,UHRF1BP1,1.662,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF30,0.806,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EEF1AKMT2,0.917,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SRRM1,1.456,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC15A3,1.362,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CC2D1B,1.114,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UPF2,1.267,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAF1,1.544,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MYO5A,0.987,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ABHD18,1.454,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IFNGR2,1.108,exact,ileum
+Small Intestine - Terminal Ileum,70-79,WHAMMP3,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000265413,,,
+Small Intestine - Terminal Ileum,70-79,CD226,0.859,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPS11,3.145,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF571,1.493,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CPNE8,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BABAM1,1.341,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZC3H8,0.54,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000213963,,,
+Small Intestine - Terminal Ileum,70-79,KHNYN,1.387,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RIMKLB,0.938,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZBED5,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,STAM,1.086,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CHRAC1,1.129,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SAV1,2.183,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC00342,1.718,global,eoma cell
+Small Intestine - Terminal Ileum,70-79,HNRNPCP7,,,
+Small Intestine - Terminal Ileum,70-79,IGSF22,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HABP4,0.286,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000280216,,,
+Small Intestine - Terminal Ileum,70-79,CNEP1R1,0.824,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ITM2B,2.714,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000277511,,,
+Small Intestine - Terminal Ileum,70-79,NT5C3A,1.199,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PPFIBP2,1.304,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PLCG1,1.05,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPL5,0.916,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPL10,2.609,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MAST4,1.142,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DCTD,1.282,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SGF29,0.951,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000273214,,,
+Small Intestine - Terminal Ileum,70-79,HMGB1,1.678,exact,ileum
+Small Intestine - Terminal Ileum,70-79,WDR44,0.705,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF799,0.731,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIT1,0.738,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KANTR,,,
+Small Intestine - Terminal Ileum,70-79,ELF2,1.563,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF609,1.023,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARID1B,1.783,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PLK2,1.69,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SETDB1,1.878,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS4X,2.684,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000260331,,,
+Small Intestine - Terminal Ileum,70-79,EID1,0.757,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NASP,2.004,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DDX20,0.849,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SPAST,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL7,2.705,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PCBP2,2.962,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF37A,0.564,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LDB1,1.682,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000265982,,,
+Small Intestine - Terminal Ileum,70-79,PFKP-DT,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000257222,,,
+Small Intestine - Terminal Ileum,70-79,MT-RNR2,1.083,exact,intestine
+Small Intestine - Terminal Ileum,70-79,PCID2,1.1,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HMGN4,1.502,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBM11,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000227076,,,
+Small Intestine - Terminal Ileum,70-79,C14ORF93,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C9ORF78,1.438,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF2B4,1.116,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SLC25A28,2.331,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ALMS1-IT1,0.851,exact,intestine
+Small Intestine - Terminal Ileum,70-79,GNL1,0.756,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBXN1,1.6,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF3G,1.713,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF721,0.763,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFAND1,1.312,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CSNK1G3,1.17,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NME3,1.225,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SARS1,2.164,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DTX2,0.734,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PDCD7,4.161,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,OSTF1,1.902,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AP4S1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GPALPP1,0.849,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RAB14,2.044,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RUNX3-AS1,,,
+Small Intestine - Terminal Ileum,70-79,ZNF606,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GPR108,1.455,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SERGEF,0.985,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL17,1.784,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SPEF2,0.315,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RFXANK,1.904,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FXR1,0.55,exact,ileum
+Small Intestine - Terminal Ileum,70-79,BTG1,1.697,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000288539,,,
+Small Intestine - Terminal Ileum,70-79,RPL23AP3,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000278133,,,
+Small Intestine - Terminal Ileum,70-79,SEPHS1,1.575,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL18,0.564,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RAP2C-AS1,1.813,global,ls1
+Small Intestine - Terminal Ileum,70-79,PHF20L1,0.997,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IL15,2.039,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FLII,0.679,exact,ileum
+Small Intestine - Terminal Ileum,70-79,YES1,0.925,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ID4,1.706,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRRC2C,1.211,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PAGE2B,0.182,exact,intestine
+Small Intestine - Terminal Ileum,70-79,SLC35C2,1.244,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EVA1C,0.355,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SARAF,2.436,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WDR41,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TXNDC12,1.658,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ADSS1,0.925,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HNRNPL,3.088,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000225507,,,
+Small Intestine - Terminal Ileum,70-79,POGK,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HSCB,1.568,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL23P2,,,
+Small Intestine - Terminal Ileum,70-79,MPRIP,0.567,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RNF168,1.14,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ATXN2,1.518,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,STING1,0.622,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RRP8,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL36,2.65,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NCK1,2.005,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL19,1.436,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RHOA,1.749,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FAM13B,0.845,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF253,4.188,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,LSM2,0.755,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCNG1,2.672,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF876P,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000275383,,,
+Small Intestine - Terminal Ileum,70-79,FBLN7,1.483,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS19,3.251,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TOP3A,1.399,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LPAR6,2.122,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PTEN,1.677,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SHFL,1.657,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GOPC,1.692,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TTYH2,0.607,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AK9,0.355,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNF38,0.865,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000237101,,,
+Small Intestine - Terminal Ileum,70-79,LRP5L,1.002,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,OCIAD1,1.874,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MCF2L2,0.812,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AKAP8L,1.469,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HERPUD2,0.869,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000271779,,,
+Small Intestine - Terminal Ileum,70-79,ERCC2,1.7,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DHX16,0.097,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,JAZF1,0.573,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NELFA,1.774,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274515,,,
+Small Intestine - Terminal Ileum,70-79,AK1,0.524,exact,ileum
+Small Intestine - Terminal Ileum,70-79,H2BE1,1.02,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LTA4H,0.795,exact,ileum
+Small Intestine - Terminal Ileum,70-79,EIF2S3,1.782,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACP1,0.634,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SRSF8,0.688,exact,intestine
+Small Intestine - Terminal Ileum,70-79,METTL14,0.728,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NAA80,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RALGAPA2,1.795,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000274723,,,
+Small Intestine - Terminal Ileum,70-79,EIF3D,2.192,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SDHAF4,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CHROMR,,,
+Small Intestine - Terminal Ileum,70-79,SPATS2,0.954,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAXD,1.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANKRD29,0.801,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HRAS,1.255,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RPL23AP49,,,
+Small Intestine - Terminal Ileum,70-79,TRIM22,0.645,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZSCAN26,0.599,exact,intestine
+Small Intestine - Terminal Ileum,70-79,RPL36AL,2.124,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DELE1,1.434,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SOCS5,1.507,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UTRN,1.837,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MYL3,1.133,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KLHDC2,1.557,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BRICD5,0.496,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EPB41L4A-AS1,0.827,exact,intestine
+Small Intestine - Terminal Ileum,70-79,GTF2F2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RELL1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PRMT1P1,,,
+Small Intestine - Terminal Ileum,70-79,HAS2-AS1,0.833,exact,intestine
+Small Intestine - Terminal Ileum,70-79,VAMP7,2.234,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PQBP1,4.304,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TBC1D10A,0.23,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LCMT1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF829,4.155,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,EID3,4.242,global,testis
+Small Intestine - Terminal Ileum,70-79,CSNK2B,0.593,exact,ileum
+Small Intestine - Terminal Ileum,70-79,SEPTIN7P2,,,
+Small Intestine - Terminal Ileum,70-79,KLHL24,1.023,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000279031,,,
+Small Intestine - Terminal Ileum,70-79,UBE2Q2,0.845,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS7P7,,,
+Small Intestine - Terminal Ileum,70-79,MIPEPP3,,,
+Small Intestine - Terminal Ileum,70-79,RSAD1,1.39,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UFM1,2.162,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C9ORF85,0.877,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBAP1L,4.11,global,melanoma cell line
+Small Intestine - Terminal Ileum,70-79,TTC28-AS1,1.493,global,lim1863 cell
+Small Intestine - Terminal Ileum,70-79,RPS27A,0.737,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ATP2C1,1.996,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANKRD36C,2.567,exact,intestine
+Small Intestine - Terminal Ileum,70-79,LINC00539,1.05,global,callus
+Small Intestine - Terminal Ileum,70-79,KIAA1586,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBMS2,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF608,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,YBX1,2.698,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SBDSP1,,,
+Small Intestine - Terminal Ileum,70-79,RPAP3-DT,,,
+Small Intestine - Terminal Ileum,70-79,ZNF706,1.437,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PSMD5,1.242,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DSTNP2,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000225528,,,
+Small Intestine - Terminal Ileum,70-79,EIF2B5,1.834,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RILPL2,0.623,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ST7L,4.14,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC02804,,,
+Small Intestine - Terminal Ileum,70-79,MRPL38,1.325,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC00847,1.383,global,a-673 cell
+Small Intestine - Terminal Ileum,70-79,DICER1-AS1,0.703,exact,intestine
+Small Intestine - Terminal Ileum,70-79,L3MBTL4,0.342,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SEPTIN4,1.472,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PSIP1,1.847,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CTPS2,1.512,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HMG20A,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RTCA-AS1,1.666,global,oral epithelial cell
+Small Intestine - Terminal Ileum,70-79,SLC7A2,1.047,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ABRAXAS2,0.833,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PKN1,0.622,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RRAGB,1.371,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC01473,1.26,global,osteoblast
+Small Intestine - Terminal Ileum,70-79,ITGB3BP,0.928,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PEX13,1.588,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000284052,,,
+Small Intestine - Terminal Ileum,70-79,PPIAP90,,,
+Small Intestine - Terminal Ileum,70-79,TRIM2,1.197,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL38,2.902,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF2AK2,1.486,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DNAJC9-AS1,1.265,global,nephroblastoma cell
+Small Intestine - Terminal Ileum,70-79,TUBGCP3,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000271870,,,
+Small Intestine - Terminal Ileum,70-79,DNAJC2,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SIRT3,1.129,exact,ileum
+Small Intestine - Terminal Ileum,70-79,HLA-J,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000248636,,,
+Small Intestine - Terminal Ileum,70-79,LNC-LBCS,,,
+Small Intestine - Terminal Ileum,70-79,HEXA,1.617,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HNRNPC,2.725,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RIOK1,1.052,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AMZ2,1.237,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,METTL4,0.58,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CEP97,0.182,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HNRNPA3,1.616,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SERINC5,0.941,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF3J,1.332,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SEPTIN7,2.148,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MYH16,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000272941,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000233926,,,
+Small Intestine - Terminal Ileum,70-79,PHB2,0.75,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000253825,,,
+Small Intestine - Terminal Ileum,70-79,ARL10,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000241170,,,
+Small Intestine - Terminal Ileum,70-79,AKT3,0.727,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NBR2,1.287,exact,intestine
+Small Intestine - Terminal Ileum,70-79,SRGN,0.917,exact,ileum
+Small Intestine - Terminal Ileum,70-79,PELP1,0.965,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DENND10,0.806,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CFAP70,0.147,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPS27,0.661,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ANP32B,1.721,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KRBOX4,0.587,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ILKAP,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,THOC1,1.639,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CRBN,1.892,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TTC36-AS1,,,
+Small Intestine - Terminal Ileum,70-79,IVD,1.868,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ACBD3,1.816,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PTPN9,1.105,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PI4KB,1.301,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,INVS,1.393,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PELI2,0.78,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RMND1,1.133,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RN7SL213P,,,
+Small Intestine - Terminal Ileum,70-79,RRP36,1.15,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TSPYL4,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KIF9-AS1,0.839,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ANKRA2,1.093,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARRDC1,1.779,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NAA30,0.783,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LIAS,1.739,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,IL15RA,1.023,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000260563,,,
+Small Intestine - Terminal Ileum,70-79,IPO8,1.647,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000258168,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000285748,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000269482,,,
+Small Intestine - Terminal Ileum,70-79,MBNL2,1.148,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SRP9,1.894,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DLG1,2.092,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KCTD12,1.95,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,HNRNPD,2.628,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TNPO1P1,,,
+Small Intestine - Terminal Ileum,70-79,RWDD3,1.017,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TMEM185A,1.136,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UPF3B,1.015,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RGL3,0.841,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC37B,0.793,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TP53TG1,1.318,exact,intestine
+Small Intestine - Terminal Ileum,70-79,PARP6,1.232,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,EIF1B,1.511,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ST13,1.852,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,INF2,1.925,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDK11B,1.235,exact,intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000267342,,,
+Small Intestine - Terminal Ileum,70-79,EBAG9,0.587,exact,ileum
+Small Intestine - Terminal Ileum,70-79,NOL10,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NPRL3,0.768,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PMPCA,0.502,exact,ileum
+Small Intestine - Terminal Ileum,70-79,VARS2,1.479,exact,intestine
+Small Intestine - Terminal Ileum,70-79,GDPD5,0.505,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,METTL23,1.191,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PLSCR1,2.018,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF496,0.426,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GEMIN8,0.637,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ABCB7,0.686,exact,ileum
+Small Intestine - Terminal Ileum,70-79,FRG1HP,,,
+Small Intestine - Terminal Ileum,70-79,SEC62,2.078,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC57,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000267009,,,
+Small Intestine - Terminal Ileum,70-79,RFXAP,0.404,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARMCX5-GPRASP2,1.986,global,dunn cell
+Small Intestine - Terminal Ileum,70-79,RDH16,0.659,exact,ileum
+Small Intestine - Terminal Ileum,70-79,GABPA,1.542,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ABI2,0.783,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FLOT2,1.934,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000262370,,,
+Small Intestine - Terminal Ileum,70-79,CCDC90B,1.33,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RPL15,4.52,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TGFBRAP1,0.637,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZFYVE27,1.244,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF569,1.925,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBE2Z,1.315,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PKP4-AS1,,,
+Small Intestine - Terminal Ileum,70-79,ZNF365,1.091,exact,intestine
+Small Intestine - Terminal Ileum,70-79,PPP2R5E,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NSMCE2,1.054,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZMYM1,0.447,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TRIM23,1.483,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C11ORF58,1.684,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,GPR155,0.487,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MCPH1,0.73,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,FAM200B,1.326,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NUP54,1.107,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZMYM5,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LINC01122,1.095,global,pluteus
+Small Intestine - Terminal Ileum,70-79,ENSG00000273923,,,
+Small Intestine - Terminal Ileum,70-79,FRG1-DT,,,
+Small Intestine - Terminal Ileum,70-79,IL11RA,1.974,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,LRRC40,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ECPAS,1.465,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF836,0.426,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,BTN2A1,0.984,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ABCA17P,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000261512,,,
+Small Intestine - Terminal Ileum,70-79,ARHGAP31,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CCZ1B,1.375,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MTERF2,1.011,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,KAT7,1.306,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UHRF1BP1L,0.758,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000260773,,,
+Small Intestine - Terminal Ileum,70-79,NAP1L1,2.288,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBP1,1.284,exact,ileum
+Small Intestine - Terminal Ileum,70-79,RASGEF1B,0.948,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RNF187,1.625,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,WDFY3-AS2,1.951,global,oc cell
+Small Intestine - Terminal Ileum,70-79,ARL6,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,VN1R1,0.028,exact,intestine
+Small Intestine - Terminal Ileum,70-79,NPIPB12,1.269,global,widr cell
+Small Intestine - Terminal Ileum,70-79,TMLHE,1.47,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DTWD1,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000260816,,,
+Small Intestine - Terminal Ileum,70-79,ZNF846,0.54,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,C6ORF163,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PDLIM1,2.452,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TBC1D25,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MRPS27,1.158,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZMAT3,0.771,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,PDC-AS1,,,
+Small Intestine - Terminal Ileum,70-79,RPL26,2.931,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ARMCX3,1.215,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,APTX,1.562,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBE2D2,0.587,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ENSG00000274501,,,
+Small Intestine - Terminal Ileum,70-79,ENSG00000278925,,,
+Small Intestine - Terminal Ileum,70-79,CSAD,1.137,exact,ileum
+Small Intestine - Terminal Ileum,70-79,CTSZ,4.124,exact,ileum
+Small Intestine - Terminal Ileum,70-79,ZNF280D,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,OARD1,1.364,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF484,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,NSL1,1.666,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TAF1C,1.206,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SECISBP2L,1.539,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,SF1,2.191,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,AARSD1,4.319,global,bto:0000042
+Small Intestine - Terminal Ileum,70-79,CD99P1,,,
+Small Intestine - Terminal Ileum,70-79,SNHG16,1.704,exact,intestine
+Small Intestine - Terminal Ileum,70-79,TMEM68,0.899,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF189,0.853,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000231829,,,
+Small Intestine - Terminal Ileum,70-79,TSNAX,1.096,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,MPV17,1.266,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF709,0.545,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DROSHA,0.942,exact,ileum
+Small Intestine - Terminal Ileum,70-79,MEAF6,1.353,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TDRP,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CHASERR,,,
+Small Intestine - Terminal Ileum,70-79,CFAP36,0.948,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000287868,,,
+Small Intestine - Terminal Ileum,70-79,CAMK1D,1.038,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,UBE2V1,1.673,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000280022,,,
+Small Intestine - Terminal Ileum,70-79,ALKAL2,1.084,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,DYRK4,1.196,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,CDK13,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,COA5,1.14,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZNF397,1.091,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,RBM5,1.861,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,TLCD5,0.079,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ENSG00000272842,,,
+Small Intestine - Terminal Ileum,70-79,RELA,1.663,exact,ileum
+Small Intestine - Terminal Ileum,70-79,DNAJC8,1.353,exact,small intestine
+Small Intestine - Terminal Ileum,70-79,ZBTB2,0.699,exact,small intestine

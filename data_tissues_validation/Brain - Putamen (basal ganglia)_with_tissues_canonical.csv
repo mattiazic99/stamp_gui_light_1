@@ -1,0 +1,1142 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Brain - Putamen (basal ganglia),30-39,SPIN2B,0.204,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,METTL8,4.867,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DHRS4-AS1,2.1,global,yy-8103 cell
+Brain - Putamen (basal ganglia),30-39,RABEPK,0.853,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,YY1,2.239,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MIR762HG,1.094,global,synovial sarcoma cell
+Brain - Putamen (basal ganglia),30-39,SNX27,1.821,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NUP50-DT,,,
+Brain - Putamen (basal ganglia),30-39,ATP5F1C,1.038,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000283196,,,
+Brain - Putamen (basal ganglia),30-39,TTI1,0.455,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ROBO2,1.617,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SCAP,1.436,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NAXE,4.955,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RAB4B,0.689,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SCN2B,1.271,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,H2AZ2,0.898,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HPF1,0.114,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SEC61A2,4.929,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ZHX1,0.097,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CYC1,1.839,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LHX6,4.507,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AKAP6,0.834,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ME1,1.075,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FUNDC1,2.33,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AMN1,4.943,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,C17ORF80,4.932,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,MYG1,,,
+Brain - Putamen (basal ganglia),30-39,TMEM230,2.555,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CLYBL,4.923,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,TAOK2,1.493,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HLF,1.109,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DET1,4.902,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,ACOT13,4.997,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,NDUFAF6,1.376,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ABITRAM,0.663,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SNX5,1.461,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EPRS1,2.147,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GALNT1,4.979,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,PSMG3,0.57,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM203,0.863,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MAGEH1,1.175,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SMIM27,1.558,global,ovca-5 cell
+Brain - Putamen (basal ganglia),30-39,ENSG00000288868,,,
+Brain - Putamen (basal ganglia),30-39,MAIP1,0.061,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MOCS2,1.608,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000224152,,,
+Brain - Putamen (basal ganglia),30-39,GDE1,2.284,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WDR86,4.663,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CDC5L,1.034,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NUTM2B-AS1,1.384,global,masseter
+Brain - Putamen (basal ganglia),30-39,CHRNB1,0.977,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000286125,,,
+Brain - Putamen (basal ganglia),30-39,CDKN2AIPNL,3.906,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,UROS,1.21,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF362,4.914,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ATP5PF,2.428,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DGLUCY,0.19,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PDXP,1.252,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PHAX,4.995,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SUZ12P1,,,
+Brain - Putamen (basal ganglia),30-39,ACYP2,1.124,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,VTI1B,1.86,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KCNQ3,1.963,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DMAC2L,4.783,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,AP3S2,4.988,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,AP3M2,0.462,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CLNS1A,4.182,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMCC1,4.952,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,NDUFB5,2.346,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COQ9,1.709,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000228801,,,
+Brain - Putamen (basal ganglia),30-39,CLPTM1,1.598,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RPP30,0.974,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TEDC1,0.079,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ARL16,4.938,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SUMO2,1.534,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ALG8,4.975,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,KCNB1,2.319,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MED4,0.267,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NGRN,2.76,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,REEP6,4.937,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ING4,4.962,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,MAPK10,,,
+Brain - Putamen (basal ganglia),30-39,ADCY5,2.62,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATPAF1,0.352,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LIN52,4.863,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,EID2,4.225,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,XPA,1.303,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TSEN2,0.527,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CDC16,1.493,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CCNY,1.492,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EIF4A2,3.158,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC35E3,4.0,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RAB2B,4.2,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FASTKD1,0.161,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TDRD3,0.623,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,VWA5B2,3.058,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,VAPB,2.238,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COQ7,1.115,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRR19,4.584,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,YARS2,0.615,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPS28,0.407,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATP5F1A,2.903,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NUDT2,4.979,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,GNPTAB,2.072,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RDH11,0.799,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EMC3,0.362,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CYB5D2,4.0,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MAPT,3.754,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATIC,4.049,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SDAD1P1,,,
+Brain - Putamen (basal ganglia),30-39,FARSB,1.045,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TSPOAP1,1.428,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CALM1,3.067,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MAGEF1,0.041,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,THOC7,1.104,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ESRRA,1.896,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WDR70,4.922,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SFTA3,1.752,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NCOA6,0.815,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COPS5,1.82,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BORCS5,4.857,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,FAM118B,4.966,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ENSG00000260095,,,
+Brain - Putamen (basal ganglia),30-39,AP4B1,4.969,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,NDUFA12,2.224,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DNAJC8,0.041,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BRD7,0.655,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000267260,,,
+Brain - Putamen (basal ganglia),30-39,MARCHF4,0.562,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENKUR,0.648,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RAD51D,4.905,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,TFB1M,1.051,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TTC9,0.79,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC25A15,0.924,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ERG28,4.945,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,LINC00672,1.663,global,u-251mg cell
+Brain - Putamen (basal ganglia),30-39,CLCN3,1.778,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PDE6D,0.332,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZCCHC7,4.96,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,MTIF2,0.114,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LARS1,1.297,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AASDHPPT,1.851,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NAP1L4,0.902,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DUS4L-BCAP29,1.505,global,rwpe-1 cell
+Brain - Putamen (basal ganglia),30-39,JPH3,1.776,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MCCC1,2.01,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATG10,1.452,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C6ORF120,0.38,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UQCRQ,2.356,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COQ5,1.114,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MPC1,1.537,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,METTL21A,0.591,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ST8SIA3,1.136,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BCL11A,1.663,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CASK,1.248,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,H2AZ2P1,,,
+Brain - Putamen (basal ganglia),30-39,SPA17,0.597,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,INSYN1,1.466,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,APBA1,1.373,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AMZ2P1,,,
+Brain - Putamen (basal ganglia),30-39,PABIR1,,,
+Brain - Putamen (basal ganglia),30-39,CCDC113,4.849,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SMIM8,4.326,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,COX10,4.256,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,QRSL1,4.969,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RIC8B,2.981,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRRC2A,1.006,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KIAA0232,1.146,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000288937,,,
+Brain - Putamen (basal ganglia),30-39,ZC3HC1,4.971,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,HIBADH,4.982,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,VPS33A,0.533,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FBXO9,1.059,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000272667,,,
+Brain - Putamen (basal ganglia),30-39,LINC01006,1.535,global,hone-1 cell
+Brain - Putamen (basal ganglia),30-39,IDH2,2.202,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MORN4,4.955,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SPACA9,4.854,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PMS2P4,,,
+Brain - Putamen (basal ganglia),30-39,CTXND1,0.91,global,lung adenocarcinoma cell line
+Brain - Putamen (basal ganglia),30-39,AIFM1,1.16,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENTPD7,4.817,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ENSG00000257272,,,
+Brain - Putamen (basal ganglia),30-39,SHISA7,1.145,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC01535,1.559,global,hfob 1.19 cell
+Brain - Putamen (basal ganglia),30-39,CDKL2,0.514,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RANGRF,0.571,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,B4GALNT1,1.02,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ABHD17A,1.799,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COX7A2,2.448,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000229334,,,
+Brain - Putamen (basal ganglia),30-39,RAB22A,0.097,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COPS8,1.112,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC00665,1.914,global,carcinoma cell
+Brain - Putamen (basal ganglia),30-39,MICOS10,4.977,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ENSG00000236377,,,
+Brain - Putamen (basal ganglia),30-39,SCRN3,0.577,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PTCD3,4.996,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SLC25A17,0.741,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WASHC5,0.811,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CHCHD2,2.198,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NDUFB6,2.133,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CA11,1.589,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TSPOAP1-AS1,,,
+Brain - Putamen (basal ganglia),30-39,COPS7A,0.878,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TTC1,0.161,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GNB1,2.574,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATP5MG,1.883,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COQ3,0.661,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PPP1R16B,1.188,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BLOC1S2,0.882,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATP5PO,2.395,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,POLR2G,0.857,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,YWHAQ,3.54,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC02440,,,
+Brain - Putamen (basal ganglia),30-39,FBXW11,0.562,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,METTL13,,,
+Brain - Putamen (basal ganglia),30-39,ZNF329,4.0,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ASH2L,0.801,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IMP4,4.171,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ABHD17AP4,,,
+Brain - Putamen (basal ganglia),30-39,WASHC3,1.131,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM143,4.962,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PFDN4,0.538,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ARV1,1.122,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC00205,1.799,global,liver cancer cell
+Brain - Putamen (basal ganglia),30-39,TBC1D22B,0.585,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ADPRM,4.822,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,DLEU7,1.903,global,chronic lymphocytic leukemia cell
+Brain - Putamen (basal ganglia),30-39,ADSL,1.371,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,XIAP,1.617,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC00882,1.766,global,respiratory smooth muscle
+Brain - Putamen (basal ganglia),30-39,PRUNE1,0.612,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SAP30L,4.989,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,ARL3,1.333,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNRF1,4.957,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,IQCA1,4.768,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,PCDH7,1.36,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SCMH1,4.964,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PEBP1,2.97,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ERAL1,4.99,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RHBDL3,4.893,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DHFR2,1.165,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CETN2,1.149,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GTF2H5,1.411,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ILVBL,4.967,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,FXN,2.052,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZFP69,0.301,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LYRM2,4.323,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DCTN5,0.176,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000267811,,,
+Brain - Putamen (basal ganglia),30-39,PPIA,4.35,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PTPRA,1.935,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DDX1,1.558,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TUSC2,4.149,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PDCD6,1.18,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SPHK2,1.296,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000187186,,,
+Brain - Putamen (basal ganglia),30-39,CCDC43,4.923,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,LRRC4B,4.25,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000273293,,,
+Brain - Putamen (basal ganglia),30-39,TMEM18,1.238,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PSTK,0.775,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF599,4.811,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,HENMT1,4.939,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SHANK3,2.834,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IFTAP,,,
+Brain - Putamen (basal ganglia),30-39,TCAIM,4.946,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PRADC1,0.477,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ISOC1,0.447,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NOA1,4.983,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,HSBP1,0.964,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SIRPA,1.916,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DRG2,0.605,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RAB4A,4.403,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TADA3,0.097,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF302,0.423,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PITPNA,0.872,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM19,4.888,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,IPO5,1.023,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SVBP,4.869,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PRMT6,0.994,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TBC1D30,4.848,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ADH5,1.519,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EXO5,4.809,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,IMP3,0.82,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC35E1,4.957,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SPAG7,0.591,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PCNX2,4.934,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RAD51C,4.843,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,C11ORF1,4.907,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PRDX3,2.281,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TATDN1,0.898,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ASIC1,1.308,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC25A23,4.108,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CFAP20,0.477,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ABHD17C,4.508,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,UBE3C,0.66,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GPR85,4.22,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SUOX,1.437,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TXNDC9,1.788,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CCDC85A,0.415,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TSPAN7,2.531,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PAQR9-AS1,0.792,global,tooth enamel
+Brain - Putamen (basal ganglia),30-39,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,DCAF10,4.95,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PTPMT1,4.951,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,PPIL1,4.978,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ENSG00000238058,,,
+Brain - Putamen (basal ganglia),30-39,FKRP,0.593,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ARMC10,0.556,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DLG2,2.222,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ASPSCR1,4.964,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SCFD2,4.939,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TATDN2,0.623,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,OLFM2,0.743,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TRAPPC6A,0.675,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DYNC1H1,2.047,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WDSUB1,4.773,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RAB28,0.19,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NUDT9,1.135,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BZW1,1.102,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TOMM5,0.966,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AR,2.136,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EIF3F,4.256,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DEAF1,4.301,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF235,4.643,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,AMIGO1,1.125,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DIPK1A,4.879,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SRD5A1,0.783,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NFYC,0.146,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SFXN4,4.951,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SLC25A12,4.297,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,INPP4B,0.64,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LY6E-DT,,,
+Brain - Putamen (basal ganglia),30-39,WIPI2,2.282,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RNF10,1.11,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CTBP1-DT,,,
+Brain - Putamen (basal ganglia),30-39,GTF3A,0.526,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DNAJB12,0.794,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BBS9,0.649,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,R3HDM1,1.315,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WIZ,0.204,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LANCL2,4.956,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ZSCAN5A,4.846,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MAP6,1.385,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,STRN,1.635,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRKAG1,0.794,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FHIT,0.946,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM150C,4.483,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,RPP25L,4.539,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,PPP2R2B,2.125,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GABARAPL2,3.056,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COQ10A,4.93,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,EPHB1,1.607,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DCAF12L2,4.32,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,VKORC1L1,4.959,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RTCA,0.322,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DYRK1B,0.693,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CENPBD1P1,,,
+Brain - Putamen (basal ganglia),30-39,SAYSD1,4.441,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ARL6IP5,2.595,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BPNT1,4.938,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,CDKN2D,0.699,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC01116,2.235,global,dms-53 cell
+Brain - Putamen (basal ganglia),30-39,CMTM4,4.966,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SEH1L,0.836,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RMDN3,4.399,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,STIM1,1.667,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PFKM,2.15,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UQCRC2,1.939,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KCMF1,1.043,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRPSAP1,0.562,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MGAT5B,4.712,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SYS1,4.982,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,USF2,0.798,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC01003,1.155,global,liver cancer stem cell
+Brain - Putamen (basal ganglia),30-39,ELOB,1.469,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000286388,,,
+Brain - Putamen (basal ganglia),30-39,HSPBP1,4.37,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TARS2,0.161,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NOP14-AS1,0.616,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WBP4,4.934,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,DANCR,2.368,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,BBS1,1.736,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EPS15,2.257,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PREX2,0.751,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C9ORF78,4.969,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,GRID1,4.335,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RNF14,0.13,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HIF1AN,4.976,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ENSG00000286724,,,
+Brain - Putamen (basal ganglia),30-39,ST3GAL2,1.381,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SEPTIN7P14,,,
+Brain - Putamen (basal ganglia),30-39,ZNF571-AS1,1.308,global,novikoff hepatoma cell
+Brain - Putamen (basal ganglia),30-39,HPRT1,3.069,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000282564,,,
+Brain - Putamen (basal ganglia),30-39,UBE2D4,4.946,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CMC1,4.891,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,ZNHIT1,0.498,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NRF1,1.72,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZMAT4,0.817,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZFP90,4.978,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,LINC02482,,,
+Brain - Putamen (basal ganglia),30-39,COX7C,1.304,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RPL7L1,4.988,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MTFR1L,4.558,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,COX6A1,2.937,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PNKD,4.344,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AP4S1,4.896,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TTC5,4.92,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,CBX1,1.702,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM20B,0.597,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PSMD14,1.903,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FDXACB1,4.0,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SIRT5,4.326,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000259969,,,
+Brain - Putamen (basal ganglia),30-39,COX16,4.973,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ENSG00000283183,,,
+Brain - Putamen (basal ganglia),30-39,POLR3K,1.176,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000289135,,,
+Brain - Putamen (basal ganglia),30-39,DTD2,0.568,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,METAP1,1.347,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,YWHAE,4.58,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TTC9C,4.404,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,LINC00652,0.81,global,thyroid cancer cell
+Brain - Putamen (basal ganglia),30-39,PPP1R1B,4.142,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ISCA2,0.666,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EIF2D,0.532,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LYSMD1,0.602,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C15ORF65,4.15,global,gonad
+Brain - Putamen (basal ganglia),30-39,NDUFS4,2.421,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ADRA2C,2.057,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NDUFA6,1.082,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CMAS,1.761,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRICKLE2,1.261,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMOD2,0.942,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000269707,,,
+Brain - Putamen (basal ganglia),30-39,GNAO1,2.752,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SEPHS1,4.975,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,UQCRH,2.153,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ARX,1.387,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000277159,,,
+Brain - Putamen (basal ganglia),30-39,JAKMIP1-DT,,,
+Brain - Putamen (basal ganglia),30-39,TBC1D20,4.962,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PMS2P1,,,
+Brain - Putamen (basal ganglia),30-39,MRPL10,4.0,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UQCRC1,4.475,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ANKRD7,4.98,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ATP5MK,,,
+Brain - Putamen (basal ganglia),30-39,C2ORF72,4.535,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,C6ORF89,4.988,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PRR7,0.531,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC00634,,,
+Brain - Putamen (basal ganglia),30-39,CCDC115,4.0,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC01664,,,
+Brain - Putamen (basal ganglia),30-39,NTAN1,0.279,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MCAT,4.217,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GPS1,0.23,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM205,4.956,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,OLA1,4.324,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SUGCT,0.556,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NACC1,0.996,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM126A,0.279,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000287642,,,
+Brain - Putamen (basal ganglia),30-39,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,B3GALT5-AS1,2.15,global,yy-8103 cell
+Brain - Putamen (basal ganglia),30-39,ENSG00000289428,,,
+Brain - Putamen (basal ganglia),30-39,VANGL1,0.581,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NAA20,0.591,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CCDC106,4.882,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MRPS36,1.278,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CYFIP2,4.524,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPL45,0.322,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BRK1,0.72,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GPHN,2.45,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PLGRKT,4.896,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MRPL30,4.348,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,USP4,1.159,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COA1,4.959,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TOMM40L,0.622,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATP5F1D,2.134,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MTOR,2.818,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GUF1,0.605,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DNAAF9,,,
+Brain - Putamen (basal ganglia),30-39,EMSY-DT,,,
+Brain - Putamen (basal ganglia),30-39,ATXN7L3B,1.02,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CPT1C,4.244,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PLAAT1,4.729,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PPP1CA,1.463,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,JKAMP,4.98,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PPIL6,4.734,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,GCSIR,,,
+Brain - Putamen (basal ganglia),30-39,PBLD,4.911,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,GPR158-AS1,1.326,global,a-204 cell
+Brain - Putamen (basal ganglia),30-39,PITRM1,1.135,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CPLX1,2.039,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZC4H2,4.96,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,RGPD4,4.992,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MRFAP1L1,1.021,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EAPP,0.672,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LHFPL3,0.93,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NUDT15,4.865,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,NDUFS1,4.379,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC00662,1.942,global,liver cancer cell
+Brain - Putamen (basal ganglia),30-39,RNFT2,0.565,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BCDIN3D-AS1,1.502,global,cal-62 cell
+Brain - Putamen (basal ganglia),30-39,PACSIN1,4.506,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MANSC1,4.972,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,LDHB,,,
+Brain - Putamen (basal ganglia),30-39,FBXL21P,,,
+Brain - Putamen (basal ganglia),30-39,JPH4,1.135,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PEPD,1.515,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PID1,1.141,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UQCC1,0.542,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MTDH,1.54,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,APOO,1.156,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HSD11B1L,4.981,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,OCIAD1,1.262,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MFF-DT,,,
+Brain - Putamen (basal ganglia),30-39,LAMTOR5,1.499,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRKG2,1.419,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HERPUD2,0.267,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DDX54,0.922,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DPP10,1.779,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COPB2-DT,,,
+Brain - Putamen (basal ganglia),30-39,TOMM40P4,,,
+Brain - Putamen (basal ganglia),30-39,KREMEN1,0.984,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TIMM17A,1.598,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EXOC7,0.955,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PIGV,4.938,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ATP6V1E2,4.961,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,LDLRAD4,0.625,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,OAZ2,1.114,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CAB39,1.313,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EXD2,0.097,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CLCA4-AS1,,,
+Brain - Putamen (basal ganglia),30-39,MRPL35,0.829,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PPT1,2.621,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NTHL1,1.043,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,STMP1,2.046,global,7/8
+Brain - Putamen (basal ganglia),30-39,RERG,4.058,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CRIPT,4.942,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TMEM177,4.88,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,POU6F1,0.761,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IGSF5,0.455,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SKIDA1,4.0,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,METAP1D,0.808,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PWWP2B,4.865,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,LINC01139,1.345,global,pancreatic alpha cell
+Brain - Putamen (basal ganglia),30-39,DLK2,0.615,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BOLA1,4.81,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,ACP1,0.505,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BTBD1,1.5,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SRSF8,0.732,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CACNG7,0.967,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ECHDC1,1.231,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ETNK2,4.985,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PAPSS1,1.342,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SCARB1,1.837,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF467,4.917,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ZNF174,4.906,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,C1ORF43,1.413,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SDHD,1.562,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CZIB,0.312,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PLCL2,4.975,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,XPR1,1.679,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AGGF1,4.944,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,GNG7,4.38,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CHMP7,0.431,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM129,0.041,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM162A,4.969,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DCAF7,0.176,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KCNA2,2.056,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UQCR11,0.998,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF576,4.802,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,EPHA4,4.5,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZKSCAN2,4.93,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,ATG9A,1.734,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ANKRD29,3.988,global,whole body
+Brain - Putamen (basal ganglia),30-39,LMBRD1,4.331,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,JDP2-AS1,,,
+Brain - Putamen (basal ganglia),30-39,MPPED2,4.881,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,UGP2,1.479,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DNAJC19,1.07,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,POLDIP2,0.541,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000260917,,,
+Brain - Putamen (basal ganglia),30-39,HRAS,2.071,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CLCN4,0.061,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MYPOP,4.615,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,AREL1,4.97,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MMD2,4.588,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RSPO4,0.899,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WDR61,0.732,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ACAT1,1.607,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RASL10B,4.827,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MANEAL,0.729,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM98C,4.856,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,NMBR,1.247,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SKP1,2.892,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SYF2,1.153,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF561-AS1,1.599,global,laryngeal cancer cell
+Brain - Putamen (basal ganglia),30-39,NDUFB8,2.583,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AGPAT1,1.143,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PSMD10,4.219,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000233508,,,
+Brain - Putamen (basal ganglia),30-39,RGP1,4.9,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MARF1,0.857,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000272572,,,
+Brain - Putamen (basal ganglia),30-39,OGG1,1.911,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRTFDC1,1.379,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CETN4P,,,
+Brain - Putamen (basal ganglia),30-39,SV2A,3.355,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF710-AS1,,,
+Brain - Putamen (basal ganglia),30-39,DRD1,3.339,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ADCK2,0.114,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NTPCR,0.613,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TOMM22,1.466,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MPST,1.259,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GTF2F2,0.707,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DCTPP1,4.965,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,METTL2A,4.91,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,VAMP7,1.708,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,OSGEPL1,4.853,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TXNL1,1.951,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WASL-DT,,,
+Brain - Putamen (basal ganglia),30-39,DMAC2,4.995,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,C6ORF136,4.264,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,COMMD3,0.978,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SNF8,0.653,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM136A,4.955,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TSG101,1.953,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RHOT1,4.455,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000272338,,,
+Brain - Putamen (basal ganglia),30-39,TFCP2,4.974,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PDZD4,0.826,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KIF3B,1.266,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FASTK,0.994,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FBXL16,1.246,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SNAPC5,0.767,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CBX6,1.417,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,VSTM2L,1.275,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATP6V0E2,2.169,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GRM3,3.101,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BHLHA15,4.27,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,NXPH2,0.759,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ST3GAL5,1.528,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C9ORF85,0.839,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC1A1,2.793,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FXYD7,1.376,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATG5,2.089,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DCAF6,0.695,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IMMP1L,0.663,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,VPS52,1.85,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MAPKAP1,4.218,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EEF1E1,0.114,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C18ORF32,4.171,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,NDUFAF8,0.694,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZDHHC4,0.898,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TPRG1L,0.525,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,VPS45,4.988,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RTN3,2.947,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C12ORF43,4.992,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,LSM5,0.352,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C2ORF42,4.963,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MRPL3,1.548,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RASGRP2,1.678,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IGFBPL1,1.004,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GID4,4.835,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,KHDC1-AS1,,,
+Brain - Putamen (basal ganglia),30-39,MTCH2,4.272,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM268,0.146,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC23A2,1.71,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SP2,0.535,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZADH2,4.934,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SYT11,4.537,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PPIAP21,,,
+Brain - Putamen (basal ganglia),30-39,GSTA4,2.301,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ARL15,4.969,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TPD52,1.659,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DDX50,0.267,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000231754,,,
+Brain - Putamen (basal ganglia),30-39,WDR13,0.716,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZBED5-AS1,1.491,global,nci-h1299 cell
+Brain - Putamen (basal ganglia),30-39,PTS,2.41,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DIPK1B,4.978,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ZFYVE9,4.904,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,NEURL1,4.997,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MIR4733HG,,,
+Brain - Putamen (basal ganglia),30-39,EXOSC5,4.735,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,TTLL1,0.74,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM254,1.364,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AADAT,2.407,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,VDAC3,2.351,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CIDECP1,,,
+Brain - Putamen (basal ganglia),30-39,GDF11,1.416,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,POLR2E,0.267,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SGCE,2.401,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,STOX2,4.897,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CHCHD4,1.079,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,STARD7,1.088,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC25A26,1.066,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HDAC2,2.636,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,METRN,0.954,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MFF,2.536,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PANX2,0.808,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CDC42SE2,0.29,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ARHGAP35,1.541,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TPMT,0.813,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WDR12,0.176,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SARS2,4.977,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RNASEH2B,1.565,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MCPH1-DT,,,
+Brain - Putamen (basal ganglia),30-39,PIP4K2B,1.207,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IQSEC1,1.72,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM171A1,1.519,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPL43,4.977,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CTPS2,4.939,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,APAF1,1.778,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF582,4.833,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SPPL3,0.707,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAF2,0.567,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CBY1,0.904,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRDX2,2.577,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FBXL5,1.84,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,VDAC2,2.533,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TPTE2P5,,,
+Brain - Putamen (basal ganglia),30-39,ENSG00000266588,,,
+Brain - Putamen (basal ganglia),30-39,TMBIM4,1.694,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DDHD2,1.904,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC25A5,2.192,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RPF1,4.008,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CSPG5,1.584,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPS9,4.963,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ST3GAL3,1.138,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NTN4,1.003,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C17ORF100,3.67,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PAM16,0.47,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,THEM4,0.5,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RDH14,4.898,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DNAJC11,4.987,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,RASD2,2.507,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAIM,0.243,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SFXN5,1.343,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ACBD6,4.933,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ATXN10,4.519,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RPSA,1.05,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NRGN,3.672,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DGKZ,2.019,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATP5PB,2.443,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RNF157,4.949,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,COMMD7,0.47,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C9ORF116,4.709,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PPP1R8,0.524,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000245281,,,
+Brain - Putamen (basal ganglia),30-39,FAM189A1,4.128,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MDH1B,4.802,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,ZEB1,1.258,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000287232,,,
+Brain - Putamen (basal ganglia),30-39,CMBL,4.944,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,KIF9,4.939,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SNX3,1.015,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PDCD2,4.974,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MRPL1,4.959,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,NABP2,4.9,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,SNX17,1.285,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ST6GALNAC6,4.98,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CHCHD3,1.261,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SHROOM2,0.538,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GET1,1.415,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,USHBP1,4.739,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,PAIP1,0.371,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GDPD1,0.342,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SMIM10L1,1.069,global,taste bud
+Brain - Putamen (basal ganglia),30-39,AKTIP,1.279,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HNRNPK,2.547,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HINT1,2.569,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MTPN,1.576,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000248636,,,
+Brain - Putamen (basal ganglia),30-39,CENPS,4.447,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,TMEM263-DT,,,
+Brain - Putamen (basal ganglia),30-39,STAU2,4.166,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM131B-AS1,,,
+Brain - Putamen (basal ganglia),30-39,C15ORF61,1.102,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GNB5,2.063,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GRSF1,4.086,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GPR137,4.971,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CWC15,4.568,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,CASC15,1.959,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,MTX2,0.845,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RIMS2,1.447,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMED8,4.482,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PTN,1.858,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM104B,4.209,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PEX7,0.992,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SMIM19,4.927,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,AMZ2,4.248,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,SMIM10L2A,1.681,global,npc
+Brain - Putamen (basal ganglia),30-39,DHX40,0.29,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KIAA0100,4.019,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MTERF3,4.836,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,WSB2,1.569,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FKBP3,1.239,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DMAC1,4.963,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DCAF11,0.582,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BTD,4.255,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MED31,4.887,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,MPC2,1.217,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KBTBD4,4.888,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,DMWD,0.097,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TTF1,4.905,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,TRMT61B,4.936,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TMA7,1.911,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PPP1CC,2.225,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ISOC2,4.956,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,GLYR1,4.981,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,F7,0.939,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BRSK1,1.459,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BECN1,2.865,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BTBD2,0.439,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC01607,,,
+Brain - Putamen (basal ganglia),30-39,NAT14,4.96,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SPATA33,4.921,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,AFG1L,4.747,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,GHET1,1.866,global,gastric cancer cell
+Brain - Putamen (basal ganglia),30-39,SLC22A3,1.87,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DIS3L,4.896,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,SURF2,4.922,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,NCBP2,0.407,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM8B,4.886,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,HEY1,1.613,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IVD,0.888,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DSTN,2.894,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000255537,,,
+Brain - Putamen (basal ganglia),30-39,DNAJC18,4.961,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,TMEM14C,4.987,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TPGS2,0.371,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000276846,,,
+Brain - Putamen (basal ganglia),30-39,VN1R20P,,,
+Brain - Putamen (basal ganglia),30-39,ZNF771,4.872,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,HACD3,4.995,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,KLHL12,4.978,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PARK7,3.85,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BRD3OS,1.192,global,keratocyte
+Brain - Putamen (basal ganglia),30-39,NIPSNAP1,1.672,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SIMC1,4.467,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,MRPL34,4.912,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CTSF,1.686,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KHDRBS1,1.684,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ERBB4,2.309,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MANBAL,4.964,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,EIF3K,1.927,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATG12,2.073,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TAOK3,0.779,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ABR,1.366,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ALG14,0.51,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ASTN2,1.386,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRXL2A,1.33,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GAS7,1.683,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MPHOSPH6,0.415,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SPOP,0.792,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CMSS1,0.362,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BBOF1,4.794,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DLX6-AS1,1.293,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UQCRFS1,2.653,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LAMTOR1,1.596,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EIF4E3,4.927,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,IMMP2L,1.592,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPL15,0.161,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NMNAT3,0.894,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SERINC3,1.449,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CDS2,0.079,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MNAT1,4.952,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,METTL5,1.603,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPS14,4.813,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,AGO1,1.323,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM174B,4.96,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ADAL,4.941,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,HS3ST5,4.151,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RBSN,0.889,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C22ORF39,4.07,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RAD21-AS1,1.465,global,sw-1116 cell
+Brain - Putamen (basal ganglia),30-39,DCX,2.843,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATP2B2,2.007,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GSR,2.434,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PARP6,4.978,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CDC42BPA,0.312,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ARNTL,2.351,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BOLA3-AS1,1.32,global,k22
+Brain - Putamen (basal ganglia),30-39,FLYWCH2,1.755,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RPL17P43,,,
+Brain - Putamen (basal ganglia),30-39,MRPS23,0.301,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRMT1,1.589,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HSPA12A,1.487,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MARK4,1.626,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000224046,,,
+Brain - Putamen (basal ganglia),30-39,COX7B,2.166,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IARS2,1.043,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TVP23A,4.0,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HNRNPH2,2.293,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BPGM,4.99,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,LETMD1,4.991,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PANTR1,,,
+Brain - Putamen (basal ganglia),30-39,MPI,4.992,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,COMMD9,0.176,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM246C,,,
+Brain - Putamen (basal ganglia),30-39,KAT14,4.888,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,SAMM50,1.332,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SUSD5,4.538,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,EIF4G2,2.161,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PTPRT,0.766,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HAPLN1,1.26,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SDHC,4.375,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TRUB2,4.962,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PPP2R5C,1.324,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPS17,4.842,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,MRPS33,1.141,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FEZ2,0.959,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UBE2V2,1.415,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FRG1HP,,,
+Brain - Putamen (basal ganglia),30-39,GTF2A2,0.944,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC39A9,0.633,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GEMIN2,4.841,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,PPA2,1.473,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CA7,0.791,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HDHD2,4.97,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,FGD5-AS1,1.874,global,non-small cell lung cancer cell
+Brain - Putamen (basal ganglia),30-39,SIAH3,0.71,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CD99L2,4.169,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ARMCX5-GPRASP2,1.986,global,dunn cell
+Brain - Putamen (basal ganglia),30-39,FRG1CP,,,
+Brain - Putamen (basal ganglia),30-39,PCCB,4.199,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PNPO,1.708,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WDTC1,0.519,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000279227,,,
+Brain - Putamen (basal ganglia),30-39,MPPE1,1.234,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AMFR,1.274,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SCG3,1.319,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FBXO41,1.317,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM168A,0.736,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NIPSNAP2,1.656,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NUBPL,1.596,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PHF24,4.24,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000247121,,,
+Brain - Putamen (basal ganglia),30-39,ZDHHC22,4.779,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PDSS2,1.099,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GLT8D1,1.199,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UBA3,0.362,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CNIH3,1.519,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NGB,1.823,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TBL1X,1.862,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LAMTOR3,0.279,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ALOX15P1,,,
+Brain - Putamen (basal ganglia),30-39,RPL15,1.943,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ANXA6,4.332,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000267890,,,
+Brain - Putamen (basal ganglia),30-39,ATP9A,1.609,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM172A,0.041,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SREK1IP1,4.872,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,ELOC,1.437,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ADGRL1,1.553,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PACRG,1.344,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CD320,0.528,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GET3,0.415,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KIAA1143,0.957,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GMPR2,4.981,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,FSD1,0.566,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000225472,,,
+Brain - Putamen (basal ganglia),30-39,HCN2,0.676,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNHIT3,1.139,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000259840,,,
+Brain - Putamen (basal ganglia),30-39,ANAPC16,4.99,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,DCTN6,4.238,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SMYD2,0.724,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,WWP1,1.398,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GNG10,0.76,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ATP6V1D,1.457,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SNX12,0.535,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,INKA2,4.869,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,C7ORF25,4.822,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,HADH,0.956,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NBR1,2.066,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EIF2AK1,4.234,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PAX7,1.166,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CGREF1,4.756,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,CIAO1,4.985,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ZBTB7A,0.628,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PGBD5,4.201,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C12ORF73,4.784,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,PPP2R3C,0.677,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SOD1,3.756,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RB1CC1,2.109,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EIF4G3,0.041,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000288966,,,
+Brain - Putamen (basal ganglia),30-39,FBXO45,0.82,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MGST3,1.89,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,VPS13B-DT,,,
+Brain - Putamen (basal ganglia),30-39,ENSG00000273026,,,
+Brain - Putamen (basal ganglia),30-39,CYTH3,0.585,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM38A,4.73,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,SUMO1,4.47,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CINP,4.0,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CHRM4,2.296,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EPB41L1,4.381,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,UBE2E3,2.098,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CHURC1,4.307,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ENOX1,4.844,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CCZ1B,4.57,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,PDE9A,1.552,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NAP1L6P,,,
+Brain - Putamen (basal ganglia),30-39,CYB5RL,0.737,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GAL3ST3,4.681,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ZNF428,0.663,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GNAO1-DT,,,
+Brain - Putamen (basal ganglia),30-39,TTC23L-AS1,,,
+Brain - Putamen (basal ganglia),30-39,TMEM127,4.978,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DTX1,0.713,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MAPK9,4.422,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TAFA5,4.141,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,EFR3B,4.831,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,EVL,4.247,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TFDP1,0.041,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPL58,1.025,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GHITM,1.952,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NLK,4.204,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000233184,,,
+Brain - Putamen (basal ganglia),30-39,PHKB,0.477,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MLH1,4.23,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CDO1,1.648,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LINC02857,,,
+Brain - Putamen (basal ganglia),30-39,METTL6,4.892,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TIMMDC1,1.836,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,HTATSF1,1.083,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PWP1,0.097,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GLRX5,2.098,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPS27,0.342,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MRPS11,0.332,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,OGDHL,0.954,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SP9,1.677,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NHP2,1.814,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NSA2,1.114,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NT5C3B,1.17,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GSTZ1,0.73,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GS1-124K5.4,0.963,global,t-47d cell
+Brain - Putamen (basal ganglia),30-39,APTX,1.429,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MAP1A,2.853,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TRAM1L1,4.862,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ANAPC7,0.748,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NXPH1,1.54,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM182,4.679,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,LRRFIP1P1,,,
+Brain - Putamen (basal ganglia),30-39,COX4I1,2.858,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF239,4.804,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,SLC6A1,3.316,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TCEAL8,4.964,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ZNF883,4.0,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SLC25A11,1.17,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAIM2,1.847,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FHOD3,4.903,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,ACTR10,1.867,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GRIK1,2.403,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TMEM147,0.924,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,OARD1,4.963,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TMEM42,4.856,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,ENSG00000276075,,,
+Brain - Putamen (basal ganglia),30-39,KCNN1,1.52,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TOR1A,4.526,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PRNP,3.828,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,TBC1D7,0.648,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SAMD15,4.445,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SYNDIG1L,1.557,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DPH5,4.943,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,UQCR10,2.063,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FAM66D,1.103,global,anterior cingulate cortex
+Brain - Putamen (basal ganglia),30-39,VBP1,1.334,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MTA3,0.553,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,NCOA4,2.29,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC45A1,3.39,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,RIMKLA,0.723,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MIEN1,1.256,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ANKRD27,0.041,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ANAPC13,0.954,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SOBP,1.143,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,YBEY,2.669,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,MKKS,4.008,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,RWDD2B,4.951,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,CHST10,4.912,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,SLC25A53,0.552,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,STX6,1.402,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CEP19,0.648,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,BCAS3,4.986,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TMEM14B,1.395,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PPP1R11,0.914,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,LYSMD2,0.55,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,IFT27,4.916,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,DROSHA,1.793,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,AGAP2,0.936,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,DBP,1.399,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,CAMK1D,1.005,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,USP2-AS1,1.299,global,colonic adenocarcinoma cell
+Brain - Putamen (basal ganglia),30-39,TSPAN3,1.666,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,MCMDC2,4.623,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,YWHAB,2.817,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,GRIA1,3.463,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,SLC35G1,4.537,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,RNF167,0.955,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000270866,,,
+Brain - Putamen (basal ganglia),30-39,CCNDBP1,1.088,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ENSG00000177788,,,
+Brain - Putamen (basal ganglia),30-39,PFDN1,0.623,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,KIFAP3,1.486,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,COA5,4.967,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,EI24,0.716,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,C1ORF50,4.749,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,TLL2,4.638,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),30-39,HDGFL3,1.015,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,PDCD2L,4.896,global,bto:0000042
+Brain - Putamen (basal ganglia),30-39,TXNL4A,1.316,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FABP6,4.844,global,small intestine
+Brain - Putamen (basal ganglia),30-39,COPZ1,4.214,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,FGD1,0.792,exact,basal ganglion
+Brain - Putamen (basal ganglia),30-39,ZNF684,4.408,global,bto:0000042
+Brain - Putamen (basal ganglia),40-49,SFXN5,1.343,exact,basal ganglion
+Brain - Putamen (basal ganglia),40-49,MT-ND1,1.601,exact,basal ganglion
+Brain - Putamen (basal ganglia),40-49,OLFM2,0.743,exact,basal ganglion
+Brain - Putamen (basal ganglia),40-49,MT-ND2,1.696,exact,basal ganglion
+Brain - Putamen (basal ganglia),40-49,DIS3L,4.896,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),50-59,SFXN5,1.343,exact,basal ganglion
+Brain - Putamen (basal ganglia),50-59,MT-ND1,1.601,exact,basal ganglion
+Brain - Putamen (basal ganglia),50-59,MT-ND2,1.696,exact,basal ganglion
+Brain - Putamen (basal ganglia),60-69,SFXN5,1.343,exact,basal ganglion
+Brain - Putamen (basal ganglia),60-69,MT-ND1,1.601,exact,basal ganglion
+Brain - Putamen (basal ganglia),60-69,MT-ND2,1.696,exact,basal ganglion
+Brain - Putamen (basal ganglia),70-79,MT-ND2,1.696,exact,basal ganglion
+Brain - Putamen (basal ganglia),70-79,GLI4,4.264,global,"tissues, cell types and enzyme sources"
+Brain - Putamen (basal ganglia),70-79,MT-ND1,1.601,exact,basal ganglion
+Brain - Putamen (basal ganglia),70-79,ENSG00000288093,,,

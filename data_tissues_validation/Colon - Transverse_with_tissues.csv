@@ -1,0 +1,1921 @@
+tissue,age_group,gene_symbol,tissues_confidence,tissues_tissue_match,tissues_best_tissue
+Colon - Transverse,30-39,MAPKAPK5,4.979,global,bto:0000042
+Colon - Transverse,30-39,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,RPUSD2,4.908,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,GTF3C2,4.984,global,bto:0000042
+Colon - Transverse,30-39,KDM8,4.895,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,PPIL2,4.986,global,bto:0000042
+Colon - Transverse,30-39,CMTR2,4.939,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,MT-CO2,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,ALG12,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,SCO1,4.965,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,TRAPPC10,4.963,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,SCAP,4.994,global,bto:0000042
+Colon - Transverse,30-39,RPUSD1,4.938,global,bto:0000042
+Colon - Transverse,30-39,MTMR4,4.98,global,bto:0000042
+Colon - Transverse,30-39,DLD,4.995,global,bto:0000042
+Colon - Transverse,30-39,MRPS9,4.963,global,bto:0000042
+Colon - Transverse,30-39,MT-ND1,4.901,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,TRUB2,4.962,global,bto:0000042
+Colon - Transverse,30-39,ZNF408,4.969,global,bto:0000042
+Colon - Transverse,30-39,SPRYD4,4.928,global,bto:0000042
+Colon - Transverse,30-39,ZFP3,4.771,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,TMEM209,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,TEN1,4.95,global,bto:0000042
+Colon - Transverse,30-39,HPS6,4.898,global,bto:0000042
+Colon - Transverse,30-39,PPCS,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,DMAC2L,4.783,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,WDR37,4.955,global,bto:0000042
+Colon - Transverse,30-39,AREL1,4.97,global,bto:0000042
+Colon - Transverse,30-39,PPP1R13B,4.962,global,bto:0000042
+Colon - Transverse,30-39,ZSCAN25,4.812,global,bto:0000042
+Colon - Transverse,30-39,CCNJ,4.89,global,bto:0000042
+Colon - Transverse,30-39,KDM4C,4.968,global,bto:0000042
+Colon - Transverse,30-39,RABL6,4.492,global,bto:0000042
+Colon - Transverse,30-39,SCRIB,4.972,global,bto:0000042
+Colon - Transverse,30-39,MOCS3,4.717,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,ZNF837,4.0,global,b-lymphocyte cell line
+Colon - Transverse,30-39,PSKH1,4.91,global,bto:0000042
+Colon - Transverse,30-39,DNAJC14,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,LANCL2,4.956,global,bto:0000042
+Colon - Transverse,30-39,RALGPS1,4.945,global,bto:0000042
+Colon - Transverse,30-39,MT-ATP8,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,MRPL15,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,NHLRC1,2.583,global,corpus amylaceum
+Colon - Transverse,30-39,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,COG2,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,DGCR8,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,SLC9A8,4.95,global,bto:0000042
+Colon - Transverse,30-39,POLR2A,4.997,global,bto:0000042
+Colon - Transverse,30-39,CLP1,4.911,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,MIEF1,4.993,global,bto:0000042
+Colon - Transverse,30-39,ZNF675,4.642,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,CNPPD1,4.974,global,bto:0000042
+Colon - Transverse,30-39,SGPL1,4.977,global,bto:0000042
+Colon - Transverse,30-39,ENSG00000213062,,,
+Colon - Transverse,30-39,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,TOE1,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,ISCA2,4.894,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,MAVS,4.991,global,bto:0000042
+Colon - Transverse,30-39,ZBTB3,4.559,global,bto:0000042
+Colon - Transverse,30-39,TMEM177,4.88,global,bto:0000042
+Colon - Transverse,30-39,DBR1,4.903,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,ZSWIM1,4.799,global,bto:0000042
+Colon - Transverse,30-39,NTPCR,4.953,global,bto:0000042
+Colon - Transverse,30-39,DDX28,4.967,global,bto:0000042
+Colon - Transverse,30-39,PHACTR4,4.966,global,bto:0000042
+Colon - Transverse,30-39,GPATCH3,4.974,global,bto:0000042
+Colon - Transverse,30-39,EMC10,4.98,global,bto:0000042
+Colon - Transverse,30-39,POMK,4.556,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,TMEM87A,4.994,global,bto:0000042
+Colon - Transverse,30-39,WASHC2C,4.409,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,BRPF3,4.917,global,bto:0000042
+Colon - Transverse,30-39,GLOD4,4.983,global,bto:0000042
+Colon - Transverse,30-39,RIPK1,4.967,global,bto:0000042
+Colon - Transverse,30-39,SEC24C,4.987,global,bto:0000042
+Colon - Transverse,30-39,MT-ATP6,4.918,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,ENSG00000289554,,,
+Colon - Transverse,30-39,MED18,4.833,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,MYO18A,4.979,global,bto:0000042
+Colon - Transverse,30-39,LCMT2,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,ZSWIM5,4.429,global,bto:0000042
+Colon - Transverse,30-39,TSEN2,4.952,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,CHMP6,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,MT-CYB,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,MT-ND4,4.582,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,30-39,MON1B,4.982,global,bto:0000042
+Colon - Transverse,30-39,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,EMC10,4.98,global,bto:0000042
+Colon - Transverse,40-49,MAPKAPK5,4.979,global,bto:0000042
+Colon - Transverse,40-49,BRPF3,4.917,global,bto:0000042
+Colon - Transverse,40-49,RPUSD2,4.908,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,GTF3C2,4.984,global,bto:0000042
+Colon - Transverse,40-49,MIEF1,4.993,global,bto:0000042
+Colon - Transverse,40-49,KDM8,4.895,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,TEN1,4.95,global,bto:0000042
+Colon - Transverse,40-49,HPS6,4.898,global,bto:0000042
+Colon - Transverse,40-49,PPIL2,4.986,global,bto:0000042
+Colon - Transverse,40-49,CMTR2,4.939,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,KDM4C,4.968,global,bto:0000042
+Colon - Transverse,40-49,ALG12,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,SCRIB,4.972,global,bto:0000042
+Colon - Transverse,40-49,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,TRAPPC10,4.963,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,MT-ATP6,4.918,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,DNAJC14,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,ISCA2,4.894,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,SCAP,4.994,global,bto:0000042
+Colon - Transverse,40-49,MAVS,4.991,global,bto:0000042
+Colon - Transverse,40-49,ZBTB3,4.559,global,bto:0000042
+Colon - Transverse,40-49,MTMR4,4.98,global,bto:0000042
+Colon - Transverse,40-49,MYO18A,4.979,global,bto:0000042
+Colon - Transverse,40-49,MT-CYB,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,MT-ATP8,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,MT-ND4,4.582,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,MRPS9,4.963,global,bto:0000042
+Colon - Transverse,40-49,ZSWIM1,4.799,global,bto:0000042
+Colon - Transverse,40-49,NTPCR,4.953,global,bto:0000042
+Colon - Transverse,40-49,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,MON1B,4.982,global,bto:0000042
+Colon - Transverse,40-49,SPRYD4,4.928,global,bto:0000042
+Colon - Transverse,40-49,PHACTR4,4.966,global,bto:0000042
+Colon - Transverse,40-49,ZFP3,4.771,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,40-49,POLR2A,4.997,global,bto:0000042
+Colon - Transverse,50-59,EMC10,4.98,global,bto:0000042
+Colon - Transverse,50-59,MAPKAPK5,4.979,global,bto:0000042
+Colon - Transverse,50-59,BRPF3,4.917,global,bto:0000042
+Colon - Transverse,50-59,RPUSD2,4.908,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,GTF3C2,4.984,global,bto:0000042
+Colon - Transverse,50-59,MIEF1,4.993,global,bto:0000042
+Colon - Transverse,50-59,KDM8,4.895,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,TEN1,4.95,global,bto:0000042
+Colon - Transverse,50-59,PPIL2,4.986,global,bto:0000042
+Colon - Transverse,50-59,CMTR2,4.939,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,KDM4C,4.968,global,bto:0000042
+Colon - Transverse,50-59,ZNF564,4.102,global,nervous system
+Colon - Transverse,50-59,ALG12,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,SCRIB,4.972,global,bto:0000042
+Colon - Transverse,50-59,YIPF3,4.991,global,bto:0000042
+Colon - Transverse,50-59,SMUG1,4.959,global,bto:0000042
+Colon - Transverse,50-59,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,ISCA2,4.894,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,SCAP,4.994,global,bto:0000042
+Colon - Transverse,50-59,MTMR4,4.98,global,bto:0000042
+Colon - Transverse,50-59,MYO18A,4.979,global,bto:0000042
+Colon - Transverse,50-59,SETD4,4.952,global,bto:0000042
+Colon - Transverse,50-59,MT-ATP8,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,MT-ND4,4.582,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,MRPS9,4.963,global,bto:0000042
+Colon - Transverse,50-59,RBM45,4.103,global,leukemia cell
+Colon - Transverse,50-59,ZSWIM1,4.799,global,bto:0000042
+Colon - Transverse,50-59,NTPCR,4.953,global,bto:0000042
+Colon - Transverse,50-59,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,50-59,SPRYD4,4.928,global,bto:0000042
+Colon - Transverse,50-59,PHACTR4,4.966,global,bto:0000042
+Colon - Transverse,50-59,ZFP3,4.771,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,ERI3,4.987,global,bto:0000042
+Colon - Transverse,60-69,TSR2,4.949,global,bto:0000042
+Colon - Transverse,60-69,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,PTPN9,4.96,global,bto:0000042
+Colon - Transverse,60-69,DRG2,4.982,global,bto:0000042
+Colon - Transverse,60-69,ZNF7,4.94,global,bto:0000042
+Colon - Transverse,60-69,WDR61,4.974,global,bto:0000042
+Colon - Transverse,60-69,RNASEH2B,4.927,global,bto:0000042
+Colon - Transverse,60-69,TMEM248,4.99,global,bto:0000042
+Colon - Transverse,60-69,NBPF14,1.994,global,gs93
+Colon - Transverse,60-69,TSG101,4.99,global,bto:0000042
+Colon - Transverse,60-69,KDM8,4.895,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,NBPF19,1.342,global,ccrfsb
+Colon - Transverse,60-69,GTF3C2,4.984,global,bto:0000042
+Colon - Transverse,60-69,DNAJC7,4.982,global,bto:0000042
+Colon - Transverse,60-69,RNF187,4.986,global,bto:0000042
+Colon - Transverse,60-69,PORCN,4.907,global,bto:0000042
+Colon - Transverse,60-69,GMPR2,4.981,global,bto:0000042
+Colon - Transverse,60-69,PPIL2,4.986,global,bto:0000042
+Colon - Transverse,60-69,SMARCD1,4.98,global,bto:0000042
+Colon - Transverse,60-69,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,PPP1R8,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,MRFAP1L1,4.984,global,bto:0000042
+Colon - Transverse,60-69,CCDC174,4.908,global,bto:0000042
+Colon - Transverse,60-69,ZMAT2,4.968,global,bto:0000042
+Colon - Transverse,60-69,KANSL3,4.993,global,bto:0000042
+Colon - Transverse,60-69,PSMF1,4.994,global,bto:0000042
+Colon - Transverse,60-69,ACP1,4.534,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,SCFD1,4.985,global,bto:0000042
+Colon - Transverse,60-69,BBS4,4.971,global,bto:0000042
+Colon - Transverse,60-69,ZNF564,4.102,global,nervous system
+Colon - Transverse,60-69,VAPB,4.992,global,bto:0000042
+Colon - Transverse,60-69,COPZ1,4.996,global,bto:0000042
+Colon - Transverse,60-69,YIPF3,4.991,global,bto:0000042
+Colon - Transverse,60-69,SMUG1,4.959,global,bto:0000042
+Colon - Transverse,60-69,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,ZNF212,4.966,global,bto:0000042
+Colon - Transverse,60-69,UBA5,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,UNC50,4.954,global,bto:0000042
+Colon - Transverse,60-69,CLNS1A,4.986,global,bto:0000042
+Colon - Transverse,60-69,FBXO25,4.941,global,bto:0000042
+Colon - Transverse,60-69,ENSA,4.994,global,bto:0000042
+Colon - Transverse,60-69,ANAPC5,4.995,global,bto:0000042
+Colon - Transverse,60-69,RPUSD4,4.975,global,bto:0000042
+Colon - Transverse,60-69,MRPS14,4.813,global,bto:0000042
+Colon - Transverse,60-69,GPS1,4.996,global,bto:0000042
+Colon - Transverse,60-69,GEMIN2,4.841,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,GNPTG,4.972,global,bto:0000042
+Colon - Transverse,60-69,FXN,4.874,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,FBXO7,4.995,global,bto:0000042
+Colon - Transverse,60-69,MLH3,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,EPS15L1,4.934,global,bto:0000042
+Colon - Transverse,60-69,TEX261,4.985,global,bto:0000042
+Colon - Transverse,60-69,TTC5,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,SETD4,4.952,global,bto:0000042
+Colon - Transverse,60-69,EIF2B1,4.99,global,bto:0000042
+Colon - Transverse,60-69,SNRPD3,4.975,global,bto:0000042
+Colon - Transverse,60-69,MRPS27,4.994,global,bto:0000042
+Colon - Transverse,60-69,SETDB2,4.902,global,bto:0000042
+Colon - Transverse,60-69,TADA2A,4.857,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,DDX17,4.999,global,bto:0000042
+Colon - Transverse,60-69,SLC30A6,4.963,global,bto:0000042
+Colon - Transverse,60-69,RBM45,4.103,global,leukemia cell
+Colon - Transverse,60-69,POLR3C,4.938,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,NTPCR,4.953,global,bto:0000042
+Colon - Transverse,60-69,COQ6,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,GRHPR,4.993,global,bto:0000042
+Colon - Transverse,60-69,TMEM129,4.802,global,bto:0000042
+Colon - Transverse,60-69,UPF1,4.988,global,bto:0000042
+Colon - Transverse,60-69,MMS19,4.996,global,bto:0000042
+Colon - Transverse,60-69,C9ORF78,4.969,global,bto:0000042
+Colon - Transverse,60-69,SUGP1,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,60-69,FAM32A,4.98,global,bto:0000042
+Colon - Transverse,60-69,MTG2,4.978,global,bto:0000042
+Colon - Transverse,60-69,PELP1,4.987,global,bto:0000042
+Colon - Transverse,60-69,LRRC28,4.916,global,bto:0000042
+Colon - Transverse,70-79,PEX3,4.925,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NBPF14,1.994,global,gs93
+Colon - Transverse,70-79,BCLAF3,4.626,global,bto:0000042
+Colon - Transverse,70-79,DHRS12,4.887,global,bto:0000042
+Colon - Transverse,70-79,KLHL2,4.885,global,bto:0000042
+Colon - Transverse,70-79,CINP,4.972,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SENP6,4.985,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MTA1,4.987,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SRP9,4.999,global,bto:0000042
+Colon - Transverse,70-79,ZNF564,4.102,global,nervous system
+Colon - Transverse,70-79,OTUD6B-AS1,1.519,global,renal clear cell
+Colon - Transverse,70-79,TRAM1,4.989,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000272221,,,
+Colon - Transverse,70-79,KHDRBS1,4.994,global,bto:0000042
+Colon - Transverse,70-79,CHIC1,4.868,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EIF2AK4,4.959,global,bto:0000042
+Colon - Transverse,70-79,RAI2,4.907,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MRPS14,4.813,global,bto:0000042
+Colon - Transverse,70-79,EEF1AKMT2,4.861,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,UBXN2A,4.745,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GIT2,4.985,global,bto:0000042
+Colon - Transverse,70-79,NDUFB6,4.971,global,bto:0000042
+Colon - Transverse,70-79,C5ORF24,4.957,global,bto:0000042
+Colon - Transverse,70-79,FHOD3,4.903,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SUMO1,4.995,global,bto:0000042
+Colon - Transverse,70-79,ILKAP,4.932,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TTC5,4.92,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PSMD10,4.986,global,bto:0000042
+Colon - Transverse,70-79,FNTA,4.983,global,bto:0000042
+Colon - Transverse,70-79,BIVM,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FAM219B,4.756,global,bto:0000042
+Colon - Transverse,70-79,XXYLT1,4.423,global,bto:0000042
+Colon - Transverse,70-79,LRRC40,4.923,global,bto:0000042
+Colon - Transverse,70-79,ZNF512,4.979,global,bto:0000042
+Colon - Transverse,70-79,SENP1,4.926,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ISCA1,4.992,global,bto:0000042
+Colon - Transverse,70-79,BRAF,4.945,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,VPS54,4.937,global,bto:0000042
+Colon - Transverse,70-79,SP100,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF71,4.78,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CDC34,4.974,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FLOT1,4.995,global,bto:0000042
+Colon - Transverse,70-79,BLOC1S2,4.967,global,bto:0000042
+Colon - Transverse,70-79,UBE3B,4.978,global,bto:0000042
+Colon - Transverse,70-79,ZMAT2,4.968,global,bto:0000042
+Colon - Transverse,70-79,LSM3,4.969,global,bto:0000042
+Colon - Transverse,70-79,PHF19,4.963,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FAM114A2,4.956,global,bto:0000042
+Colon - Transverse,70-79,CCDC97,4.948,global,bto:0000042
+Colon - Transverse,70-79,TMEM263,4.983,global,bto:0000042
+Colon - Transverse,70-79,RSRC1,4.82,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,METTL22,4.426,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PPT1,4.999,global,bto:0000042
+Colon - Transverse,70-79,COQ10A,4.93,global,bto:0000042
+Colon - Transverse,70-79,SMIM30,4.216,global,bto:0000042
+Colon - Transverse,70-79,AKIP1,4.838,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MAP3K13,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NCOA3,4.979,global,bto:0000042
+Colon - Transverse,70-79,HMGN4,4.987,global,bto:0000042
+Colon - Transverse,70-79,UBXN4,4.992,global,bto:0000042
+Colon - Transverse,70-79,ISCU,4.988,global,bto:0000042
+Colon - Transverse,70-79,GPALPP1,4.625,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LINC01560,1.396,global,caski cell
+Colon - Transverse,70-79,LRRC47,4.857,global,bto:0000042
+Colon - Transverse,70-79,SNX17,4.999,global,bto:0000042
+Colon - Transverse,70-79,LEPROT,4.983,global,bto:0000042
+Colon - Transverse,70-79,BICRA,4.927,global,bto:0000042
+Colon - Transverse,70-79,TARDBP,4.999,global,bto:0000042
+Colon - Transverse,70-79,VAC14,4.975,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PRR14,4.976,global,bto:0000042
+Colon - Transverse,70-79,SRSF1,4.998,global,bto:0000042
+Colon - Transverse,70-79,GPKOW,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PTPN9,4.96,global,bto:0000042
+Colon - Transverse,70-79,CKMT2-AS1,1.575,global,bto:0003076
+Colon - Transverse,70-79,GOSR2,4.968,global,bto:0000042
+Colon - Transverse,70-79,ZNF836,4.684,global,bto:0000042
+Colon - Transverse,70-79,SACM1L,,,
+Colon - Transverse,70-79,RIOK2,4.941,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZSCAN18,4.99,global,bto:0000042
+Colon - Transverse,70-79,ANGEL1,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,HGSNAT,4.991,global,bto:0000042
+Colon - Transverse,70-79,NDUFA5,4.994,global,bto:0000042
+Colon - Transverse,70-79,SPRYD7,4.557,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ATG3,4.987,global,bto:0000042
+Colon - Transverse,70-79,LEPROTL1,4.986,global,bto:0000042
+Colon - Transverse,70-79,GATD1,4.929,global,bto:0000042
+Colon - Transverse,70-79,CHM,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EID1,2.317,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MAGEH1,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C1ORF216,4.634,global,bto:0000042
+Colon - Transverse,70-79,MACROD1,4.982,global,bto:0000042
+Colon - Transverse,70-79,POGK,4.963,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF708,4.625,global,bto:0000042
+Colon - Transverse,70-79,WRAP73,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C11ORF58,4.981,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NCDN,4.953,global,bto:0000042
+Colon - Transverse,70-79,HELQ,4.872,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AGAP3,4.975,global,bto:0000042
+Colon - Transverse,70-79,ARNT,4.977,global,bto:0000042
+Colon - Transverse,70-79,AKTIP,4.98,global,bto:0000042
+Colon - Transverse,70-79,TM2D2,4.98,global,bto:0000042
+Colon - Transverse,70-79,TSR2,4.949,global,bto:0000042
+Colon - Transverse,70-79,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,YWHAE,5.0,global,bto:0000042
+Colon - Transverse,70-79,PBX2,4.933,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ASAP1,4.993,global,bto:0000042
+Colon - Transverse,70-79,PDS5A,4.987,global,bto:0000042
+Colon - Transverse,70-79,PIGM,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,HMGB1,5.0,global,bto:0000042
+Colon - Transverse,70-79,TXNRD3,4.441,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MYO5A,4.983,global,bto:0000042
+Colon - Transverse,70-79,ATPAF2,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SYPL1,4.996,global,bto:0000042
+Colon - Transverse,70-79,LYPLAL1,4.934,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000288973,,,
+Colon - Transverse,70-79,LINC00663,1.466,global,hgc-27 cell
+Colon - Transverse,70-79,ANP32E,4.982,global,bto:0000042
+Colon - Transverse,70-79,THOC7,4.97,global,bto:0000042
+Colon - Transverse,70-79,RB1,4.98,global,bto:0000042
+Colon - Transverse,70-79,QDPR,4.994,global,bto:0000042
+Colon - Transverse,70-79,NDUFS7,4.965,global,bto:0000042
+Colon - Transverse,70-79,ZEB1-AS1,1.959,global,bto:0000042
+Colon - Transverse,70-79,ZMYM6,4.893,global,bto:0000042
+Colon - Transverse,70-79,CNOT2,4.99,global,bto:0000042
+Colon - Transverse,70-79,NKTR,5.0,global,alimentary canal
+Colon - Transverse,70-79,ZNF362,4.914,global,bto:0000042
+Colon - Transverse,70-79,HDDC2,4.959,global,bto:0000042
+Colon - Transverse,70-79,C16ORF91,4.857,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MTMR10,4.944,global,bto:0000042
+Colon - Transverse,70-79,ZBTB8OS,4.51,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FAM20B,4.959,global,bto:0000042
+Colon - Transverse,70-79,RWDD2A,4.132,global,bto:0000042
+Colon - Transverse,70-79,MIER2,4.876,global,bto:0000042
+Colon - Transverse,70-79,LYPLA1,4.971,global,bto:0000042
+Colon - Transverse,70-79,NEK9,4.981,global,bto:0000042
+Colon - Transverse,70-79,SS18L2,4.521,global,bto:0000042
+Colon - Transverse,70-79,HIKESHI,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ARHGAP1,4.978,global,bto:0000042
+Colon - Transverse,70-79,PIGX,4.881,global,bto:0000042
+Colon - Transverse,70-79,SELENOT,4.996,global,bto:0000042
+Colon - Transverse,70-79,PWP1,4.989,global,bto:0000042
+Colon - Transverse,70-79,ELK4,4.967,global,bto:0000042
+Colon - Transverse,70-79,FAM220A,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,WDPCP,4.846,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RHOA,5.0,global,bto:0000042
+Colon - Transverse,70-79,TOGARAM1,4.895,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EEFSEC,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PAM,4.997,global,bto:0000042
+Colon - Transverse,70-79,SELENOF,4.996,global,bto:0000042
+Colon - Transverse,70-79,EPB41L3,4.988,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000273270,,,
+Colon - Transverse,70-79,OTUD5,4.978,global,bto:0000042
+Colon - Transverse,70-79,INTS9,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SYT11,4.994,global,bto:0000042
+Colon - Transverse,70-79,FAM171B,4.911,global,bto:0000042
+Colon - Transverse,70-79,ANAPC7,4.974,global,bto:0000042
+Colon - Transverse,70-79,ZDHHC4,4.969,global,bto:0000042
+Colon - Transverse,70-79,CAMK1,4.952,global,bto:0000042
+Colon - Transverse,70-79,UBLCP1,4.925,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GATAD1,4.954,global,bto:0000042
+Colon - Transverse,70-79,RBM18,4.966,global,bto:0000042
+Colon - Transverse,70-79,RUFY2,4.9,global,bto:0000042
+Colon - Transverse,70-79,PIH1D1,4.989,global,bto:0000042
+Colon - Transverse,70-79,SUPT20H,4.989,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MAP3K2,4.973,global,bto:0000042
+Colon - Transverse,70-79,PPP2CB,4.987,global,bto:0000042
+Colon - Transverse,70-79,YWHAB,4.999,global,bto:0000042
+Colon - Transverse,70-79,TRMT10B,4.813,global,bto:0000042
+Colon - Transverse,70-79,GRB2,4.997,global,bto:0000042
+Colon - Transverse,70-79,PAXIP1-AS2,1.224,global,glioma cell
+Colon - Transverse,70-79,SRP68,4.988,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RBM26,4.964,global,bto:0000042
+Colon - Transverse,70-79,SLC33A1,4.978,global,bto:0000042
+Colon - Transverse,70-79,ABHD17A,4.657,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AGPAT1,4.99,global,bto:0000042
+Colon - Transverse,70-79,TSPAN31,4.947,global,bto:0000042
+Colon - Transverse,70-79,TRPC1,4.864,global,bto:0000042
+Colon - Transverse,70-79,NDFIP1,4.998,global,bto:0000042
+Colon - Transverse,70-79,WASHC4,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TIMMDC1,4.987,global,bto:0000042
+Colon - Transverse,70-79,FIBIN,4.96,global,bto:0000042
+Colon - Transverse,70-79,SF3A3,4.994,global,bto:0000042
+Colon - Transverse,70-79,FRG1CP,,,
+Colon - Transverse,70-79,IDS,4.998,global,bto:0000042
+Colon - Transverse,70-79,SERBP1,4.999,global,bto:0000042
+Colon - Transverse,70-79,CEP89,4.446,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TRAPPC13,4.95,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ANAPC5,4.995,global,bto:0000042
+Colon - Transverse,70-79,CRLS1,4.819,global,bto:0000042
+Colon - Transverse,70-79,SPRYD3,4.936,global,bto:0000042
+Colon - Transverse,70-79,ZNF131,4.937,global,bto:0000042
+Colon - Transverse,70-79,LLPH,4.873,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PLCB4,4.974,global,bto:0000042
+Colon - Transverse,70-79,DCTN5,4.988,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000272779,,,
+Colon - Transverse,70-79,SNRPD3,4.975,global,bto:0000042
+Colon - Transverse,70-79,SNAPIN,4.975,global,bto:0000042
+Colon - Transverse,70-79,MAGEF1,4.975,global,bto:0000042
+Colon - Transverse,70-79,TTC26,4.894,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,BCL2L1,4.995,global,bto:0000042
+Colon - Transverse,70-79,BBOF1,4.794,global,bto:0000042
+Colon - Transverse,70-79,INPP4A,4.939,global,bto:0000042
+Colon - Transverse,70-79,PRR3,4.578,global,bto:0000042
+Colon - Transverse,70-79,CTTNBP2NL,4.958,global,bto:0000042
+Colon - Transverse,70-79,CHROMR,,,
+Colon - Transverse,70-79,NF1,4.993,global,bto:0000042
+Colon - Transverse,70-79,ATXN7L3,4.995,global,bto:0000042
+Colon - Transverse,70-79,UBE2A,4.988,global,bto:0000042
+Colon - Transverse,70-79,ZNF250,4.805,global,bto:0000042
+Colon - Transverse,70-79,SLC41A3,4.991,global,bto:0000042
+Colon - Transverse,70-79,TBP,4.972,global,bto:0000042
+Colon - Transverse,70-79,NEURL4,4.876,global,bto:0000042
+Colon - Transverse,70-79,PDE6D,4.93,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,HSPBP1,4.991,global,bto:0000042
+Colon - Transverse,70-79,ZC3H10,4.897,global,bto:0000042
+Colon - Transverse,70-79,UBE2Z,4.989,global,bto:0000042
+Colon - Transverse,70-79,COPS5,4.994,global,bto:0000042
+Colon - Transverse,70-79,F8,4.977,global,bto:0000042
+Colon - Transverse,70-79,TUSC2,4.97,global,bto:0000042
+Colon - Transverse,70-79,STK25,4.996,global,bto:0000042
+Colon - Transverse,70-79,ZNF664,4.983,global,bto:0000042
+Colon - Transverse,70-79,SS18,4.93,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,WHAMMP2,,,
+Colon - Transverse,70-79,YWHAQ,4.999,global,bto:0000042
+Colon - Transverse,70-79,HSPBAP1,4.884,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RCBTB1,4.972,global,bto:0000042
+Colon - Transverse,70-79,COMT,4.998,global,bto:0000042
+Colon - Transverse,70-79,PCBP2,4.997,global,bto:0000042
+Colon - Transverse,70-79,TAF1,5.0,global,alimentary canal
+Colon - Transverse,70-79,KCTD17,4.884,global,bto:0000042
+Colon - Transverse,70-79,ARHGEF11,4.968,global,bto:0000042
+Colon - Transverse,70-79,CENPB,4.993,global,bto:0000042
+Colon - Transverse,70-79,FNDC3B,4.977,global,bto:0000042
+Colon - Transverse,70-79,DHRS4-AS1,2.1,global,yy-8103 cell
+Colon - Transverse,70-79,LRRC27,4.59,global,bto:0000042
+Colon - Transverse,70-79,MID2,4.808,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CRYZL1,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SUCO,4.97,global,bto:0000042
+Colon - Transverse,70-79,FAM120B,4.972,global,bto:0000042
+Colon - Transverse,70-79,SLC35E3,4.878,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GSTA4,4.981,global,bto:0000042
+Colon - Transverse,70-79,CHCHD1,4.764,global,bto:0000042
+Colon - Transverse,70-79,NELFE,4.973,global,bto:0000042
+Colon - Transverse,70-79,FBXO33,4.908,global,bto:0000042
+Colon - Transverse,70-79,ELAVL1,4.988,global,bto:0000042
+Colon - Transverse,70-79,USP21,4.97,global,bto:0000042
+Colon - Transverse,70-79,RGS12,4.977,global,bto:0000042
+Colon - Transverse,70-79,ZCCHC9,4.879,global,bto:0000042
+Colon - Transverse,70-79,LIMS1,4.989,global,bto:0000042
+Colon - Transverse,70-79,IFNAR2,4.934,global,bto:0000042
+Colon - Transverse,70-79,ATG12,4.983,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LRRC75B,4.087,global,bto:0000042
+Colon - Transverse,70-79,REV1,4.95,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NLK,4.953,global,bto:0000042
+Colon - Transverse,70-79,ATP11A,4.977,global,bto:0000042
+Colon - Transverse,70-79,SIRT2,4.997,global,bto:0000042
+Colon - Transverse,70-79,RPRD1A,4.988,global,bto:0000042
+Colon - Transverse,70-79,SDHAF2,4.981,global,bto:0000042
+Colon - Transverse,70-79,ARFRP1,4.967,global,bto:0000042
+Colon - Transverse,70-79,ORC5,4.922,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZFP28,4.667,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NSFL1C,4.988,global,bto:0000042
+Colon - Transverse,70-79,TMEM11,4.972,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PKN1,4.991,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LEMD2,4.971,global,bto:0000042
+Colon - Transverse,70-79,STRADA,4.425,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SAP18,4.995,global,bto:0000042
+Colon - Transverse,70-79,RPUSD4,4.975,global,bto:0000042
+Colon - Transverse,70-79,PSMC3,4.995,global,bto:0000042
+Colon - Transverse,70-79,DDX6,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,WDR24,4.934,global,bto:0000042
+Colon - Transverse,70-79,GTF3C1,4.987,global,bto:0000042
+Colon - Transverse,70-79,ATG4C,4.936,global,bto:0000042
+Colon - Transverse,70-79,METTL2B,4.906,global,bto:0000042
+Colon - Transverse,70-79,NCK1,4.96,global,bto:0000042
+Colon - Transverse,70-79,KDM2A,4.984,global,bto:0000042
+Colon - Transverse,70-79,SRSF8,4.263,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000267565,,,
+Colon - Transverse,70-79,TADA2A,4.857,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PYCR2,4.983,global,bto:0000042
+Colon - Transverse,70-79,PHF11,4.905,global,bto:0000042
+Colon - Transverse,70-79,MRPS26,4.959,global,bto:0000042
+Colon - Transverse,70-79,ZNF430,4.829,global,bto:0000042
+Colon - Transverse,70-79,GAS8,4.913,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,STIMATE,4.288,global,bto:0000042
+Colon - Transverse,70-79,G6PC3,4.983,global,bto:0000042
+Colon - Transverse,70-79,MLH1,4.993,global,bto:0000042
+Colon - Transverse,70-79,CHRAC1,4.9,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SUMO3,4.996,global,bto:0000042
+Colon - Transverse,70-79,PELO,4.99,global,bto:0000042
+Colon - Transverse,70-79,RCAN3,4.913,global,bto:0000042
+Colon - Transverse,70-79,STX2,4.924,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF487,4.377,global,testis
+Colon - Transverse,70-79,MTFMT,4.732,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,JAK1,4.991,global,bto:0000042
+Colon - Transverse,70-79,BBS10,4.9,global,bto:0000042
+Colon - Transverse,70-79,CDK11B,4.354,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CCDC74A,4.409,global,bto:0000042
+Colon - Transverse,70-79,SEC22A,4.945,global,bto:0000042
+Colon - Transverse,70-79,ZRANB2,4.996,global,bto:0000042
+Colon - Transverse,70-79,MIS12,4.716,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CCDC25,4.986,global,bto:0000042
+Colon - Transverse,70-79,STARD7-AS1,1.614,global,mrsv
+Colon - Transverse,70-79,OTUB1,4.997,global,bto:0000042
+Colon - Transverse,70-79,SLC2A4RG,4.975,global,bto:0000042
+Colon - Transverse,70-79,SLC30A6,4.963,global,bto:0000042
+Colon - Transverse,70-79,VAMP7,4.988,global,bto:0000042
+Colon - Transverse,70-79,SDCBP,4.999,global,bto:0000042
+Colon - Transverse,70-79,CHST14,4.87,global,bto:0000042
+Colon - Transverse,70-79,LONRF1,4.934,global,bto:0000042
+Colon - Transverse,70-79,UBQLN4,4.97,global,bto:0000042
+Colon - Transverse,70-79,UFL1,4.677,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FAM3A,4.974,global,bto:0000042
+Colon - Transverse,70-79,IPO9,4.985,global,bto:0000042
+Colon - Transverse,70-79,LARP7,4.992,global,bto:0000042
+Colon - Transverse,70-79,ADK,4.974,global,bto:0000042
+Colon - Transverse,70-79,ANP32A,4.992,global,bto:0000042
+Colon - Transverse,70-79,NDUFAF1,4.908,global,bto:0000042
+Colon - Transverse,70-79,SKAP2,4.998,global,bto:0000042
+Colon - Transverse,70-79,ETAA1,4.809,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CFAP36,4.82,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ENPP4,4.967,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000204745,,,
+Colon - Transverse,70-79,MIF4GD,4.895,global,bto:0000042
+Colon - Transverse,70-79,TBKBP1,4.829,global,bto:0000042
+Colon - Transverse,70-79,EIF4ENIF1,4.969,global,bto:0000042
+Colon - Transverse,70-79,C22ORF39,4.933,global,bto:0000042
+Colon - Transverse,70-79,SAP30BP,4.987,global,bto:0000042
+Colon - Transverse,70-79,SUCLA2,4.988,global,bto:0000042
+Colon - Transverse,70-79,MRPS27,4.994,global,bto:0000042
+Colon - Transverse,70-79,GNA12,4.986,global,bto:0000042
+Colon - Transverse,70-79,SP3,4.98,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF585B,4.823,global,bto:0000042
+Colon - Transverse,70-79,RTCA,4.594,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SPARCL1,5.0,global,bto:0000042
+Colon - Transverse,70-79,ESCO1,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SSU72,4.984,global,bto:0000042
+Colon - Transverse,70-79,ATF1,4.929,global,bto:0000042
+Colon - Transverse,70-79,CERS5,4.561,global,bto:0000042
+Colon - Transverse,70-79,PDZD11,4.974,global,bto:0000042
+Colon - Transverse,70-79,BBS9,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DNAJC10,4.984,global,bto:0000042
+Colon - Transverse,70-79,NASP,4.997,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CANX,4.999,global,bto:0000042
+Colon - Transverse,70-79,CAPNS1,4.998,global,bto:0000042
+Colon - Transverse,70-79,KRIT1,4.975,global,bto:0000042
+Colon - Transverse,70-79,CWC15,4.568,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TULP3,4.917,global,bto:0000042
+Colon - Transverse,70-79,ODF2,4.988,global,bto:0000042
+Colon - Transverse,70-79,ZNF674,4.747,global,bto:0000042
+Colon - Transverse,70-79,ARPC1A,4.997,global,bto:0000042
+Colon - Transverse,70-79,ST3GAL3,4.951,global,bto:0000042
+Colon - Transverse,70-79,CNN2,4.996,global,bto:0000042
+Colon - Transverse,70-79,NEDD8,4.945,global,bto:0000042
+Colon - Transverse,70-79,COA5,4.967,global,bto:0000042
+Colon - Transverse,70-79,FAM189B,4.942,global,bto:0000042
+Colon - Transverse,70-79,MYG1,,,
+Colon - Transverse,70-79,SLC25A26,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CDIP1,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SYNGR1,4.974,global,bto:0000042
+Colon - Transverse,70-79,STMP1,2.046,global,7/8
+Colon - Transverse,70-79,CNOT7,4.988,global,bto:0000042
+Colon - Transverse,70-79,AKT1S1,4.987,global,bto:0000042
+Colon - Transverse,70-79,GEMIN6,4.795,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MRPL58,4.923,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DRAP1,4.995,global,bto:0000042
+Colon - Transverse,70-79,AP1M1,4.996,global,bto:0000042
+Colon - Transverse,70-79,FCF1,4.199,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CWF19L2,4.866,global,bto:0000042
+Colon - Transverse,70-79,NEK7,4.978,global,bto:0000042
+Colon - Transverse,70-79,CPSF3,4.99,global,bto:0000042
+Colon - Transverse,70-79,OGFOD3,4.397,global,bto:0000042
+Colon - Transverse,70-79,CASKIN2,4.891,global,bto:0000042
+Colon - Transverse,70-79,TCF7L1,4.887,global,bto:0000042
+Colon - Transverse,70-79,FKBP8,4.996,global,bto:0000042
+Colon - Transverse,70-79,LPCAT1,4.986,global,bto:0000042
+Colon - Transverse,70-79,ELOA,4.975,global,bto:0000042
+Colon - Transverse,70-79,GNAS,5.0,global,bto:0000042
+Colon - Transverse,70-79,CPSF2,4.981,global,bto:0000042
+Colon - Transverse,70-79,NCKAP5L,4.726,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C1ORF174,4.786,global,bto:0000042
+Colon - Transverse,70-79,MECR,4.959,global,bto:0000042
+Colon - Transverse,70-79,MANBAL,4.964,global,bto:0000042
+Colon - Transverse,70-79,PPP1R2,4.989,global,bto:0000042
+Colon - Transverse,70-79,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,BORCS5,4.857,global,bto:0000042
+Colon - Transverse,70-79,NELFB,4.982,global,bto:0000042
+Colon - Transverse,70-79,CNBP,4.999,global,bto:0000042
+Colon - Transverse,70-79,N4BP2L2,4.99,global,bto:0000042
+Colon - Transverse,70-79,MMS19,4.996,global,bto:0000042
+Colon - Transverse,70-79,INTS6,4.982,global,bto:0000042
+Colon - Transverse,70-79,FHIP2B,,,
+Colon - Transverse,70-79,ZC3HC1,4.971,global,bto:0000042
+Colon - Transverse,70-79,IRF2,4.978,global,bto:0000042
+Colon - Transverse,70-79,GTF2H3,4.968,global,bto:0000042
+Colon - Transverse,70-79,GTF2H5,4.91,global,bto:0000042
+Colon - Transverse,70-79,SMG7,4.988,global,bto:0000042
+Colon - Transverse,70-79,NCKIPSD,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PIBF1,4.887,global,bto:0000042
+Colon - Transverse,70-79,UBE2V2,4.997,global,bto:0000042
+Colon - Transverse,70-79,RABL3,4.906,global,bto:0000042
+Colon - Transverse,70-79,CEBPZOS,1.82,global,bto:0000042
+Colon - Transverse,70-79,RMDN1,4.945,global,bto:0000042
+Colon - Transverse,70-79,SNX11,4.971,global,bto:0000042
+Colon - Transverse,70-79,TRIM35,4.798,global,bto:0000042
+Colon - Transverse,70-79,CUL4A,4.99,global,bto:0000042
+Colon - Transverse,70-79,VPS4A,4.988,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000273014,,,
+Colon - Transverse,70-79,PSMA7,4.996,global,bto:0000042
+Colon - Transverse,70-79,TEX261,4.985,global,bto:0000042
+Colon - Transverse,70-79,LYRM4,4.497,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PRDM2,4.978,global,bto:0000042
+Colon - Transverse,70-79,LRRC8B,4.958,global,bto:0000042
+Colon - Transverse,70-79,R3HDM1,4.968,global,bto:0000042
+Colon - Transverse,70-79,COMMD7,4.97,global,bto:0000042
+Colon - Transverse,70-79,ADAT1,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ARL5A,4.96,global,bto:0000042
+Colon - Transverse,70-79,TMEM242,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EXOC6B,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CAMKK2,4.994,global,bto:0000042
+Colon - Transverse,70-79,ZBTB8A,4.805,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,COMMD2,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ADD1,4.996,global,bto:0000042
+Colon - Transverse,70-79,STX5,4.978,global,bto:0000042
+Colon - Transverse,70-79,CYRIA,,,
+Colon - Transverse,70-79,H2AZ2,4.993,global,bto:0000042
+Colon - Transverse,70-79,ATG10,4.938,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF34,4.579,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SCFD1,4.985,global,bto:0000042
+Colon - Transverse,70-79,B4GALT7,4.929,global,bto:0000042
+Colon - Transverse,70-79,NDUFV3,4.96,global,bto:0000042
+Colon - Transverse,70-79,RNF141,4.984,global,bto:0000042
+Colon - Transverse,70-79,NT5C3B,4.502,global,bto:0000042
+Colon - Transverse,70-79,EPS15L1,4.934,global,bto:0000042
+Colon - Transverse,70-79,AZIN1,4.999,global,bto:0000042
+Colon - Transverse,70-79,ARFGAP2,4.996,global,bto:0000042
+Colon - Transverse,70-79,GPR107,4.989,global,bto:0000042
+Colon - Transverse,70-79,ANAPC13,4.987,global,bto:0000042
+Colon - Transverse,70-79,RTN3,5.0,global,bto:0000042
+Colon - Transverse,70-79,CMIP,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AP3M2,4.961,global,bto:0000042
+Colon - Transverse,70-79,LINC01184,1.544,global,ovarian serous carcinoma cell
+Colon - Transverse,70-79,NRBP1,4.994,global,bto:0000042
+Colon - Transverse,70-79,C1ORF50,4.749,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SEC62,4.987,global,bto:0000042
+Colon - Transverse,70-79,CTBP1,4.992,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PORCN,4.907,global,bto:0000042
+Colon - Transverse,70-79,SPATA6,4.985,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PDCD2,4.974,global,bto:0000042
+Colon - Transverse,70-79,CDK2AP1,4.984,global,bto:0000042
+Colon - Transverse,70-79,ZNF790,3.647,global,bto:0000042
+Colon - Transverse,70-79,OSTF1,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CAMKMT,4.854,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CLNS1A,4.986,global,bto:0000042
+Colon - Transverse,70-79,RWDD3,4.805,global,bto:0000042
+Colon - Transverse,70-79,NIT2,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CBWD2,4.424,global,brain
+Colon - Transverse,70-79,PHTF2,4.919,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CEP63,5.0,global,alimentary canal
+Colon - Transverse,70-79,ATAD1,4.981,global,bto:0000042
+Colon - Transverse,70-79,LSM6,4.841,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,REPS1,4.955,global,bto:0000042
+Colon - Transverse,70-79,ERGIC2,4.97,global,bto:0000042
+Colon - Transverse,70-79,TNKS,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TMEM43,4.995,global,bto:0000042
+Colon - Transverse,70-79,RPE,4.977,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SPATA5,4.796,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SMARCA1,4.948,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SCOC,4.992,global,bto:0000042
+Colon - Transverse,70-79,SMARCD3,4.975,global,bto:0000042
+Colon - Transverse,70-79,YIPF4,4.966,global,bto:0000042
+Colon - Transverse,70-79,RBM8A,4.997,global,bto:0000042
+Colon - Transverse,70-79,EBLN3P,,,
+Colon - Transverse,70-79,MCPH1,4.988,global,bto:0000042
+Colon - Transverse,70-79,HBS1L,4.989,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MED31,4.887,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MTERF3,4.836,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TIMM29,4.797,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NCBP2,4.993,global,bto:0000042
+Colon - Transverse,70-79,CBX5,4.995,global,bto:0000042
+Colon - Transverse,70-79,TIMM21,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MED29,4.993,global,bto:0000042
+Colon - Transverse,70-79,TMEM9,4.992,global,bto:0000042
+Colon - Transverse,70-79,PAIP2,4.993,global,bto:0000042
+Colon - Transverse,70-79,ATRIP,4.902,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LAPTM4A,4.998,global,bto:0000042
+Colon - Transverse,70-79,VBP1,4.989,global,bto:0000042
+Colon - Transverse,70-79,RBPMS,4.982,global,bto:0000042
+Colon - Transverse,70-79,BLZF1,4.964,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LYSMD2,4.581,global,bto:0000042
+Colon - Transverse,70-79,MRAS,4.97,global,bto:0000042
+Colon - Transverse,70-79,HEBP1,4.922,global,bto:0000042
+Colon - Transverse,70-79,MECP2,4.984,global,bto:0000042
+Colon - Transverse,70-79,GLRX2,4.756,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EIF4E3,4.927,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,HNRNPA3,4.997,global,bto:0000042
+Colon - Transverse,70-79,RNF167,4.991,global,bto:0000042
+Colon - Transverse,70-79,ALKBH3,4.957,global,bto:0000042
+Colon - Transverse,70-79,TEFM,4.42,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SH3GLB1,4.988,global,bto:0000042
+Colon - Transverse,70-79,CYTH3,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,BCAP31,4.997,global,bto:0000042
+Colon - Transverse,70-79,RAB7A,4.999,global,bto:0000042
+Colon - Transverse,70-79,RAB11A,4.998,global,bto:0000042
+Colon - Transverse,70-79,MRPL20-AS1,,,
+Colon - Transverse,70-79,ARMH3,4.493,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CMPK1,4.992,global,bto:0000042
+Colon - Transverse,70-79,DPP8,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AQR,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,VKORC1L1,4.959,global,bto:0000042
+Colon - Transverse,70-79,POP5,4.905,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,INTS2,4.731,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,APBB1,4.99,global,bto:0000042
+Colon - Transverse,70-79,PARVB,4.958,global,bto:0000042
+Colon - Transverse,70-79,SCAF1,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NEMP2,4.577,global,bto:0000042
+Colon - Transverse,70-79,AXL,4.986,global,bto:0000042
+Colon - Transverse,70-79,UBE2E1,4.972,global,bto:0000042
+Colon - Transverse,70-79,DDX17,4.999,global,bto:0000042
+Colon - Transverse,70-79,MRPL42,4.969,global,bto:0000042
+Colon - Transverse,70-79,TMEM129,4.802,global,bto:0000042
+Colon - Transverse,70-79,TOR1A,4.99,global,bto:0000042
+Colon - Transverse,70-79,IPO13,4.991,global,bto:0000042
+Colon - Transverse,70-79,PCDHB4,3.555,global,bto:0000042
+Colon - Transverse,70-79,ACAP2,4.977,global,bto:0000042
+Colon - Transverse,70-79,USP13,4.945,global,bto:0000042
+Colon - Transverse,70-79,ZNF174,4.906,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,KCTD18,4.915,global,bto:0000042
+Colon - Transverse,70-79,CPNE1,4.995,global,bto:0000042
+Colon - Transverse,70-79,PACS1,4.984,global,bto:0000042
+Colon - Transverse,70-79,CAB39,4.986,global,bto:0000042
+Colon - Transverse,70-79,TMEM185A,4.931,global,bto:0000042
+Colon - Transverse,70-79,GLO1,4.999,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ARL6IP5,4.997,global,bto:0000042
+Colon - Transverse,70-79,SLC35A5,4.976,global,bto:0000042
+Colon - Transverse,70-79,ZGPAT,4.982,global,bto:0000042
+Colon - Transverse,70-79,ZSCAN9,4.799,global,bto:0000042
+Colon - Transverse,70-79,FBXO3,4.987,global,bto:0000042
+Colon - Transverse,70-79,VPS37C,4.925,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,BLMH,4.991,global,bto:0000042
+Colon - Transverse,70-79,SMG9,4.977,global,bto:0000042
+Colon - Transverse,70-79,MAGOHB,4.933,global,bto:0000042
+Colon - Transverse,70-79,ZNF880,4.757,global,bto:0000042
+Colon - Transverse,70-79,MEMO1,4.454,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ETV5,4.983,global,bto:0000042
+Colon - Transverse,70-79,SFXN3,4.973,global,bto:0000042
+Colon - Transverse,70-79,SPRY4,4.906,global,bto:0000042
+Colon - Transverse,70-79,CAPZB,4.996,global,bto:0000042
+Colon - Transverse,70-79,CENPS,4.447,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,UPF1,4.988,global,bto:0000042
+Colon - Transverse,70-79,SMARCE1,4.993,global,bto:0000042
+Colon - Transverse,70-79,CHMP7,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TPP2,4.982,global,bto:0000042
+Colon - Transverse,70-79,MAGT1,4.991,global,bto:0000042
+Colon - Transverse,70-79,MCEE,4.897,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SMYD3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CAPRIN1,4.998,global,bto:0000042
+Colon - Transverse,70-79,RNF170,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,VAPB,4.992,global,bto:0000042
+Colon - Transverse,70-79,PAAF1,4.939,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C17ORF75,4.935,global,bto:0000042
+Colon - Transverse,70-79,KBTBD3,4.72,global,bto:0000042
+Colon - Transverse,70-79,COPS4,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MOB1A,4.61,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LDHB,,,
+Colon - Transverse,70-79,ERCC2,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,KLHL9,4.991,global,bto:0000042
+Colon - Transverse,70-79,TSNAX,4.615,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CSE1L,4.999,global,bto:0000042
+Colon - Transverse,70-79,GNB2,4.995,global,bto:0000042
+Colon - Transverse,70-79,PTCD2,4.828,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,UBA1,4.999,global,bto:0000042
+Colon - Transverse,70-79,RBMX,5.0,global,bto:0000042
+Colon - Transverse,70-79,GLT8D1,4.979,global,bto:0000042
+Colon - Transverse,70-79,NORAD,,,
+Colon - Transverse,70-79,TFB1M,4.949,global,bto:0000042
+Colon - Transverse,70-79,SPTAN1,5.0,global,bto:0000042
+Colon - Transverse,70-79,KLHL36,4.817,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF12,4.93,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,IER3IP1,4.974,global,bto:0000042
+Colon - Transverse,70-79,ZNF665,4.452,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RIC1,4.913,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EXOSC3,4.995,global,bto:0000042
+Colon - Transverse,70-79,E4F1,4.967,global,bto:0000042
+Colon - Transverse,70-79,EXD2,4.974,global,bto:0000042
+Colon - Transverse,70-79,MLH3,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GALNT10,4.974,global,bto:0000042
+Colon - Transverse,70-79,MTPN,4.994,global,bto:0000042
+Colon - Transverse,70-79,KCTD2,4.965,global,bto:0000042
+Colon - Transverse,70-79,STEEP1,,,
+Colon - Transverse,70-79,ISY1,4.976,global,bto:0000042
+Colon - Transverse,70-79,LZTR1,4.976,global,bto:0000042
+Colon - Transverse,70-79,ARMC1,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TCEA2,4.976,global,bto:0000042
+Colon - Transverse,70-79,RNF8,4.976,global,bto:0000042
+Colon - Transverse,70-79,DRG2,4.982,global,bto:0000042
+Colon - Transverse,70-79,PGRMC2,4.988,global,bto:0000042
+Colon - Transverse,70-79,BBS1,4.988,global,bto:0000042
+Colon - Transverse,70-79,ZNF561-AS1,1.599,global,laryngeal cancer cell
+Colon - Transverse,70-79,FANCL,4.972,global,bto:0000042
+Colon - Transverse,70-79,GNAI2,4.998,global,bto:0000042
+Colon - Transverse,70-79,UHMK1,4.985,global,bto:0000042
+Colon - Transverse,70-79,RAB2A,4.998,global,bto:0000042
+Colon - Transverse,70-79,TIMM23,4.406,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DNAL4,4.94,global,bto:0000042
+Colon - Transverse,70-79,ALKBH8,4.857,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF212,4.966,global,bto:0000042
+Colon - Transverse,70-79,MTARC2,,,
+Colon - Transverse,70-79,SFR1,4.47,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NDUFC2,4.982,global,bto:0000042
+Colon - Transverse,70-79,CCDC22,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,IP6K1,4.981,global,bto:0000042
+Colon - Transverse,70-79,CEP68,4.978,global,bto:0000042
+Colon - Transverse,70-79,WDR53,3.961,global,bto:0000042
+Colon - Transverse,70-79,RAD51D,4.905,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,KAT7,4.997,global,bto:0000042
+Colon - Transverse,70-79,ELMOD1,4.778,global,bto:0000042
+Colon - Transverse,70-79,COX11,4.976,global,bto:0000042
+Colon - Transverse,70-79,TRA2A,4.977,global,bto:0000042
+Colon - Transverse,70-79,CEP20,,,
+Colon - Transverse,70-79,HMGB1P6,,,
+Colon - Transverse,70-79,STAM2,4.942,global,bto:0000042
+Colon - Transverse,70-79,RAB11FIP2,4.87,global,bto:0000042
+Colon - Transverse,70-79,CYB5R3,4.996,global,bto:0000042
+Colon - Transverse,70-79,GM2A,4.993,global,bto:0000042
+Colon - Transverse,70-79,FLYWCH2,4.867,global,bto:0000042
+Colon - Transverse,70-79,DPCD,4.916,global,bto:0000042
+Colon - Transverse,70-79,IFT43,4.536,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,VPS41,4.98,global,bto:0000042
+Colon - Transverse,70-79,ZNF746,4.918,global,bto:0000042
+Colon - Transverse,70-79,CETN3,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GNB4,4.953,global,bto:0000042
+Colon - Transverse,70-79,HDAC8,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MRGBP,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LMBR1,4.983,global,bto:0000042
+Colon - Transverse,70-79,HNRNPA0,4.989,global,bto:0000042
+Colon - Transverse,70-79,ANP32B,4.992,global,bto:0000042
+Colon - Transverse,70-79,NPR2,4.903,global,bto:0000042
+Colon - Transverse,70-79,ABHD10,4.941,global,bto:0000042
+Colon - Transverse,70-79,RTL8B,3.825,global,bto:0000042
+Colon - Transverse,70-79,KIAA0586,4.927,global,bto:0000042
+Colon - Transverse,70-79,PPP1R11,4.988,global,bto:0000042
+Colon - Transverse,70-79,OSBPL8,4.986,global,bto:0000042
+Colon - Transverse,70-79,PRKAG1,4.986,global,bto:0000042
+Colon - Transverse,70-79,NUMB,4.992,global,bto:0000042
+Colon - Transverse,70-79,DARS1,4.992,global,bto:0000042
+Colon - Transverse,70-79,BRD8,4.991,global,bto:0000042
+Colon - Transverse,70-79,NGRN,4.994,global,bto:0000042
+Colon - Transverse,70-79,DNAJC4,4.97,global,bto:0000042
+Colon - Transverse,70-79,C16ORF72,4.953,global,bto:0000042
+Colon - Transverse,70-79,CHST10,4.912,global,bto:0000042
+Colon - Transverse,70-79,EXTL2,4.958,global,bto:0000042
+Colon - Transverse,70-79,HNRNPA1,5.0,global,bto:0000042
+Colon - Transverse,70-79,HAUS3,4.956,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000272335,,,
+Colon - Transverse,70-79,HPF1,4.885,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PRKAR1A,4.999,global,bto:0000042
+Colon - Transverse,70-79,ZNF585A,4.171,global,bto:0000042
+Colon - Transverse,70-79,ASB3,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DCAF8,4.992,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LIN52,4.863,global,bto:0000042
+Colon - Transverse,70-79,MAGI2,4.971,global,bto:0000042
+Colon - Transverse,70-79,CCDC106,4.882,global,bto:0000042
+Colon - Transverse,70-79,CDK12,4.954,global,bto:0000042
+Colon - Transverse,70-79,WDR61,4.974,global,bto:0000042
+Colon - Transverse,70-79,ASF1A,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MED4,4.975,global,bto:0000042
+Colon - Transverse,70-79,ATF7,4.934,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SGCB,4.976,global,bto:0000042
+Colon - Transverse,70-79,RAB11B,4.994,global,bto:0000042
+Colon - Transverse,70-79,BUD13,4.852,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SUDS3,4.95,global,bto:0000042
+Colon - Transverse,70-79,C19ORF25,4.73,global,bto:0000042
+Colon - Transverse,70-79,ARFGAP1,4.993,global,bto:0000042
+Colon - Transverse,70-79,MTX1,4.977,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CDK13,4.967,global,bto:0000042
+Colon - Transverse,70-79,HMG20B,4.989,global,bto:0000042
+Colon - Transverse,70-79,DHRSX,4.981,global,bto:0000042
+Colon - Transverse,70-79,CEP112,4.828,global,bto:0000042
+Colon - Transverse,70-79,TWF1,4.99,global,bto:0000042
+Colon - Transverse,70-79,ZCCHC17,4.979,global,bto:0000042
+Colon - Transverse,70-79,ARL1,4.983,global,bto:0000042
+Colon - Transverse,70-79,NXPE3,4.925,global,bto:0000042
+Colon - Transverse,70-79,TACC1,4.993,global,bto:0000042
+Colon - Transverse,70-79,DCAF16,4.948,global,bto:0000042
+Colon - Transverse,70-79,ORC3,4.985,global,bto:0000042
+Colon - Transverse,70-79,MON2,4.965,global,bto:0000042
+Colon - Transverse,70-79,POLR2M,4.395,global,bto:0000042
+Colon - Transverse,70-79,COQ6,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C9ORF78,4.969,global,bto:0000042
+Colon - Transverse,70-79,HDLBP,5.0,global,bto:0000042
+Colon - Transverse,70-79,CYLD,4.984,global,bto:0000042
+Colon - Transverse,70-79,TGIF2,4.915,global,bto:0000042
+Colon - Transverse,70-79,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RNF19A,4.981,global,bto:0000042
+Colon - Transverse,70-79,ARPC4,4.986,global,bto:0000042
+Colon - Transverse,70-79,PHLDB1,4.986,global,bto:0000042
+Colon - Transverse,70-79,HDHD2,4.97,global,bto:0000042
+Colon - Transverse,70-79,WIPI2,4.993,global,bto:0000042
+Colon - Transverse,70-79,CAPZA2,4.996,global,bto:0000042
+Colon - Transverse,70-79,LMO4,4.982,global,bto:0000042
+Colon - Transverse,70-79,RBPJ,4.995,global,bto:0000042
+Colon - Transverse,70-79,PTEN,4.992,global,bto:0000042
+Colon - Transverse,70-79,ABHD16A,4.525,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GZF1,4.858,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PSIP1,4.978,global,bto:0000042
+Colon - Transverse,70-79,TCF4,4.998,global,bto:0000042
+Colon - Transverse,70-79,SOS2,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CWF19L1,4.951,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TJAP1,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SGPP1,4.916,global,bto:0000042
+Colon - Transverse,70-79,DLST,4.981,global,bto:0000042
+Colon - Transverse,70-79,BUB3,4.995,global,bto:0000042
+Colon - Transverse,70-79,SRF,4.972,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FAF1,4.986,global,bto:0000042
+Colon - Transverse,70-79,GTPBP10,4.904,global,bto:0000042
+Colon - Transverse,70-79,POP4,4.977,global,bto:0000042
+Colon - Transverse,70-79,LSM8,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,YIPF5,4.98,global,bto:0000042
+Colon - Transverse,70-79,CALM3,5.0,global,bto:0000042
+Colon - Transverse,70-79,TRIM65,4.86,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MRFAP1L1,4.984,global,bto:0000042
+Colon - Transverse,70-79,MVB12B,4.963,global,bto:0000042
+Colon - Transverse,70-79,IMPACT,4.924,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FAM200A,4.842,global,bto:0000042
+Colon - Transverse,70-79,MORF4L1,4.998,global,bto:0000042
+Colon - Transverse,70-79,SLC23A2,4.98,global,bto:0000042
+Colon - Transverse,70-79,ADSS2,4.988,global,bto:0000042
+Colon - Transverse,70-79,PFDN1,4.989,global,bto:0000042
+Colon - Transverse,70-79,C19ORF12,4.95,global,bto:0000042
+Colon - Transverse,70-79,MEAF6,4.986,global,bto:0000042
+Colon - Transverse,70-79,FAIM,4.962,global,bto:0000042
+Colon - Transverse,70-79,NRF1,4.907,global,bto:0000042
+Colon - Transverse,70-79,L3MBTL2,4.96,global,bto:0000042
+Colon - Transverse,70-79,RALY,4.988,global,bto:0000042
+Colon - Transverse,70-79,SH3BP4,4.966,global,bto:0000042
+Colon - Transverse,70-79,HNRNPDL,5.0,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NBDY,1.691,global,npc
+Colon - Transverse,70-79,ELF1,4.981,global,bto:0000042
+Colon - Transverse,70-79,BRD9,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ATP11C,4.892,global,bto:0000042
+Colon - Transverse,70-79,ECE1,4.995,global,bto:0000042
+Colon - Transverse,70-79,MAN2A2,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RNF130,4.98,global,bto:0000042
+Colon - Transverse,70-79,MED22,4.975,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,THUMPD2,4.845,global,bto:0000042
+Colon - Transverse,70-79,CD81,4.997,global,bto:0000042
+Colon - Transverse,70-79,TMEM123,5.0,global,bto:0000042
+Colon - Transverse,70-79,RAB22A,4.976,global,bto:0000042
+Colon - Transverse,70-79,RWDD4P2,,,
+Colon - Transverse,70-79,PNRC2,4.982,global,bto:0000042
+Colon - Transverse,70-79,C10ORF88,4.828,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,YBX1,4.999,global,bto:0000042
+Colon - Transverse,70-79,ATP6V1G1,4.994,global,bto:0000042
+Colon - Transverse,70-79,SENP7,4.916,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ARF5,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EMP2,4.987,global,bto:0000042
+Colon - Transverse,70-79,AP2B1,4.998,global,bto:0000042
+Colon - Transverse,70-79,PIP4K2B,4.991,global,bto:0000042
+Colon - Transverse,70-79,PABIR2,,,
+Colon - Transverse,70-79,MED20,4.977,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CNOT8,4.988,global,bto:0000042
+Colon - Transverse,70-79,DUS4L,4.762,global,bto:0000042
+Colon - Transverse,70-79,ARL2,4.976,global,bto:0000042
+Colon - Transverse,70-79,SF3A1,4.997,global,bto:0000042
+Colon - Transverse,70-79,OARD1,4.963,global,bto:0000042
+Colon - Transverse,70-79,SLC25A51,4.465,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ROCK2,4.962,global,bto:0000042
+Colon - Transverse,70-79,SHISA4,4.926,global,bto:0000042
+Colon - Transverse,70-79,DCLRE1C,4.931,global,bto:0000042
+Colon - Transverse,70-79,SCRN1,4.992,global,bto:0000042
+Colon - Transverse,70-79,USP48,4.971,global,bto:0000042
+Colon - Transverse,70-79,BCLAF1,4.994,global,bto:0000042
+Colon - Transverse,70-79,CCNY,4.989,global,bto:0000042
+Colon - Transverse,70-79,DZIP1L,4.526,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C6ORF89,4.988,global,bto:0000042
+Colon - Transverse,70-79,ZNF397,4.902,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,UBAP2L,4.995,global,bto:0000042
+Colon - Transverse,70-79,ZHX1,4.97,global,bto:0000042
+Colon - Transverse,70-79,STAG3L4,,,
+Colon - Transverse,70-79,ENSG00000276855,,,
+Colon - Transverse,70-79,CREB3L2,4.983,global,bto:0000042
+Colon - Transverse,70-79,ERO1B,4.956,global,bto:0000042
+Colon - Transverse,70-79,NCAPH2,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MARK4,4.958,global,bto:0000042
+Colon - Transverse,70-79,RBL2,4.986,global,bto:0000042
+Colon - Transverse,70-79,RCN2,4.988,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MEX3D,4.954,global,bto:0000042
+Colon - Transverse,70-79,RXYLT1,4.876,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,UBP1,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TCEAL3,4.75,global,bto:0000042
+Colon - Transverse,70-79,FGD5-AS1,1.874,global,non-small cell lung cancer cell
+Colon - Transverse,70-79,STXBP3,4.969,global,bto:0000042
+Colon - Transverse,70-79,RIC8B,4.928,global,bto:0000042
+Colon - Transverse,70-79,TCHP,4.926,global,bto:0000042
+Colon - Transverse,70-79,MRPL30,4.348,global,bto:0000042
+Colon - Transverse,70-79,ARL3,4.983,global,bto:0000042
+Colon - Transverse,70-79,TMTC1,4.957,global,bto:0000042
+Colon - Transverse,70-79,P3H1,4.984,global,bto:0000042
+Colon - Transverse,70-79,TRIP11,4.937,global,bto:0000042
+Colon - Transverse,70-79,SLC25A11,4.988,global,bto:0000042
+Colon - Transverse,70-79,CDKAL1,4.927,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PSMC2,4.996,global,bto:0000042
+Colon - Transverse,70-79,RWDD4,4.695,global,bto:0000042
+Colon - Transverse,70-79,AIG1,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,HINT3,4.915,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000269958,,,
+Colon - Transverse,70-79,FAM32A,4.98,global,bto:0000042
+Colon - Transverse,70-79,TLE5,4.996,global,bto:0000042
+Colon - Transverse,70-79,HLCS,4.935,global,bto:0000042
+Colon - Transverse,70-79,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF7,4.94,global,bto:0000042
+Colon - Transverse,70-79,SCAMP3,4.981,global,bto:0000042
+Colon - Transverse,70-79,UBE2O,4.974,global,bto:0000042
+Colon - Transverse,70-79,SMARCD1,4.98,global,bto:0000042
+Colon - Transverse,70-79,CDC27,4.979,global,bto:0000042
+Colon - Transverse,70-79,PYGO2,4.951,global,bto:0000042
+Colon - Transverse,70-79,SKI,4.569,global,bto:0000042
+Colon - Transverse,70-79,GPAT4,4.981,global,bto:0000042
+Colon - Transverse,70-79,FAM149B1,4.896,global,bto:0000042
+Colon - Transverse,70-79,ENSA,4.994,global,bto:0000042
+Colon - Transverse,70-79,ZNF433-AS1,,,
+Colon - Transverse,70-79,XRCC3,4.961,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TRAPPC11,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ENSG00000272293,,,
+Colon - Transverse,70-79,TCF12,4.994,global,bto:0000042
+Colon - Transverse,70-79,METTL23,4.492,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TMX3,4.962,global,bto:0000042
+Colon - Transverse,70-79,CYB5R1,4.985,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GIT1,4.987,global,bto:0000042
+Colon - Transverse,70-79,C11ORF49,4.976,global,bto:0000042
+Colon - Transverse,70-79,STX17,4.992,global,bto:0000042
+Colon - Transverse,70-79,BEX3,4.994,global,bto:0000042
+Colon - Transverse,70-79,PRCC,4.988,global,bto:0000042
+Colon - Transverse,70-79,SNRPN,4.999,global,bto:0000042
+Colon - Transverse,70-79,C2ORF49,4.869,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TGFB1,4.993,global,bto:0000042
+Colon - Transverse,70-79,TBC1D31,4.776,global,bto:0000042
+Colon - Transverse,70-79,SNW1,4.993,global,bto:0000042
+Colon - Transverse,70-79,ACTR1A,4.998,global,bto:0000042
+Colon - Transverse,70-79,NSUN5,4.973,global,bto:0000042
+Colon - Transverse,70-79,MED10,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZFP69,4.39,global,bto:0000042
+Colon - Transverse,70-79,DUT,4.987,global,bto:0000042
+Colon - Transverse,70-79,TTC7B,4.961,global,bto:0000042
+Colon - Transverse,70-79,TIMM22,4.918,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZDHHC1,4.926,global,bto:0000042
+Colon - Transverse,70-79,ZNF175,4.793,global,bto:0000042
+Colon - Transverse,70-79,PLEKHM2,4.982,global,bto:0000042
+Colon - Transverse,70-79,CRTAP,4.997,global,bto:0000042
+Colon - Transverse,70-79,SERPINB6,4.998,global,bto:0000042
+Colon - Transverse,70-79,BACE1,4.992,global,bto:0000042
+Colon - Transverse,70-79,COPS6,4.989,global,bto:0000042
+Colon - Transverse,70-79,TLE1,4.991,global,bto:0000042
+Colon - Transverse,70-79,UMAD1,4.471,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LAMP1,4.997,global,bto:0000042
+Colon - Transverse,70-79,PIP4K2A,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,XPA,4.865,global,bto:0000042
+Colon - Transverse,70-79,HNRNPA2B1,4.999,global,bto:0000042
+Colon - Transverse,70-79,TAF15,4.988,global,bto:0000042
+Colon - Transverse,70-79,POLK,4.95,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,INVS,4.913,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RHOBTB3,4.992,global,bto:0000042
+Colon - Transverse,70-79,MOSPD1,4.936,global,bto:0000042
+Colon - Transverse,70-79,CNOT6,4.979,global,bto:0000042
+Colon - Transverse,70-79,RNF187,4.986,global,bto:0000042
+Colon - Transverse,70-79,SLC30A9,4.986,global,bto:0000042
+Colon - Transverse,70-79,IGIP,4.549,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GPANK1,4.943,global,bto:0000042
+Colon - Transverse,70-79,HECTD2,4.856,global,bto:0000042
+Colon - Transverse,70-79,HMGN3,4.986,global,bto:0000042
+Colon - Transverse,70-79,MAT2B,4.985,global,bto:0000042
+Colon - Transverse,70-79,DTWD1,4.928,global,bto:0000042
+Colon - Transverse,70-79,GTF2A2,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF347,4.664,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MRPL40,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF568,4.85,global,bto:0000042
+Colon - Transverse,70-79,HNRNPUL1,4.998,global,bto:0000042
+Colon - Transverse,70-79,ZNF346,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,POLI,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ARL8A,4.935,global,bto:0000042
+Colon - Transverse,70-79,PPP2R1A,5.0,global,bto:0000042
+Colon - Transverse,70-79,TAF4B,4.0,global,blood cancer cell
+Colon - Transverse,70-79,RTF2,4.995,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF253,4.188,global,bto:0000042
+Colon - Transverse,70-79,TPGS2,4.993,global,bto:0000042
+Colon - Transverse,70-79,EI24,4.995,global,bto:0000042
+Colon - Transverse,70-79,ENOPH1,4.988,global,bto:0000042
+Colon - Transverse,70-79,DR1,4.986,global,bto:0000042
+Colon - Transverse,70-79,ICMT,4.985,global,bto:0000042
+Colon - Transverse,70-79,RWDD1,4.924,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NUDT3,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TMEM248,4.99,global,bto:0000042
+Colon - Transverse,70-79,ZNF747,4.84,global,bto:0000042
+Colon - Transverse,70-79,NOL7,4.977,global,bto:0000042
+Colon - Transverse,70-79,SSR3,4.992,global,bto:0000042
+Colon - Transverse,70-79,SMYD4,4.804,global,bto:0000042
+Colon - Transverse,70-79,PDHX,4.984,global,bto:0000042
+Colon - Transverse,70-79,TMEM267,4.948,global,bto:0000042
+Colon - Transverse,70-79,NVL,4.958,global,bto:0000042
+Colon - Transverse,70-79,UBA5,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AP3S1,4.971,global,bto:0000042
+Colon - Transverse,70-79,YME1L1,4.998,global,bto:0000042
+Colon - Transverse,70-79,FBXO7,4.995,global,bto:0000042
+Colon - Transverse,70-79,CHST12,4.909,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AAK1,4.981,global,bto:0000042
+Colon - Transverse,70-79,RAB11FIP3,4.959,global,bto:0000042
+Colon - Transverse,70-79,TTI1,4.964,global,bto:0000042
+Colon - Transverse,70-79,RFX7,4.963,global,bto:0000042
+Colon - Transverse,70-79,RNF220,4.992,global,bto:0000042
+Colon - Transverse,70-79,MAMDC2,4.981,global,bto:0000042
+Colon - Transverse,70-79,AAMDC,4.561,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PEF1,4.992,global,bto:0000042
+Colon - Transverse,70-79,VPS72,4.978,global,bto:0000042
+Colon - Transverse,70-79,CBR4,4.938,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ARMT1,4.97,global,bto:0000042
+Colon - Transverse,70-79,TRIM39,4.418,global,bto:0000042
+Colon - Transverse,70-79,SNUPN,4.973,global,bto:0000042
+Colon - Transverse,70-79,STT3B,4.985,global,bto:0000042
+Colon - Transverse,70-79,FCHO2,4.878,global,bto:0000042
+Colon - Transverse,70-79,NAP1L1,5.0,global,bto:0000042
+Colon - Transverse,70-79,METTL15,4.852,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LINC00869,1.096,global,renal cell carcinoma cell
+Colon - Transverse,70-79,FBXO25,4.941,global,bto:0000042
+Colon - Transverse,70-79,SLC35F6,4.911,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,POMGNT2,4.487,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TAOK1,4.979,global,bto:0000042
+Colon - Transverse,70-79,NME7,4.975,global,bto:0000042
+Colon - Transverse,70-79,RYK,4.963,global,bto:0000042
+Colon - Transverse,70-79,CDV3,4.986,global,bto:0000042
+Colon - Transverse,70-79,METTL5,4.932,global,bto:0000042
+Colon - Transverse,70-79,MAP3K4,4.949,global,bto:0000042
+Colon - Transverse,70-79,WDR20,4.969,global,bto:0000042
+Colon - Transverse,70-79,ZNF23,4.811,global,bto:0000042
+Colon - Transverse,70-79,GMPR2,4.981,global,bto:0000042
+Colon - Transverse,70-79,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SLC12A4,4.984,global,bto:0000042
+Colon - Transverse,70-79,TMED10,4.998,global,bto:0000042
+Colon - Transverse,70-79,MINDY3,4.989,global,bto:0000042
+Colon - Transverse,70-79,PPP3CB,4.985,global,bto:0000042
+Colon - Transverse,70-79,SLC30A4,4.78,global,bto:0000042
+Colon - Transverse,70-79,SECISBP2L,4.961,global,bto:0000042
+Colon - Transverse,70-79,VPS29,4.991,global,bto:0000042
+Colon - Transverse,70-79,NAA20,4.98,global,bto:0000042
+Colon - Transverse,70-79,NOL11,4.988,global,bto:0000042
+Colon - Transverse,70-79,RPP38,4.817,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SETDB2,4.902,global,bto:0000042
+Colon - Transverse,70-79,MTRFR,,,
+Colon - Transverse,70-79,POLR3C,4.938,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ANAPC16,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,WWC3,4.954,global,bto:0000042
+Colon - Transverse,70-79,KLHDC3,4.998,global,bto:0000042
+Colon - Transverse,70-79,DNAAF9,,,
+Colon - Transverse,70-79,DYNC1LI1,4.974,global,bto:0000042
+Colon - Transverse,70-79,HAGH,4.986,global,bto:0000042
+Colon - Transverse,70-79,COMMD8,4.937,global,bto:0000042
+Colon - Transverse,70-79,ZSCAN32,4.817,global,bto:0000042
+Colon - Transverse,70-79,HNRNPD,4.995,global,bto:0000042
+Colon - Transverse,70-79,ATP6V1E1,4.995,global,bto:0000042
+Colon - Transverse,70-79,SLC25A6,5.0,global,bto:0000042
+Colon - Transverse,70-79,NDUFAF3,4.993,global,bto:0000042
+Colon - Transverse,70-79,KANSL2,4.533,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNHIT6,4.911,global,bto:0000042
+Colon - Transverse,70-79,MTHFD2L,4.891,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MAPK1IP1L,4.963,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000271851,,,
+Colon - Transverse,70-79,PHF1,4.982,global,bto:0000042
+Colon - Transverse,70-79,LYRM7,4.905,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GEMIN2,4.841,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF766,4.843,global,bto:0000042
+Colon - Transverse,70-79,BET1,4.967,global,bto:0000042
+Colon - Transverse,70-79,ZNF260,4.237,global,bto:0000042
+Colon - Transverse,70-79,MCC,4.967,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EXOC2,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CPNE3,4.983,global,bto:0000042
+Colon - Transverse,70-79,NUP42,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GRHPR,4.993,global,bto:0000042
+Colon - Transverse,70-79,METTL4,4.82,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TUBGCP3,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,URI1,4.974,global,bto:0000042
+Colon - Transverse,70-79,GET1,4.983,global,bto:0000042
+Colon - Transverse,70-79,ERI3,4.987,global,bto:0000042
+Colon - Transverse,70-79,CWC27,4.927,global,bto:0000042
+Colon - Transverse,70-79,NFKB1,4.995,global,bto:0000042
+Colon - Transverse,70-79,FEZ1,4.977,global,bto:0000042
+Colon - Transverse,70-79,SNAP29,4.973,global,bto:0000042
+Colon - Transverse,70-79,DROSHA,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RBBP7,4.997,global,bto:0000042
+Colon - Transverse,70-79,PLEKHA2,4.719,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DCP2,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CCDC174,4.908,global,bto:0000042
+Colon - Transverse,70-79,PIAS2,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CHN1,4.998,global,bto:0000042
+Colon - Transverse,70-79,LDAH,4.951,global,bto:0000042
+Colon - Transverse,70-79,UBE2Q1,4.98,global,bto:0000042
+Colon - Transverse,70-79,PHF20L1,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TCTA,4.978,global,bto:0000042
+Colon - Transverse,70-79,BLOC1S5,4.859,global,bto:0000042
+Colon - Transverse,70-79,PFN2,4.997,global,bto:0000042
+Colon - Transverse,70-79,DENND6A,4.803,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EXOSC6,4.933,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MBTPS1,4.993,global,bto:0000042
+Colon - Transverse,70-79,ZNF720,4.778,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GNG10,4.992,global,bto:0000042
+Colon - Transverse,70-79,C17ORF80,4.932,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,R3HDM2,4.917,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AGO1,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GTF2E1,4.164,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,OCRL,4.971,global,bto:0000042
+Colon - Transverse,70-79,XPNPEP3,4.98,global,bto:0000042
+Colon - Transverse,70-79,FAM120AOS,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TRIB2,4.986,global,bto:0000042
+Colon - Transverse,70-79,KIF3C,4.974,global,bto:0000042
+Colon - Transverse,70-79,DNAJC17,4.801,global,bto:0000042
+Colon - Transverse,70-79,ZFAND4,4.933,global,bto:0000042
+Colon - Transverse,70-79,UBTD1,4.411,global,bto:0000042
+Colon - Transverse,70-79,RPP30,4.964,global,bto:0000042
+Colon - Transverse,70-79,CBX3,4.996,global,bto:0000042
+Colon - Transverse,70-79,NUP62,4.996,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000260404,,,
+Colon - Transverse,70-79,STIM1,4.986,global,bto:0000042
+Colon - Transverse,70-79,ATG5,4.98,global,bto:0000042
+Colon - Transverse,70-79,PEX10,4.965,global,bto:0000042
+Colon - Transverse,70-79,VAMP3,4.997,global,bto:0000042
+Colon - Transverse,70-79,UFSP2,4.962,global,bto:0000042
+Colon - Transverse,70-79,PALB2,4.872,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AKT3,4.989,global,bto:0000042
+Colon - Transverse,70-79,ZNF777,4.866,global,bto:0000042
+Colon - Transverse,70-79,ZNF765,4.967,global,bto:0000042
+Colon - Transverse,70-79,BSCL2,4.998,global,bto:0000042
+Colon - Transverse,70-79,PACRGL,4.493,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PCYT1A,4.984,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MICU1,4.994,global,bto:0000042
+Colon - Transverse,70-79,ACBD6,4.933,global,bto:0000042
+Colon - Transverse,70-79,TRAPPC8,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ACTR1B,4.973,global,bto:0000042
+Colon - Transverse,70-79,CHURC1,4.307,global,bto:0000042
+Colon - Transverse,70-79,GLG1,4.994,global,bto:0000042
+Colon - Transverse,70-79,PRRC2A,4.995,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TCOF1,4.984,global,bto:0000042
+Colon - Transverse,70-79,TLCD5,4.866,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RBM42,4.991,global,bto:0000042
+Colon - Transverse,70-79,FMR1,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CMTR1,4.993,global,bto:0000042
+Colon - Transverse,70-79,CUL5,4.961,global,bto:0000042
+Colon - Transverse,70-79,FAM98B,4.845,global,bto:0000042
+Colon - Transverse,70-79,ZNF37A,4.89,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CEP83,4.0,global,eye cancer cell
+Colon - Transverse,70-79,CAMK1D,4.955,global,bto:0000042
+Colon - Transverse,70-79,TAF9B,4.711,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TNPO3,4.99,global,bto:0000042
+Colon - Transverse,70-79,OIP5-AS1,2.168,global,bto:0000042
+Colon - Transverse,70-79,GPN1,4.972,global,bto:0000042
+Colon - Transverse,70-79,ARGLU1,4.99,global,bto:0000042
+Colon - Transverse,70-79,CLDND1,4.997,global,bto:0000042
+Colon - Transverse,70-79,SLC48A1,4.976,global,bto:0000042
+Colon - Transverse,70-79,MR1,4.883,global,bto:0000042
+Colon - Transverse,70-79,TMEM50A,4.995,global,bto:0000042
+Colon - Transverse,70-79,PTPN13,4.952,global,bto:0000042
+Colon - Transverse,70-79,RDX,4.992,global,bto:0000042
+Colon - Transverse,70-79,TRIOBP,4.986,global,bto:0000042
+Colon - Transverse,70-79,SCMH1,4.964,global,bto:0000042
+Colon - Transverse,70-79,IFT46,4.962,global,bto:0000042
+Colon - Transverse,70-79,COX7A2L,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DLC1,4.984,global,bto:0000042
+Colon - Transverse,70-79,BORCS8,4.352,global,bto:0000042
+Colon - Transverse,70-79,ATP6AP2,4.997,global,bto:0000042
+Colon - Transverse,70-79,AZI2,4.982,global,bto:0000042
+Colon - Transverse,70-79,SEPTIN2,4.999,global,bto:0000042
+Colon - Transverse,70-79,TMEM115,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CDPF1,4.206,global,bto:0000042
+Colon - Transverse,70-79,PPOX,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF517,4.0,global,gastroesophageal cancer cell
+Colon - Transverse,70-79,GALNT11,4.933,global,bto:0000042
+Colon - Transverse,70-79,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TARBP2,4.954,global,bto:0000042
+Colon - Transverse,70-79,SMURF2P1,,,
+Colon - Transverse,70-79,MAF1,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,WDR83,4.89,global,bto:0000042
+Colon - Transverse,70-79,ERICH1,4.83,global,bto:0000042
+Colon - Transverse,70-79,C18ORF32,4.171,global,bto:0000042
+Colon - Transverse,70-79,ITGAV,4.99,global,bto:0000042
+Colon - Transverse,70-79,NR1H2,4.995,global,bto:0000042
+Colon - Transverse,70-79,PLPP1,4.979,global,bto:0000042
+Colon - Transverse,70-79,CRCP,4.939,global,bto:0000042
+Colon - Transverse,70-79,TFCP2,4.974,global,bto:0000042
+Colon - Transverse,70-79,TBCCD1,4.908,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,POMGNT1,4.986,global,bto:0000042
+Colon - Transverse,70-79,UBXN6,4.982,global,bto:0000042
+Colon - Transverse,70-79,MTHFS,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RAD23A,4.994,global,bto:0000042
+Colon - Transverse,70-79,PRXL2C,3.628,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TTC39C,4.853,global,bto:0000042
+Colon - Transverse,70-79,CNTLN,4.821,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PMS2CL,,,
+Colon - Transverse,70-79,RANBP3,4.991,global,bto:0000042
+Colon - Transverse,70-79,ABI2,4.991,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TPRKB,4.918,global,bto:0000042
+Colon - Transverse,70-79,POLG,4.975,global,bto:0000042
+Colon - Transverse,70-79,ARPC2,4.997,global,bto:0000042
+Colon - Transverse,70-79,USP6NL,4.895,global,bto:0000042
+Colon - Transverse,70-79,NPRL3,4.981,global,bto:0000042
+Colon - Transverse,70-79,CHMP3,4.993,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DSE,4.984,global,bto:0000042
+Colon - Transverse,70-79,DCAF17,4.854,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CCAR2,4.981,global,bto:0000042
+Colon - Transverse,70-79,PMS1,4.975,global,bto:0000042
+Colon - Transverse,70-79,RAP2A,4.982,global,bto:0000042
+Colon - Transverse,70-79,CUEDC1,4.947,global,bto:0000042
+Colon - Transverse,70-79,DYNC1LI2,4.995,global,bto:0000042
+Colon - Transverse,70-79,POLR2C,4.985,global,bto:0000042
+Colon - Transverse,70-79,SUB1,4.997,global,bto:0000042
+Colon - Transverse,70-79,R3HCC1L,2.991,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TTC9C,4.404,global,bto:0000042
+Colon - Transverse,70-79,PTPMT1,4.951,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SYNCRIP,4.992,global,bto:0000042
+Colon - Transverse,70-79,PAFAH1B1,4.995,global,bto:0000042
+Colon - Transverse,70-79,WDR33,4.981,global,bto:0000042
+Colon - Transverse,70-79,DESI2,4.978,global,bto:0000042
+Colon - Transverse,70-79,UBE2I,4.994,global,bto:0000042
+Colon - Transverse,70-79,PCGF5,4.966,global,bto:0000042
+Colon - Transverse,70-79,BNIP3L,4.996,global,bto:0000042
+Colon - Transverse,70-79,ACTR10,4.989,global,bto:0000042
+Colon - Transverse,70-79,CMTM3,4.984,global,bto:0000042
+Colon - Transverse,70-79,DCAF5,4.983,global,bto:0000042
+Colon - Transverse,70-79,TXNDC15,4.962,global,bto:0000042
+Colon - Transverse,70-79,LYST,4.96,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000265678,,,
+Colon - Transverse,70-79,MOB3C,4.878,global,bto:0000042
+Colon - Transverse,70-79,ETFRF1,4.965,global,bto:0000042
+Colon - Transverse,70-79,FKBP7,4.797,global,bto:0000042
+Colon - Transverse,70-79,ZNF428,4.738,global,bto:0000042
+Colon - Transverse,70-79,ZNF25,4.938,global,bto:0000042
+Colon - Transverse,70-79,ANKRD6,4.92,global,bto:0000042
+Colon - Transverse,70-79,AP2M1,5.0,global,bto:0000042
+Colon - Transverse,70-79,RNF14,4.98,global,bto:0000042
+Colon - Transverse,70-79,PEX2,4.981,global,bto:0000042
+Colon - Transverse,70-79,MRPL38,4.985,global,bto:0000042
+Colon - Transverse,70-79,PLPBP,4.974,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MIPEPP3,,,
+Colon - Transverse,70-79,ZBTB4,4.977,global,bto:0000042
+Colon - Transverse,70-79,SLAIN2,4.967,global,bto:0000042
+Colon - Transverse,70-79,LRRC28,4.916,global,bto:0000042
+Colon - Transverse,70-79,NUP155,4.984,global,bto:0000042
+Colon - Transverse,70-79,FAM216A,2.173,global,bto:0000042
+Colon - Transverse,70-79,EIF4EBP2,4.991,global,bto:0000042
+Colon - Transverse,70-79,NBR1,4.995,global,bto:0000042
+Colon - Transverse,70-79,RIPOR1,4.981,global,bto:0000042
+Colon - Transverse,70-79,CLOCK,4.976,global,bto:0000042
+Colon - Transverse,70-79,AP1S2,4.992,global,bto:0000042
+Colon - Transverse,70-79,DUSP11,4.968,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF706,4.966,global,bto:0000042
+Colon - Transverse,70-79,TMEM109,4.986,global,bto:0000042
+Colon - Transverse,70-79,TMEM50B,4.977,global,bto:0000042
+Colon - Transverse,70-79,TK2,4.968,global,bto:0000042
+Colon - Transverse,70-79,FAM185A,4.724,global,bto:0000042
+Colon - Transverse,70-79,ATMIN,4.983,global,bto:0000042
+Colon - Transverse,70-79,USP25,4.948,global,bto:0000042
+Colon - Transverse,70-79,OLFM1,4.989,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CHD6,4.974,global,bto:0000042
+Colon - Transverse,70-79,CAMSAP2,4.956,global,bto:0000042
+Colon - Transverse,70-79,SPCS1,4.985,global,bto:0000042
+Colon - Transverse,70-79,PDCD7,4.851,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PARP16,4.886,global,bto:0000042
+Colon - Transverse,70-79,TARS3,4.895,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TNFSF12,4.551,global,bto:0000042
+Colon - Transverse,70-79,PPP4R3B,4.987,global,bto:0000042
+Colon - Transverse,70-79,TMEM121,4.584,global,bto:0000042
+Colon - Transverse,70-79,MLF2,4.994,global,bto:0000042
+Colon - Transverse,70-79,SLC10A3,4.899,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ADPRS,,,
+Colon - Transverse,70-79,HERPUD2,4.952,global,bto:0000042
+Colon - Transverse,70-79,STK32C,4.733,global,bto:0000042
+Colon - Transverse,70-79,ZBTB17,4.985,global,bto:0000042
+Colon - Transverse,70-79,TYW3,4.927,global,bto:0000042
+Colon - Transverse,70-79,DCTN1,4.999,global,bto:0000042
+Colon - Transverse,70-79,TATDN3,4.866,global,bto:0000042
+Colon - Transverse,70-79,LMBRD1,4.987,global,bto:0000042
+Colon - Transverse,70-79,UBE2D2,4.986,global,bto:0000042
+Colon - Transverse,70-79,IMMP2L,4.917,global,bto:0000042
+Colon - Transverse,70-79,SETD6,4.975,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SMARCAD1,4.941,global,bto:0000042
+Colon - Transverse,70-79,PCNP,4.996,global,bto:0000042
+Colon - Transverse,70-79,TRAPPC12,4.972,global,bto:0000042
+Colon - Transverse,70-79,ZDHHC2,4.925,global,bto:0000042
+Colon - Transverse,70-79,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ENSG00000289210,,,
+Colon - Transverse,70-79,SLC4A1AP,4.963,global,bto:0000042
+Colon - Transverse,70-79,GATM,4.996,global,bto:0000042
+Colon - Transverse,70-79,SMIM10,4.384,global,bto:0000042
+Colon - Transverse,70-79,DCTN2,4.998,global,bto:0000042
+Colon - Transverse,70-79,KIAA1109,4.974,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MTAP,4.953,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LSM14A,4.477,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LATS1,4.954,global,bto:0000042
+Colon - Transverse,70-79,WWOX,4.971,global,bto:0000042
+Colon - Transverse,70-79,TMA16,4.886,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C16ORF86,3.494,global,bto:0000042
+Colon - Transverse,70-79,MRPL50,4.951,global,bto:0000042
+Colon - Transverse,70-79,SAAL1,4.931,global,bto:0000042
+Colon - Transverse,70-79,MSL1,4.987,global,bto:0000042
+Colon - Transverse,70-79,POLDIP2,4.487,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ALAD,4.983,global,bto:0000042
+Colon - Transverse,70-79,SNAPC3,4.955,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C1D,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,WDR45,4.996,global,bto:0000042
+Colon - Transverse,70-79,GOLGA1,4.965,global,bto:0000042
+Colon - Transverse,70-79,CTBP1-DT,,,
+Colon - Transverse,70-79,PPM1M,4.836,global,bto:0000042
+Colon - Transverse,70-79,ADO,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MED6,4.937,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DNAJB12,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,HNRNPU,4.999,global,bto:0000042
+Colon - Transverse,70-79,CCAR1,4.99,global,bto:0000042
+Colon - Transverse,70-79,LRPAP1,4.997,global,bto:0000042
+Colon - Transverse,70-79,MTO1,4.978,global,bto:0000042
+Colon - Transverse,70-79,FBXO42,4.952,global,bto:0000042
+Colon - Transverse,70-79,EXOSC1,4.962,global,bto:0000042
+Colon - Transverse,70-79,RNASEH2B,4.927,global,bto:0000042
+Colon - Transverse,70-79,GPR137,4.971,global,bto:0000042
+Colon - Transverse,70-79,SERINC1,5.0,global,bto:0000042
+Colon - Transverse,70-79,PPP1R8,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EIF2D,4.975,global,bto:0000042
+Colon - Transverse,70-79,KANSL3,4.993,global,bto:0000042
+Colon - Transverse,70-79,FBXW8,4.864,global,bto:0000042
+Colon - Transverse,70-79,COPS7B,4.992,global,bto:0000042
+Colon - Transverse,70-79,RTL8C,4.98,global,bto:0000042
+Colon - Transverse,70-79,MRPL37,4.99,global,bto:0000042
+Colon - Transverse,70-79,WDR13,4.983,global,bto:0000042
+Colon - Transverse,70-79,BEX4,4.965,global,bto:0000042
+Colon - Transverse,70-79,MYG1-AS1,,,
+Colon - Transverse,70-79,RASAL2-AS1,1.418,global,novikoff hepatoma cell
+Colon - Transverse,70-79,PEBP1,4.999,global,bto:0000042
+Colon - Transverse,70-79,SNX24,4.929,global,bto:0000042
+Colon - Transverse,70-79,NME4,4.977,global,bto:0000042
+Colon - Transverse,70-79,BRK1,4.52,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AGK,4.948,global,bto:0000042
+Colon - Transverse,70-79,APOBEC3C,4.965,global,bto:0000042
+Colon - Transverse,70-79,SUMF2,4.99,global,bto:0000042
+Colon - Transverse,70-79,PEX14,4.97,global,bto:0000042
+Colon - Transverse,70-79,PHF6,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,WDR41,4.977,global,bto:0000042
+Colon - Transverse,70-79,GFOD2,4.958,global,bto:0000042
+Colon - Transverse,70-79,ZNF22,4.957,global,bto:0000042
+Colon - Transverse,70-79,MOCS2,4.972,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DDX59,4.897,global,bto:0000042
+Colon - Transverse,70-79,EGLN2,4.534,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GPS2,4.979,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CNOT6L,4.973,global,bto:0000042
+Colon - Transverse,70-79,LRCH3,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FBXL4,4.911,global,bto:0000042
+Colon - Transverse,70-79,ZNF678,4.8,global,bto:0000042
+Colon - Transverse,70-79,PPP1R37,4.365,global,head
+Colon - Transverse,70-79,CYP20A1,4.898,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EID2,4.225,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TMEM126B,4.972,global,bto:0000042
+Colon - Transverse,70-79,EXOSC7,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SLC25A46,4.982,global,bto:0000042
+Colon - Transverse,70-79,RAC1,4.998,global,bto:0000042
+Colon - Transverse,70-79,MOB1B,4.57,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SPCS2,4.989,global,bto:0000042
+Colon - Transverse,70-79,GOLGA8A,4.986,global,bto:0000042
+Colon - Transverse,70-79,RTL8A,4.778,global,bto:0000042
+Colon - Transverse,70-79,ZDHHC17,4.963,global,bto:0000042
+Colon - Transverse,70-79,CDK7,4.962,global,bto:0000042
+Colon - Transverse,70-79,SETD4,4.952,global,bto:0000042
+Colon - Transverse,70-79,NDUFB5,4.992,global,bto:0000042
+Colon - Transverse,70-79,RASSF8-AS1,1.485,global,aortic intima
+Colon - Transverse,70-79,CLPTM1L,4.991,global,bto:0000042
+Colon - Transverse,70-79,AKAP10,4.957,global,bto:0000042
+Colon - Transverse,70-79,PARN,4.977,global,bto:0000042
+Colon - Transverse,70-79,RNF34,4.981,global,bto:0000042
+Colon - Transverse,70-79,LINC00662,1.942,global,liver cancer cell
+Colon - Transverse,70-79,RFX5,4.984,global,bto:0000042
+Colon - Transverse,70-79,DDI2,4.736,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SEC31A,4.995,global,bto:0000042
+Colon - Transverse,70-79,TRNAU1AP,4.913,global,bto:0000042
+Colon - Transverse,70-79,RNF146,4.964,global,bto:0000042
+Colon - Transverse,70-79,KAT8,4.949,global,bto:0000042
+Colon - Transverse,70-79,ZNF329,4.62,global,bto:0000042
+Colon - Transverse,70-79,SCAF11,4.986,global,bto:0000042
+Colon - Transverse,70-79,ACP1,4.534,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,AASDHPPT,4.99,global,bto:0000042
+Colon - Transverse,70-79,PTPN4,4.947,global,bto:0000042
+Colon - Transverse,70-79,RPA2,4.988,global,bto:0000042
+Colon - Transverse,70-79,UXS1,4.977,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,BAG5,4.982,global,bto:0000042
+Colon - Transverse,70-79,PHF10,4.983,global,bto:0000042
+Colon - Transverse,70-79,OBI1,4.941,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TDRP,4.884,global,bto:0000042
+Colon - Transverse,70-79,UHRF2,4.98,global,bto:0000042
+Colon - Transverse,70-79,HNRNPH2,4.681,global,bto:0000042
+Colon - Transverse,70-79,GABARAPL2,4.993,global,bto:0000042
+Colon - Transverse,70-79,LCA5,4.783,global,bto:0000042
+Colon - Transverse,70-79,DCAF12,4.992,global,bto:0000042
+Colon - Transverse,70-79,DCTN3,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RCC1L,4.974,global,bto:0000042
+Colon - Transverse,70-79,MAPK1,4.998,global,bto:0000042
+Colon - Transverse,70-79,BBS4,4.971,global,bto:0000042
+Colon - Transverse,70-79,SMUG1,4.959,global,bto:0000042
+Colon - Transverse,70-79,ZNF616,4.975,global,bto:0000042
+Colon - Transverse,70-79,ADIPOR1,4.998,global,bto:0000042
+Colon - Transverse,70-79,NNT-AS1,1.891,global,lung cancer cell
+Colon - Transverse,70-79,BRD2,4.999,global,bto:0000042
+Colon - Transverse,70-79,PHACTR2,4.947,global,bto:0000042
+Colon - Transverse,70-79,PHF2,4.927,global,bto:0000042
+Colon - Transverse,70-79,SART1,4.983,global,bto:0000042
+Colon - Transverse,70-79,WAC-AS1,1.425,global,hep-g2/2.15 cell
+Colon - Transverse,70-79,HS6ST1,4.967,global,bto:0000042
+Colon - Transverse,70-79,CEP170,4.989,global,bto:0000042
+Colon - Transverse,70-79,METTL6,4.892,global,bto:0000042
+Colon - Transverse,70-79,STYX,4.864,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SREK1IP1,4.872,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MTG2,4.978,global,bto:0000042
+Colon - Transverse,70-79,TRMT5,4.818,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GPN2,4.96,global,bto:0000042
+Colon - Transverse,70-79,NBPF19,1.342,global,ccrfsb
+Colon - Transverse,70-79,CHMP5,4.992,global,bto:0000042
+Colon - Transverse,70-79,TMEM35B,4.311,global,bto:0000042
+Colon - Transverse,70-79,CBX7,4.964,global,bto:0000042
+Colon - Transverse,70-79,ZBED1,4.59,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NCOR1,4.993,global,bto:0000042
+Colon - Transverse,70-79,ATP6V0E1,4.994,global,bto:0000042
+Colon - Transverse,70-79,TRAPPC9,5.0,global,alimentary canal
+Colon - Transverse,70-79,POLR2E,4.995,global,bto:0000042
+Colon - Transverse,70-79,ATG13,4.998,global,bto:0000042
+Colon - Transverse,70-79,ZNF875,4.975,global,bto:0000042
+Colon - Transverse,70-79,NUCKS1,4.999,global,bto:0000042
+Colon - Transverse,70-79,DFFA,4.985,global,bto:0000042
+Colon - Transverse,70-79,RNF135,4.875,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TSC22D4,4.978,global,bto:0000042
+Colon - Transverse,70-79,MZT1,4.797,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SPATS2,4.938,global,bto:0000042
+Colon - Transverse,70-79,FOXJ2,4.902,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MAP4,4.998,global,bto:0000042
+Colon - Transverse,70-79,DNAJC19,4.978,global,bto:0000042
+Colon - Transverse,70-79,IFT80,4.968,global,bto:0000042
+Colon - Transverse,70-79,CTDNEP1,4.985,global,bto:0000042
+Colon - Transverse,70-79,TUG1,2.68,global,bto:0000042
+Colon - Transverse,70-79,MBD2,4.965,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C14ORF119,4.982,global,bto:0000042
+Colon - Transverse,70-79,RAB6B,4.991,global,bto:0000042
+Colon - Transverse,70-79,HNRNPL,4.989,global,bto:0000042
+Colon - Transverse,70-79,GTPBP8,4.854,global,bto:0000042
+Colon - Transverse,70-79,PRKRIP1,4.973,global,bto:0000042
+Colon - Transverse,70-79,SDHAF3,4.868,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SET,4.997,global,bto:0000042
+Colon - Transverse,70-79,TAF11,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PSPC1-AS2,,,
+Colon - Transverse,70-79,RPRD1B,4.978,global,bto:0000042
+Colon - Transverse,70-79,RAE1,4.992,global,bto:0000042
+Colon - Transverse,70-79,PARP3,4.895,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NAP1L4,4.995,global,bto:0000042
+Colon - Transverse,70-79,NLRX1,4.935,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ALG9,4.971,global,bto:0000042
+Colon - Transverse,70-79,RAD17,4.957,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MBD1,4.989,global,bto:0000042
+Colon - Transverse,70-79,COPS7A,4.991,global,bto:0000042
+Colon - Transverse,70-79,RRP36,4.947,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CHML,4.916,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,HNRNPC,5.0,global,bto:0000042
+Colon - Transverse,70-79,PARK7,4.998,global,bto:0000042
+Colon - Transverse,70-79,APPBP2,4.967,global,bto:0000042
+Colon - Transverse,70-79,DNAJC7,4.982,global,bto:0000042
+Colon - Transverse,70-79,UBE2E3,4.979,global,bto:0000042
+Colon - Transverse,70-79,AKR1B1,4.997,global,bto:0000042
+Colon - Transverse,70-79,CTBP2,4.989,global,bto:0000042
+Colon - Transverse,70-79,DTNBP1,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,GNPDA2,4.959,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TAF10,4.971,global,bto:0000042
+Colon - Transverse,70-79,TMEM218,4.698,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MOSPD2,4.92,global,bto:0000042
+Colon - Transverse,70-79,NUDT21,4.99,global,bto:0000042
+Colon - Transverse,70-79,CDC42,4.999,global,bto:0000042
+Colon - Transverse,70-79,RALA,4.988,global,bto:0000042
+Colon - Transverse,70-79,LYRM1,4.938,global,bto:0000042
+Colon - Transverse,70-79,PTTG1IP,5.0,global,bto:0000042
+Colon - Transverse,70-79,ANKRD39,3.826,global,bto:0000042
+Colon - Transverse,70-79,STARD3NL,4.961,global,bto:0000042
+Colon - Transverse,70-79,NIPBL-DT,,,
+Colon - Transverse,70-79,CD99,4.998,global,bto:0000042
+Colon - Transverse,70-79,EFEMP2,4.978,global,bto:0000042
+Colon - Transverse,70-79,RRAGA,4.987,global,bto:0000042
+Colon - Transverse,70-79,PRMT2,4.995,global,bto:0000042
+Colon - Transverse,70-79,HDGFL3,4.97,global,bto:0000042
+Colon - Transverse,70-79,PAN3,4.896,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FBXO22,4.947,global,bto:0000042
+Colon - Transverse,70-79,BRD7,4.981,global,bto:0000042
+Colon - Transverse,70-79,KLC2,4.963,global,bto:0000042
+Colon - Transverse,70-79,RPL7L1,4.988,global,bto:0000042
+Colon - Transverse,70-79,RAB5C,4.994,global,bto:0000042
+Colon - Transverse,70-79,OAZ2,4.98,global,bto:0000042
+Colon - Transverse,70-79,FBH1,4.986,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DCAKD,4.853,global,bto:0000042
+Colon - Transverse,70-79,ARHGAP24,4.948,global,bto:0000042
+Colon - Transverse,70-79,WDR75,4.974,global,bto:0000042
+Colon - Transverse,70-79,ASCC1,4.974,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ANKRD26,4.868,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,REST,4.942,global,bto:0000042
+Colon - Transverse,70-79,STX6,4.972,global,bto:0000042
+Colon - Transverse,70-79,FEZ2,4.979,global,bto:0000042
+Colon - Transverse,70-79,DAP3,4.991,global,bto:0000042
+Colon - Transverse,70-79,ARMC2,4.806,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ACVR1,4.946,global,bto:0000042
+Colon - Transverse,70-79,PSMC5,4.995,global,bto:0000042
+Colon - Transverse,70-79,SYDE1,4.955,global,bto:0000042
+Colon - Transverse,70-79,UBE2Q2,4.974,global,bto:0000042
+Colon - Transverse,70-79,CSTF3,4.975,global,bto:0000042
+Colon - Transverse,70-79,CARS2,4.987,global,bto:0000042
+Colon - Transverse,70-79,RNF2,4.954,global,bto:0000042
+Colon - Transverse,70-79,CHTOP,4.993,global,bto:0000042
+Colon - Transverse,70-79,DNAJC8,4.991,global,bto:0000042
+Colon - Transverse,70-79,ARPIN,4.911,global,bto:0000042
+Colon - Transverse,70-79,PJA1,4.976,global,bto:0000042
+Colon - Transverse,70-79,RBM33,4.97,global,bto:0000042
+Colon - Transverse,70-79,ZDHHC8,4.966,global,bto:0000042
+Colon - Transverse,70-79,ITM2B,4.998,global,bto:0000042
+Colon - Transverse,70-79,AKAP13,4.993,global,bto:0000042
+Colon - Transverse,70-79,MED23,4.943,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PARG,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TMEM184B,4.99,global,bto:0000042
+Colon - Transverse,70-79,MRPL16,4.969,global,bto:0000042
+Colon - Transverse,70-79,POC1B,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CDIPT,4.994,global,bto:0000042
+Colon - Transverse,70-79,UBAC2,4.993,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NDUFC1,4.59,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PTPRG,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,OAZ1,4.999,global,bto:0000042
+Colon - Transverse,70-79,MITD1,4.893,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CIBAR1,,,
+Colon - Transverse,70-79,UBE2V1,4.999,global,bto:0000042
+Colon - Transverse,70-79,PPP1R7,4.991,global,bto:0000042
+Colon - Transverse,70-79,DNAJA3,4.987,global,bto:0000042
+Colon - Transverse,70-79,SNX1,4.991,global,bto:0000042
+Colon - Transverse,70-79,RRP8,4.956,global,bto:0000042
+Colon - Transverse,70-79,MIOS,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,KLHL26,4.733,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SUPT4H1,4.984,global,bto:0000042
+Colon - Transverse,70-79,MACROH2A2,4.965,global,bto:0000042
+Colon - Transverse,70-79,SRP14,4.995,global,bto:0000042
+Colon - Transverse,70-79,ARID1B,4.965,global,bto:0000042
+Colon - Transverse,70-79,PIK3C3,4.971,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LRRC51,,,
+Colon - Transverse,70-79,ANKRD46,4.978,global,bto:0000042
+Colon - Transverse,70-79,SRSF10,4.546,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EIF4G2,5.0,global,bto:0000042
+Colon - Transverse,70-79,TECPR2,4.936,global,bto:0000042
+Colon - Transverse,70-79,NDN,4.977,global,bto:0000042
+Colon - Transverse,70-79,PIN1,4.981,global,bto:0000042
+Colon - Transverse,70-79,FXN,4.874,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DPYSL2,4.997,global,bto:0000042
+Colon - Transverse,70-79,MOK,4.974,global,bto:0000042
+Colon - Transverse,70-79,DNAAF10,,,
+Colon - Transverse,70-79,DCTD,4.986,global,bto:0000042
+Colon - Transverse,70-79,RABEPK,4.945,global,bto:0000042
+Colon - Transverse,70-79,RNF168,4.931,global,bto:0000042
+Colon - Transverse,70-79,MDFIC,4.52,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PIGK,4.97,global,bto:0000042
+Colon - Transverse,70-79,NSL1,4.98,global,bto:0000042
+Colon - Transverse,70-79,TERF2IP,4.996,global,bto:0000042
+Colon - Transverse,70-79,HTRA2,4.968,global,bto:0000042
+Colon - Transverse,70-79,PCBP4,4.991,global,bto:0000042
+Colon - Transverse,70-79,ANKRD28,4.975,global,bto:0000042
+Colon - Transverse,70-79,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,NFS1,4.989,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TADA3,4.99,global,bto:0000042
+Colon - Transverse,70-79,BAZ1A-AS1,,,
+Colon - Transverse,70-79,A4GALT,4.941,global,bto:0000042
+Colon - Transverse,70-79,OSTM1,4.967,global,bto:0000042
+Colon - Transverse,70-79,RBM17,4.984,global,bto:0000042
+Colon - Transverse,70-79,ARMCX3,4.988,global,bto:0000042
+Colon - Transverse,70-79,TRA2B,4.997,global,bto:0000042
+Colon - Transverse,70-79,INO80,4.941,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,IPO8,4.968,global,bto:0000042
+Colon - Transverse,70-79,RXRB,4.978,global,bto:0000042
+Colon - Transverse,70-79,C4ORF3,4.991,global,bto:0000042
+Colon - Transverse,70-79,HDAC3,4.983,global,bto:0000042
+Colon - Transverse,70-79,ATP6V1D,4.989,global,bto:0000042
+Colon - Transverse,70-79,B4GAT1,4.995,global,bto:0000042
+Colon - Transverse,70-79,PAIP1,4.974,global,bto:0000042
+Colon - Transverse,70-79,EIF2B1,4.99,global,bto:0000042
+Colon - Transverse,70-79,OCIAD1,4.991,global,bto:0000042
+Colon - Transverse,70-79,SLC25A14,4.728,global,bto:0000042
+Colon - Transverse,70-79,FAM204A,4.796,global,bto:0000042
+Colon - Transverse,70-79,TESK1,4.921,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,C11ORF68,4.918,global,bto:0000042
+Colon - Transverse,70-79,SRRD,4.9,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DBN1,4.993,global,bto:0000042
+Colon - Transverse,70-79,SEPTIN7,5.0,global,bto:0000042
+Colon - Transverse,70-79,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CBX1,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZNF580,4.87,global,bto:0000042
+Colon - Transverse,70-79,ZCRB1,4.97,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LZIC,4.921,global,bto:0000042
+Colon - Transverse,70-79,FAM172A,4.958,global,bto:0000042
+Colon - Transverse,70-79,CFAP298,4.982,global,bto:0000042
+Colon - Transverse,70-79,DNAJB14,4.974,global,bto:0000042
+Colon - Transverse,70-79,WASF3,4.963,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TSG101,4.99,global,bto:0000042
+Colon - Transverse,70-79,THAP5,4.824,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CDS2,4.977,global,bto:0000042
+Colon - Transverse,70-79,REEP5,4.997,global,bto:0000042
+Colon - Transverse,70-79,PAK2,4.983,global,bto:0000042
+Colon - Transverse,70-79,UEVLD,4.834,global,bto:0000042
+Colon - Transverse,70-79,YPEL5,4.996,global,bto:0000042
+Colon - Transverse,70-79,GTF2A1,4.935,global,bto:0000042
+Colon - Transverse,70-79,SKP1,4.999,global,bto:0000042
+Colon - Transverse,70-79,ELP5,4.631,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ZFP36L2,4.994,global,bto:0000042
+Colon - Transverse,70-79,ENSG00000239665,,,
+Colon - Transverse,70-79,CAST,4.996,global,bto:0000042
+Colon - Transverse,70-79,RAB34,4.99,global,bto:0000042
+Colon - Transverse,70-79,NKX2-3,4.546,global,bto:0000042
+Colon - Transverse,70-79,ARMCX2,4.96,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SSBP3,4.956,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EXOC5,4.988,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TLK2,4.96,global,bto:0000042
+Colon - Transverse,70-79,MRPL57,4.888,global,bto:0000042
+Colon - Transverse,70-79,RAD1,4.958,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,CYREN,4.959,global,bto:0000042
+Colon - Transverse,70-79,HMBOX1,4.895,global,bto:0000042
+Colon - Transverse,70-79,CLIP4,4.942,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,BTBD1,4.981,global,bto:0000042
+Colon - Transverse,70-79,GOLM2,,,
+Colon - Transverse,70-79,GLYR1,4.981,global,bto:0000042
+Colon - Transverse,70-79,RARS2,4.982,global,bto:0000042
+Colon - Transverse,70-79,BICD1,4.944,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,LCMT1,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PSMF1,4.994,global,bto:0000042
+Colon - Transverse,70-79,NKAPD1,4.963,global,bto:0000042
+Colon - Transverse,70-79,GALNT18,4.896,global,bto:0000042
+Colon - Transverse,70-79,TMEM69,4.996,global,bto:0000042
+Colon - Transverse,70-79,KIFBP,4.981,global,bto:0000042
+Colon - Transverse,70-79,DEAF1,4.976,global,bto:0000042
+Colon - Transverse,70-79,MRPL9,4.979,global,bto:0000042
+Colon - Transverse,70-79,FAM174A,4.864,global,bto:0000042
+Colon - Transverse,70-79,USP4,4.985,global,bto:0000042
+Colon - Transverse,70-79,TNPO1,4.996,global,bto:0000042
+Colon - Transverse,70-79,SWAP70,4.968,global,bto:0000042
+Colon - Transverse,70-79,SGMS1,4.959,global,bto:0000042
+Colon - Transverse,70-79,SLC30A5,4.954,global,bto:0000042
+Colon - Transverse,70-79,POMT2,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SYBU,4.985,global,bto:0000042
+Colon - Transverse,70-79,CD47,4.993,global,bto:0000042
+Colon - Transverse,70-79,CCPG1,4.985,global,bto:0000042
+Colon - Transverse,70-79,SCLY,4.938,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SRGAP2,4.988,global,bto:0000042
+Colon - Transverse,70-79,RPUSD3,4.96,global,bto:0000042
+Colon - Transverse,70-79,PIGBOS1,4.0,global,eye cancer cell
+Colon - Transverse,70-79,HNRNPM,4.992,global,bto:0000042
+Colon - Transverse,70-79,NCK2,4.971,global,bto:0000042
+Colon - Transverse,70-79,PTMA,5.0,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ASAP3,4.954,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RAB10,4.997,global,bto:0000042
+Colon - Transverse,70-79,BOLA1,4.81,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PELP1,4.987,global,bto:0000042
+Colon - Transverse,70-79,MRFAP1,4.997,global,bto:0000042
+Colon - Transverse,70-79,RHBDD3,4.94,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SLC25A37,4.991,global,bto:0000042
+Colon - Transverse,70-79,CRADD,4.862,global,bto:0000042
+Colon - Transverse,70-79,C12ORF73,4.784,global,bto:0000042
+Colon - Transverse,70-79,SMAD2,4.991,global,bto:0000042
+Colon - Transverse,70-79,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FRA10AC1,4.906,global,bto:0000042
+Colon - Transverse,70-79,DYNLL2,4.819,global,bto:0000042
+Colon - Transverse,70-79,VPS45,4.988,global,bto:0000042
+Colon - Transverse,70-79,PIGC,4.932,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,EXTL3,4.982,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FAHD2A,4.948,global,bto:0000042
+Colon - Transverse,70-79,ATF2,4.973,global,bto:0000042
+Colon - Transverse,70-79,LRRC37BP1,,,
+Colon - Transverse,70-79,RASA1,4.995,global,bto:0000042
+Colon - Transverse,70-79,STAU2,4.985,global,bto:0000042
+Colon - Transverse,70-79,GPS1,4.996,global,bto:0000042
+Colon - Transverse,70-79,WNK1,4.996,global,bto:0000042
+Colon - Transverse,70-79,TTF1,4.905,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SEC22C,4.961,global,bto:0000042
+Colon - Transverse,70-79,RAD51C,4.843,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ACO1,4.988,global,bto:0000042
+Colon - Transverse,70-79,DDX50,4.962,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,KLC1,4.996,global,bto:0000042
+Colon - Transverse,70-79,VPS39,4.983,global,bto:0000042
+Colon - Transverse,70-79,RRAGB,4.91,global,bto:0000042
+Colon - Transverse,70-79,EPS15,4.984,global,bto:0000042
+Colon - Transverse,70-79,UBE2L3,4.6,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,TRIP6,4.989,global,bto:0000042
+Colon - Transverse,70-79,ZCCHC2,4.865,global,bto:0000042
+Colon - Transverse,70-79,ALKBH1,4.821,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,API5,4.996,global,bto:0000042
+Colon - Transverse,70-79,FBXW2,4.981,global,bto:0000042
+Colon - Transverse,70-79,CARD19,4.946,global,bto:0000042
+Colon - Transverse,70-79,EBAG9,4.952,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FKBP9,4.987,global,bto:0000042
+Colon - Transverse,70-79,RNF10,4.999,global,bto:0000042
+Colon - Transverse,70-79,MAP3K3,4.975,global,bto:0000042
+Colon - Transverse,70-79,PREPL,4.998,global,bto:0000042
+Colon - Transverse,70-79,POLA1,4.29,global,blood cancer cell
+Colon - Transverse,70-79,SEPHS1,4.975,global,bto:0000042
+Colon - Transverse,70-79,NUDCD3,4.991,global,bto:0000042
+Colon - Transverse,70-79,CD99L2,4.999,global,bto:0000042
+Colon - Transverse,70-79,SIRT3,4.989,global,bto:0000042
+Colon - Transverse,70-79,TGDS,4.907,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DDHD2,4.973,global,bto:0000042
+Colon - Transverse,70-79,FBXL12,4.95,global,bto:0000042
+Colon - Transverse,70-79,BORCS7,4.957,global,bto:0000042
+Colon - Transverse,70-79,SMPD4,4.994,global,bto:0000042
+Colon - Transverse,70-79,FIG4,4.975,global,bto:0000042
+Colon - Transverse,70-79,HABP4,4.939,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PIAS3,4.987,global,bto:0000042
+Colon - Transverse,70-79,THAP6,4.91,global,bto:0000042
+Colon - Transverse,70-79,HTATSF1,4.981,global,bto:0000042
+Colon - Transverse,70-79,LINC00205,1.799,global,liver cancer cell
+Colon - Transverse,70-79,GINM1,4.897,global,bto:0000042
+Colon - Transverse,70-79,IFT52,4.739,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ADPRH,4.797,global,bto:0000042
+Colon - Transverse,70-79,ANKRD54,4.947,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,SUMO2,4.999,global,bto:0000042
+Colon - Transverse,70-79,MSI2,4.957,global,bto:0000042
+Colon - Transverse,70-79,PCIF1,4.966,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FARS2,4.91,global,bto:0000042
+Colon - Transverse,70-79,LMBRD2,4.535,global,bto:0000042
+Colon - Transverse,70-79,CEP120,4.874,global,bto:0000042
+Colon - Transverse,70-79,MTFR1L,4.558,global,bto:0000042
+Colon - Transverse,70-79,TRMT13,4.35,global,bto:0000042
+Colon - Transverse,70-79,PPP3CC,4.959,global,bto:0000042
+Colon - Transverse,70-79,CLN5,4.969,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,COPZ1,4.996,global,bto:0000042
+Colon - Transverse,70-79,FOXO3,4.993,global,bto:0000042
+Colon - Transverse,70-79,ZNF542P,,,
+Colon - Transverse,70-79,POLR3GL,4.904,global,bto:0000042
+Colon - Transverse,70-79,ZMYM4,4.968,global,bto:0000042
+Colon - Transverse,70-79,MPLKIP,4.547,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DYM,4.982,global,bto:0000042
+Colon - Transverse,70-79,CDR2L,4.895,global,bto:0000042
+Colon - Transverse,70-79,RBMS2,4.967,global,bto:0000042
+Colon - Transverse,70-79,IAH1,4.94,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,ERCC6L2,4.785,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,PDAP1,4.978,global,bto:0000042
+Colon - Transverse,70-79,CHMP1A,4.994,global,bto:0000042
+Colon - Transverse,70-79,IFFO1,4.921,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,IFT20,4.978,global,bto:0000042
+Colon - Transverse,70-79,GRB10,4.975,global,bto:0000042
+Colon - Transverse,70-79,SLC10A7,4.894,global,bto:0000042
+Colon - Transverse,70-79,PRDX2,4.998,global,bto:0000042
+Colon - Transverse,70-79,TRIM62,4.933,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,APP,5.0,global,bto:0000042
+Colon - Transverse,70-79,STX4,4.967,global,bto:0000042
+Colon - Transverse,70-79,HSD17B1-AS1,,,
+Colon - Transverse,70-79,JADE1,4.983,global,bto:0000042
+Colon - Transverse,70-79,CAMTA1,4.986,global,bto:0000042
+Colon - Transverse,70-79,YIPF3,4.991,global,bto:0000042
+Colon - Transverse,70-79,RCOR3,4.973,global,bto:0000042
+Colon - Transverse,70-79,ELF2,4.973,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,MED7,4.936,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RAD50,4.976,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,KCMF1,4.962,global,bto:0000042
+Colon - Transverse,70-79,PARP6,4.978,global,bto:0000042
+Colon - Transverse,70-79,USP46,4.975,global,bto:0000042
+Colon - Transverse,70-79,FAHD2CP,,,
+Colon - Transverse,70-79,KATNBL1,4.921,global,bto:0000042
+Colon - Transverse,70-79,UTP18,4.949,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,FAM120C,4.825,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,UROS,4.972,global,bto:0000042
+Colon - Transverse,70-79,RUFY3,4.992,global,bto:0000042
+Colon - Transverse,70-79,DCTN6,4.946,global,bto:0000042
+Colon - Transverse,70-79,TBC1D23,4.977,global,bto:0000042
+Colon - Transverse,70-79,ELOF1,4.942,global,bto:0000042
+Colon - Transverse,70-79,MEX3C,4.939,global,bto:0000042
+Colon - Transverse,70-79,RING1,4.954,global,bto:0000042
+Colon - Transverse,70-79,FOXN2,4.889,global,bto:0000042
+Colon - Transverse,70-79,EIF1AY,4.386,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,VAMP4,4.95,global,bto:0000042
+Colon - Transverse,70-79,CDIN1,,,
+Colon - Transverse,70-79,TCTN1,4.976,global,bto:0000042
+Colon - Transverse,70-79,UNC50,4.954,global,bto:0000042
+Colon - Transverse,70-79,GNPTG,4.972,global,bto:0000042
+Colon - Transverse,70-79,YIPF6,4.978,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,RNASEK,4.979,global,bto:0000042
+Colon - Transverse,70-79,SCARB2,4.997,global,bto:0000042
+Colon - Transverse,70-79,DNAJC24,4.855,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,DERL2,4.946,global,bto:0000042
+Colon - Transverse,70-79,ZBTB41,4.848,global,bto:0000042
+Colon - Transverse,70-79,RBM45,4.103,global,leukemia cell
+Colon - Transverse,70-79,ABI1,4.996,global,bto:0000042
+Colon - Transverse,70-79,ARL14EP,4.472,global,bto:0000042
+Colon - Transverse,70-79,SUGP1,4.99,global,"tissues, cell types and enzyme sources"
+Colon - Transverse,70-79,XPO7,4.984,global,bto:0000042
+Colon - Transverse,70-79,ZNF576,4.802,global,bto:0000042
+Colon - Transverse,70-79,ZNF641,4.895,global,bto:0000042
+Colon - Transverse,70-79,TAB1,4.98,global,bto:0000042

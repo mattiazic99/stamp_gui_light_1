@@ -1,0 +1,117 @@
+tissue,age_group,gene_symbol,confidence_extended,match_type_extended,best_tissue_extended
+Heart - Left Ventricle,30-39,ACAA1,1.905,exact,heart ventricle
+Heart - Left Ventricle,30-39,ATP5F1C,3.44,exact,heart ventricle
+Heart - Left Ventricle,30-39,ZNF174,1.622,exact,heart
+Heart - Left Ventricle,30-39,CYC1,3.026,exact,heart ventricle
+Heart - Left Ventricle,30-39,NDUFA8,2.663,exact,heart ventricle
+Heart - Left Ventricle,30-39,UQCRFS1,3.299,exact,heart ventricle
+Heart - Left Ventricle,30-39,NMNAT3,0.897,exact,heart ventricle
+Heart - Left Ventricle,30-39,IMMT,3.932,exact,heart ventricle
+Heart - Left Ventricle,30-39,DET1,1.211,exact,heart
+Heart - Left Ventricle,30-39,NDUFAF6,1.127,exact,heart ventricle
+Heart - Left Ventricle,30-39,PCCA-DT,,,
+Heart - Left Ventricle,30-39,C22ORF39,0.649,exact,heart
+Heart - Left Ventricle,30-39,NFYC,0.69,exact,heart ventricle
+Heart - Left Ventricle,30-39,SNRPC,0.74,exact,heart ventricle
+Heart - Left Ventricle,30-39,DECR1,4.086,exact,heart ventricle
+Heart - Left Ventricle,30-39,TMEM203,1.779,exact,heart
+Heart - Left Ventricle,30-39,HIGD2A,0.994,exact,heart ventricle
+Heart - Left Ventricle,30-39,MAIP1,0.885,exact,heart ventricle
+Heart - Left Ventricle,30-39,TNNC1,4.1,exact,heart ventricle
+Heart - Left Ventricle,30-39,MOCS2,0.805,exact,heart ventricle
+Heart - Left Ventricle,30-39,ISCU,1.776,exact,heart ventricle
+Heart - Left Ventricle,30-39,PDHA1,3.654,exact,heart ventricle
+Heart - Left Ventricle,30-39,MECR,1.332,exact,heart ventricle
+Heart - Left Ventricle,30-39,DGLUCY,2.672,exact,heart ventricle
+Heart - Left Ventricle,30-39,FHIT,1.003,exact,heart ventricle
+Heart - Left Ventricle,30-39,COMMD3,0.829,exact,heart ventricle
+Heart - Left Ventricle,30-39,C6ORF136,0.715,exact,heart ventricle
+Heart - Left Ventricle,30-39,GSTK1,2.55,exact,heart ventricle
+Heart - Left Ventricle,30-39,KAT14,1.414,exact,heart
+Heart - Left Ventricle,30-39,NDUFB5,1.942,exact,heart ventricle
+Heart - Left Ventricle,30-39,COQ9,2.663,exact,heart ventricle
+Heart - Left Ventricle,30-39,ABCB7,1.083,exact,heart ventricle
+Heart - Left Ventricle,30-39,SLC25A3,3.28,exact,heart ventricle
+Heart - Left Ventricle,30-39,GALT,0.888,exact,heart ventricle
+Heart - Left Ventricle,30-39,MRPS7,1.499,exact,heart ventricle
+Heart - Left Ventricle,30-39,SUCLG1,3.298,exact,heart ventricle
+Heart - Left Ventricle,30-39,RSAD1,1.704,exact,heart
+Heart - Left Ventricle,30-39,LIPT2,1.122,exact,heart
+Heart - Left Ventricle,30-39,PPIF,3.264,exact,heart ventricle
+Heart - Left Ventricle,30-39,CTNNBIP1,0.636,exact,heart ventricle
+Heart - Left Ventricle,30-39,ATP5F1A,5.0,exact,heart ventricle
+Heart - Left Ventricle,30-39,HDDC2,1.021,exact,heart ventricle
+Heart - Left Ventricle,30-39,OXSM,1.159,exact,heart ventricle
+Heart - Left Ventricle,30-39,UBE2D4,1.729,exact,heart
+Heart - Left Ventricle,30-39,NDUFA10,2.935,exact,heart ventricle
+Heart - Left Ventricle,30-39,MRPL16,0.879,exact,heart ventricle
+Heart - Left Ventricle,30-39,COPS5,1.118,exact,heart ventricle
+Heart - Left Ventricle,30-39,NDUFAF5,0.914,exact,heart ventricle
+Heart - Left Ventricle,30-39,HADH,4.235,exact,heart ventricle
+Heart - Left Ventricle,30-39,VDAC3,2.556,exact,heart ventricle
+Heart - Left Ventricle,30-39,SDHA,4.135,exact,heart ventricle
+Heart - Left Ventricle,30-39,HIBCH,1.613,exact,heart ventricle
+Heart - Left Ventricle,30-39,SDHB,3.608,exact,heart ventricle
+Heart - Left Ventricle,30-39,MFF,2.266,exact,heart ventricle
+Heart - Left Ventricle,30-39,MGST3,0.941,exact,heart ventricle
+Heart - Left Ventricle,30-39,ACAD8,1.447,exact,heart ventricle
+Heart - Left Ventricle,30-39,SLC25A4,4.863,exact,heart ventricle
+Heart - Left Ventricle,30-39,COQ5,1.573,exact,heart ventricle
+Heart - Left Ventricle,30-39,DUSP28,1.138,exact,heart ventricle
+Heart - Left Ventricle,30-39,PRDX2,3.39,exact,heart ventricle
+Heart - Left Ventricle,30-39,RNF5,0.649,exact,heart ventricle
+Heart - Left Ventricle,30-39,COX10,0.922,exact,heart ventricle
+Heart - Left Ventricle,30-39,COQ6,1.659,exact,heart ventricle
+Heart - Left Ventricle,30-39,THAP11,1.699,exact,heart
+Heart - Left Ventricle,30-39,MRPL10,0.842,exact,heart ventricle
+Heart - Left Ventricle,30-39,UQCRC1,4.314,exact,heart ventricle
+Heart - Left Ventricle,30-39,MRPS9,1.092,exact,heart ventricle
+Heart - Left Ventricle,30-39,HIBADH,2.3,exact,heart ventricle
+Heart - Left Ventricle,30-39,AS3MT,0.884,exact,heart ventricle
+Heart - Left Ventricle,30-39,AIFM1,3.467,exact,heart ventricle
+Heart - Left Ventricle,30-39,ADSS1,1.907,exact,heart ventricle
+Heart - Left Ventricle,30-39,ATP5PB,4.08,exact,heart ventricle
+Heart - Left Ventricle,30-39,OXA1L,1.437,exact,heart ventricle
+Heart - Left Ventricle,30-39,TMEM126A,1.019,exact,heart ventricle
+Heart - Left Ventricle,30-39,GLRX5,1.084,exact,heart ventricle
+Heart - Left Ventricle,30-39,TPCN1,0.724,exact,heart ventricle
+Heart - Left Ventricle,30-39,IDH3B,2.518,exact,heart ventricle
+Heart - Left Ventricle,30-39,MDH1,,,
+Heart - Left Ventricle,30-39,MFSD3,0.58,exact,heart
+Heart - Left Ventricle,30-39,NDUFB6,2.288,exact,heart ventricle
+Heart - Left Ventricle,30-39,SLC25A11,2.73,exact,heart ventricle
+Heart - Left Ventricle,30-39,COQ3,1.231,exact,heart ventricle
+Heart - Left Ventricle,30-39,CWC15,0.713,exact,heart ventricle
+Heart - Left Ventricle,30-39,RAB3A,0.789,exact,heart ventricle
+Heart - Left Ventricle,30-39,BZW2,1.184,exact,heart ventricle
+Heart - Left Ventricle,30-39,FH,4.008,exact,heart ventricle
+Heart - Left Ventricle,30-39,HIGD1B,2.059,exact,heart
+Heart - Left Ventricle,30-39,LINC00526,1.403,global,tr-146 cell
+Heart - Left Ventricle,30-39,MRPS18B,1.022,exact,heart ventricle
+Heart - Left Ventricle,30-39,DCAF11,0.784,exact,heart ventricle
+Heart - Left Ventricle,30-39,ALDH2,3.857,exact,heart ventricle
+Heart - Left Ventricle,30-39,TNNT2,5.0,exact,heart ventricle
+Heart - Left Ventricle,30-39,APOO,1.397,exact,heart ventricle
+Heart - Left Ventricle,30-39,TMEM14B,2.642,exact,heart
+Heart - Left Ventricle,30-39,TBX5,2.75,exact,heart ventricle
+Heart - Left Ventricle,30-39,SPRYD4,0.995,exact,heart ventricle
+Heart - Left Ventricle,30-39,TLE5,1.289,exact,heart ventricle
+Heart - Left Ventricle,30-39,VDAC1,3.818,exact,heart ventricle
+Heart - Left Ventricle,30-39,ATP5MC3,3.284,exact,heart
+Heart - Left Ventricle,30-39,ATP5F1B,5.0,exact,heart ventricle
+Heart - Left Ventricle,30-39,ANAPC15,1.377,exact,heart
+Heart - Left Ventricle,30-39,NDUFA9,3.009,exact,heart ventricle
+Heart - Left Ventricle,40-49,GLRX5,1.084,exact,heart ventricle
+Heart - Left Ventricle,40-49,COX10,0.922,exact,heart ventricle
+Heart - Left Ventricle,40-49,ACAA1,1.905,exact,heart ventricle
+Heart - Left Ventricle,40-49,MT-ND4L,0.676,exact,heart ventricle
+Heart - Left Ventricle,40-49,MRPL10,0.842,exact,heart ventricle
+Heart - Left Ventricle,50-59,MT-ND4L,0.676,exact,heart ventricle
+Heart - Left Ventricle,60-69,MT-ND4L,0.676,exact,heart ventricle
+Heart - Left Ventricle,60-69,MT-CYB,2.055,exact,heart ventricle
+Heart - Left Ventricle,70-79,MT-ND1,1.758,exact,heart ventricle
+Heart - Left Ventricle,70-79,MT-ND4L,0.676,exact,heart ventricle
+Heart - Left Ventricle,70-79,MT-ND2,1.141,exact,heart ventricle
+Heart - Left Ventricle,70-79,MT-CO1,2.082,exact,heart ventricle
+Heart - Left Ventricle,70-79,MT-ND4,1.111,exact,heart ventricle
+Heart - Left Ventricle,70-79,MT-CYB,2.055,exact,heart ventricle

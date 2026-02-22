@@ -1,0 +1,1319 @@
+tissue,age_group,gene_symbol,confidence_extended,match_type_extended,best_tissue_extended
+Artery - Tibial,30-39,SPIN2B,4.873,global,bto:0000042
+Artery - Tibial,30-39,STK24,1.408,exact,artery
+Artery - Tibial,30-39,PRR12,4.829,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,AP2M1,0.909,exact,artery
+Artery - Tibial,30-39,SPECC1L,0.816,exact,artery
+Artery - Tibial,30-39,SCAP,1.41,exact,artery
+Artery - Tibial,30-39,PARD3,0.847,exact,artery
+Artery - Tibial,30-39,RAC1,1.812,exact,artery
+Artery - Tibial,30-39,EIF3A,5.0,global,bto:0000042
+Artery - Tibial,30-39,MRPS2,4.978,global,bto:0000042
+Artery - Tibial,30-39,C17ORF80,4.932,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,TIRAP,1.548,exact,artery
+Artery - Tibial,30-39,TMEM230,4.993,global,bto:0000042
+Artery - Tibial,30-39,GTF2I,1.151,exact,artery
+Artery - Tibial,30-39,PREP,1.516,exact,artery
+Artery - Tibial,30-39,GATB,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,GTF3C1,0.927,exact,artery
+Artery - Tibial,30-39,POLR3GL,4.904,global,bto:0000042
+Artery - Tibial,30-39,CDIPT,0.845,exact,artery
+Artery - Tibial,30-39,VPS11,1.16,exact,artery
+Artery - Tibial,30-39,CSDE1,1.006,exact,artery
+Artery - Tibial,30-39,ZRANB1,4.958,global,bto:0000042
+Artery - Tibial,30-39,ERBIN,0.729,exact,artery
+Artery - Tibial,30-39,CCDC107,4.742,global,bto:0000042
+Artery - Tibial,30-39,KPNA6,4.994,global,bto:0000042
+Artery - Tibial,30-39,PCCA,1.052,exact,artery
+Artery - Tibial,30-39,COQ9,1.096,exact,artery
+Artery - Tibial,30-39,STARD13,1.133,exact,artery
+Artery - Tibial,30-39,JAM3,1.651,exact,artery
+Artery - Tibial,30-39,NGRN,0.622,exact,artery
+Artery - Tibial,30-39,ING4,0.691,exact,artery
+Artery - Tibial,30-39,CNOT10,4.965,global,bto:0000042
+Artery - Tibial,30-39,LINC00674,1.988,global,nci-h441 cell
+Artery - Tibial,30-39,NUDCD3,4.991,global,bto:0000042
+Artery - Tibial,30-39,HMGCL,0.878,exact,artery
+Artery - Tibial,30-39,CAPRIN1,4.998,global,bto:0000042
+Artery - Tibial,30-39,ATP5F1A,1.341,exact,artery
+Artery - Tibial,30-39,DDB1,1.069,exact,artery
+Artery - Tibial,30-39,SUPT4H1,4.984,global,bto:0000042
+Artery - Tibial,30-39,ZFAND3,4.983,global,bto:0000042
+Artery - Tibial,30-39,PYGO2,4.951,global,bto:0000042
+Artery - Tibial,30-39,NCOA6,0.904,exact,artery
+Artery - Tibial,30-39,PHAF1,,,
+Artery - Tibial,30-39,BAZ1B,0.997,exact,artery
+Artery - Tibial,30-39,BMERB1,0.971,exact,artery
+Artery - Tibial,30-39,ASB8,4.969,global,bto:0000042
+Artery - Tibial,30-39,KEAP1,2.491,exact,artery
+Artery - Tibial,30-39,SMIM7,4.984,global,bto:0000042
+Artery - Tibial,30-39,UBL7,4.98,global,bto:0000042
+Artery - Tibial,30-39,MBTPS1,1.172,exact,artery
+Artery - Tibial,30-39,KIAA1191,4.976,global,bto:0000042
+Artery - Tibial,30-39,PPP2R5D,0.81,exact,artery
+Artery - Tibial,30-39,BSG,2.119,exact,artery
+Artery - Tibial,30-39,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,NSD1,1.072,exact,artery
+Artery - Tibial,30-39,ZC3HC1,1.372,exact,artery
+Artery - Tibial,30-39,HIBADH,0.57,exact,artery
+Artery - Tibial,30-39,VPS33A,4.931,global,bto:0000042
+Artery - Tibial,30-39,FARS2,4.91,global,bto:0000042
+Artery - Tibial,30-39,MRM2,4.832,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,PHF14,4.952,global,bto:0000042
+Artery - Tibial,30-39,DYRK1A,1.317,exact,artery
+Artery - Tibial,30-39,MINDY3,4.0,exact,artery
+Artery - Tibial,30-39,ATP6V1H,4.995,global,bto:0000042
+Artery - Tibial,30-39,CHD4,1.357,exact,artery
+Artery - Tibial,30-39,RFC1,4.974,global,bto:0000042
+Artery - Tibial,30-39,MTMR12,4.929,global,bto:0000042
+Artery - Tibial,30-39,WASHC5,4.98,global,bto:0000042
+Artery - Tibial,30-39,GNB1,0.896,exact,artery
+Artery - Tibial,30-39,PSMD11,0.888,exact,artery
+Artery - Tibial,30-39,PGM5,0.87,exact,artery
+Artery - Tibial,30-39,KDSR,0.889,exact,artery
+Artery - Tibial,30-39,ATP6V0E1,4.994,global,bto:0000042
+Artery - Tibial,30-39,PCMT1,4.995,global,bto:0000042
+Artery - Tibial,30-39,SMARCAL1,1.065,exact,artery
+Artery - Tibial,30-39,TRAPPC10,0.521,exact,artery
+Artery - Tibial,30-39,SNAPIN,0.594,exact,artery
+Artery - Tibial,30-39,WDR25,4.261,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,PERP,1.008,exact,artery
+Artery - Tibial,30-39,PEBP1,1.242,exact,artery
+Artery - Tibial,30-39,ERAL1,4.99,global,bto:0000042
+Artery - Tibial,30-39,AP2A1,4.976,global,bto:0000042
+Artery - Tibial,30-39,CPTP,4.914,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,SAP18,4.995,global,bto:0000042
+Artery - Tibial,30-39,DCTN5,4.988,global,bto:0000042
+Artery - Tibial,30-39,GTPBP6,4.956,global,bto:0000042
+Artery - Tibial,30-39,DDA1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,GOLGA7,4.995,global,bto:0000042
+Artery - Tibial,30-39,ENSG00000278730,,,
+Artery - Tibial,30-39,PRPF18,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,NRDE2,4.627,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,CTNNA1,1.192,exact,artery
+Artery - Tibial,30-39,RAD51C,1.019,exact,artery
+Artery - Tibial,30-39,UBE3C,4.984,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,ARFRP1,4.967,global,bto:0000042
+Artery - Tibial,30-39,SLC25A23,0.606,exact,artery
+Artery - Tibial,30-39,NDUFA8,0.708,exact,artery
+Artery - Tibial,30-39,MRPL44,4.96,global,bto:0000042
+Artery - Tibial,30-39,NCOR1,1.633,exact,artery
+Artery - Tibial,30-39,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,CHRAC1,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,DYNC1H1,0.649,exact,artery
+Artery - Tibial,30-39,ATL1,0.814,exact,artery
+Artery - Tibial,30-39,KLHL20,4.958,global,bto:0000042
+Artery - Tibial,30-39,RAB11B,1.368,exact,artery
+Artery - Tibial,30-39,CYFIP1,0.69,exact,artery
+Artery - Tibial,30-39,WASHC2A,4.931,global,bto:0000042
+Artery - Tibial,30-39,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,NUP62,0.594,exact,artery
+Artery - Tibial,30-39,DNAJB12,4.978,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,VPS35L,4.987,global,bto:0000042
+Artery - Tibial,30-39,ARID1B,1.139,exact,artery
+Artery - Tibial,30-39,PAIP2,4.993,global,bto:0000042
+Artery - Tibial,30-39,LARP1,0.688,exact,artery
+Artery - Tibial,30-39,MFSD11,0.603,exact,artery
+Artery - Tibial,30-39,TMEM131,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,DYRK1B,0.61,exact,artery
+Artery - Tibial,30-39,PRDM2,1.137,exact,artery
+Artery - Tibial,30-39,BPNT1,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,GIPC1,1.517,exact,artery
+Artery - Tibial,30-39,ZNF34,4.579,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,PFKM,1.606,exact,artery
+Artery - Tibial,30-39,ANXA11,0.947,exact,artery
+Artery - Tibial,30-39,CYB5R1,1.169,exact,artery
+Artery - Tibial,30-39,USP5,0.587,exact,artery
+Artery - Tibial,30-39,RNF14,4.98,global,bto:0000042
+Artery - Tibial,30-39,CLN3,0.946,exact,artery
+Artery - Tibial,30-39,ACADM,1.692,exact,artery
+Artery - Tibial,30-39,MTFR1L,4.558,global,bto:0000042
+Artery - Tibial,30-39,CNBP,1.021,exact,artery
+Artery - Tibial,30-39,ATRX,1.641,exact,artery
+Artery - Tibial,30-39,TXN2,2.01,exact,artery
+Artery - Tibial,30-39,POLR3K,4.881,global,bto:0000042
+Artery - Tibial,30-39,GPATCH3,4.974,global,bto:0000042
+Artery - Tibial,30-39,EIF2D,4.975,global,bto:0000042
+Artery - Tibial,30-39,CMAS,4.978,global,bto:0000042
+Artery - Tibial,30-39,DCP1B,4.921,global,bto:0000042
+Artery - Tibial,30-39,NELFB,0.509,exact,artery
+Artery - Tibial,30-39,RAB5B,0.702,exact,artery
+Artery - Tibial,30-39,C6ORF89,4.988,global,bto:0000042
+Artery - Tibial,30-39,ZNF532,4.97,global,bto:0000042
+Artery - Tibial,30-39,GPS1,0.841,exact,artery
+Artery - Tibial,30-39,LSM14A,4.477,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,FAF1,0.776,exact,artery
+Artery - Tibial,30-39,LRRC47,4.857,global,bto:0000042
+Artery - Tibial,30-39,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,CDC42BPB,4.985,global,bto:0000042
+Artery - Tibial,30-39,CCDC61,4.795,global,bto:0000042
+Artery - Tibial,30-39,MRPL45,4.971,global,bto:0000042
+Artery - Tibial,30-39,RANBP3,4.991,global,bto:0000042
+Artery - Tibial,30-39,DNAAF9,,,
+Artery - Tibial,30-39,INTS14,4.98,global,bto:0000042
+Artery - Tibial,30-39,ZFR,4.974,global,bto:0000042
+Artery - Tibial,30-39,OCRL,0.584,exact,artery
+Artery - Tibial,30-39,MAP2K5,1.598,exact,artery
+Artery - Tibial,30-39,ZC4H2,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,RAD23B,0.732,exact,artery
+Artery - Tibial,30-39,FH,1.463,exact,artery
+Artery - Tibial,30-39,NPLOC4,4.993,global,bto:0000042
+Artery - Tibial,30-39,ESS2,1.205,exact,artery
+Artery - Tibial,30-39,VPS51,1.221,exact,artery
+Artery - Tibial,30-39,ACO2,1.878,exact,artery
+Artery - Tibial,30-39,DYNC1LI2,4.995,global,bto:0000042
+Artery - Tibial,30-39,FBXW5,4.992,global,bto:0000042
+Artery - Tibial,30-39,ZNF212,4.966,global,bto:0000042
+Artery - Tibial,30-39,HERPUD2,4.952,global,bto:0000042
+Artery - Tibial,30-39,EXOC7,0.89,exact,artery
+Artery - Tibial,30-39,LENG1,4.498,global,bto:0000042
+Artery - Tibial,30-39,SNX15,4.92,global,bto:0000042
+Artery - Tibial,30-39,USP7,1.224,exact,artery
+Artery - Tibial,30-39,USP39,4.987,global,bto:0000042
+Artery - Tibial,30-39,RTF2,4.995,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,GIGYF2,4.989,global,bto:0000042
+Artery - Tibial,30-39,BUD13,1.037,exact,artery
+Artery - Tibial,30-39,CHERP,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,NME6,4.0,exact,artery
+Artery - Tibial,30-39,SRSF8,4.263,global,bto:0000042
+Artery - Tibial,30-39,FECH,1.25,exact,artery
+Artery - Tibial,30-39,FBXO8,0.974,exact,artery
+Artery - Tibial,30-39,CZIB,4.951,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,PIGC,0.73,exact,artery
+Artery - Tibial,30-39,HBS1L,0.798,exact,artery
+Artery - Tibial,30-39,TGOLN2,0.918,exact,artery
+Artery - Tibial,30-39,SNRPD3,4.975,global,bto:0000042
+Artery - Tibial,30-39,TTC27,4.75,global,bto:0000042
+Artery - Tibial,30-39,ACAT1,1.247,exact,artery
+Artery - Tibial,30-39,SBF2,4.976,global,bto:0000042
+Artery - Tibial,30-39,MINDY1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,ADD1,1.717,exact,artery
+Artery - Tibial,30-39,CYHR1,4.957,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,HLCS,4.935,global,bto:0000042
+Artery - Tibial,30-39,ADCK2,4.933,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,TMEM41A,4.951,global,bto:0000042
+Artery - Tibial,30-39,POLA1,0.662,exact,artery
+Artery - Tibial,30-39,KDM4A,1.239,exact,artery
+Artery - Tibial,30-39,CLASP1,4.965,global,bto:0000042
+Artery - Tibial,30-39,DMAC2,4.995,global,bto:0000042
+Artery - Tibial,30-39,UBP1,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,DYNC1LI1,4.0,exact,artery
+Artery - Tibial,30-39,ANKRD17,0.505,exact,artery
+Artery - Tibial,30-39,GNPAT,0.523,exact,artery
+Artery - Tibial,30-39,ATG5,2.255,exact,artery
+Artery - Tibial,30-39,POLL,0.704,exact,artery
+Artery - Tibial,30-39,ATG16L1,1.573,exact,artery
+Artery - Tibial,30-39,DCAF6,4.993,global,bto:0000042
+Artery - Tibial,30-39,NFATC3,2.055,exact,artery
+Artery - Tibial,30-39,ZDHHC4,0.815,exact,artery
+Artery - Tibial,30-39,TPRG1L,4.961,global,bto:0000042
+Artery - Tibial,30-39,SORBS1,1.188,exact,artery
+Artery - Tibial,30-39,PUF60,0.551,exact,artery
+Artery - Tibial,30-39,ASMTL,4.984,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,VPS45,4.988,global,bto:0000042
+Artery - Tibial,30-39,RTN3,0.641,exact,artery
+Artery - Tibial,30-39,RPP38,4.817,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,ARHGEF18,0.66,exact,artery
+Artery - Tibial,30-39,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,TMEM254,4.979,global,bto:0000042
+Artery - Tibial,30-39,RALGAPB,4.976,global,bto:0000042
+Artery - Tibial,30-39,ARID1A,1.424,exact,artery
+Artery - Tibial,30-39,TMEM248,4.99,global,bto:0000042
+Artery - Tibial,30-39,FTO,1.937,exact,artery
+Artery - Tibial,30-39,UNC45A,0.641,exact,artery
+Artery - Tibial,30-39,ZNF394,4.95,global,bto:0000042
+Artery - Tibial,30-39,RABEP1,4.983,global,bto:0000042
+Artery - Tibial,30-39,TMBIM6,1.296,exact,artery
+Artery - Tibial,30-39,MSRB2,1.018,exact,artery
+Artery - Tibial,30-39,WNK1,1.617,exact,artery
+Artery - Tibial,30-39,ZNF582,4.833,global,bto:0000042
+Artery - Tibial,30-39,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,CBY1,0.972,exact,artery
+Artery - Tibial,30-39,STAU1,0.726,exact,artery
+Artery - Tibial,30-39,SARM1,1.216,exact,artery
+Artery - Tibial,30-39,EIF2AK4,1.813,exact,artery
+Artery - Tibial,30-39,HAGH,1.129,exact,artery
+Artery - Tibial,30-39,PWWP2A,0.652,exact,artery
+Artery - Tibial,30-39,MRPS9,4.963,global,bto:0000042
+Artery - Tibial,30-39,ST3GAL3,4.951,global,bto:0000042
+Artery - Tibial,30-39,TRAPPC12,4.972,global,bto:0000042
+Artery - Tibial,30-39,ACOT8,0.688,exact,artery
+Artery - Tibial,30-39,NNT,1.467,exact,artery
+Artery - Tibial,30-39,RDH14,4.898,global,bto:0000042
+Artery - Tibial,30-39,FAIM,4.962,global,bto:0000042
+Artery - Tibial,30-39,BIRC6,0.737,exact,artery
+Artery - Tibial,30-39,THRAP3,4.978,global,bto:0000042
+Artery - Tibial,30-39,AMBRA1,1.162,exact,artery
+Artery - Tibial,30-39,DENND1A,4.0,exact,artery
+Artery - Tibial,30-39,CTCF,2.242,exact,artery
+Artery - Tibial,30-39,PARG,1.22,exact,artery
+Artery - Tibial,30-39,URGCP,4.99,global,bto:0000042
+Artery - Tibial,30-39,SLC4A1AP,4.963,global,bto:0000042
+Artery - Tibial,30-39,GTF2H1,4.986,global,bto:0000042
+Artery - Tibial,30-39,NR1H2,1.253,exact,artery
+Artery - Tibial,30-39,TRAPPC9,5.0,global,alimentary canal
+Artery - Tibial,30-39,PEF1,0.507,exact,artery
+Artery - Tibial,30-39,RNF34,0.617,exact,artery
+Artery - Tibial,30-39,KCTD5,4.967,global,bto:0000042
+Artery - Tibial,30-39,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,RAB1B,0.63,exact,artery
+Artery - Tibial,30-39,MECP2,1.943,exact,artery
+Artery - Tibial,30-39,AMZ2,4.987,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,TNPO3,4.99,global,bto:0000042
+Artery - Tibial,30-39,FBXW2,1.215,exact,artery
+Artery - Tibial,30-39,TK2,1.561,exact,artery
+Artery - Tibial,30-39,YJU2,4.944,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,GLYR1,0.707,exact,artery
+Artery - Tibial,30-39,LIMS2,0.927,exact,artery
+Artery - Tibial,30-39,RBM42,4.991,global,bto:0000042
+Artery - Tibial,30-39,RTL8A,4.778,global,bto:0000042
+Artery - Tibial,30-39,RAB3GAP1,0.644,exact,artery
+Artery - Tibial,30-39,RAD17,1.539,exact,artery
+Artery - Tibial,30-39,LHPP,4.985,global,bto:0000042
+Artery - Tibial,30-39,XRCC6,1.674,exact,artery
+Artery - Tibial,30-39,SEC22C,4.961,global,bto:0000042
+Artery - Tibial,30-39,RYK,1.243,exact,artery
+Artery - Tibial,30-39,TPGS2,4.993,global,bto:0000042
+Artery - Tibial,30-39,KLHL12,4.978,global,bto:0000042
+Artery - Tibial,30-39,LRP10,4.0,exact,artery
+Artery - Tibial,30-39,SUCLA2,1.007,exact,artery
+Artery - Tibial,30-39,FBH1,4.986,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,ZSCAN21,4.927,global,bto:0000042
+Artery - Tibial,30-39,TRIP4,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,THOC2,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,TRIOBP,0.865,exact,artery
+Artery - Tibial,30-39,KAT5,1.441,exact,artery
+Artery - Tibial,30-39,ZNF219,4.939,global,bto:0000042
+Artery - Tibial,30-39,RAE1,4.992,global,bto:0000042
+Artery - Tibial,30-39,ATP6V0D1,0.526,exact,artery
+Artery - Tibial,30-39,TCEA2,4.976,global,bto:0000042
+Artery - Tibial,30-39,MAP1S,1.95,exact,artery
+Artery - Tibial,30-39,SRP14,0.818,exact,artery
+Artery - Tibial,30-39,APC,1.3,exact,artery
+Artery - Tibial,30-39,WDR1,0.865,exact,artery
+Artery - Tibial,30-39,KAT14,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,VPS39,4.983,global,bto:0000042
+Artery - Tibial,30-39,OPTN,1.786,exact,artery
+Artery - Tibial,30-39,HDHD2,4.97,global,bto:0000042
+Artery - Tibial,30-39,FRG1CP,,,
+Artery - Tibial,30-39,CAMKMT,0.99,exact,artery
+Artery - Tibial,30-39,EXOC4,0.541,exact,artery
+Artery - Tibial,30-39,STAT6,2.143,exact,artery
+Artery - Tibial,30-39,TRAPPC6B,4.961,global,bto:0000042
+Artery - Tibial,30-39,ENSA,4.0,exact,artery
+Artery - Tibial,30-39,ARMH3,4.493,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,SMG6,1.127,exact,artery
+Artery - Tibial,30-39,GMPR2,4.981,global,bto:0000042
+Artery - Tibial,30-39,TBC1D17,4.987,global,bto:0000042
+Artery - Tibial,30-39,MCAM,4.466,exact,artery
+Artery - Tibial,30-39,GMEB1,4.908,global,bto:0000042
+Artery - Tibial,30-39,UVRAG,1.109,exact,artery
+Artery - Tibial,30-39,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,RRAGA,0.867,exact,artery
+Artery - Tibial,30-39,ATP6V1D,4.989,global,bto:0000042
+Artery - Tibial,30-39,DHX8,0.553,exact,artery
+Artery - Tibial,30-39,C7ORF25,4.822,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,NBR1,1.079,exact,artery
+Artery - Tibial,30-39,FAM114A2,4.956,global,bto:0000042
+Artery - Tibial,30-39,NDUFAF1,0.697,exact,artery
+Artery - Tibial,30-39,WASHC2C,4.409,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,TMEM245,4.987,global,bto:0000042
+Artery - Tibial,30-39,CNOT1,1.109,exact,artery
+Artery - Tibial,30-39,ZBTB7A,0.771,exact,artery
+Artery - Tibial,30-39,ACTR1A,0.511,exact,artery
+Artery - Tibial,30-39,ESAM,2.116,exact,artery
+Artery - Tibial,30-39,MRPL57,4.888,global,bto:0000042
+Artery - Tibial,30-39,RAB2A,0.966,exact,artery
+Artery - Tibial,30-39,BICRAL,4.508,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,FAM104A,4.907,global,bto:0000042
+Artery - Tibial,30-39,ZNF16,4.849,global,bto:0000042
+Artery - Tibial,30-39,RNF5,4.961,global,bto:0000042
+Artery - Tibial,30-39,KRCC1,4.48,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,XRCC1,1.408,exact,artery
+Artery - Tibial,30-39,ACTR8,4.952,global,bto:0000042
+Artery - Tibial,30-39,CCDC28A,4.744,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,L3MBTL2,4.96,global,bto:0000042
+Artery - Tibial,30-39,TBC1D13,4.978,global,bto:0000042
+Artery - Tibial,30-39,HECTD1,0.825,exact,artery
+Artery - Tibial,30-39,WDR7,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,DNASE2,0.908,exact,artery
+Artery - Tibial,30-39,N4BP1,4.977,global,bto:0000042
+Artery - Tibial,30-39,ZNF580,0.959,exact,artery
+Artery - Tibial,30-39,VPS41,4.98,global,bto:0000042
+Artery - Tibial,30-39,ZNF544,4.963,global,bto:0000042
+Artery - Tibial,30-39,MPND,4.842,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,RTL8B,3.825,global,bto:0000042
+Artery - Tibial,30-39,MUL1,1.138,exact,artery
+Artery - Tibial,30-39,ANKRD27,4.931,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,30-39,DOCK1,1.199,exact,artery
+Artery - Tibial,30-39,TRAF3IP1,0.522,exact,artery
+Artery - Tibial,30-39,PPP1R11,4.988,global,bto:0000042
+Artery - Tibial,30-39,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Artery - Tibial,30-39,SS18,0.828,exact,artery
+Artery - Tibial,30-39,ZDHHC3,4.982,global,bto:0000042
+Artery - Tibial,30-39,SRPK2,4.987,global,bto:0000042
+Artery - Tibial,30-39,CCNDBP1,0.574,exact,artery
+Artery - Tibial,30-39,VPS18,0.592,exact,artery
+Artery - Tibial,30-39,TBC1D14,4.971,global,bto:0000042
+Artery - Tibial,30-39,MTRES1,4.622,global,bto:0000042
+Artery - Tibial,30-39,DNAJC8,4.991,global,bto:0000042
+Artery - Tibial,30-39,ZNF142,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,FBH1,4.986,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,ZSCAN21,4.927,global,bto:0000042
+Artery - Tibial,40-49,SRSF8,4.263,global,bto:0000042
+Artery - Tibial,40-49,STK24,1.408,exact,artery
+Artery - Tibial,40-49,TRIP4,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,FECH,1.25,exact,artery
+Artery - Tibial,40-49,RAD51C,1.019,exact,artery
+Artery - Tibial,40-49,UBE3C,4.984,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,ARFRP1,4.967,global,bto:0000042
+Artery - Tibial,40-49,PRR12,4.829,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,FBXO8,0.974,exact,artery
+Artery - Tibial,40-49,AP2M1,0.909,exact,artery
+Artery - Tibial,40-49,SPECC1L,0.816,exact,artery
+Artery - Tibial,40-49,SCAP,1.41,exact,artery
+Artery - Tibial,40-49,PIGC,0.73,exact,artery
+Artery - Tibial,40-49,HBS1L,0.798,exact,artery
+Artery - Tibial,40-49,TMED10,0.55,exact,artery
+Artery - Tibial,40-49,THOC2,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,HNRNPA2B1,1.461,exact,artery
+Artery - Tibial,40-49,NDUFA8,0.708,exact,artery
+Artery - Tibial,40-49,SNRPD3,4.975,global,bto:0000042
+Artery - Tibial,40-49,TGOLN2,0.918,exact,artery
+Artery - Tibial,40-49,GBA2,0.658,exact,artery
+Artery - Tibial,40-49,TRIOBP,0.865,exact,artery
+Artery - Tibial,40-49,MRPL44,4.96,global,bto:0000042
+Artery - Tibial,40-49,EIF3A,5.0,global,bto:0000042
+Artery - Tibial,40-49,MRPS2,4.978,global,bto:0000042
+Artery - Tibial,40-49,NCOR1,1.633,exact,artery
+Artery - Tibial,40-49,C17ORF80,4.932,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,TIRAP,1.548,exact,artery
+Artery - Tibial,40-49,TMEM230,4.993,global,bto:0000042
+Artery - Tibial,40-49,SNX1,0.577,exact,artery
+Artery - Tibial,40-49,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,CHRAC1,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,GTF2I,1.151,exact,artery
+Artery - Tibial,40-49,MUTYH,1.413,exact,artery
+Artery - Tibial,40-49,DYNC1H1,0.649,exact,artery
+Artery - Tibial,40-49,GATB,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,ATL1,0.814,exact,artery
+Artery - Tibial,40-49,SBF2,4.976,global,bto:0000042
+Artery - Tibial,40-49,GTF3C1,0.927,exact,artery
+Artery - Tibial,40-49,POLR3GL,4.904,global,bto:0000042
+Artery - Tibial,40-49,PREP,1.516,exact,artery
+Artery - Tibial,40-49,MIEF2,1.569,exact,artery
+Artery - Tibial,40-49,KLHL20,4.958,global,bto:0000042
+Artery - Tibial,40-49,KAT5,1.441,exact,artery
+Artery - Tibial,40-49,CTBP1,1.35,exact,artery
+Artery - Tibial,40-49,MINDY1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,PSMD10,4.986,global,bto:0000042
+Artery - Tibial,40-49,CYFIP1,0.69,exact,artery
+Artery - Tibial,40-49,ADD1,1.717,exact,artery
+Artery - Tibial,40-49,CSDE1,1.006,exact,artery
+Artery - Tibial,40-49,CHD6,0.823,exact,artery
+Artery - Tibial,40-49,ATP6V0D1,0.526,exact,artery
+Artery - Tibial,40-49,HLCS,4.935,global,bto:0000042
+Artery - Tibial,40-49,ZRANB1,4.958,global,bto:0000042
+Artery - Tibial,40-49,WASHC2A,4.931,global,bto:0000042
+Artery - Tibial,40-49,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,NUP62,0.594,exact,artery
+Artery - Tibial,40-49,TMEM41A,4.951,global,bto:0000042
+Artery - Tibial,40-49,POLA1,0.662,exact,artery
+Artery - Tibial,40-49,CCDC107,4.742,global,bto:0000042
+Artery - Tibial,40-49,KDM4A,1.239,exact,artery
+Artery - Tibial,40-49,MAP1S,1.95,exact,artery
+Artery - Tibial,40-49,VPS35L,4.987,global,bto:0000042
+Artery - Tibial,40-49,CLASP1,4.965,global,bto:0000042
+Artery - Tibial,40-49,ARID1B,1.139,exact,artery
+Artery - Tibial,40-49,DMAC2,4.995,global,bto:0000042
+Artery - Tibial,40-49,WDR1,0.865,exact,artery
+Artery - Tibial,40-49,UBP1,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,LARP1,0.688,exact,artery
+Artery - Tibial,40-49,KPNA6,4.994,global,bto:0000042
+Artery - Tibial,40-49,KAT14,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,MFSD11,0.603,exact,artery
+Artery - Tibial,40-49,HECTD4,0.652,exact,artery
+Artery - Tibial,40-49,DYNC1LI1,4.0,exact,artery
+Artery - Tibial,40-49,COQ9,1.096,exact,artery
+Artery - Tibial,40-49,VPS39,4.983,global,bto:0000042
+Artery - Tibial,40-49,ANKRD17,0.505,exact,artery
+Artery - Tibial,40-49,TMEM131,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,PCCA,1.052,exact,artery
+Artery - Tibial,40-49,PRDM2,1.137,exact,artery
+Artery - Tibial,40-49,STARD13,1.133,exact,artery
+Artery - Tibial,40-49,OPTN,1.786,exact,artery
+Artery - Tibial,40-49,BPNT1,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,HDHD2,4.97,global,bto:0000042
+Artery - Tibial,40-49,NGRN,0.622,exact,artery
+Artery - Tibial,40-49,GIPC1,1.517,exact,artery
+Artery - Tibial,40-49,ZNF34,4.579,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,ING4,0.691,exact,artery
+Artery - Tibial,40-49,CNOT10,4.965,global,bto:0000042
+Artery - Tibial,40-49,PFKM,1.606,exact,artery
+Artery - Tibial,40-49,EXOC4,0.541,exact,artery
+Artery - Tibial,40-49,GNPAT,0.523,exact,artery
+Artery - Tibial,40-49,LINC00674,1.988,global,nci-h441 cell
+Artery - Tibial,40-49,STAT6,2.143,exact,artery
+Artery - Tibial,40-49,ATG5,2.255,exact,artery
+Artery - Tibial,40-49,NUDCD3,4.991,global,bto:0000042
+Artery - Tibial,40-49,TRAPPC6B,4.961,global,bto:0000042
+Artery - Tibial,40-49,ATG16L1,1.573,exact,artery
+Artery - Tibial,40-49,DCAF6,4.993,global,bto:0000042
+Artery - Tibial,40-49,ENSA,4.0,exact,artery
+Artery - Tibial,40-49,HMGCL,0.878,exact,artery
+Artery - Tibial,40-49,NFATC3,2.055,exact,artery
+Artery - Tibial,40-49,TPRG1L,4.961,global,bto:0000042
+Artery - Tibial,40-49,USP5,0.587,exact,artery
+Artery - Tibial,40-49,VPS45,4.988,global,bto:0000042
+Artery - Tibial,40-49,RTN3,0.641,exact,artery
+Artery - Tibial,40-49,COQ7,1.005,exact,artery
+Artery - Tibial,40-49,RNF14,4.98,global,bto:0000042
+Artery - Tibial,40-49,ATP5F1A,1.341,exact,artery
+Artery - Tibial,40-49,ARMH3,4.493,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,SMG6,1.127,exact,artery
+Artery - Tibial,40-49,DDB1,1.069,exact,artery
+Artery - Tibial,40-49,SUPT4H1,4.984,global,bto:0000042
+Artery - Tibial,40-49,MUS81,1.126,exact,artery
+Artery - Tibial,40-49,ZFAND3,4.983,global,bto:0000042
+Artery - Tibial,40-49,UBE2Z,0.965,exact,artery
+Artery - Tibial,40-49,GMPR2,4.981,global,bto:0000042
+Artery - Tibial,40-49,TBC1D17,4.987,global,bto:0000042
+Artery - Tibial,40-49,MCAM,4.466,exact,artery
+Artery - Tibial,40-49,ARHGEF18,0.66,exact,artery
+Artery - Tibial,40-49,TMEM63B,4.948,global,bto:0000042
+Artery - Tibial,40-49,VPS13C,4.971,global,bto:0000042
+Artery - Tibial,40-49,PYGO2,4.951,global,bto:0000042
+Artery - Tibial,40-49,WDR11,0.762,exact,artery
+Artery - Tibial,40-49,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,RRAGA,0.867,exact,artery
+Artery - Tibial,40-49,NCOA6,0.904,exact,artery
+Artery - Tibial,40-49,ATP6V1D,4.989,global,bto:0000042
+Artery - Tibial,40-49,ACADM,1.692,exact,artery
+Artery - Tibial,40-49,DHX8,0.553,exact,artery
+Artery - Tibial,40-49,PHAF1,,,
+Artery - Tibial,40-49,BAZ1B,0.997,exact,artery
+Artery - Tibial,40-49,MTFR1L,4.558,global,bto:0000042
+Artery - Tibial,40-49,C7ORF25,4.822,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,NBR1,1.079,exact,artery
+Artery - Tibial,40-49,ASB8,4.969,global,bto:0000042
+Artery - Tibial,40-49,TMEM254,4.979,global,bto:0000042
+Artery - Tibial,40-49,KEAP1,2.491,exact,artery
+Artery - Tibial,40-49,FAM114A2,4.956,global,bto:0000042
+Artery - Tibial,40-49,RALGAPB,4.976,global,bto:0000042
+Artery - Tibial,40-49,ATRX,1.641,exact,artery
+Artery - Tibial,40-49,NDUFAF1,0.697,exact,artery
+Artery - Tibial,40-49,SMIM7,4.984,global,bto:0000042
+Artery - Tibial,40-49,CNOT1,1.109,exact,artery
+Artery - Tibial,40-49,MBTPS1,1.172,exact,artery
+Artery - Tibial,40-49,ARID1A,1.424,exact,artery
+Artery - Tibial,40-49,ACTR1A,0.511,exact,artery
+Artery - Tibial,40-49,TMEM248,4.99,global,bto:0000042
+Artery - Tibial,40-49,FTO,1.937,exact,artery
+Artery - Tibial,40-49,POLR3K,4.881,global,bto:0000042
+Artery - Tibial,40-49,DNAAF5,4.943,global,bto:0000042
+Artery - Tibial,40-49,DVL2,1.248,exact,artery
+Artery - Tibial,40-49,RAB2A,0.966,exact,artery
+Artery - Tibial,40-49,UNC45A,0.641,exact,artery
+Artery - Tibial,40-49,BICRAL,4.508,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,KIAA1191,4.976,global,bto:0000042
+Artery - Tibial,40-49,TTC9C,4.404,global,bto:0000042
+Artery - Tibial,40-49,EIF2D,4.975,global,bto:0000042
+Artery - Tibial,40-49,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,WNK1,1.617,exact,artery
+Artery - Tibial,40-49,CMAS,4.978,global,bto:0000042
+Artery - Tibial,40-49,PPP2R5D,0.81,exact,artery
+Artery - Tibial,40-49,FAM104A,4.907,global,bto:0000042
+Artery - Tibial,40-49,CBY1,0.972,exact,artery
+Artery - Tibial,40-49,BSG,2.119,exact,artery
+Artery - Tibial,40-49,RNF5,4.961,global,bto:0000042
+Artery - Tibial,40-49,SARM1,1.216,exact,artery
+Artery - Tibial,40-49,EIF2AK4,1.813,exact,artery
+Artery - Tibial,40-49,KRCC1,4.48,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,NELFB,0.509,exact,artery
+Artery - Tibial,40-49,XRCC1,1.408,exact,artery
+Artery - Tibial,40-49,TBC1D20,4.962,global,bto:0000042
+Artery - Tibial,40-49,ACTR8,4.952,global,bto:0000042
+Artery - Tibial,40-49,NSD1,1.072,exact,artery
+Artery - Tibial,40-49,HMG20A,4.99,global,bto:0000042
+Artery - Tibial,40-49,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,PWWP2A,0.652,exact,artery
+Artery - Tibial,40-49,ZC3HC1,1.372,exact,artery
+Artery - Tibial,40-49,HIBADH,0.57,exact,artery
+Artery - Tibial,40-49,VPS33A,4.931,global,bto:0000042
+Artery - Tibial,40-49,C6ORF89,4.988,global,bto:0000042
+Artery - Tibial,40-49,TRAPPC12,4.972,global,bto:0000042
+Artery - Tibial,40-49,CCDC28A,4.744,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,RAB5B,0.702,exact,artery
+Artery - Tibial,40-49,NNT,1.467,exact,artery
+Artery - Tibial,40-49,MRPS9,4.963,global,bto:0000042
+Artery - Tibial,40-49,ZNF532,4.97,global,bto:0000042
+Artery - Tibial,40-49,FAIM,4.962,global,bto:0000042
+Artery - Tibial,40-49,BIRC6,0.737,exact,artery
+Artery - Tibial,40-49,THRAP3,4.978,global,bto:0000042
+Artery - Tibial,40-49,LSM14A,4.477,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,AMBRA1,1.162,exact,artery
+Artery - Tibial,40-49,FAF1,0.776,exact,artery
+Artery - Tibial,40-49,PHF14,4.952,global,bto:0000042
+Artery - Tibial,40-49,MRM2,4.832,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,L3MBTL2,4.96,global,bto:0000042
+Artery - Tibial,40-49,TBC1D13,4.978,global,bto:0000042
+Artery - Tibial,40-49,DENND1A,4.0,exact,artery
+Artery - Tibial,40-49,DYRK1A,1.317,exact,artery
+Artery - Tibial,40-49,CDC42BPB,4.985,global,bto:0000042
+Artery - Tibial,40-49,CTCF,2.242,exact,artery
+Artery - Tibial,40-49,RXRB,0.894,exact,artery
+Artery - Tibial,40-49,PARG,1.22,exact,artery
+Artery - Tibial,40-49,HECTD1,0.825,exact,artery
+Artery - Tibial,40-49,TMEM94,4.987,global,bto:0000042
+Artery - Tibial,40-49,URGCP,4.99,global,bto:0000042
+Artery - Tibial,40-49,MINDY3,4.0,exact,artery
+Artery - Tibial,40-49,WDR7,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,ATP6V1H,4.995,global,bto:0000042
+Artery - Tibial,40-49,SLC4A1AP,4.963,global,bto:0000042
+Artery - Tibial,40-49,DNASE2,0.908,exact,artery
+Artery - Tibial,40-49,CHD4,1.357,exact,artery
+Artery - Tibial,40-49,RFC1,4.974,global,bto:0000042
+Artery - Tibial,40-49,DNAAF9,,,
+Artery - Tibial,40-49,MTMR12,4.929,global,bto:0000042
+Artery - Tibial,40-49,WASHC5,4.98,global,bto:0000042
+Artery - Tibial,40-49,ZMYM4,4.968,global,bto:0000042
+Artery - Tibial,40-49,INTS14,4.98,global,bto:0000042
+Artery - Tibial,40-49,GTF2H1,4.986,global,bto:0000042
+Artery - Tibial,40-49,ZFR,4.974,global,bto:0000042
+Artery - Tibial,40-49,TRAPPC9,5.0,global,alimentary canal
+Artery - Tibial,40-49,GNB1,0.896,exact,artery
+Artery - Tibial,40-49,PSMD11,0.888,exact,artery
+Artery - Tibial,40-49,OCRL,0.584,exact,artery
+Artery - Tibial,40-49,VPS41,4.98,global,bto:0000042
+Artery - Tibial,40-49,MAP2K5,1.598,exact,artery
+Artery - Tibial,40-49,CHERP,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,ZC4H2,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,RNF34,0.617,exact,artery
+Artery - Tibial,40-49,KCTD5,4.967,global,bto:0000042
+Artery - Tibial,40-49,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,ZNF544,4.963,global,bto:0000042
+Artery - Tibial,40-49,RAD23B,0.732,exact,artery
+Artery - Tibial,40-49,FH,1.463,exact,artery
+Artery - Tibial,40-49,CETN3,0.973,exact,artery
+Artery - Tibial,40-49,MECP2,1.943,exact,artery
+Artery - Tibial,40-49,NPLOC4,4.993,global,bto:0000042
+Artery - Tibial,40-49,ATP6V0E1,4.994,global,bto:0000042
+Artery - Tibial,40-49,AMZ2,4.987,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,VPS51,1.221,exact,artery
+Artery - Tibial,40-49,TNPO3,4.99,global,bto:0000042
+Artery - Tibial,40-49,MPND,4.842,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,RTL8B,3.825,global,bto:0000042
+Artery - Tibial,40-49,PCMT1,4.995,global,bto:0000042
+Artery - Tibial,40-49,SMARCAL1,1.065,exact,artery
+Artery - Tibial,40-49,FBXW2,1.215,exact,artery
+Artery - Tibial,40-49,TRAPPC10,0.521,exact,artery
+Artery - Tibial,40-49,SNAPIN,0.594,exact,artery
+Artery - Tibial,40-49,MUL1,1.138,exact,artery
+Artery - Tibial,40-49,ACO2,1.878,exact,artery
+Artery - Tibial,40-49,CELF1,0.999,exact,artery
+Artery - Tibial,40-49,PERP,1.008,exact,artery
+Artery - Tibial,40-49,PEBP1,1.242,exact,artery
+Artery - Tibial,40-49,DOCK1,1.199,exact,artery
+Artery - Tibial,40-49,ERAL1,4.99,global,bto:0000042
+Artery - Tibial,40-49,HECTD3,4.976,global,bto:0000042
+Artery - Tibial,40-49,DYNC1LI2,4.995,global,bto:0000042
+Artery - Tibial,40-49,GLYR1,0.707,exact,artery
+Artery - Tibial,40-49,C15ORF40,4.58,global,bto:0000042
+Artery - Tibial,40-49,AP2A1,4.976,global,bto:0000042
+Artery - Tibial,40-49,ZNF212,4.966,global,bto:0000042
+Artery - Tibial,40-49,PPP1R11,4.988,global,bto:0000042
+Artery - Tibial,40-49,RTL8A,4.778,global,bto:0000042
+Artery - Tibial,40-49,RAB3GAP1,0.644,exact,artery
+Artery - Tibial,40-49,DCTN5,4.988,global,bto:0000042
+Artery - Tibial,40-49,HERPUD2,4.952,global,bto:0000042
+Artery - Tibial,40-49,SH2B1,0.858,exact,artery
+Artery - Tibial,40-49,RAD17,1.539,exact,artery
+Artery - Tibial,40-49,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Artery - Tibial,40-49,SS18,0.828,exact,artery
+Artery - Tibial,40-49,ZDHHC3,4.982,global,bto:0000042
+Artery - Tibial,40-49,EXOC7,0.89,exact,artery
+Artery - Tibial,40-49,DDA1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,SRPK2,4.987,global,bto:0000042
+Artery - Tibial,40-49,SEC22C,4.961,global,bto:0000042
+Artery - Tibial,40-49,CCNDBP1,0.574,exact,artery
+Artery - Tibial,40-49,BMERB1,0.971,exact,artery
+Artery - Tibial,40-49,RYK,1.243,exact,artery
+Artery - Tibial,40-49,USP7,1.224,exact,artery
+Artery - Tibial,40-49,VPS18,0.592,exact,artery
+Artery - Tibial,40-49,TPGS2,4.993,global,bto:0000042
+Artery - Tibial,40-49,TBC1D14,4.971,global,bto:0000042
+Artery - Tibial,40-49,USP39,4.987,global,bto:0000042
+Artery - Tibial,40-49,ENSG00000278730,,,
+Artery - Tibial,40-49,KLHL12,4.978,global,bto:0000042
+Artery - Tibial,40-49,LRP10,4.0,exact,artery
+Artery - Tibial,40-49,RTF2,4.995,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,GIGYF2,4.989,global,bto:0000042
+Artery - Tibial,40-49,NRDE2,4.627,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,40-49,MTRES1,4.622,global,bto:0000042
+Artery - Tibial,40-49,DNAJC8,4.991,global,bto:0000042
+Artery - Tibial,40-49,SUCLA2,1.007,exact,artery
+Artery - Tibial,40-49,NME6,4.0,exact,artery
+Artery - Tibial,40-49,ZNF142,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,FBH1,4.986,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,ZSCAN21,4.927,global,bto:0000042
+Artery - Tibial,50-59,FECH,1.25,exact,artery
+Artery - Tibial,50-59,TRIP4,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,RAD51C,1.019,exact,artery
+Artery - Tibial,50-59,ARFRP1,4.967,global,bto:0000042
+Artery - Tibial,50-59,PRR12,4.829,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,AP2M1,0.909,exact,artery
+Artery - Tibial,50-59,PIGC,0.73,exact,artery
+Artery - Tibial,50-59,TMED10,0.55,exact,artery
+Artery - Tibial,50-59,THOC2,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,HNRNPA2B1,1.461,exact,artery
+Artery - Tibial,50-59,SNRPD3,4.975,global,bto:0000042
+Artery - Tibial,50-59,TGOLN2,0.918,exact,artery
+Artery - Tibial,50-59,GBA2,0.658,exact,artery
+Artery - Tibial,50-59,TRIOBP,0.865,exact,artery
+Artery - Tibial,50-59,P4HTM,1.059,exact,artery
+Artery - Tibial,50-59,NCOR1,1.633,exact,artery
+Artery - Tibial,50-59,C17ORF80,4.932,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,TIRAP,1.548,exact,artery
+Artery - Tibial,50-59,TMEM230,4.993,global,bto:0000042
+Artery - Tibial,50-59,SNX1,0.577,exact,artery
+Artery - Tibial,50-59,TOM1L2,4.98,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,CHRAC1,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,GTF2I,1.151,exact,artery
+Artery - Tibial,50-59,MUTYH,1.413,exact,artery
+Artery - Tibial,50-59,DYNC1H1,0.649,exact,artery
+Artery - Tibial,50-59,GATB,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,ATL1,0.814,exact,artery
+Artery - Tibial,50-59,GTF3C1,0.927,exact,artery
+Artery - Tibial,50-59,POLR3GL,4.904,global,bto:0000042
+Artery - Tibial,50-59,MIEF2,1.569,exact,artery
+Artery - Tibial,50-59,KAT5,1.441,exact,artery
+Artery - Tibial,50-59,C2ORF68,4.627,global,bto:0000042
+Artery - Tibial,50-59,CTBP1,1.35,exact,artery
+Artery - Tibial,50-59,MINDY1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,PSMD10,4.986,global,bto:0000042
+Artery - Tibial,50-59,CYFIP1,0.69,exact,artery
+Artery - Tibial,50-59,ADD1,1.717,exact,artery
+Artery - Tibial,50-59,CHD6,0.823,exact,artery
+Artery - Tibial,50-59,ATP6V0D1,0.526,exact,artery
+Artery - Tibial,50-59,HLCS,4.935,global,bto:0000042
+Artery - Tibial,50-59,WASHC2A,4.931,global,bto:0000042
+Artery - Tibial,50-59,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,NUP62,0.594,exact,artery
+Artery - Tibial,50-59,KDM4A,1.239,exact,artery
+Artery - Tibial,50-59,VPS35L,4.987,global,bto:0000042
+Artery - Tibial,50-59,ARID1B,1.139,exact,artery
+Artery - Tibial,50-59,LARP1,0.688,exact,artery
+Artery - Tibial,50-59,KPNA6,4.994,global,bto:0000042
+Artery - Tibial,50-59,KAT14,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,MFSD11,0.603,exact,artery
+Artery - Tibial,50-59,HECTD4,0.652,exact,artery
+Artery - Tibial,50-59,DYNC1LI1,4.0,exact,artery
+Artery - Tibial,50-59,VPS39,4.983,global,bto:0000042
+Artery - Tibial,50-59,ANKRD17,0.505,exact,artery
+Artery - Tibial,50-59,TMEM131,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,PRDM2,1.137,exact,artery
+Artery - Tibial,50-59,PNN,4.994,global,bto:0000042
+Artery - Tibial,50-59,STARD13,1.133,exact,artery
+Artery - Tibial,50-59,OPTN,1.786,exact,artery
+Artery - Tibial,50-59,BPNT1,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,HDHD2,4.97,global,bto:0000042
+Artery - Tibial,50-59,GIPC1,1.517,exact,artery
+Artery - Tibial,50-59,ZNF34,4.579,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,ING4,0.691,exact,artery
+Artery - Tibial,50-59,CNOT10,4.965,global,bto:0000042
+Artery - Tibial,50-59,PFKM,1.606,exact,artery
+Artery - Tibial,50-59,EXOC4,0.541,exact,artery
+Artery - Tibial,50-59,GNPAT,0.523,exact,artery
+Artery - Tibial,50-59,LINC00674,1.988,global,nci-h441 cell
+Artery - Tibial,50-59,STAT6,2.143,exact,artery
+Artery - Tibial,50-59,ATG5,2.255,exact,artery
+Artery - Tibial,50-59,NUDCD3,4.991,global,bto:0000042
+Artery - Tibial,50-59,TRAPPC6B,4.961,global,bto:0000042
+Artery - Tibial,50-59,ATG16L1,1.573,exact,artery
+Artery - Tibial,50-59,ZNF862,4.894,global,bto:0000042
+Artery - Tibial,50-59,ENSA,4.0,exact,artery
+Artery - Tibial,50-59,HMGCL,0.878,exact,artery
+Artery - Tibial,50-59,CUL9,4.927,global,bto:0000042
+Artery - Tibial,50-59,TPRG1L,4.961,global,bto:0000042
+Artery - Tibial,50-59,USP5,0.587,exact,artery
+Artery - Tibial,50-59,VPS45,4.988,global,bto:0000042
+Artery - Tibial,50-59,TTC31,4.626,global,bto:0000042
+Artery - Tibial,50-59,COQ7,1.005,exact,artery
+Artery - Tibial,50-59,ARMH3,4.493,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,DDB1,1.069,exact,artery
+Artery - Tibial,50-59,SUPT4H1,4.984,global,bto:0000042
+Artery - Tibial,50-59,MUS81,1.126,exact,artery
+Artery - Tibial,50-59,ZFAND3,4.983,global,bto:0000042
+Artery - Tibial,50-59,UBE2Z,0.965,exact,artery
+Artery - Tibial,50-59,GMPR2,4.981,global,bto:0000042
+Artery - Tibial,50-59,TBC1D17,4.987,global,bto:0000042
+Artery - Tibial,50-59,MCAM,4.466,exact,artery
+Artery - Tibial,50-59,ARHGEF18,0.66,exact,artery
+Artery - Tibial,50-59,GDI1,5.0,global,bto:0000042
+Artery - Tibial,50-59,TMEM63B,4.948,global,bto:0000042
+Artery - Tibial,50-59,VPS13C,4.971,global,bto:0000042
+Artery - Tibial,50-59,PYGO2,4.951,global,bto:0000042
+Artery - Tibial,50-59,WDR11,0.762,exact,artery
+Artery - Tibial,50-59,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,BBS2,0.919,exact,artery
+Artery - Tibial,50-59,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,RRAGA,0.867,exact,artery
+Artery - Tibial,50-59,ACADM,1.692,exact,artery
+Artery - Tibial,50-59,MTFR1L,4.558,global,bto:0000042
+Artery - Tibial,50-59,PHAF1,,,
+Artery - Tibial,50-59,BAZ1B,0.997,exact,artery
+Artery - Tibial,50-59,BMERB1,0.971,exact,artery
+Artery - Tibial,50-59,NBR1,1.079,exact,artery
+Artery - Tibial,50-59,ASB8,4.969,global,bto:0000042
+Artery - Tibial,50-59,TMEM254,4.979,global,bto:0000042
+Artery - Tibial,50-59,KEAP1,2.491,exact,artery
+Artery - Tibial,50-59,ATRX,1.641,exact,artery
+Artery - Tibial,50-59,RALGAPB,4.976,global,bto:0000042
+Artery - Tibial,50-59,TFB1M,0.78,exact,artery
+Artery - Tibial,50-59,ARID1A,1.424,exact,artery
+Artery - Tibial,50-59,TMEM248,4.99,global,bto:0000042
+Artery - Tibial,50-59,FTO,1.937,exact,artery
+Artery - Tibial,50-59,POLR3K,4.881,global,bto:0000042
+Artery - Tibial,50-59,DNAAF5,4.943,global,bto:0000042
+Artery - Tibial,50-59,DVL2,1.248,exact,artery
+Artery - Tibial,50-59,RAB2A,0.966,exact,artery
+Artery - Tibial,50-59,UNC45A,0.641,exact,artery
+Artery - Tibial,50-59,TTC9C,4.404,global,bto:0000042
+Artery - Tibial,50-59,EIF2D,4.975,global,bto:0000042
+Artery - Tibial,50-59,SDCCAG8,0.697,exact,artery
+Artery - Tibial,50-59,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,CBY1,0.972,exact,artery
+Artery - Tibial,50-59,CMAS,4.978,global,bto:0000042
+Artery - Tibial,50-59,PPP2R5D,0.81,exact,artery
+Artery - Tibial,50-59,BSG,2.119,exact,artery
+Artery - Tibial,50-59,EMC10,0.701,exact,artery
+Artery - Tibial,50-59,PHC1,4.981,global,bto:0000042
+Artery - Tibial,50-59,RNF5,4.961,global,bto:0000042
+Artery - Tibial,50-59,SARM1,1.216,exact,artery
+Artery - Tibial,50-59,EIF2AK4,1.813,exact,artery
+Artery - Tibial,50-59,KRCC1,4.48,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,PCF11,4.976,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,NELFB,0.509,exact,artery
+Artery - Tibial,50-59,XRCC1,1.408,exact,artery
+Artery - Tibial,50-59,TBC1D20,4.962,global,bto:0000042
+Artery - Tibial,50-59,HMG20A,4.99,global,bto:0000042
+Artery - Tibial,50-59,NSD1,1.072,exact,artery
+Artery - Tibial,50-59,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,MRPS9,4.963,global,bto:0000042
+Artery - Tibial,50-59,ZC3HC1,1.372,exact,artery
+Artery - Tibial,50-59,HIBADH,0.57,exact,artery
+Artery - Tibial,50-59,VPS33A,4.931,global,bto:0000042
+Artery - Tibial,50-59,C6ORF89,4.988,global,bto:0000042
+Artery - Tibial,50-59,TRAPPC12,4.972,global,bto:0000042
+Artery - Tibial,50-59,RAB5B,0.702,exact,artery
+Artery - Tibial,50-59,ZNF532,4.97,global,bto:0000042
+Artery - Tibial,50-59,FAIM,4.962,global,bto:0000042
+Artery - Tibial,50-59,THRAP3,4.978,global,bto:0000042
+Artery - Tibial,50-59,LSM14A,4.477,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,PHF14,4.952,global,bto:0000042
+Artery - Tibial,50-59,GTF2H3,4.968,global,bto:0000042
+Artery - Tibial,50-59,MRM2,4.832,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,L3MBTL2,4.96,global,bto:0000042
+Artery - Tibial,50-59,TBC1D13,4.978,global,bto:0000042
+Artery - Tibial,50-59,ADCK5,4.841,global,bto:0000042
+Artery - Tibial,50-59,ZNF76,4.952,global,bto:0000042
+Artery - Tibial,50-59,DYRK1A,1.317,exact,artery
+Artery - Tibial,50-59,CDC42BPB,4.985,global,bto:0000042
+Artery - Tibial,50-59,CTCF,2.242,exact,artery
+Artery - Tibial,50-59,RXRB,0.894,exact,artery
+Artery - Tibial,50-59,PARG,1.22,exact,artery
+Artery - Tibial,50-59,TMEM94,4.987,global,bto:0000042
+Artery - Tibial,50-59,URGCP,4.99,global,bto:0000042
+Artery - Tibial,50-59,MINDY3,4.0,exact,artery
+Artery - Tibial,50-59,ATP6V1H,4.995,global,bto:0000042
+Artery - Tibial,50-59,SLC4A1AP,4.963,global,bto:0000042
+Artery - Tibial,50-59,DNASE2,0.908,exact,artery
+Artery - Tibial,50-59,CHD4,1.357,exact,artery
+Artery - Tibial,50-59,RFC1,4.974,global,bto:0000042
+Artery - Tibial,50-59,DNAAF9,,,
+Artery - Tibial,50-59,WASHC5,4.98,global,bto:0000042
+Artery - Tibial,50-59,ZMYM4,4.968,global,bto:0000042
+Artery - Tibial,50-59,SH3GLB2,4.998,global,bto:0000042
+Artery - Tibial,50-59,TRAPPC9,5.0,global,alimentary canal
+Artery - Tibial,50-59,ZFR,4.974,global,bto:0000042
+Artery - Tibial,50-59,GNB1,0.896,exact,artery
+Artery - Tibial,50-59,VPS41,4.98,global,bto:0000042
+Artery - Tibial,50-59,MAP2K5,1.598,exact,artery
+Artery - Tibial,50-59,CHERP,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,ZC4H2,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,RNF34,0.617,exact,artery
+Artery - Tibial,50-59,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,CETN3,0.973,exact,artery
+Artery - Tibial,50-59,MECP2,1.943,exact,artery
+Artery - Tibial,50-59,NPLOC4,4.993,global,bto:0000042
+Artery - Tibial,50-59,VPS51,1.221,exact,artery
+Artery - Tibial,50-59,MPND,4.842,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,RTL8B,3.825,global,bto:0000042
+Artery - Tibial,50-59,SMARCAL1,1.065,exact,artery
+Artery - Tibial,50-59,FBXW2,1.215,exact,artery
+Artery - Tibial,50-59,TRAPPC10,0.521,exact,artery
+Artery - Tibial,50-59,SNAPIN,0.594,exact,artery
+Artery - Tibial,50-59,ACO2,1.878,exact,artery
+Artery - Tibial,50-59,SETD4,4.952,global,bto:0000042
+Artery - Tibial,50-59,CELF1,0.999,exact,artery
+Artery - Tibial,50-59,PEBP1,1.242,exact,artery
+Artery - Tibial,50-59,DOCK1,1.199,exact,artery
+Artery - Tibial,50-59,ERAL1,4.99,global,bto:0000042
+Artery - Tibial,50-59,HECTD3,4.976,global,bto:0000042
+Artery - Tibial,50-59,DYNC1LI2,4.995,global,bto:0000042
+Artery - Tibial,50-59,GLYR1,0.707,exact,artery
+Artery - Tibial,50-59,C15ORF40,4.58,global,bto:0000042
+Artery - Tibial,50-59,ZNF212,4.966,global,bto:0000042
+Artery - Tibial,50-59,HGSNAT,0.823,exact,artery
+Artery - Tibial,50-59,RTL8A,4.778,global,bto:0000042
+Artery - Tibial,50-59,RAB3GAP1,0.644,exact,artery
+Artery - Tibial,50-59,DCTN5,4.988,global,bto:0000042
+Artery - Tibial,50-59,HERPUD2,4.952,global,bto:0000042
+Artery - Tibial,50-59,SH2B1,0.858,exact,artery
+Artery - Tibial,50-59,RAD17,1.539,exact,artery
+Artery - Tibial,50-59,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Artery - Tibial,50-59,SS18,0.828,exact,artery
+Artery - Tibial,50-59,ZDHHC3,4.982,global,bto:0000042
+Artery - Tibial,50-59,EXOC7,0.89,exact,artery
+Artery - Tibial,50-59,DDA1,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,SRPK2,4.987,global,bto:0000042
+Artery - Tibial,50-59,SEC22C,4.961,global,bto:0000042
+Artery - Tibial,50-59,CCNDBP1,0.574,exact,artery
+Artery - Tibial,50-59,PI4KB,4.987,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,RYK,1.243,exact,artery
+Artery - Tibial,50-59,USP7,1.224,exact,artery
+Artery - Tibial,50-59,VPS18,0.592,exact,artery
+Artery - Tibial,50-59,TPGS2,4.993,global,bto:0000042
+Artery - Tibial,50-59,TBC1D14,4.971,global,bto:0000042
+Artery - Tibial,50-59,ENSG00000278730,,,
+Artery - Tibial,50-59,KLHL12,4.978,global,bto:0000042
+Artery - Tibial,50-59,LRP10,4.0,exact,artery
+Artery - Tibial,50-59,RTF2,4.995,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,GIGYF2,4.989,global,bto:0000042
+Artery - Tibial,50-59,NRDE2,4.627,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,50-59,MTRES1,4.622,global,bto:0000042
+Artery - Tibial,50-59,DNAJC8,4.991,global,bto:0000042
+Artery - Tibial,50-59,SUCLA2,1.007,exact,artery
+Artery - Tibial,50-59,NME6,4.0,exact,artery
+Artery - Tibial,50-59,ZNF142,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,FBH1,4.986,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,FECH,1.25,exact,artery
+Artery - Tibial,60-69,TRIP4,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,ARFRP1,4.967,global,bto:0000042
+Artery - Tibial,60-69,PIGC,0.73,exact,artery
+Artery - Tibial,60-69,TMED10,0.55,exact,artery
+Artery - Tibial,60-69,HNRNPA2B1,1.461,exact,artery
+Artery - Tibial,60-69,GBA2,0.658,exact,artery
+Artery - Tibial,60-69,P4HTM,1.059,exact,artery
+Artery - Tibial,60-69,SNX1,0.577,exact,artery
+Artery - Tibial,60-69,MUTYH,1.413,exact,artery
+Artery - Tibial,60-69,GTF3C1,0.927,exact,artery
+Artery - Tibial,60-69,MIEF2,1.569,exact,artery
+Artery - Tibial,60-69,C2ORF68,4.627,global,bto:0000042
+Artery - Tibial,60-69,CTBP1,1.35,exact,artery
+Artery - Tibial,60-69,PSMD10,4.986,global,bto:0000042
+Artery - Tibial,60-69,CHD6,0.823,exact,artery
+Artery - Tibial,60-69,NUP62,0.594,exact,artery
+Artery - Tibial,60-69,BDH2,0.794,exact,artery
+Artery - Tibial,60-69,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,KDM4A,1.239,exact,artery
+Artery - Tibial,60-69,VPS35L,4.987,global,bto:0000042
+Artery - Tibial,60-69,KPNA6,4.994,global,bto:0000042
+Artery - Tibial,60-69,HECTD4,0.652,exact,artery
+Artery - Tibial,60-69,DYNC1LI1,4.0,exact,artery
+Artery - Tibial,60-69,VPS39,4.983,global,bto:0000042
+Artery - Tibial,60-69,TMEM131,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,GEMIN8,4.915,global,bto:0000042
+Artery - Tibial,60-69,PNN,4.994,global,bto:0000042
+Artery - Tibial,60-69,OPTN,1.786,exact,artery
+Artery - Tibial,60-69,BPNT1,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,HDHD2,4.97,global,bto:0000042
+Artery - Tibial,60-69,ING4,0.691,exact,artery
+Artery - Tibial,60-69,EXOC4,0.541,exact,artery
+Artery - Tibial,60-69,GNPAT,0.523,exact,artery
+Artery - Tibial,60-69,ZNF862,4.894,global,bto:0000042
+Artery - Tibial,60-69,HMGCL,0.878,exact,artery
+Artery - Tibial,60-69,CUL9,4.927,global,bto:0000042
+Artery - Tibial,60-69,TPRG1L,4.961,global,bto:0000042
+Artery - Tibial,60-69,VPS45,4.988,global,bto:0000042
+Artery - Tibial,60-69,TTC31,4.626,global,bto:0000042
+Artery - Tibial,60-69,COQ7,1.005,exact,artery
+Artery - Tibial,60-69,MUS81,1.126,exact,artery
+Artery - Tibial,60-69,ZFAND3,4.983,global,bto:0000042
+Artery - Tibial,60-69,UBE2Z,0.965,exact,artery
+Artery - Tibial,60-69,GAK,0.508,exact,artery
+Artery - Tibial,60-69,ARHGEF18,0.66,exact,artery
+Artery - Tibial,60-69,GDI1,5.0,global,bto:0000042
+Artery - Tibial,60-69,TMEM63B,4.948,global,bto:0000042
+Artery - Tibial,60-69,VPS13C,4.971,global,bto:0000042
+Artery - Tibial,60-69,WDR11,0.762,exact,artery
+Artery - Tibial,60-69,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,BBS2,0.919,exact,artery
+Artery - Tibial,60-69,BMERB1,0.971,exact,artery
+Artery - Tibial,60-69,TMEM254,4.979,global,bto:0000042
+Artery - Tibial,60-69,TFB1M,0.78,exact,artery
+Artery - Tibial,60-69,TMEM9,4.992,global,bto:0000042
+Artery - Tibial,60-69,ZNF346,4.954,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,TMEM248,4.99,global,bto:0000042
+Artery - Tibial,60-69,DNAAF5,4.943,global,bto:0000042
+Artery - Tibial,60-69,DVL2,1.248,exact,artery
+Artery - Tibial,60-69,RAB2A,0.966,exact,artery
+Artery - Tibial,60-69,TTC9C,4.404,global,bto:0000042
+Artery - Tibial,60-69,EIF2D,4.975,global,bto:0000042
+Artery - Tibial,60-69,SDCCAG8,0.697,exact,artery
+Artery - Tibial,60-69,CTPS2,4.939,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,CBY1,0.972,exact,artery
+Artery - Tibial,60-69,BSG,2.119,exact,artery
+Artery - Tibial,60-69,EMC10,0.701,exact,artery
+Artery - Tibial,60-69,PHC1,4.981,global,bto:0000042
+Artery - Tibial,60-69,KRCC1,4.48,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,PCF11,4.976,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,NELFB,0.509,exact,artery
+Artery - Tibial,60-69,XRCC1,1.408,exact,artery
+Artery - Tibial,60-69,TBC1D20,4.962,global,bto:0000042
+Artery - Tibial,60-69,HMG20A,4.99,global,bto:0000042
+Artery - Tibial,60-69,PHF14,4.952,global,bto:0000042
+Artery - Tibial,60-69,GTF2H3,4.968,global,bto:0000042
+Artery - Tibial,60-69,ADCK5,4.841,global,bto:0000042
+Artery - Tibial,60-69,MFSD14C,4.87,global,bto:0000042
+Artery - Tibial,60-69,ZNF76,4.952,global,bto:0000042
+Artery - Tibial,60-69,CTCF,2.242,exact,artery
+Artery - Tibial,60-69,RXRB,0.894,exact,artery
+Artery - Tibial,60-69,NPHP1,0.902,exact,artery
+Artery - Tibial,60-69,PARG,1.22,exact,artery
+Artery - Tibial,60-69,DZIP1L,4.526,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,TMEM94,4.987,global,bto:0000042
+Artery - Tibial,60-69,ATP6AP2,4.416,exact,artery
+Artery - Tibial,60-69,DNASE2,0.908,exact,artery
+Artery - Tibial,60-69,COA1,4.959,global,bto:0000042
+Artery - Tibial,60-69,RFC1,4.974,global,bto:0000042
+Artery - Tibial,60-69,ADCY6,1.681,exact,artery
+Artery - Tibial,60-69,ZMYM4,4.968,global,bto:0000042
+Artery - Tibial,60-69,SH3GLB2,4.998,global,bto:0000042
+Artery - Tibial,60-69,TRAPPC9,5.0,global,alimentary canal
+Artery - Tibial,60-69,MAP2K5,1.598,exact,artery
+Artery - Tibial,60-69,MSL1,4.987,global,bto:0000042
+Artery - Tibial,60-69,CETN3,0.973,exact,artery
+Artery - Tibial,60-69,MPND,4.842,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,SNAPIN,0.594,exact,artery
+Artery - Tibial,60-69,SETD4,4.952,global,bto:0000042
+Artery - Tibial,60-69,CELF1,0.999,exact,artery
+Artery - Tibial,60-69,ERAL1,4.99,global,bto:0000042
+Artery - Tibial,60-69,HECTD3,4.976,global,bto:0000042
+Artery - Tibial,60-69,GLYR1,0.707,exact,artery
+Artery - Tibial,60-69,C15ORF40,4.58,global,bto:0000042
+Artery - Tibial,60-69,HGSNAT,0.823,exact,artery
+Artery - Tibial,60-69,PRPF38B,4.962,global,bto:0000042
+Artery - Tibial,60-69,SH2B1,0.858,exact,artery
+Artery - Tibial,60-69,OAZ2,4.98,global,bto:0000042
+Artery - Tibial,60-69,CCNDBP1,0.574,exact,artery
+Artery - Tibial,60-69,PI4KB,4.987,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,ENSG00000278730,,,
+Artery - Tibial,60-69,TARDBP,1.817,exact,artery
+Artery - Tibial,60-69,RTF2,4.995,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,60-69,DNAJC8,4.991,global,bto:0000042
+Artery - Tibial,60-69,SUCLA2,1.007,exact,artery
+Artery - Tibial,60-69,ZNF142,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,ZNF280C,4.663,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,UBAP2L,4.995,global,bto:0000042
+Artery - Tibial,70-79,KHDC4,5.0,global,bto:0000042
+Artery - Tibial,70-79,KIF9-AS1,1.239,global,intestinal wall
+Artery - Tibial,70-79,TMED10,0.55,exact,artery
+Artery - Tibial,70-79,ARGLU1,0.634,exact,artery
+Artery - Tibial,70-79,HNRNPA2B1,1.461,exact,artery
+Artery - Tibial,70-79,ENDOV,0.715,exact,artery
+Artery - Tibial,70-79,DIS3L2,4.941,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,EXOSC7,4.962,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,LAMTOR1,0.692,exact,artery
+Artery - Tibial,70-79,GBA2,0.658,exact,artery
+Artery - Tibial,70-79,P4HTM,1.059,exact,artery
+Artery - Tibial,70-79,KHNYN,4.972,global,bto:0000042
+Artery - Tibial,70-79,CCAR1,4.99,global,bto:0000042
+Artery - Tibial,70-79,ENSG00000230896,,,
+Artery - Tibial,70-79,SNX1,0.577,exact,artery
+Artery - Tibial,70-79,DET1,4.902,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,PRPF3,0.628,exact,artery
+Artery - Tibial,70-79,ENOSF1,4.98,global,bto:0000042
+Artery - Tibial,70-79,PLXNB2,1.023,exact,artery
+Artery - Tibial,70-79,MUTYH,1.413,exact,artery
+Artery - Tibial,70-79,SAFB,0.722,exact,artery
+Artery - Tibial,70-79,ZNF343,4.864,global,bto:0000042
+Artery - Tibial,70-79,PMS1,0.901,exact,artery
+Artery - Tibial,70-79,ADAL,4.941,global,bto:0000042
+Artery - Tibial,70-79,DCAF15,4.944,global,bto:0000042
+Artery - Tibial,70-79,ABCB9,0.594,exact,artery
+Artery - Tibial,70-79,MIEF2,1.569,exact,artery
+Artery - Tibial,70-79,NISCH,1.345,exact,artery
+Artery - Tibial,70-79,BAZ2A,0.71,exact,artery
+Artery - Tibial,70-79,C2ORF68,4.627,global,bto:0000042
+Artery - Tibial,70-79,MTERF4,4.971,global,bto:0000042
+Artery - Tibial,70-79,ZSCAN9,4.799,global,bto:0000042
+Artery - Tibial,70-79,CTBP1,1.35,exact,artery
+Artery - Tibial,70-79,UPF3B,4.618,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,CDC37,0.925,exact,artery
+Artery - Tibial,70-79,PSMD10,4.986,global,bto:0000042
+Artery - Tibial,70-79,POMT1,0.58,exact,artery
+Artery - Tibial,70-79,KCTD13,0.598,exact,artery
+Artery - Tibial,70-79,PIAS3,0.964,exact,artery
+Artery - Tibial,70-79,CHD6,0.823,exact,artery
+Artery - Tibial,70-79,MDM4,1.163,exact,artery
+Artery - Tibial,70-79,HMGB1,2.673,exact,artery
+Artery - Tibial,70-79,CROT,1.296,exact,artery
+Artery - Tibial,70-79,SAAL1,4.931,global,bto:0000042
+Artery - Tibial,70-79,BDH2,0.794,exact,artery
+Artery - Tibial,70-79,ZNF875,4.975,global,bto:0000042
+Artery - Tibial,70-79,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,ENSG00000231113,,,
+Artery - Tibial,70-79,AKAP17A,4.544,global,bto:0000042
+Artery - Tibial,70-79,ANKRD52,0.573,exact,artery
+Artery - Tibial,70-79,CSPP1,4.899,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,RBM4B,4.961,global,bto:0000042
+Artery - Tibial,70-79,MECR,4.959,global,bto:0000042
+Artery - Tibial,70-79,VAV2,1.419,exact,artery
+Artery - Tibial,70-79,ENSG00000269958,,,
+Artery - Tibial,70-79,OSGEPL1,4.853,global,bto:0000042
+Artery - Tibial,70-79,MLH3,0.874,exact,artery
+Artery - Tibial,70-79,RBM26,4.964,global,bto:0000042
+Artery - Tibial,70-79,ENSG00000259275,,,
+Artery - Tibial,70-79,ANKZF1,4.989,global,bto:0000042
+Artery - Tibial,70-79,MOK,0.852,exact,artery
+Artery - Tibial,70-79,ZFP62,4.768,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,HECTD4,0.652,exact,artery
+Artery - Tibial,70-79,GRIPAP1,4.944,global,bto:0000042
+Artery - Tibial,70-79,CSTF3,4.975,global,bto:0000042
+Artery - Tibial,70-79,PRKD3,1.446,exact,artery
+Artery - Tibial,70-79,ARMCX4,4.88,global,bto:0000042
+Artery - Tibial,70-79,GEMIN8,4.915,global,bto:0000042
+Artery - Tibial,70-79,H3-3B,2.487,exact,artery
+Artery - Tibial,70-79,PNN,4.994,global,bto:0000042
+Artery - Tibial,70-79,PSMA3-AS1,1.632,global,myeloma cell
+Artery - Tibial,70-79,RBM28,4.929,global,bto:0000042
+Artery - Tibial,70-79,GGT7,4.968,global,bto:0000042
+Artery - Tibial,70-79,FAHD2A,4.948,global,bto:0000042
+Artery - Tibial,70-79,UCKL1,4.973,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,AGER,4.513,exact,artery
+Artery - Tibial,70-79,TUBGCP6,4.931,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,ODR4,4.939,global,bto:0000042
+Artery - Tibial,70-79,RABL2A,4.528,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,MRNIP,4.92,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,PCBP1-AS1,1.55,global,m-1 myeloid leukemia cell
+Artery - Tibial,70-79,FUBP1,4.973,global,bto:0000042
+Artery - Tibial,70-79,SNAPC4,4.0,global,blood cancer cell
+Artery - Tibial,70-79,ENSG00000285728,,,
+Artery - Tibial,70-79,TSEN2,4.952,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,NEURL4,4.876,global,bto:0000042
+Artery - Tibial,70-79,VPS33B,0.698,exact,artery
+Artery - Tibial,70-79,EWSR1,1.535,exact,artery
+Artery - Tibial,70-79,PHKA2,0.699,exact,artery
+Artery - Tibial,70-79,ZNF862,4.894,global,bto:0000042
+Artery - Tibial,70-79,PAQR7,1.005,exact,artery
+Artery - Tibial,70-79,CUL9,4.927,global,bto:0000042
+Artery - Tibial,70-79,LTO1,4.869,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,TTC31,4.626,global,bto:0000042
+Artery - Tibial,70-79,C14ORF93,4.944,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,COQ7,1.005,exact,artery
+Artery - Tibial,70-79,ZFYVE27,4.98,global,bto:0000042
+Artery - Tibial,70-79,MKS1,0.659,exact,artery
+Artery - Tibial,70-79,SEPTIN7P14,,,
+Artery - Tibial,70-79,GNB2,0.778,exact,artery
+Artery - Tibial,70-79,HDDC2,4.959,global,bto:0000042
+Artery - Tibial,70-79,ZMIZ2,4.983,global,bto:0000042
+Artery - Tibial,70-79,MUS81,1.126,exact,artery
+Artery - Tibial,70-79,APH1B,4.977,global,bto:0000042
+Artery - Tibial,70-79,UBE2Z,0.965,exact,artery
+Artery - Tibial,70-79,BRF1,4.97,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,PGAP3,4.968,global,bto:0000042
+Artery - Tibial,70-79,SLC23A2,1.263,exact,artery
+Artery - Tibial,70-79,RBM25,0.717,exact,artery
+Artery - Tibial,70-79,GAK,0.508,exact,artery
+Artery - Tibial,70-79,GDI1,5.0,global,bto:0000042
+Artery - Tibial,70-79,NME3,4.952,global,bto:0000042
+Artery - Tibial,70-79,TMEM63B,4.948,global,bto:0000042
+Artery - Tibial,70-79,RBMS2,4.967,global,bto:0000042
+Artery - Tibial,70-79,FN3KRP,4.966,global,bto:0000042
+Artery - Tibial,70-79,VPS13C,4.971,global,bto:0000042
+Artery - Tibial,70-79,SRSF5,0.53,exact,artery
+Artery - Tibial,70-79,GSTA4,1.272,exact,artery
+Artery - Tibial,70-79,WDR11,0.762,exact,artery
+Artery - Tibial,70-79,BBS2,0.919,exact,artery
+Artery - Tibial,70-79,RUSC1-AS1,1.636,global,mg-63 cell
+Artery - Tibial,70-79,CEP164,0.528,exact,artery
+Artery - Tibial,70-79,ENSG00000269044,,,
+Artery - Tibial,70-79,ARHGEF6,1.079,exact,artery
+Artery - Tibial,70-79,MYO18A,4.979,global,bto:0000042
+Artery - Tibial,70-79,TRIM41,4.988,global,bto:0000042
+Artery - Tibial,70-79,EDC4,0.547,exact,artery
+Artery - Tibial,70-79,HNRNPA1,1.273,exact,artery
+Artery - Tibial,70-79,SERP2,4.828,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,TELO2,0.585,exact,artery
+Artery - Tibial,70-79,RECQL5,4.934,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,TFB1M,0.78,exact,artery
+Artery - Tibial,70-79,CIAO1,4.985,global,bto:0000042
+Artery - Tibial,70-79,ACIN1,0.857,exact,artery
+Artery - Tibial,70-79,EIF2B5,0.759,exact,artery
+Artery - Tibial,70-79,PLEKHG2,4.949,global,bto:0000042
+Artery - Tibial,70-79,ARRDC1-AS1,1.099,global,gastric epithelium cell line
+Artery - Tibial,70-79,TMEM9,4.992,global,bto:0000042
+Artery - Tibial,70-79,ZNF662,4.73,global,bto:0000042
+Artery - Tibial,70-79,ZNF346,4.954,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,PIGO,4.892,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,GPR108,4.964,global,bto:0000042
+Artery - Tibial,70-79,CYB561A3,4.992,global,bto:0000042
+Artery - Tibial,70-79,TRPM7,2.086,exact,artery
+Artery - Tibial,70-79,LRIG2,4.854,global,bto:0000042
+Artery - Tibial,70-79,DNAAF5,4.943,global,bto:0000042
+Artery - Tibial,70-79,RRP7BP,,,
+Artery - Tibial,70-79,PAXBP1-AS1,1.131,global,pancreatic alpha cell
+Artery - Tibial,70-79,CEBPZOS,1.82,global,bto:0000042
+Artery - Tibial,70-79,DVL2,1.248,exact,artery
+Artery - Tibial,70-79,ACAD8,4.985,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,TTC9C,4.404,global,bto:0000042
+Artery - Tibial,70-79,ENTPD5,0.883,exact,artery
+Artery - Tibial,70-79,HOXA-AS3,1.158,exact,artery
+Artery - Tibial,70-79,DDX55,4.906,global,bto:0000042
+Artery - Tibial,70-79,CXORF38,4.838,global,bto:0000042
+Artery - Tibial,70-79,TRIM56,4.861,global,bto:0000042
+Artery - Tibial,70-79,PHF6,0.666,exact,artery
+Artery - Tibial,70-79,DDX46,4.98,global,bto:0000042
+Artery - Tibial,70-79,CEP131,4.846,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,SDCCAG8,0.697,exact,artery
+Artery - Tibial,70-79,PLEC,1.402,exact,artery
+Artery - Tibial,70-79,CTPS2,4.939,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,DIP2A,0.879,exact,artery
+Artery - Tibial,70-79,COX18,4.928,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,SYMPK,4.99,global,bto:0000042
+Artery - Tibial,70-79,EMC10,0.701,exact,artery
+Artery - Tibial,70-79,PHC1,4.981,global,bto:0000042
+Artery - Tibial,70-79,MAN2C1,0.998,exact,artery
+Artery - Tibial,70-79,SLTM,4.978,global,bto:0000042
+Artery - Tibial,70-79,FAM66C,1.529,global,hpac cell
+Artery - Tibial,70-79,PCF11,4.976,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,IST1,0.692,exact,artery
+Artery - Tibial,70-79,ENSG00000284968,,,
+Artery - Tibial,70-79,LZTR1,1.162,exact,artery
+Artery - Tibial,70-79,TBC1D20,4.962,global,bto:0000042
+Artery - Tibial,70-79,ZDHHC15,4.769,global,bto:0000042
+Artery - Tibial,70-79,HMG20A,4.99,global,bto:0000042
+Artery - Tibial,70-79,ZKSCAN1,4.973,global,bto:0000042
+Artery - Tibial,70-79,PMS2P1,,,
+Artery - Tibial,70-79,MYO6,0.687,exact,artery
+Artery - Tibial,70-79,PDGFRB,2.84,exact,artery
+Artery - Tibial,70-79,TRAP1,0.746,exact,artery
+Artery - Tibial,70-79,ANAPC2,4.958,global,bto:0000042
+Artery - Tibial,70-79,NRBP2,4.885,global,bto:0000042
+Artery - Tibial,70-79,MAP4K5,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,SLC35C2,4.989,global,bto:0000042
+Artery - Tibial,70-79,PRDX6-AS1,,,
+Artery - Tibial,70-79,SECISBP2,1.696,exact,artery
+Artery - Tibial,70-79,ZNF839,4.852,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,GAS8,4.913,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,ENSG00000253476,,,
+Artery - Tibial,70-79,PIGU,4.923,global,bto:0000042
+Artery - Tibial,70-79,NBPF15,4.918,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,GTF2H3,4.968,global,bto:0000042
+Artery - Tibial,70-79,ADCK5,4.841,global,bto:0000042
+Artery - Tibial,70-79,MFSD14C,4.87,global,bto:0000042
+Artery - Tibial,70-79,ZNF76,4.952,global,bto:0000042
+Artery - Tibial,70-79,METTL6,4.892,global,bto:0000042
+Artery - Tibial,70-79,POMGNT1,0.722,exact,artery
+Artery - Tibial,70-79,FAHD2CP,,,
+Artery - Tibial,70-79,TANC1,0.573,exact,artery
+Artery - Tibial,70-79,TP73-AS1,2.035,global,glioma cell
+Artery - Tibial,70-79,RXRB,0.894,exact,artery
+Artery - Tibial,70-79,NPHP1,0.902,exact,artery
+Artery - Tibial,70-79,DZIP1L,4.526,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,RPL23P2,,,
+Artery - Tibial,70-79,AHSA2P,,,
+Artery - Tibial,70-79,TMEM94,4.987,global,bto:0000042
+Artery - Tibial,70-79,ENSG00000289100,,,
+Artery - Tibial,70-79,ATP6AP2,4.416,exact,artery
+Artery - Tibial,70-79,TP53,2.949,exact,artery
+Artery - Tibial,70-79,MAILR,,,
+Artery - Tibial,70-79,CTTN,1.649,exact,artery
+Artery - Tibial,70-79,SENP5,1.092,exact,artery
+Artery - Tibial,70-79,COA1,4.959,global,bto:0000042
+Artery - Tibial,70-79,ZNF226,4.929,global,bto:0000042
+Artery - Tibial,70-79,ENSG00000266896,,,
+Artery - Tibial,70-79,ADCY6,1.681,exact,artery
+Artery - Tibial,70-79,INTS6L,4.832,global,bto:0000042
+Artery - Tibial,70-79,EMSY-DT,,,
+Artery - Tibial,70-79,ENSG00000226471,,,
+Artery - Tibial,70-79,IRF3,1.993,exact,artery
+Artery - Tibial,70-79,COQ8B,0.891,exact,artery
+Artery - Tibial,70-79,TRNAU1AP,4.913,global,bto:0000042
+Artery - Tibial,70-79,ZMYM4,4.968,global,bto:0000042
+Artery - Tibial,70-79,DUSP8P5,,,
+Artery - Tibial,70-79,SH3GLB2,4.998,global,bto:0000042
+Artery - Tibial,70-79,PAAF1,0.932,exact,artery
+Artery - Tibial,70-79,TTN-AS1,1.886,global,esophageal squamous cell carcinoma cell
+Artery - Tibial,70-79,TNPO2,4.977,global,bto:0000042
+Artery - Tibial,70-79,SLC2A11,0.812,exact,artery
+Artery - Tibial,70-79,ZNF512B,4.882,global,bto:0000042
+Artery - Tibial,70-79,MTMR3,4.979,global,bto:0000042
+Artery - Tibial,70-79,METTL3,1.815,exact,artery
+Artery - Tibial,70-79,THUMPD3-AS1,1.658,global,c-28/i2 cell
+Artery - Tibial,70-79,TMEM175,4.944,global,bto:0000042
+Artery - Tibial,70-79,HNRNPH1,0.677,exact,artery
+Artery - Tibial,70-79,ACTR5,4.827,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,USP46,4.975,global,bto:0000042
+Artery - Tibial,70-79,SIN3B,0.639,exact,artery
+Artery - Tibial,70-79,MSL1,4.987,global,bto:0000042
+Artery - Tibial,70-79,STK35,4.948,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,CETN3,0.973,exact,artery
+Artery - Tibial,70-79,SMARCD1,1.087,exact,artery
+Artery - Tibial,70-79,ZNF577,4.913,global,bto:0000042
+Artery - Tibial,70-79,SPIN3,4.869,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,ZNF529-AS1,1.336,global,m14 melanoma cell
+Artery - Tibial,70-79,YY2,4.814,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,LENG8,4.975,global,bto:0000042
+Artery - Tibial,70-79,NAAA,1.42,exact,artery
+Artery - Tibial,70-79,HNRNPA3,4.997,global,bto:0000042
+Artery - Tibial,70-79,DDX5,1.141,exact,artery
+Artery - Tibial,70-79,CDK9,1.318,exact,artery
+Artery - Tibial,70-79,LEMD2,0.592,exact,artery
+Artery - Tibial,70-79,SETD4,4.952,global,bto:0000042
+Artery - Tibial,70-79,AGAP4,3.918,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,CELF1,0.999,exact,artery
+Artery - Tibial,70-79,UQCC1,4.994,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,HECTD3,4.976,global,bto:0000042
+Artery - Tibial,70-79,HDAC8,1.697,exact,artery
+Artery - Tibial,70-79,IL13RA1,1.307,exact,artery
+Artery - Tibial,70-79,C15ORF40,4.58,global,bto:0000042
+Artery - Tibial,70-79,LIMA1,1.062,exact,artery
+Artery - Tibial,70-79,ENSG00000273015,,,
+Artery - Tibial,70-79,MAML1,1.621,exact,artery
+Artery - Tibial,70-79,INPP5E,4.836,global,bto:0000042
+Artery - Tibial,70-79,HGSNAT,0.823,exact,artery
+Artery - Tibial,70-79,NKTR,0.557,exact,artery
+Artery - Tibial,70-79,PRPF38B,4.962,global,bto:0000042
+Artery - Tibial,70-79,PMS2P3,,,
+Artery - Tibial,70-79,ZNF783,4.933,global,bto:0000042
+Artery - Tibial,70-79,SH2B1,0.858,exact,artery
+Artery - Tibial,70-79,ZNF439,4.683,global,bto:0000042
+Artery - Tibial,70-79,LAS1L,4.0,exact,artery
+Artery - Tibial,70-79,LMAN1,0.569,exact,artery
+Artery - Tibial,70-79,ENSG00000270060,,,
+Artery - Tibial,70-79,OAZ2,4.98,global,bto:0000042
+Artery - Tibial,70-79,PIGG,4.984,global,bto:0000042
+Artery - Tibial,70-79,TMEM8B,4.886,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,RHOT2,0.909,exact,artery
+Artery - Tibial,70-79,ASH1L-AS1,1.423,global,hsc-2 cell
+Artery - Tibial,70-79,MCTS1,4.964,global,bto:0000042
+Artery - Tibial,70-79,HAUS7,4.931,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,PI4KB,4.987,global,"tissues, cell types and enzyme sources"
+Artery - Tibial,70-79,ZNF767P,,,
+Artery - Tibial,70-79,MLLT6,4.986,global,bto:0000042
+Artery - Tibial,70-79,CERS5,1.145,exact,artery
+Artery - Tibial,70-79,ENSG00000261505,,,
+Artery - Tibial,70-79,CDK5RAP1,0.579,exact,artery
+Artery - Tibial,70-79,TARDBP,1.817,exact,artery
+Artery - Tibial,70-79,CD27-AS1,1.613,global,hone-1 cell
+Artery - Tibial,70-79,TAF15,4.988,global,bto:0000042
+Artery - Tibial,70-79,ENSG00000258634,,,
+Artery - Tibial,70-79,CEP57L1,4.79,global,bto:0000042
+Artery - Tibial,70-79,RBM39,4.996,global,bto:0000042
+Artery - Tibial,70-79,ZNF19,4.368,global,bto:0000042
+Artery - Tibial,70-79,ERMARD,4.882,global,bto:0000042
+Artery - Tibial,70-79,PTGR2,4.844,global,bto:0000042

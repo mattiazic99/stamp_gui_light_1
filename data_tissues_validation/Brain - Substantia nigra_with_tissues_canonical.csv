@@ -1,0 +1,604 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Brain - Substantia nigra,30-39,RABEPK,4.945,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000283196,,,
+Brain - Substantia nigra,30-39,ENSG00000258847,,,
+Brain - Substantia nigra,30-39,H2AZ2,4.993,global,bto:0000042
+Brain - Substantia nigra,30-39,KLF3-AS1,2.252,global,chondrocyte
+Brain - Substantia nigra,30-39,ENDOV,4.555,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NUDT6,4.72,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NBPF11,4.305,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,AMN1,4.943,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,BIVM,4.97,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,C17ORF80,4.932,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,MAP4K4,0.815,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000269934,,,
+Brain - Substantia nigra,30-39,NDUFAF6,0.989,exact,substantia nigra
+Brain - Substantia nigra,30-39,JAKMIP2,4.735,global,bto:0000042
+Brain - Substantia nigra,30-39,CETP,0.52,exact,substantia nigra
+Brain - Substantia nigra,30-39,HMGB3,4.967,global,bto:0000042
+Brain - Substantia nigra,30-39,CEP78,4.861,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,AGBL5,4.989,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000270035,,,
+Brain - Substantia nigra,30-39,COX20,4.543,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,KIF2A,0.755,exact,substantia nigra
+Brain - Substantia nigra,30-39,MAPKAPK5,4.979,global,bto:0000042
+Brain - Substantia nigra,30-39,PHAX,4.995,global,bto:0000042
+Brain - Substantia nigra,30-39,USO1,4.992,global,bto:0000042
+Brain - Substantia nigra,30-39,VTI1B,0.748,exact,substantia nigra
+Brain - Substantia nigra,30-39,DMAC2L,4.783,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ENSG00000228801,,,
+Brain - Substantia nigra,30-39,COQ9,0.981,exact,substantia nigra
+Brain - Substantia nigra,30-39,KIAA1614,4.593,global,bto:0000042
+Brain - Substantia nigra,30-39,TDRKH-AS1,,,
+Brain - Substantia nigra,30-39,ZNF793,4.611,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ENSG00000272909,,,
+Brain - Substantia nigra,30-39,CA4,2.219,exact,substantia nigra
+Brain - Substantia nigra,30-39,CHAF1A,4.95,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF792,4.565,global,bto:0000042
+Brain - Substantia nigra,30-39,RNF115,4.928,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000275120,,,
+Brain - Substantia nigra,30-39,XPA,0.84,exact,substantia nigra
+Brain - Substantia nigra,30-39,LINC00674,1.988,global,nci-h441 cell
+Brain - Substantia nigra,30-39,MAPK6,4.983,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,PEX19,0.725,exact,substantia nigra
+Brain - Substantia nigra,30-39,KIAA0408,1.074,global,ovum
+Brain - Substantia nigra,30-39,ADGRA2,4.917,global,bto:0000042
+Brain - Substantia nigra,30-39,MRPS28,4.876,global,bto:0000042
+Brain - Substantia nigra,30-39,C1ORF159,4.928,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF251,4.864,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,GRID2,1.308,exact,substantia nigra
+Brain - Substantia nigra,30-39,CYB5D2,4.947,global,bto:0000042
+Brain - Substantia nigra,30-39,HMGN3-AS1,0.821,global,tibia
+Brain - Substantia nigra,30-39,CRADD,4.862,global,bto:0000042
+Brain - Substantia nigra,30-39,TRAF3IP2-AS1,1.616,global,act-1 cell
+Brain - Substantia nigra,30-39,TSPAN12,4.947,global,bto:0000042
+Brain - Substantia nigra,30-39,DNAJC8,4.991,global,bto:0000042
+Brain - Substantia nigra,30-39,ASB8,4.969,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF530,4.346,global,bto:0000042
+Brain - Substantia nigra,30-39,FOXF2,0.565,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000212978,,,
+Brain - Substantia nigra,30-39,SLC25A15,4.915,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ERG28,4.945,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,TMEM9,4.992,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000245552,,,
+Brain - Substantia nigra,30-39,PRIMPOL,4.855,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,LRP6,1.104,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000214776,,,
+Brain - Substantia nigra,30-39,FKBP9,4.987,global,bto:0000042
+Brain - Substantia nigra,30-39,CASK,0.797,exact,substantia nigra
+Brain - Substantia nigra,30-39,HCG11,1.734,global,liver cancer cell
+Brain - Substantia nigra,30-39,OPALIN,0.882,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000269176,,,
+Brain - Substantia nigra,30-39,ZNF527,4.516,global,bto:0000042
+Brain - Substantia nigra,30-39,BCL2L2,1.167,exact,substantia nigra
+Brain - Substantia nigra,30-39,KIAA0232,4.935,global,bto:0000042
+Brain - Substantia nigra,30-39,RAVER2,4.89,global,bto:0000042
+Brain - Substantia nigra,30-39,TTC3P1,,,
+Brain - Substantia nigra,30-39,VASH1-AS1,,,
+Brain - Substantia nigra,30-39,ALG6,4.916,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,PMS2P4,,,
+Brain - Substantia nigra,30-39,AIFM1,0.762,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000255310,,,
+Brain - Substantia nigra,30-39,MFSD14C,4.87,global,bto:0000042
+Brain - Substantia nigra,30-39,NALF2,,,
+Brain - Substantia nigra,30-39,COX7A2,0.612,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000287222,,,
+Brain - Substantia nigra,30-39,LINC00665,1.914,global,carcinoma cell
+Brain - Substantia nigra,30-39,SCUBE2,4.389,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,SCRN3,4.928,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NEK1,1.058,exact,substantia nigra
+Brain - Substantia nigra,30-39,NDUFB6,0.983,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZNF248,4.924,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000215795,,,
+Brain - Substantia nigra,30-39,GPATCH2L,0.563,exact,substantia nigra
+Brain - Substantia nigra,30-39,LTBP3,4.989,global,bto:0000042
+Brain - Substantia nigra,30-39,EIF3L,5.0,global,bto:0000042
+Brain - Substantia nigra,30-39,SUCLG2-AS1,2.002,global,cne-1 cell
+Brain - Substantia nigra,30-39,SEMA5A,0.972,exact,substantia nigra
+Brain - Substantia nigra,30-39,GPR19,2.424,global,bto:0000042
+Brain - Substantia nigra,30-39,WASHC3,0.907,exact,substantia nigra
+Brain - Substantia nigra,30-39,RWDD1,4.924,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,PDIA3P1,,,
+Brain - Substantia nigra,30-39,NLRC3,4.432,global,immune system
+Brain - Substantia nigra,30-39,EPM2A,0.738,exact,substantia nigra
+Brain - Substantia nigra,30-39,PEBP1,0.987,exact,substantia nigra
+Brain - Substantia nigra,30-39,AGPAT3,4.987,global,bto:0000042
+Brain - Substantia nigra,30-39,AFAP1L2,4.979,global,bto:0000042
+Brain - Substantia nigra,30-39,GOLGA2,0.852,exact,substantia nigra
+Brain - Substantia nigra,30-39,FAM168B,4.989,global,bto:0000042
+Brain - Substantia nigra,30-39,SALL2,4.98,global,bto:0000042
+Brain - Substantia nigra,30-39,MPG,0.64,exact,substantia nigra
+Brain - Substantia nigra,30-39,PINK1,3.462,exact,substantia nigra
+Brain - Substantia nigra,30-39,PTPRA,4.993,global,bto:0000042
+Brain - Substantia nigra,30-39,KMT5B,4.977,global,bto:0000042
+Brain - Substantia nigra,30-39,FBXO11,4.977,global,bto:0000042
+Brain - Substantia nigra,30-39,DYNC1LI2-DT,,,
+Brain - Substantia nigra,30-39,PDCD6,0.514,exact,substantia nigra
+Brain - Substantia nigra,30-39,CCDC43,4.923,global,bto:0000042
+Brain - Substantia nigra,30-39,ERV3-1,1.11,exact,substantia nigra
+Brain - Substantia nigra,30-39,TMEM18,4.937,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ENSG00000266931,,,
+Brain - Substantia nigra,30-39,ENOPH1,4.988,global,bto:0000042
+Brain - Substantia nigra,30-39,SMURF2P1,,,
+Brain - Substantia nigra,30-39,HSBP1,4.996,global,bto:0000042
+Brain - Substantia nigra,30-39,SOX4,4.995,global,bto:0000042
+Brain - Substantia nigra,30-39,TADA3,4.99,global,bto:0000042
+Brain - Substantia nigra,30-39,RPL13P5,,,
+Brain - Substantia nigra,30-39,EEF1AKMT2,4.861,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,UBA6-DT,,,
+Brain - Substantia nigra,30-39,WBP1,4.991,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000267707,,,
+Brain - Substantia nigra,30-39,ADH5,0.822,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZNF518B,4.871,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ATP6V0E2-AS1,1.25,global,thyroid nodule
+Brain - Substantia nigra,30-39,SCARF2,4.818,global,bto:0000042
+Brain - Substantia nigra,30-39,SEC63,4.987,global,bto:0000042
+Brain - Substantia nigra,30-39,FBXO25,4.941,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000286379,,,
+Brain - Substantia nigra,30-39,MYO9A,4.921,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,SLC30A10,1.475,exact,substantia nigra
+Brain - Substantia nigra,30-39,DCAF10,4.95,global,bto:0000042
+Brain - Substantia nigra,30-39,PTPMT1,4.951,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,SDHAP3,,,
+Brain - Substantia nigra,30-39,STX17,1.274,exact,substantia nigra
+Brain - Substantia nigra,30-39,SFXN1,0.935,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000238018,,,
+Brain - Substantia nigra,30-39,TOP2B,4.995,global,bto:0000042
+Brain - Substantia nigra,30-39,MFN2,2.243,exact,substantia nigra
+Brain - Substantia nigra,30-39,C16ORF86,3.494,global,bto:0000042
+Brain - Substantia nigra,30-39,STARD7-AS1,1.614,global,mrsv
+Brain - Substantia nigra,30-39,SFXN4,4.951,global,bto:0000042
+Brain - Substantia nigra,30-39,FAM219B,4.756,global,bto:0000042
+Brain - Substantia nigra,30-39,NDUFC2,0.619,exact,substantia nigra
+Brain - Substantia nigra,30-39,SLC2A8,0.967,exact,substantia nigra
+Brain - Substantia nigra,30-39,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,CCM2L,2.493,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,PLXDC1,4.941,global,bto:0000042
+Brain - Substantia nigra,30-39,FAM47E,1.271,exact,substantia nigra
+Brain - Substantia nigra,30-39,ATXN1-AS1,,,
+Brain - Substantia nigra,30-39,PRKAG1,4.986,global,bto:0000042
+Brain - Substantia nigra,30-39,GABARAPL2,1.772,exact,substantia nigra
+Brain - Substantia nigra,30-39,FAM228B,3.962,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF583,4.67,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF429,4.433,global,bto:0000042
+Brain - Substantia nigra,30-39,CMTM4,4.966,global,bto:0000042
+Brain - Substantia nigra,30-39,SRR,1.248,exact,substantia nigra
+Brain - Substantia nigra,30-39,SUPT16H,4.984,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ZFP28,4.667,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,LSR,4.989,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF568,4.85,global,bto:0000042
+Brain - Substantia nigra,30-39,PCAT6,2.014,global,non-small cell lung cancer cell
+Brain - Substantia nigra,30-39,EEF2,1.261,exact,substantia nigra
+Brain - Substantia nigra,30-39,GTF2IP4,,,
+Brain - Substantia nigra,30-39,LINC01003,1.155,global,liver cancer stem cell
+Brain - Substantia nigra,30-39,LDAH,4.951,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF23,4.811,global,bto:0000042
+Brain - Substantia nigra,30-39,RNF14,4.98,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000286724,,,
+Brain - Substantia nigra,30-39,ENSG00000288891,,,
+Brain - Substantia nigra,30-39,GNL1,4.989,global,bto:0000042
+Brain - Substantia nigra,30-39,RABGAP1,4.947,global,bto:0000042
+Brain - Substantia nigra,30-39,UBE2D4,4.946,global,bto:0000042
+Brain - Substantia nigra,30-39,DCLK2,4.793,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ENSG00000287629,,,
+Brain - Substantia nigra,30-39,ZFP90,4.978,global,bto:0000042
+Brain - Substantia nigra,30-39,LINC02482,,,
+Brain - Substantia nigra,30-39,ENSG00000286681,,,
+Brain - Substantia nigra,30-39,PAQR5-DT,,,
+Brain - Substantia nigra,30-39,COX6A1,0.942,exact,substantia nigra
+Brain - Substantia nigra,30-39,CBX1,4.99,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,TRIM44,4.986,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,TXN2,1.629,exact,substantia nigra
+Brain - Substantia nigra,30-39,FDXACB1,4.0,global,bto:0000042
+Brain - Substantia nigra,30-39,SIRT5,1.456,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000288538,,,
+Brain - Substantia nigra,30-39,TIGD2,0.639,exact,substantia nigra
+Brain - Substantia nigra,30-39,COX16,4.973,global,bto:0000042
+Brain - Substantia nigra,30-39,OSBPL2,4.98,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000260664,,,
+Brain - Substantia nigra,30-39,SPDL1,4.961,global,bto:0000042
+Brain - Substantia nigra,30-39,BCLAF3,4.626,global,bto:0000042
+Brain - Substantia nigra,30-39,NDUFS4,1.843,exact,substantia nigra
+Brain - Substantia nigra,30-39,ANKAR,4.635,global,bto:0000042
+Brain - Substantia nigra,30-39,CRAT,4.97,global,bto:0000042
+Brain - Substantia nigra,30-39,PHF7,4.994,global,bto:0000042
+Brain - Substantia nigra,30-39,SEPHS1,4.975,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000268087,,,
+Brain - Substantia nigra,30-39,ALDH1L2,4.733,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000273763,,,
+Brain - Substantia nigra,30-39,CCDC115,4.0,exact,substantia nigra
+Brain - Substantia nigra,30-39,TMEM126B,4.972,global,bto:0000042
+Brain - Substantia nigra,30-39,SARAF,4.999,global,bto:0000042
+Brain - Substantia nigra,30-39,FAF1,1.02,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZNF772,4.798,global,bto:0000042
+Brain - Substantia nigra,30-39,MT-ATP8,1.084,exact,substantia nigra
+Brain - Substantia nigra,30-39,MAGI2,0.73,exact,substantia nigra
+Brain - Substantia nigra,30-39,VANGL1,4.944,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,TMEM63C,4.829,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,OSGEP,4.981,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000204758,,,
+Brain - Substantia nigra,30-39,GMDS-DT,,,
+Brain - Substantia nigra,30-39,USP12,4.944,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,RFX3-AS1,1.803,global,hcc-15
+Brain - Substantia nigra,30-39,COA1,4.959,global,bto:0000042
+Brain - Substantia nigra,30-39,ZRANB3,4.967,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ADGRL3,0.833,exact,substantia nigra
+Brain - Substantia nigra,30-39,PAAF1,4.939,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ENSG00000278917,,,
+Brain - Substantia nigra,30-39,FBN3,4.719,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,RGPD4,4.992,global,bto:0000042
+Brain - Substantia nigra,30-39,FH,0.851,exact,substantia nigra
+Brain - Substantia nigra,30-39,NDUFB4,0.699,exact,substantia nigra
+Brain - Substantia nigra,30-39,EAPP,4.968,global,bto:0000042
+Brain - Substantia nigra,30-39,LHFPL3,0.501,exact,substantia nigra
+Brain - Substantia nigra,30-39,CLEC11A,4.932,global,bto:0000042
+Brain - Substantia nigra,30-39,TBRG1,4.987,global,bto:0000042
+Brain - Substantia nigra,30-39,KIF22,4.993,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF223,4.832,global,bto:0000042
+Brain - Substantia nigra,30-39,LDHB,,,
+Brain - Substantia nigra,30-39,TTC21B,4.824,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,MRPS25,4.972,global,bto:0000042
+Brain - Substantia nigra,30-39,PECR,4.833,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NDUFS3,1.702,exact,substantia nigra
+Brain - Substantia nigra,30-39,OCIAD1,4.991,global,bto:0000042
+Brain - Substantia nigra,30-39,ARVCF,4.596,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,MRPL35,4.974,global,bto:0000042
+Brain - Substantia nigra,30-39,OAZ2,4.98,global,bto:0000042
+Brain - Substantia nigra,30-39,ME2,4.959,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ACBD4,4.883,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,RASSF8-AS1,1.485,global,aortic intima
+Brain - Substantia nigra,30-39,GPC6,4.95,global,bto:0000042
+Brain - Substantia nigra,30-39,GALK2,4.97,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NOVA1,0.883,exact,substantia nigra
+Brain - Substantia nigra,30-39,TMEM249,4.325,global,bto:0000042
+Brain - Substantia nigra,30-39,SLC25A20,0.624,exact,substantia nigra
+Brain - Substantia nigra,30-39,SRSF8,4.263,global,bto:0000042
+Brain - Substantia nigra,30-39,VEZT,4.99,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000269600,,,
+Brain - Substantia nigra,30-39,SDHD,0.614,exact,substantia nigra
+Brain - Substantia nigra,30-39,CZIB,4.951,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,GPSM2,1.056,exact,substantia nigra
+Brain - Substantia nigra,30-39,SNRPD3,4.975,global,bto:0000042
+Brain - Substantia nigra,30-39,TMEM129,4.802,global,bto:0000042
+Brain - Substantia nigra,30-39,LINC01145,,,
+Brain - Substantia nigra,30-39,ZKSCAN2,4.93,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NAXD,4.994,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF423,4.856,global,bto:0000042
+Brain - Substantia nigra,30-39,WDR61,4.974,global,bto:0000042
+Brain - Substantia nigra,30-39,SKP1,1.51,exact,substantia nigra
+Brain - Substantia nigra,30-39,MYEF2,4.918,global,bto:0000042
+Brain - Substantia nigra,30-39,AGPAT1,4.99,global,bto:0000042
+Brain - Substantia nigra,30-39,NET1,4.993,global,bto:0000042
+Brain - Substantia nigra,30-39,HID1-AS1,0.932,global,zr-75-1 cell
+Brain - Substantia nigra,30-39,ALDH1A3,4.975,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000275367,,,
+Brain - Substantia nigra,30-39,TRIM66,4.862,global,bto:0000042
+Brain - Substantia nigra,30-39,VAMP7,0.947,exact,substantia nigra
+Brain - Substantia nigra,30-39,HULC,0.627,global,lymph node
+Brain - Substantia nigra,30-39,FCHSD2,4.934,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ZNF829,4.155,global,bto:0000042
+Brain - Substantia nigra,30-39,FER,4.803,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,TFCP2,4.974,global,bto:0000042
+Brain - Substantia nigra,30-39,NHSL1,4.883,global,bto:0000042
+Brain - Substantia nigra,30-39,CISTR,1.475,global,gynophore
+Brain - Substantia nigra,30-39,FASTK,4.991,global,bto:0000042
+Brain - Substantia nigra,30-39,SCIRT,,,
+Brain - Substantia nigra,30-39,CATSPER2,4.907,global,bto:0000042
+Brain - Substantia nigra,30-39,DSCAM,1.037,exact,substantia nigra
+Brain - Substantia nigra,30-39,NPAS3,0.592,exact,substantia nigra
+Brain - Substantia nigra,30-39,NDUFC1,0.692,exact,substantia nigra
+Brain - Substantia nigra,30-39,INTS3,4.983,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000286747,,,
+Brain - Substantia nigra,30-39,ZNF639,4.903,global,bto:0000042
+Brain - Substantia nigra,30-39,SEPTIN7-DT,,,
+Brain - Substantia nigra,30-39,IMMP1L,4.718,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,C18ORF32,4.171,global,bto:0000042
+Brain - Substantia nigra,30-39,AKR1E2,4.732,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ZNF677,4.723,global,bto:0000042
+Brain - Substantia nigra,30-39,VPS45,4.988,global,bto:0000042
+Brain - Substantia nigra,30-39,USP9X,1.321,exact,substantia nigra
+Brain - Substantia nigra,30-39,ELP5,4.631,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,KHDC1-AS1,,,
+Brain - Substantia nigra,30-39,MTCH2,0.659,exact,substantia nigra
+Brain - Substantia nigra,30-39,PTCD2,0.716,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZBTB4,4.977,global,bto:0000042
+Brain - Substantia nigra,30-39,LRRC75B,4.087,global,bto:0000042
+Brain - Substantia nigra,30-39,TRPT1,4.904,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ENSG00000269044,,,
+Brain - Substantia nigra,30-39,TTLL1,4.918,global,bto:0000042
+Brain - Substantia nigra,30-39,SPRY3,4.624,global,bto:0000042
+Brain - Substantia nigra,30-39,PPOX,4.949,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NFYB,4.969,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,SLC25A26,0.795,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZNF662,4.73,global,bto:0000042
+Brain - Substantia nigra,30-39,PXMP2,4.939,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ZCCHC14,4.967,global,bto:0000042
+Brain - Substantia nigra,30-39,WASH4P,,,
+Brain - Substantia nigra,30-39,DCLRE1A,4.871,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,PIK3R4,1.37,exact,substantia nigra
+Brain - Substantia nigra,30-39,ASB1,4.959,global,bto:0000042
+Brain - Substantia nigra,30-39,PRKAB2,4.952,global,bto:0000042
+Brain - Substantia nigra,30-39,SLC25A5,0.786,exact,substantia nigra
+Brain - Substantia nigra,30-39,DDHD2,0.764,exact,substantia nigra
+Brain - Substantia nigra,30-39,C17ORF100,3.67,global,bto:0000042
+Brain - Substantia nigra,30-39,AS3MT,4.791,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ACBD6,4.933,global,bto:0000042
+Brain - Substantia nigra,30-39,GDNF-AS1,1.696,global,temporal gyrus
+Brain - Substantia nigra,30-39,ATP5PB,0.63,exact,substantia nigra
+Brain - Substantia nigra,30-39,AK3P3,,,
+Brain - Substantia nigra,30-39,ENSG00000284052,,,
+Brain - Substantia nigra,30-39,ZBTB47,4.889,global,bto:0000042
+Brain - Substantia nigra,30-39,ZEB1,0.507,exact,substantia nigra
+Brain - Substantia nigra,30-39,COBLL1,4.969,global,bto:0000042
+Brain - Substantia nigra,30-39,SLC24A1,4.865,global,bto:0000042
+Brain - Substantia nigra,30-39,UBE2E1,4.972,global,bto:0000042
+Brain - Substantia nigra,30-39,PDCD2,4.974,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000287402,,,
+Brain - Substantia nigra,30-39,ENSG00000279265,,,
+Brain - Substantia nigra,30-39,SCAPER,4.94,global,bto:0000042
+Brain - Substantia nigra,30-39,UQCC2,4.641,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,GRK4,0.551,exact,substantia nigra
+Brain - Substantia nigra,30-39,SMIM10L1,1.069,global,taste bud
+Brain - Substantia nigra,30-39,ZNF470,4.643,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,FBXO17,4.319,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,GPR17,1.098,exact,substantia nigra
+Brain - Substantia nigra,30-39,STX18-AS1,1.41,global,atrial appendage
+Brain - Substantia nigra,30-39,MCEE,4.897,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,CASC15,1.959,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,COA8,4.103,global,bto:0000042
+Brain - Substantia nigra,30-39,PTN,1.443,exact,substantia nigra
+Brain - Substantia nigra,30-39,KBTBD4,4.888,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ZNF197,4.875,global,bto:0000042
+Brain - Substantia nigra,30-39,TRMT61B,4.936,global,bto:0000042
+Brain - Substantia nigra,30-39,SLC25A53P1,,,
+Brain - Substantia nigra,30-39,ISOC2,4.956,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF853,1.372,global,endocuticle
+Brain - Substantia nigra,30-39,LIMA1,4.99,global,bto:0000042
+Brain - Substantia nigra,30-39,MROH8,3.732,global,bto:0000042
+Brain - Substantia nigra,30-39,SPCS1,4.985,global,bto:0000042
+Brain - Substantia nigra,30-39,POPDC2,4.901,global,bto:0000042
+Brain - Substantia nigra,30-39,KRBOX4,4.363,global,bto:0000042
+Brain - Substantia nigra,30-39,DIS3L,4.896,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,TMEM9B,4.978,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000284024,,,
+Brain - Substantia nigra,30-39,IVD,4.986,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000225649,,,
+Brain - Substantia nigra,30-39,DNAJC18,4.961,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,PELI2,0.557,exact,substantia nigra
+Brain - Substantia nigra,30-39,MIB1,4.977,global,bto:0000042
+Brain - Substantia nigra,30-39,TBCEL,4.822,global,bto:0000042
+Brain - Substantia nigra,30-39,GPATCH11,4.946,global,bto:0000042
+Brain - Substantia nigra,30-39,PARK7,3.495,exact,substantia nigra
+Brain - Substantia nigra,30-39,AMT,4.96,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ERCC8,0.711,exact,substantia nigra
+Brain - Substantia nigra,30-39,TAOK3,4.978,global,bto:0000042
+Brain - Substantia nigra,30-39,KIF9-AS1,1.239,global,intestinal wall
+Brain - Substantia nigra,30-39,ASTN2,0.505,exact,substantia nigra
+Brain - Substantia nigra,30-39,LIAS,0.814,exact,substantia nigra
+Brain - Substantia nigra,30-39,TAX1BP1,1.442,exact,substantia nigra
+Brain - Substantia nigra,30-39,PCBD2,4.856,global,bto:0000042
+Brain - Substantia nigra,30-39,EMC4,4.563,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,FAAH2,0.633,exact,substantia nigra
+Brain - Substantia nigra,30-39,SCD5,4.986,global,bto:0000042
+Brain - Substantia nigra,30-39,NMNAT3,0.727,exact,substantia nigra
+Brain - Substantia nigra,30-39,PCDHB5,0.556,exact,substantia nigra
+Brain - Substantia nigra,30-39,PCM1,4.989,global,bto:0000042
+Brain - Substantia nigra,30-39,AGO1,0.728,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZKSCAN7,0.65,exact,substantia nigra
+Brain - Substantia nigra,30-39,GAB2,0.792,exact,substantia nigra
+Brain - Substantia nigra,30-39,RBSN,0.556,exact,substantia nigra
+Brain - Substantia nigra,30-39,COX5B,0.78,exact,substantia nigra
+Brain - Substantia nigra,30-39,KHDC1,4.719,global,bto:0000042
+Brain - Substantia nigra,30-39,SLC16A14,4.928,global,bto:0000042
+Brain - Substantia nigra,30-39,MRPS31P4,,,
+Brain - Substantia nigra,30-39,CDC42BPA,4.978,global,bto:0000042
+Brain - Substantia nigra,30-39,TMEM237,4.952,global,bto:0000042
+Brain - Substantia nigra,30-39,IARS2,4.982,global,bto:0000042
+Brain - Substantia nigra,30-39,BPGM,4.99,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF75D,4.851,global,bto:0000042
+Brain - Substantia nigra,30-39,ZFP91,4.666,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,LETMD1,4.991,global,bto:0000042
+Brain - Substantia nigra,30-39,FAM120AOS,4.866,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,REX1BD,4.812,global,bto:0000042
+Brain - Substantia nigra,30-39,LINC02283,,,
+Brain - Substantia nigra,30-39,VPS39,0.687,exact,substantia nigra
+Brain - Substantia nigra,30-39,SDHC,1.169,exact,substantia nigra
+Brain - Substantia nigra,30-39,TRUB2,4.962,global,bto:0000042
+Brain - Substantia nigra,30-39,ARMCX4,4.88,global,bto:0000042
+Brain - Substantia nigra,30-39,SCGB2B2,1.668,global,bto:0000042
+Brain - Substantia nigra,30-39,SLC39A9,4.985,global,bto:0000042
+Brain - Substantia nigra,30-39,PPA2,0.609,exact,substantia nigra
+Brain - Substantia nigra,30-39,HDHD2,4.97,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF529,4.818,global,bto:0000042
+Brain - Substantia nigra,30-39,TRIM67,0.611,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZNF491,4.287,global,bto:0000042
+Brain - Substantia nigra,30-39,RNLS,4.789,global,bto:0000042
+Brain - Substantia nigra,30-39,MPPE1,4.976,global,bto:0000042
+Brain - Substantia nigra,30-39,MEIS3P1,,,
+Brain - Substantia nigra,30-39,ZNF528,4.913,global,bto:0000042
+Brain - Substantia nigra,30-39,FAM168A,4.968,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF268,4.971,global,bto:0000042
+Brain - Substantia nigra,30-39,GLT8D1,4.979,global,bto:0000042
+Brain - Substantia nigra,30-39,TOPBP1,4.983,global,bto:0000042
+Brain - Substantia nigra,30-39,SENP8,4.905,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NPAP1,2.737,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,RPL15,5.0,global,bto:0000042
+Brain - Substantia nigra,30-39,EGLN3,4.961,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000261684,,,
+Brain - Substantia nigra,30-39,GMPR2,4.981,global,bto:0000042
+Brain - Substantia nigra,30-39,COX15,0.893,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZNHIT3,0.5,exact,substantia nigra
+Brain - Substantia nigra,30-39,SPSB4,4.723,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ZSWIM9,4.567,global,bto:0000042
+Brain - Substantia nigra,30-39,ZNF790-AS1,1.813,global,endometrioid carcinoma cell
+Brain - Substantia nigra,30-39,TMEM242-DT,,,
+Brain - Substantia nigra,30-39,COX4I2,1.195,exact,substantia nigra
+Brain - Substantia nigra,30-39,SPTBN1,0.8,exact,substantia nigra
+Brain - Substantia nigra,30-39,SYNJ2BP,0.719,exact,substantia nigra
+Brain - Substantia nigra,30-39,KLF12,4.941,global,bto:0000042
+Brain - Substantia nigra,30-39,CYB5D1,4.929,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000229953,,,
+Brain - Substantia nigra,30-39,NUDT3,4.971,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,PCOLCE2,4.931,global,bto:0000042
+Brain - Substantia nigra,30-39,MRPL57,4.888,global,bto:0000042
+Brain - Substantia nigra,30-39,NDUFV3,0.923,exact,substantia nigra
+Brain - Substantia nigra,30-39,HCG18,2.039,global,np
+Brain - Substantia nigra,30-39,GTF2IP1,,,
+Brain - Substantia nigra,30-39,ENSG00000267640,,,
+Brain - Substantia nigra,30-39,TRIM45,4.712,global,bto:0000042
+Brain - Substantia nigra,30-39,EEF1AKMT1,4.761,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,C1QTNF3,4.0,exact,substantia nigra
+Brain - Substantia nigra,30-39,TMEM132C,4.601,global,bto:0000042
+Brain - Substantia nigra,30-39,EIF4BP6,,,
+Brain - Substantia nigra,30-39,UBE2E3,0.548,exact,substantia nigra
+Brain - Substantia nigra,30-39,IL17RD,4.871,global,bto:0000042
+Brain - Substantia nigra,30-39,MTERF2,4.82,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ZNF428,4.738,global,bto:0000042
+Brain - Substantia nigra,30-39,GNAO1-DT,,,
+Brain - Substantia nigra,30-39,RBMXP4,,,
+Brain - Substantia nigra,30-39,COQ6,4.967,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ACTR8,4.952,global,bto:0000042
+Brain - Substantia nigra,30-39,LUC7L2,4.994,global,bto:0000042
+Brain - Substantia nigra,30-39,SNORA21B,,,
+Brain - Substantia nigra,30-39,DHRS7B,4.92,global,bto:0000042
+Brain - Substantia nigra,30-39,LINC00641,1.633,global,np
+Brain - Substantia nigra,30-39,ENSG00000233184,,,
+Brain - Substantia nigra,30-39,ENSG00000226530,,,
+Brain - Substantia nigra,30-39,SIKE1,4.941,global,bto:0000042
+Brain - Substantia nigra,30-39,DNAJC24,4.855,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,GPR173,0.526,exact,substantia nigra
+Brain - Substantia nigra,30-39,HTATSF1,4.981,global,bto:0000042
+Brain - Substantia nigra,30-39,RAD54B,4.847,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,NORAD,,,
+Brain - Substantia nigra,30-39,IGIP,4.549,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ZBTB8A,4.805,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,MRPS27,4.994,global,bto:0000042
+Brain - Substantia nigra,30-39,CMC1,4.891,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,EIF3H,4.997,global,bto:0000042
+Brain - Substantia nigra,30-39,ING3,4.936,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,ENSG00000287170,,,
+Brain - Substantia nigra,30-39,ENSG00000288670,,,
+Brain - Substantia nigra,30-39,FAR2P2,,,
+Brain - Substantia nigra,30-39,H2AZ1-DT,,,
+Brain - Substantia nigra,30-39,PGAM1P8,,,
+Brain - Substantia nigra,30-39,RAB11FIP4,4.979,global,bto:0000042
+Brain - Substantia nigra,30-39,ADGRF5,4.947,global,bto:0000042
+Brain - Substantia nigra,30-39,LINC02449,,,
+Brain - Substantia nigra,30-39,ENSG00000251615,,,
+Brain - Substantia nigra,30-39,NUCB2,1.217,exact,substantia nigra
+Brain - Substantia nigra,30-39,XYLB,4.774,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,USP34,4.99,global,bto:0000042
+Brain - Substantia nigra,30-39,ENSG00000239763,,,
+Brain - Substantia nigra,30-39,NPIPA9,1.606,global,bto:0000042
+Brain - Substantia nigra,30-39,BEND3P3,,,
+Brain - Substantia nigra,30-39,DPH5,4.943,global,bto:0000042
+Brain - Substantia nigra,30-39,HIGD1B,4.681,global,bto:0000042
+Brain - Substantia nigra,30-39,NCOA4,1.388,exact,substantia nigra
+Brain - Substantia nigra,30-39,RBBP7,4.997,global,bto:0000042
+Brain - Substantia nigra,30-39,CYP2U1,0.773,exact,substantia nigra
+Brain - Substantia nigra,30-39,CLPX,4.957,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,TMEM14B,4.957,global,bto:0000042
+Brain - Substantia nigra,30-39,PPP1R11,4.988,global,bto:0000042
+Brain - Substantia nigra,30-39,DROSHA,1.394,exact,substantia nigra
+Brain - Substantia nigra,30-39,ZSCAN30,4.878,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,SAPCD2,4.943,global,bto:0000042
+Brain - Substantia nigra,30-39,TSPAN3,4.998,global,bto:0000042
+Brain - Substantia nigra,30-39,ZFP30,4.713,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,RBBP4,4.997,global,bto:0000042
+Brain - Substantia nigra,30-39,FRS2,0.67,exact,substantia nigra
+Brain - Substantia nigra,30-39,ENSG00000274220,,,
+Brain - Substantia nigra,30-39,C1ORF50,4.749,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,30-39,TBC1D14,4.971,global,bto:0000042
+Brain - Substantia nigra,30-39,DRAIC,,,
+Brain - Substantia nigra,30-39,ABCG2,1.105,exact,substantia nigra
+Brain - Substantia nigra,30-39,EIF4EP1,,,
+Brain - Substantia nigra,30-39,COPG2,4.944,global,bto:0000042
+Brain - Substantia nigra,40-49,PPA2,0.609,exact,substantia nigra
+Brain - Substantia nigra,40-49,RABEPK,4.945,global,bto:0000042
+Brain - Substantia nigra,40-49,NDUFV3,0.923,exact,substantia nigra
+Brain - Substantia nigra,40-49,SRSF8,4.263,global,bto:0000042
+Brain - Substantia nigra,40-49,MRPL57,4.888,global,bto:0000042
+Brain - Substantia nigra,40-49,MCEE,4.897,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,40-49,SDHC,1.169,exact,substantia nigra
+Brain - Substantia nigra,40-49,FKBP9,4.987,global,bto:0000042
+Brain - Substantia nigra,40-49,COA8,4.103,global,bto:0000042
+Brain - Substantia nigra,40-49,NDUFS4,1.843,exact,substantia nigra
+Brain - Substantia nigra,40-49,CASK,0.797,exact,substantia nigra
+Brain - Substantia nigra,40-49,PCAT6,2.014,global,non-small cell lung cancer cell
+Brain - Substantia nigra,40-49,NDUFB4,0.699,exact,substantia nigra
+Brain - Substantia nigra,40-49,PTPMT1,4.951,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,40-49,PCBD2,4.856,global,bto:0000042
+Brain - Substantia nigra,40-49,FAM168A,4.968,global,bto:0000042
+Brain - Substantia nigra,40-49,TMEM129,4.802,global,bto:0000042
+Brain - Substantia nigra,40-49,NDUFC1,0.692,exact,substantia nigra
+Brain - Substantia nigra,40-49,DPH5,4.943,global,bto:0000042
+Brain - Substantia nigra,40-49,RWDD1,4.924,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,40-49,ZNF428,4.738,global,bto:0000042
+Brain - Substantia nigra,40-49,IMMP1L,4.718,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,40-49,PCDHB5,0.556,exact,substantia nigra
+Brain - Substantia nigra,40-49,ZNF677,4.723,global,bto:0000042
+Brain - Substantia nigra,40-49,PEBP1,0.987,exact,substantia nigra
+Brain - Substantia nigra,40-49,AGPAT3,4.987,global,bto:0000042
+Brain - Substantia nigra,40-49,SKP1,1.51,exact,substantia nigra
+Brain - Substantia nigra,40-49,MRPS28,4.876,global,bto:0000042
+Brain - Substantia nigra,40-49,PMS2P4,,,
+Brain - Substantia nigra,40-49,NDUFS3,1.702,exact,substantia nigra
+Brain - Substantia nigra,40-49,SPCS1,4.985,global,bto:0000042
+Brain - Substantia nigra,40-49,MPG,0.64,exact,substantia nigra
+Brain - Substantia nigra,40-49,CRADD,4.862,global,bto:0000042
+Brain - Substantia nigra,40-49,MTATP6P1,,,
+Brain - Substantia nigra,40-49,TRPT1,4.904,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,40-49,MT-ATP8,1.084,exact,substantia nigra
+Brain - Substantia nigra,40-49,TSPAN3,4.998,global,bto:0000042
+Brain - Substantia nigra,40-49,TMEM9B,4.978,global,bto:0000042
+Brain - Substantia nigra,40-49,TSPAN12,4.947,global,bto:0000042
+Brain - Substantia nigra,40-49,COX6A1,0.942,exact,substantia nigra
+Brain - Substantia nigra,40-49,ENSG00000269044,,,
+Brain - Substantia nigra,40-49,IVD,4.986,global,bto:0000042
+Brain - Substantia nigra,40-49,LETMD1,4.991,global,bto:0000042
+Brain - Substantia nigra,40-49,UQCC2,4.641,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,40-49,PRKAG1,4.986,global,bto:0000042
+Brain - Substantia nigra,40-49,GABARAPL2,1.772,exact,substantia nigra
+Brain - Substantia nigra,40-49,TADA3,4.99,global,bto:0000042
+Brain - Substantia nigra,40-49,TXN2,1.629,exact,substantia nigra
+Brain - Substantia nigra,40-49,PARK7,3.495,exact,substantia nigra
+Brain - Substantia nigra,40-49,SLC25A26,0.795,exact,substantia nigra
+Brain - Substantia nigra,40-49,WBP1,4.991,global,bto:0000042
+Brain - Substantia nigra,40-49,ENSG00000228801,,,
+Brain - Substantia nigra,40-49,COQ9,0.981,exact,substantia nigra
+Brain - Substantia nigra,40-49,COX16,4.973,global,bto:0000042
+Brain - Substantia nigra,40-49,PXMP2,4.939,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,40-49,NDUFB6,0.983,exact,substantia nigra
+Brain - Substantia nigra,40-49,PGAM1P8,,,
+Brain - Substantia nigra,40-49,ADH5,0.822,exact,substantia nigra
+Brain - Substantia nigra,50-59,NDUFS3,1.702,exact,substantia nigra
+Brain - Substantia nigra,50-59,RABEPK,4.945,global,bto:0000042
+Brain - Substantia nigra,50-59,SRSF8,4.263,global,bto:0000042
+Brain - Substantia nigra,50-59,MRPL57,4.888,global,bto:0000042
+Brain - Substantia nigra,50-59,UQCC2,4.641,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,50-59,CRADD,4.862,global,bto:0000042
+Brain - Substantia nigra,50-59,GABARAPL2,1.772,exact,substantia nigra
+Brain - Substantia nigra,50-59,COX6A1,0.942,exact,substantia nigra
+Brain - Substantia nigra,50-59,TXN2,1.629,exact,substantia nigra
+Brain - Substantia nigra,50-59,PARK7,3.495,exact,substantia nigra
+Brain - Substantia nigra,50-59,COA8,4.103,global,bto:0000042
+Brain - Substantia nigra,50-59,MTATP6P1,,,
+Brain - Substantia nigra,50-59,TRPT1,4.904,global,"tissues, cell types and enzyme sources"
+Brain - Substantia nigra,50-59,MT-ATP8,1.084,exact,substantia nigra
+Brain - Substantia nigra,50-59,NDUFB4,0.699,exact,substantia nigra
+Brain - Substantia nigra,50-59,COX16,4.973,global,bto:0000042
+Brain - Substantia nigra,50-59,NDUFB6,0.983,exact,substantia nigra
+Brain - Substantia nigra,50-59,NDUFC1,0.692,exact,substantia nigra
+Brain - Substantia nigra,60-69,MT-ND5,1.524,exact,substantia nigra
+Brain - Substantia nigra,60-69,MT-ND1,1.416,exact,substantia nigra
+Brain - Substantia nigra,60-69,MT-ND4L,0.913,exact,substantia nigra
+Brain - Substantia nigra,60-69,MTATP6P1,,,
+Brain - Substantia nigra,60-69,MT-ATP8,1.084,exact,substantia nigra
+Brain - Substantia nigra,70-79,MT-ND5,1.524,exact,substantia nigra
+Brain - Substantia nigra,70-79,MT-ND1,1.416,exact,substantia nigra
+Brain - Substantia nigra,70-79,MT-CO3,1.126,exact,substantia nigra
+Brain - Substantia nigra,70-79,MT-ND4L,0.913,exact,substantia nigra
+Brain - Substantia nigra,70-79,MT-CO1,1.513,exact,substantia nigra
+Brain - Substantia nigra,70-79,MTATP6P1,,,
+Brain - Substantia nigra,70-79,METRN,4.97,global,bto:0000042
+Brain - Substantia nigra,70-79,ENSG00000275445,,,

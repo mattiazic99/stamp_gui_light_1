@@ -1,0 +1,1700 @@
+tissue,age_group,gene_symbol,tissues_confidence,tissues_tissue_match,tissues_best_tissue
+Artery - Coronary,30-39,MRPS18A,4.957,global,bto:0000042
+Artery - Coronary,30-39,PSMB2,4.994,global,bto:0000042
+Artery - Coronary,30-39,OCEL1,4.815,global,bto:0000042
+Artery - Coronary,30-39,CORO1B,0.783,exact,artery
+Artery - Coronary,30-39,PDIK1L,4.858,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZNF329,4.62,global,bto:0000042
+Artery - Coronary,30-39,FECH,0.69,exact,coronary artery
+Artery - Coronary,30-39,AASDHPPT,0.936,exact,artery
+Artery - Coronary,30-39,CAND1,0.613,exact,artery
+Artery - Coronary,30-39,MAT2B,0.823,exact,artery
+Artery - Coronary,30-39,YTHDF1,1.522,exact,artery
+Artery - Coronary,30-39,SPTY2D1,4.892,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,RPA2,1.259,exact,artery
+Artery - Coronary,30-39,HNRNPUL1,4.998,global,bto:0000042
+Artery - Coronary,30-39,ZC3H13,1.01,exact,artery
+Artery - Coronary,30-39,CBWD2,4.424,global,brain
+Artery - Coronary,30-39,EIF2AK4,0.807,exact,coronary artery
+Artery - Coronary,30-39,MTMR9,4.949,global,bto:0000042
+Artery - Coronary,30-39,BRPF1,4.922,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,BAG5,0.527,exact,artery
+Artery - Coronary,30-39,RAB14,0.599,exact,artery
+Artery - Coronary,30-39,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,RAB29,4.966,global,bto:0000042
+Artery - Coronary,30-39,NAA30,4.949,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZNF2,0.546,exact,artery
+Artery - Coronary,30-39,PSMD5,0.911,exact,coronary artery
+Artery - Coronary,30-39,APEH,0.763,exact,artery
+Artery - Coronary,30-39,USP22,0.636,exact,coronary artery
+Artery - Coronary,30-39,RAB8A,1.159,exact,artery
+Artery - Coronary,30-39,SLC25A38,4.984,global,bto:0000042
+Artery - Coronary,30-39,ICMT,0.633,exact,coronary artery
+Artery - Coronary,30-39,KRR1,4.937,global,bto:0000042
+Artery - Coronary,30-39,ZNF71,4.78,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,NCSTN,1.186,exact,artery
+Artery - Coronary,30-39,KDM4A,1.239,exact,artery
+Artery - Coronary,30-39,MRGPRF,0.746,exact,artery
+Artery - Coronary,30-39,BECN1,2.091,exact,coronary artery
+Artery - Coronary,30-39,TMEM248,4.99,global,bto:0000042
+Artery - Coronary,30-39,ZNF747,4.84,global,bto:0000042
+Artery - Coronary,30-39,SMIM15,0.511,exact,coronary artery
+Artery - Coronary,30-39,SYNJ2BP,4.967,global,bto:0000042
+Artery - Coronary,30-39,ARMC10,4.942,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,SUPT16H,0.765,exact,artery
+Artery - Coronary,30-39,HBS1L,0.798,exact,artery
+Artery - Coronary,30-39,RNF11,4.99,global,bto:0000042
+Artery - Coronary,30-39,WIZ,0.649,exact,artery
+Artery - Coronary,30-39,TIMM29,4.797,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,UBE3B,4.978,global,bto:0000042
+Artery - Coronary,30-39,VPS35,0.91,exact,artery
+Artery - Coronary,30-39,MAPK1,1.586,exact,coronary artery
+Artery - Coronary,30-39,EPM2A,4.875,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZSCAN21,4.927,global,bto:0000042
+Artery - Coronary,30-39,MED29,0.526,exact,artery
+Artery - Coronary,30-39,PSKH1,0.567,exact,coronary artery
+Artery - Coronary,30-39,GNE,0.647,exact,artery
+Artery - Coronary,30-39,CIBAR1P1,,,
+Artery - Coronary,30-39,YTHDF2,0.667,exact,coronary artery
+Artery - Coronary,30-39,DNM1L,1.94,exact,coronary artery
+Artery - Coronary,30-39,PNPLA4,0.552,exact,artery
+Artery - Coronary,30-39,UPRT,0.557,exact,artery
+Artery - Coronary,30-39,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,KLHDC10,4.963,global,bto:0000042
+Artery - Coronary,30-39,SLC35B2,4.986,global,bto:0000042
+Artery - Coronary,30-39,CDYL,0.66,exact,artery
+Artery - Coronary,30-39,NDUFA9,0.752,exact,coronary artery
+Artery - Coronary,30-39,ENSG00000287091,,,
+Artery - Coronary,30-39,TEAD3,0.71,exact,coronary artery
+Artery - Coronary,30-39,ASB7,4.888,global,bto:0000042
+Artery - Coronary,30-39,TRIM44,0.743,exact,coronary artery
+Artery - Coronary,30-39,HMGN4,4.987,global,bto:0000042
+Artery - Coronary,30-39,SNX17,0.781,exact,artery
+Artery - Coronary,30-39,DAAM2,0.781,exact,artery
+Artery - Coronary,30-39,DGCR8,1.348,exact,coronary artery
+Artery - Coronary,30-39,SON,4.995,global,bto:0000042
+Artery - Coronary,30-39,UNC119B,0.523,exact,coronary artery
+Artery - Coronary,30-39,ENSG00000265519,,,
+Artery - Coronary,30-39,ZNF592,5.0,global,adrenal gland
+Artery - Coronary,30-39,LEPROT,4.983,global,bto:0000042
+Artery - Coronary,30-39,MECP2,1.079,exact,coronary artery
+Artery - Coronary,30-39,NAPA,4.997,global,bto:0000042
+Artery - Coronary,30-39,ZC3H4,0.596,exact,artery
+Artery - Coronary,30-39,TRMT5,4.818,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,EIF4E3,4.927,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,GPKOW,1.055,exact,artery
+Artery - Coronary,30-39,SSH3,0.623,exact,artery
+Artery - Coronary,30-39,TJP1,1.612,exact,coronary artery
+Artery - Coronary,30-39,GPN2,4.96,global,bto:0000042
+Artery - Coronary,30-39,HCFC1,0.567,exact,coronary artery
+Artery - Coronary,30-39,DBNDD2,4.982,global,bto:0000042
+Artery - Coronary,30-39,DHX8,0.553,exact,artery
+Artery - Coronary,30-39,BNIP2,0.576,exact,artery
+Artery - Coronary,30-39,SEPHS2,0.661,exact,artery
+Artery - Coronary,30-39,AMOT,0.652,exact,coronary artery
+Artery - Coronary,30-39,SLC35E1,4.957,global,bto:0000042
+Artery - Coronary,30-39,PHETA2,4.782,global,bto:0000042
+Artery - Coronary,30-39,MRPL20-AS1,,,
+Artery - Coronary,30-39,CBLL1,0.929,exact,artery
+Artery - Coronary,30-39,CLPX,4.957,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,TGOLN2,0.918,exact,artery
+Artery - Coronary,30-39,TACO1,4.94,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,EMC7,4.556,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,SUFU,1.138,exact,artery
+Artery - Coronary,30-39,SPRYD7,4.557,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ATG3,1.092,exact,coronary artery
+Artery - Coronary,30-39,MDH2,1.254,exact,artery
+Artery - Coronary,30-39,ATG13,1.156,exact,coronary artery
+Artery - Coronary,30-39,PBRM1,1.047,exact,artery
+Artery - Coronary,30-39,ENSG00000269032,,,
+Artery - Coronary,30-39,SIGMAR1,0.91,exact,coronary artery
+Artery - Coronary,30-39,CSNK2A1,0.547,exact,coronary artery
+Artery - Coronary,30-39,SMC1A,2.274,exact,artery
+Artery - Coronary,30-39,PCDHGB7,4.376,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,RRAGC,0.688,exact,artery
+Artery - Coronary,30-39,PPP2R5D,0.81,exact,artery
+Artery - Coronary,30-39,ZNF613,4.749,global,bto:0000042
+Artery - Coronary,30-39,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,HCG11,1.734,global,liver cancer cell
+Artery - Coronary,30-39,CCDC50,4.979,global,bto:0000042
+Artery - Coronary,30-39,ATXN7L3B,4.24,global,bto:0000042
+Artery - Coronary,30-39,TMEM129,4.802,global,bto:0000042
+Artery - Coronary,30-39,ARHGEF12,0.788,exact,coronary artery
+Artery - Coronary,30-39,FOXJ2,0.664,exact,artery
+Artery - Coronary,30-39,PGAM1,0.79,exact,coronary artery
+Artery - Coronary,30-39,SNX15,4.92,global,bto:0000042
+Artery - Coronary,30-39,IRF2BPL,0.517,exact,artery
+Artery - Coronary,30-39,SNTB2,4.962,global,bto:0000042
+Artery - Coronary,30-39,BPGM,0.762,exact,artery
+Artery - Coronary,30-39,TMUB2,4.959,global,bto:0000042
+Artery - Coronary,30-39,RNF6,4.976,global,bto:0000042
+Artery - Coronary,30-39,TM2D2,4.98,global,bto:0000042
+Artery - Coronary,30-39,USP8,0.968,exact,artery
+Artery - Coronary,30-39,RIPK1,1.482,exact,coronary artery
+Artery - Coronary,30-39,EIF4E2,0.508,exact,artery
+Artery - Coronary,30-39,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,DHRS7B,4.92,global,bto:0000042
+Artery - Coronary,30-39,FASTKD2,4.98,global,bto:0000042
+Artery - Coronary,30-39,TRIM21,1.038,exact,coronary artery
+Artery - Coronary,30-39,HERPUD2-AS1,,,
+Artery - Coronary,30-39,TTI2,4.863,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,PDPK1,0.573,exact,coronary artery
+Artery - Coronary,30-39,RTCB,0.591,exact,artery
+Artery - Coronary,30-39,RNF123,4.978,global,bto:0000042
+Artery - Coronary,30-39,MAPK9,1.334,exact,coronary artery
+Artery - Coronary,30-39,TMEM185A,4.931,global,bto:0000042
+Artery - Coronary,30-39,SLC35A5,4.976,global,bto:0000042
+Artery - Coronary,30-39,DPF2,4.988,global,bto:0000042
+Artery - Coronary,30-39,MED19,4.928,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ATE1,0.573,exact,artery
+Artery - Coronary,30-39,BAG6,0.612,exact,artery
+Artery - Coronary,30-39,PPP3CB,1.015,exact,coronary artery
+Artery - Coronary,30-39,EPC2,1.439,exact,artery
+Artery - Coronary,30-39,KANK2,0.679,exact,coronary artery
+Artery - Coronary,30-39,SRCAP,0.784,exact,artery
+Artery - Coronary,30-39,SNX12,4.984,global,bto:0000042
+Artery - Coronary,30-39,TMEM184C,4.891,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,FUNDC1,1.634,exact,coronary artery
+Artery - Coronary,30-39,NAP1L4,4.995,global,bto:0000042
+Artery - Coronary,30-39,NLRX1,0.524,exact,coronary artery
+Artery - Coronary,30-39,RNASEH1,0.828,exact,artery
+Artery - Coronary,30-39,CNOT1,1.109,exact,artery
+Artery - Coronary,30-39,SMARCE1,0.994,exact,artery
+Artery - Coronary,30-39,RPA1,4.16,exact,artery
+Artery - Coronary,30-39,EIF5A2,4.889,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZSCAN32,4.817,global,bto:0000042
+Artery - Coronary,30-39,RITA1,4.977,global,bto:0000042
+Artery - Coronary,30-39,NDUFAF3,0.541,exact,artery
+Artery - Coronary,30-39,C6ORF47,3.969,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,UBE2E3,0.714,exact,artery
+Artery - Coronary,30-39,TRIM37,4.994,global,bto:0000042
+Artery - Coronary,30-39,PPP6C,0.971,exact,artery
+Artery - Coronary,30-39,PFKM,1.065,exact,coronary artery
+Artery - Coronary,30-39,CAPRIN1,4.998,global,bto:0000042
+Artery - Coronary,30-39,FAM20B,0.846,exact,artery
+Artery - Coronary,30-39,PSENEN,0.582,exact,coronary artery
+Artery - Coronary,30-39,VAPB,0.811,exact,artery
+Artery - Coronary,30-39,SFT2D2,4.688,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,VPS33A,4.931,global,bto:0000042
+Artery - Coronary,30-39,NUDT21,0.533,exact,artery
+Artery - Coronary,30-39,TSTD2,4.808,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,MRM2,4.832,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,PRPF8,1.032,exact,artery
+Artery - Coronary,30-39,MEPCE,4.982,global,bto:0000042
+Artery - Coronary,30-39,DYRK1A,0.625,exact,coronary artery
+Artery - Coronary,30-39,COPS4,4.982,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,RNF185,4.99,global,bto:0000042
+Artery - Coronary,30-39,MRM3,4.94,global,bto:0000042
+Artery - Coronary,30-39,PHAF1,,,
+Artery - Coronary,30-39,NUP42,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,TMEM64,4.958,global,bto:0000042
+Artery - Coronary,30-39,UTP23,4.909,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CANT1,0.51,exact,artery
+Artery - Coronary,30-39,ATP2B4,1.049,exact,coronary artery
+Artery - Coronary,30-39,ZNF229,4.669,global,bto:0000042
+Artery - Coronary,30-39,PLRG1,4.987,global,bto:0000042
+Artery - Coronary,30-39,NIBAN1,0.705,exact,artery
+Artery - Coronary,30-39,MLXIP,0.791,exact,artery
+Artery - Coronary,30-39,RHOA,2.192,exact,coronary artery
+Artery - Coronary,30-39,TOR1B,4.94,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZFYVE9,1.057,exact,artery
+Artery - Coronary,30-39,RAF1,0.965,exact,coronary artery
+Artery - Coronary,30-39,NTRK2,1.141,exact,coronary artery
+Artery - Coronary,30-39,EEFSEC,0.768,exact,artery
+Artery - Coronary,30-39,TBC1D13,4.978,global,bto:0000042
+Artery - Coronary,30-39,UBA1,1.178,exact,artery
+Artery - Coronary,30-39,THG1L,4.916,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZXDB,4.791,global,bto:0000042
+Artery - Coronary,30-39,VPS4B,0.69,exact,artery
+Artery - Coronary,30-39,RRAGA,0.867,exact,artery
+Artery - Coronary,30-39,SLC39A9,0.537,exact,artery
+Artery - Coronary,30-39,ZNF319,4.541,global,bto:0000042
+Artery - Coronary,30-39,SNAP29,0.533,exact,coronary artery
+Artery - Coronary,30-39,DHX57,4.894,global,bto:0000042
+Artery - Coronary,30-39,UBE2Q1,4.98,global,bto:0000042
+Artery - Coronary,30-39,ZDHHC4,0.815,exact,artery
+Artery - Coronary,30-39,EIF4H,4.998,global,bto:0000042
+Artery - Coronary,30-39,TCF20,1.208,exact,coronary artery
+Artery - Coronary,30-39,PXMP4,0.609,exact,artery
+Artery - Coronary,30-39,LSM14B,4.89,global,bto:0000042
+Artery - Coronary,30-39,BRD7,0.52,exact,artery
+Artery - Coronary,30-39,EIF2AK1,0.771,exact,artery
+Artery - Coronary,30-39,ZNF687,4.875,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,TMEM199,4.46,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZBTB7A,0.771,exact,artery
+Artery - Coronary,30-39,WWP1,0.913,exact,artery
+Artery - Coronary,30-39,RAB5C,0.861,exact,artery
+Artery - Coronary,30-39,OAZ2,4.98,global,bto:0000042
+Artery - Coronary,30-39,BICD2,4.961,global,bto:0000042
+Artery - Coronary,30-39,YWHAB,0.551,exact,coronary artery
+Artery - Coronary,30-39,MBTPS1,1.172,exact,artery
+Artery - Coronary,30-39,FAM118B,4.966,global,bto:0000042
+Artery - Coronary,30-39,AGGF1,1.43,exact,artery
+Artery - Coronary,30-39,DMAC2,4.995,global,bto:0000042
+Artery - Coronary,30-39,SNX2,4.991,global,bto:0000042
+Artery - Coronary,30-39,GRB2,1.088,exact,coronary artery
+Artery - Coronary,30-39,MTPN,0.869,exact,coronary artery
+Artery - Coronary,30-39,ENSG00000259959,,,
+Artery - Coronary,30-39,UROD,0.931,exact,artery
+Artery - Coronary,30-39,KCTD2,4.965,global,bto:0000042
+Artery - Coronary,30-39,PEX26,0.52,exact,artery
+Artery - Coronary,30-39,ISY1,4.976,global,bto:0000042
+Artery - Coronary,30-39,USP5,0.587,exact,artery
+Artery - Coronary,30-39,GOLGA5,4.96,global,bto:0000042
+Artery - Coronary,30-39,PPP1R3D,4.805,global,bto:0000042
+Artery - Coronary,30-39,ZNF48,4.807,global,bto:0000042
+Artery - Coronary,30-39,TANGO2,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,GSPT2,4.919,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,SLC25A3,0.565,exact,coronary artery
+Artery - Coronary,30-39,C5ORF22,4.52,global,bto:0000042
+Artery - Coronary,30-39,CENPBD1,4.754,global,bto:0000042
+Artery - Coronary,30-39,CNPPD1,4.974,global,bto:0000042
+Artery - Coronary,30-39,DENND1A,4.0,exact,artery
+Artery - Coronary,30-39,GNAI2,0.722,exact,coronary artery
+Artery - Coronary,30-39,PRKD3,0.975,exact,coronary artery
+Artery - Coronary,30-39,NAA60,0.524,exact,artery
+Artery - Coronary,30-39,ARAF,1.122,exact,artery
+Artery - Coronary,30-39,DERL1,4.99,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ERAL1,4.99,global,bto:0000042
+Artery - Coronary,30-39,AMMECR1L,4.906,global,bto:0000042
+Artery - Coronary,30-39,MAPKAP1,0.738,exact,coronary artery
+Artery - Coronary,30-39,VIRMA,0.596,exact,coronary artery
+Artery - Coronary,30-39,TM9SF4,4.993,global,bto:0000042
+Artery - Coronary,30-39,PIP4K2C,4.958,global,bto:0000042
+Artery - Coronary,30-39,FH,0.536,exact,coronary artery
+Artery - Coronary,30-39,TRAPPC13,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ARPIN,4.911,global,bto:0000042
+Artery - Coronary,30-39,SOWAHC,4.395,global,bto:0000042
+Artery - Coronary,30-39,HIF1AN,0.952,exact,coronary artery
+Artery - Coronary,30-39,CREBBP,1.135,exact,coronary artery
+Artery - Coronary,30-39,PUM2,0.871,exact,artery
+Artery - Coronary,30-39,ZKSCAN2,4.93,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,RAB1B,0.63,exact,artery
+Artery - Coronary,30-39,ESS2,0.558,exact,coronary artery
+Artery - Coronary,30-39,ARID1A,1.424,exact,artery
+Artery - Coronary,30-39,TADA2B,4.913,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,DCTN5,4.988,global,bto:0000042
+Artery - Coronary,30-39,IP6K1,4.981,global,bto:0000042
+Artery - Coronary,30-39,NCOA6,0.904,exact,artery
+Artery - Coronary,30-39,ENSG00000262879,,,
+Artery - Coronary,30-39,SNRPD3,4.975,global,bto:0000042
+Artery - Coronary,30-39,NAXE,0.667,exact,coronary artery
+Artery - Coronary,30-39,ZNF777,4.866,global,bto:0000042
+Artery - Coronary,30-39,MTF1,0.788,exact,artery
+Artery - Coronary,30-39,PARG,1.22,exact,artery
+Artery - Coronary,30-39,KIAA1191,4.976,global,bto:0000042
+Artery - Coronary,30-39,TMBIM6,0.768,exact,coronary artery
+Artery - Coronary,30-39,KAT7,1.147,exact,artery
+Artery - Coronary,30-39,MKRN2,4.982,global,bto:0000042
+Artery - Coronary,30-39,CDIPT,0.845,exact,artery
+Artery - Coronary,30-39,SMC3,0.511,exact,coronary artery
+Artery - Coronary,30-39,PATZ1,0.802,exact,artery
+Artery - Coronary,30-39,MAGEF1,4.975,global,bto:0000042
+Artery - Coronary,30-39,TSPYL5,4.931,global,bto:0000042
+Artery - Coronary,30-39,MICU1,0.96,exact,coronary artery
+Artery - Coronary,30-39,ADGRA3,0.535,exact,artery
+Artery - Coronary,30-39,GPATCH3,4.974,global,bto:0000042
+Artery - Coronary,30-39,SETD1A,0.636,exact,coronary artery
+Artery - Coronary,30-39,AFG3L2,0.506,exact,artery
+Artery - Coronary,30-39,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,FAF2,4.985,global,bto:0000042
+Artery - Coronary,30-39,PPP1R7,4.991,global,bto:0000042
+Artery - Coronary,30-39,STRIP1,4.971,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,AGPS,0.64,exact,artery
+Artery - Coronary,30-39,STAT5B,1.343,exact,coronary artery
+Artery - Coronary,30-39,GOLGA7,4.995,global,bto:0000042
+Artery - Coronary,30-39,PRRC2A,0.614,exact,coronary artery
+Artery - Coronary,30-39,RBM42,4.991,global,bto:0000042
+Artery - Coronary,30-39,SEC24C,4.987,global,bto:0000042
+Artery - Coronary,30-39,TAX1BP1,0.87,exact,artery
+Artery - Coronary,30-39,ST3GAL2,4.929,global,bto:0000042
+Artery - Coronary,30-39,ANKRD46,4.978,global,bto:0000042
+Artery - Coronary,30-39,BCL9,0.761,exact,artery
+Artery - Coronary,30-39,RNF26,4.992,global,bto:0000042
+Artery - Coronary,30-39,EIF4G2,0.62,exact,artery
+Artery - Coronary,30-39,SDHB,1.311,exact,coronary artery
+Artery - Coronary,30-39,MTDH,0.98,exact,artery
+Artery - Coronary,30-39,ZC3H10,4.897,global,bto:0000042
+Artery - Coronary,30-39,NDN,0.884,exact,artery
+Artery - Coronary,30-39,OGDH,0.789,exact,coronary artery
+Artery - Coronary,30-39,UBE2Z,0.845,exact,coronary artery
+Artery - Coronary,30-39,DOCK1,1.199,exact,artery
+Artery - Coronary,30-39,ZNF134,4.895,global,bto:0000042
+Artery - Coronary,30-39,TNPO3,4.99,global,bto:0000042
+Artery - Coronary,30-39,MED18,4.833,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,FOXRED2,4.997,global,bto:0000042
+Artery - Coronary,30-39,RALGAPB,4.976,global,bto:0000042
+Artery - Coronary,30-39,ANKRD27,4.931,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,NFIX,0.71,exact,coronary artery
+Artery - Coronary,30-39,GFM2,4.0,exact,artery
+Artery - Coronary,30-39,PRKN,1.314,exact,coronary artery
+Artery - Coronary,30-39,GPN1,4.972,global,bto:0000042
+Artery - Coronary,30-39,ZNF746,4.918,global,bto:0000042
+Artery - Coronary,30-39,MEIS3P1,,,
+Artery - Coronary,30-39,WDR35,1.086,exact,artery
+Artery - Coronary,30-39,DCTD,4.986,global,bto:0000042
+Artery - Coronary,30-39,YWHAQ,1.307,exact,artery
+Artery - Coronary,30-39,MON1B,4.982,global,bto:0000042
+Artery - Coronary,30-39,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ASH2L,0.973,exact,artery
+Artery - Coronary,30-39,RTL8B,3.825,global,bto:0000042
+Artery - Coronary,30-39,NSL1,0.682,exact,artery
+Artery - Coronary,30-39,EXOC7,0.89,exact,artery
+Artery - Coronary,30-39,ANXA11,0.947,exact,artery
+Artery - Coronary,30-39,CNOT11,0.506,exact,coronary artery
+Artery - Coronary,30-39,TRIOBP,0.865,exact,artery
+Artery - Coronary,30-39,OPA1,1.172,exact,coronary artery
+Artery - Coronary,30-39,CCDC71,4.771,global,bto:0000042
+Artery - Coronary,30-39,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,DDB1,1.069,exact,artery
+Artery - Coronary,30-39,SCMH1,0.845,exact,artery
+Artery - Coronary,30-39,PRKAG1,0.861,exact,artery
+Artery - Coronary,30-39,DHRS4-AS1,2.1,global,yy-8103 cell
+Artery - Coronary,30-39,ZNF416,4.387,global,bto:0000042
+Artery - Coronary,30-39,FAM217B,4.448,global,bto:0000042
+Artery - Coronary,30-39,PIK3R4,0.812,exact,coronary artery
+Artery - Coronary,30-39,MED17,4.978,global,bto:0000042
+Artery - Coronary,30-39,SMG6,0.687,exact,coronary artery
+Artery - Coronary,30-39,MRPL46,4.938,global,bto:0000042
+Artery - Coronary,30-39,TIRAP,1.176,exact,coronary artery
+Artery - Coronary,30-39,SCO1,0.663,exact,artery
+Artery - Coronary,30-39,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CHAMP1,4.903,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,PIGT,4.997,global,bto:0000042
+Artery - Coronary,30-39,MMAA,4.789,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,VPS11,1.16,exact,artery
+Artery - Coronary,30-39,IMMT,0.973,exact,coronary artery
+Artery - Coronary,30-39,PSMD9,4.97,global,bto:0000042
+Artery - Coronary,30-39,NEK4,0.715,exact,artery
+Artery - Coronary,30-39,KBTBD4,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,LAMTOR3,4.585,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,GIPC1,0.735,exact,coronary artery
+Artery - Coronary,30-39,HUWE1,0.883,exact,artery
+Artery - Coronary,30-39,JADE2,4.986,global,bto:0000042
+Artery - Coronary,30-39,MEIS3P2,,,
+Artery - Coronary,30-39,PSMD4,0.732,exact,artery
+Artery - Coronary,30-39,GID8,4.983,global,bto:0000042
+Artery - Coronary,30-39,EIF2B1,0.885,exact,artery
+Artery - Coronary,30-39,DYNC1H1,0.649,exact,artery
+Artery - Coronary,30-39,TSPYL1,4.906,global,bto:0000042
+Artery - Coronary,30-39,TMEM127,1.635,exact,artery
+Artery - Coronary,30-39,NR1H2,0.575,exact,coronary artery
+Artery - Coronary,30-39,SRRD,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,PRKAR1A,0.719,exact,coronary artery
+Artery - Coronary,30-39,DENND5A,4.978,global,bto:0000042
+Artery - Coronary,30-39,PSMC1,1.493,exact,artery
+Artery - Coronary,30-39,BPNT2,,,
+Artery - Coronary,30-39,TOLLIP,0.506,exact,coronary artery
+Artery - Coronary,30-39,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,MAP1S,1.424,exact,coronary artery
+Artery - Coronary,30-39,CDC42BPB,4.985,global,bto:0000042
+Artery - Coronary,30-39,BRF2,4.947,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,TBCCD1,4.908,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CBX1,0.579,exact,coronary artery
+Artery - Coronary,30-39,C18ORF21,4.796,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,BRD3OS,1.192,global,keratocyte
+Artery - Coronary,30-39,PLA2G12A,0.772,exact,artery
+Artery - Coronary,30-39,ABRAXAS2,4.921,global,bto:0000042
+Artery - Coronary,30-39,SPATA2,0.73,exact,artery
+Artery - Coronary,30-39,XRCC6,0.881,exact,coronary artery
+Artery - Coronary,30-39,TSG101,1.479,exact,coronary artery
+Artery - Coronary,30-39,MED4,0.563,exact,artery
+Artery - Coronary,30-39,RNF40,4.997,global,bto:0000042
+Artery - Coronary,30-39,HPS6,0.607,exact,artery
+Artery - Coronary,30-39,GUCD1,4.983,global,bto:0000042
+Artery - Coronary,30-39,SGCB,0.96,exact,artery
+Artery - Coronary,30-39,NBAS,0.812,exact,artery
+Artery - Coronary,30-39,NDST1,0.575,exact,coronary artery
+Artery - Coronary,30-39,CCNJ,4.89,global,bto:0000042
+Artery - Coronary,30-39,DCP1A,4.5,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,MTX1,0.83,exact,artery
+Artery - Coronary,30-39,DMXL1,4.894,global,bto:0000042
+Artery - Coronary,30-39,LINC02916,,,
+Artery - Coronary,30-39,CLCN3,0.725,exact,coronary artery
+Artery - Coronary,30-39,UBR7,4.979,global,bto:0000042
+Artery - Coronary,30-39,ASB8,4.969,global,bto:0000042
+Artery - Coronary,30-39,GNA11,0.679,exact,coronary artery
+Artery - Coronary,30-39,CUEDC1,4.947,global,bto:0000042
+Artery - Coronary,30-39,GORASP1,4.99,global,bto:0000042
+Artery - Coronary,30-39,AP3M1,4.985,global,bto:0000042
+Artery - Coronary,30-39,RBBP5,0.725,exact,artery
+Artery - Coronary,30-39,SPECC1L,0.816,exact,artery
+Artery - Coronary,30-39,MRPL57,4.888,global,bto:0000042
+Artery - Coronary,30-39,CYREN,0.653,exact,coronary artery
+Artery - Coronary,30-39,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,NUP133,4.99,global,bto:0000042
+Artery - Coronary,30-39,ZW10,4.935,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,BRAP,0.677,exact,coronary artery
+Artery - Coronary,30-39,MCM3,0.618,exact,coronary artery
+Artery - Coronary,30-39,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CASC3,4.994,global,bto:0000042
+Artery - Coronary,30-39,BTBD10,4.97,global,bto:0000042
+Artery - Coronary,30-39,ARPC4,4.986,global,bto:0000042
+Artery - Coronary,30-39,CMTM6,4.988,global,bto:0000042
+Artery - Coronary,30-39,CCSER2,4.969,global,bto:0000042
+Artery - Coronary,30-39,PPP2R5A,0.75,exact,coronary artery
+Artery - Coronary,30-39,NACC2,4.96,global,bto:0000042
+Artery - Coronary,30-39,TGFB1I1,0.581,exact,coronary artery
+Artery - Coronary,30-39,CCDC96,4.809,global,bto:0000042
+Artery - Coronary,30-39,TXNDC15,4.962,global,bto:0000042
+Artery - Coronary,30-39,NFIC,1.248,exact,artery
+Artery - Coronary,30-39,PSMF1,4.994,global,bto:0000042
+Artery - Coronary,30-39,CTR9,4.981,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZNF778,4.0,global,teratocarcinoma cell
+Artery - Coronary,30-39,LMO4,0.524,exact,artery
+Artery - Coronary,30-39,KIFBP,4.981,global,bto:0000042
+Artery - Coronary,30-39,WAPL,2.36,exact,artery
+Artery - Coronary,30-39,TBC1D5,4.985,global,bto:0000042
+Artery - Coronary,30-39,PLAA,0.515,exact,coronary artery
+Artery - Coronary,30-39,SNAP47,0.935,exact,artery
+Artery - Coronary,30-39,GTF3C4,4.888,global,bto:0000042
+Artery - Coronary,30-39,MTFMT,0.505,exact,artery
+Artery - Coronary,30-39,WDR47,4.98,global,bto:0000042
+Artery - Coronary,30-39,KAT5,0.843,exact,coronary artery
+Artery - Coronary,30-39,SMU1,4.917,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZNF384,0.591,exact,artery
+Artery - Coronary,30-39,VIPAS39,0.827,exact,artery
+Artery - Coronary,30-39,OTUB1,0.7,exact,artery
+Artery - Coronary,30-39,ACTR6,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,TMEM167A,4.991,global,bto:0000042
+Artery - Coronary,30-39,CHD8,0.901,exact,artery
+Artery - Coronary,30-39,CHST14,1.177,exact,artery
+Artery - Coronary,30-39,BSG,1.553,exact,coronary artery
+Artery - Coronary,30-39,TRIM47,0.821,exact,artery
+Artery - Coronary,30-39,ZBTB4,4.977,global,bto:0000042
+Artery - Coronary,30-39,RAB10,1.028,exact,artery
+Artery - Coronary,30-39,PEPD,0.828,exact,coronary artery
+Artery - Coronary,30-39,IPO9,0.728,exact,coronary artery
+Artery - Coronary,30-39,GLOD4,4.983,global,bto:0000042
+Artery - Coronary,30-39,FAF1,0.776,exact,artery
+Artery - Coronary,30-39,COG8,4.879,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,VANGL1,0.779,exact,artery
+Artery - Coronary,30-39,NDUFAF1,0.697,exact,artery
+Artery - Coronary,30-39,DYNLL2,4.819,global,bto:0000042
+Artery - Coronary,30-39,FBXL5,0.504,exact,artery
+Artery - Coronary,30-39,MRFAP1L1,4.984,global,bto:0000042
+Artery - Coronary,30-39,PIGC,0.73,exact,artery
+Artery - Coronary,30-39,EXTL3,0.98,exact,artery
+Artery - Coronary,30-39,SIMC1,4.467,global,bto:0000042
+Artery - Coronary,30-39,PHLDB2,4.0,exact,artery
+Artery - Coronary,30-39,CUL3,1.018,exact,coronary artery
+Artery - Coronary,30-39,TMEM109,0.522,exact,artery
+Artery - Coronary,30-39,DCAF7,4.991,global,bto:0000042
+Artery - Coronary,30-39,PARS2,4.821,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,SMG8,4.966,global,bto:0000042
+Artery - Coronary,30-39,KIAA0100,4.978,global,bto:0000042
+Artery - Coronary,30-39,TBC1D9B,4.988,global,bto:0000042
+Artery - Coronary,30-39,BCDIN3D,4.865,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,PSEN1,0.929,exact,coronary artery
+Artery - Coronary,30-39,TIPRL,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,FAM104A,4.907,global,bto:0000042
+Artery - Coronary,30-39,C1ORF43,0.661,exact,coronary artery
+Artery - Coronary,30-39,ATMIN,1.043,exact,artery
+Artery - Coronary,30-39,CHMP6,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,BTBD7,0.791,exact,coronary artery
+Artery - Coronary,30-39,C9ORF64,4.751,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CAMSAP2,4.956,global,bto:0000042
+Artery - Coronary,30-39,SEC22C,4.961,global,bto:0000042
+Artery - Coronary,30-39,VPS18,0.592,exact,artery
+Artery - Coronary,30-39,SUCLA2,0.67,exact,coronary artery
+Artery - Coronary,30-39,UBQLN2,0.55,exact,artery
+Artery - Coronary,30-39,SPCS1,4.985,global,bto:0000042
+Artery - Coronary,30-39,MED9,4.964,global,bto:0000042
+Artery - Coronary,30-39,PDCD6IP,0.872,exact,coronary artery
+Artery - Coronary,30-39,DNAJA2,0.631,exact,artery
+Artery - Coronary,30-39,TM9SF2,4.996,global,bto:0000042
+Artery - Coronary,30-39,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,RERE,1.062,exact,artery
+Artery - Coronary,30-39,PSMB6,0.751,exact,artery
+Artery - Coronary,30-39,SLC10A3,4.899,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,FBXW2,1.215,exact,artery
+Artery - Coronary,30-39,PDZD11,4.0,exact,artery
+Artery - Coronary,30-39,DCLRE1A,0.776,exact,artery
+Artery - Coronary,30-39,SF3A1,0.66,exact,artery
+Artery - Coronary,30-39,DCTN1,0.864,exact,artery
+Artery - Coronary,30-39,DNAJC11,4.987,global,bto:0000042
+Artery - Coronary,30-39,GATA4,2.385,exact,coronary artery
+Artery - Coronary,30-39,TPRG1L,4.961,global,bto:0000042
+Artery - Coronary,30-39,DIS3L,4.896,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CAPNS1,0.75,exact,coronary artery
+Artery - Coronary,30-39,SEPHS1,4.975,global,bto:0000042
+Artery - Coronary,30-39,RPRD2,4.978,global,bto:0000042
+Artery - Coronary,30-39,NUDCD3,4.991,global,bto:0000042
+Artery - Coronary,30-39,GPAA1,0.545,exact,artery
+Artery - Coronary,30-39,CD99L2,0.814,exact,coronary artery
+Artery - Coronary,30-39,PRRC2B,4.598,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,KDM3B,0.704,exact,artery
+Artery - Coronary,30-39,ZNF501,1.097,exact,artery
+Artery - Coronary,30-39,GRSF1,0.52,exact,artery
+Artery - Coronary,30-39,EFCAB14,4.472,global,bto:0000042
+Artery - Coronary,30-39,LRP10,4.0,exact,artery
+Artery - Coronary,30-39,C6ORF89,4.988,global,bto:0000042
+Artery - Coronary,30-39,TRAPPC12,0.52,exact,coronary artery
+Artery - Coronary,30-39,DNAJC18,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZNF574,4.971,global,bto:0000042
+Artery - Coronary,30-39,SLC4A1AP,4.963,global,bto:0000042
+Artery - Coronary,30-39,RHOQ,1.153,exact,artery
+Artery - Coronary,30-39,ZHX1,4.97,global,bto:0000042
+Artery - Coronary,30-39,MFSD9,4.643,global,bto:0000042
+Artery - Coronary,30-39,ZC3H12C,4.771,global,bto:0000042
+Artery - Coronary,30-39,SMIM10,4.384,global,bto:0000042
+Artery - Coronary,30-39,DCTN2,0.704,exact,artery
+Artery - Coronary,30-39,CSTF1,4.985,global,bto:0000042
+Artery - Coronary,30-39,ENSG00000276855,,,
+Artery - Coronary,30-39,IK,4.997,global,bto:0000042
+Artery - Coronary,30-39,TAF6,4.975,global,bto:0000042
+Artery - Coronary,30-39,TBC1D25,4.978,global,bto:0000042
+Artery - Coronary,30-39,CRNKL1,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,PCIF1,0.577,exact,coronary artery
+Artery - Coronary,30-39,LATS1,1.207,exact,coronary artery
+Artery - Coronary,30-39,PDCD6,0.603,exact,coronary artery
+Artery - Coronary,30-39,PPCS,4.973,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,DEDD,4.976,global,bto:0000042
+Artery - Coronary,30-39,UBP1,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,UCK1,4.971,global,bto:0000042
+Artery - Coronary,30-39,ZDHHC20,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CHMP4B,4.978,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,SIN3A,1.421,exact,artery
+Artery - Coronary,30-39,ZNF324B,4.154,global,bto:0000042
+Artery - Coronary,30-39,RIC8B,1.367,exact,artery
+Artery - Coronary,30-39,LANCL2,4.956,global,bto:0000042
+Artery - Coronary,30-39,SNIP1,0.711,exact,artery
+Artery - Coronary,30-39,GANAB,1.026,exact,artery
+Artery - Coronary,30-39,NBN,1.36,exact,artery
+Artery - Coronary,30-39,SLC25A11,1.055,exact,artery
+Artery - Coronary,30-39,CAVIN1,1.019,exact,coronary artery
+Artery - Coronary,30-39,TSN,0.96,exact,artery
+Artery - Coronary,30-39,TRMT61B,4.936,global,bto:0000042
+Artery - Coronary,30-39,RUFY1,4.958,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CD164,1.064,exact,artery
+Artery - Coronary,30-39,VPS35L,4.987,global,bto:0000042
+Artery - Coronary,30-39,SDHC,1.539,exact,coronary artery
+Artery - Coronary,30-39,PAF1,1.3,exact,artery
+Artery - Coronary,30-39,EP300,1.511,exact,coronary artery
+Artery - Coronary,30-39,BRD3,0.607,exact,coronary artery
+Artery - Coronary,30-39,ZC3HC1,1.34,exact,coronary artery
+Artery - Coronary,30-39,SLC25A12,0.827,exact,artery
+Artery - Coronary,30-39,FAM32A,4.98,global,bto:0000042
+Artery - Coronary,30-39,FAM168B,4.989,global,bto:0000042
+Artery - Coronary,30-39,ATP5F1A,0.785,exact,coronary artery
+Artery - Coronary,30-39,ZNF407,4.754,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,TRIP12,4.987,global,bto:0000042
+Artery - Coronary,30-39,HLCS,4.935,global,bto:0000042
+Artery - Coronary,30-39,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,CHERP,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,SLC35A4,4.99,global,bto:0000042
+Artery - Coronary,30-39,MBTPS2,1.143,exact,artery
+Artery - Coronary,30-39,STUB1,1.935,exact,coronary artery
+Artery - Coronary,30-39,METTL13,,,
+Artery - Coronary,30-39,PIGS,4.983,global,bto:0000042
+Artery - Coronary,30-39,NCOA4,0.925,exact,coronary artery
+Artery - Coronary,30-39,RNH1,1.131,exact,coronary artery
+Artery - Coronary,30-39,PDCL,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZMYND11,4.985,global,bto:0000042
+Artery - Coronary,30-39,PPP1R8,0.561,exact,artery
+Artery - Coronary,30-39,PRDM4,4.942,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,WDR82,0.523,exact,artery
+Artery - Coronary,30-39,DNAJC5,1.111,exact,artery
+Artery - Coronary,30-39,RETREG2,4.985,global,bto:0000042
+Artery - Coronary,30-39,SMARCA5-AS1,1.174,global,kidney cancer cell
+Artery - Coronary,30-39,RMDN1,4.945,global,bto:0000042
+Artery - Coronary,30-39,WIPF2,4.985,global,bto:0000042
+Artery - Coronary,30-39,TOR1AIP2,4.957,global,bto:0000042
+Artery - Coronary,30-39,TRIM35,0.673,exact,artery
+Artery - Coronary,30-39,KEAP1,1.874,exact,coronary artery
+Artery - Coronary,30-39,RBM34,4.953,global,bto:0000042
+Artery - Coronary,30-39,VDAC3,0.611,exact,coronary artery
+Artery - Coronary,30-39,ENSA,4.0,exact,artery
+Artery - Coronary,30-39,TRAPPC11,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,DBR1,4.903,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,TEX261,0.762,exact,artery
+Artery - Coronary,30-39,ATXN1L,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,ZNF629,1.093,exact,artery
+Artery - Coronary,30-39,PPP4R1,4.986,global,bto:0000042
+Artery - Coronary,30-39,PHAX,4.995,global,bto:0000042
+Artery - Coronary,30-39,NFE2L1,0.589,exact,coronary artery
+Artery - Coronary,30-39,RNF121,4.928,global,bto:0000042
+Artery - Coronary,30-39,PRCC,0.641,exact,artery
+Artery - Coronary,30-39,YTHDF3,0.605,exact,coronary artery
+Artery - Coronary,30-39,C2ORF49,4.869,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,GDE1,0.697,exact,artery
+Artery - Coronary,30-39,WASHC5,4.98,global,bto:0000042
+Artery - Coronary,30-39,JKAMP,4.98,global,bto:0000042
+Artery - Coronary,30-39,COMMD2,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,FBXO11,0.539,exact,artery
+Artery - Coronary,30-39,AP3B1,0.626,exact,artery
+Artery - Coronary,30-39,ADD1,0.774,exact,coronary artery
+Artery - Coronary,30-39,CRAT,0.678,exact,coronary artery
+Artery - Coronary,30-39,POFUT1,0.927,exact,artery
+Artery - Coronary,30-39,MRPS30,4.952,global,bto:0000042
+Artery - Coronary,30-39,FARP2,4.962,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,INIP,4.881,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,GTF2I,1.151,exact,artery
+Artery - Coronary,30-39,ELP3,0.6,exact,artery
+Artery - Coronary,30-39,ZNF689,4.944,global,bto:0000042
+Artery - Coronary,30-39,MED1,0.9,exact,artery
+Artery - Coronary,30-39,CTDP1,4.919,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,NDUFV3,0.732,exact,artery
+Artery - Coronary,30-39,EID2,0.602,exact,artery
+Artery - Coronary,30-39,CHD4,1.357,exact,artery
+Artery - Coronary,30-39,GTF2F1,4.976,global,bto:0000042
+Artery - Coronary,30-39,RTL8A,4.778,global,bto:0000042
+Artery - Coronary,30-39,NUB1,0.812,exact,artery
+Artery - Coronary,30-39,RBBP4,0.806,exact,artery
+Artery - Coronary,30-39,CDC23,4.983,global,bto:0000042
+Artery - Coronary,30-39,FAM53C,4.984,global,bto:0000042
+Artery - Coronary,30-39,TBC1D14,4.971,global,bto:0000042
+Artery - Coronary,30-39,COPS6,0.625,exact,artery
+Artery - Coronary,30-39,KIRREL1,0.974,exact,artery
+Artery - Coronary,30-39,ANAPC13,4.987,global,bto:0000042
+Artery - Coronary,30-39,ALKBH4,4.906,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,UBE2D4,4.946,global,bto:0000042
+Artery - Coronary,30-39,ZNF470,4.643,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,30-39,RBM15B,0.896,exact,artery
+Artery - Coronary,30-39,USP46-DT,,,
+Artery - Coronary,30-39,SAR1B,0.816,exact,artery
+Artery - Coronary,40-49,MRPS18A,4.957,global,bto:0000042
+Artery - Coronary,40-49,C1ORF50,4.749,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,CORO1B,0.783,exact,artery
+Artery - Coronary,40-49,ZNF329,4.62,global,bto:0000042
+Artery - Coronary,40-49,AASDHPPT,0.936,exact,artery
+Artery - Coronary,40-49,CAND1,0.613,exact,artery
+Artery - Coronary,40-49,MAT2B,0.823,exact,artery
+Artery - Coronary,40-49,HNRNPUL1,4.998,global,bto:0000042
+Artery - Coronary,40-49,EIF2AK4,0.807,exact,coronary artery
+Artery - Coronary,40-49,RAB14,0.599,exact,artery
+Artery - Coronary,40-49,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,ZNF2,0.546,exact,artery
+Artery - Coronary,40-49,PSMD5,0.911,exact,coronary artery
+Artery - Coronary,40-49,APEH,0.763,exact,artery
+Artery - Coronary,40-49,USP22,0.636,exact,coronary artery
+Artery - Coronary,40-49,RAB8A,1.159,exact,artery
+Artery - Coronary,40-49,SLC25A38,4.984,global,bto:0000042
+Artery - Coronary,40-49,ZNF71,4.78,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,NCSTN,1.186,exact,artery
+Artery - Coronary,40-49,KDM4A,1.239,exact,artery
+Artery - Coronary,40-49,ZNF747,4.84,global,bto:0000042
+Artery - Coronary,40-49,SMIM15,0.511,exact,coronary artery
+Artery - Coronary,40-49,HBS1L,0.798,exact,artery
+Artery - Coronary,40-49,TIMM29,4.797,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,UBE3B,4.978,global,bto:0000042
+Artery - Coronary,40-49,ZSCAN21,4.927,global,bto:0000042
+Artery - Coronary,40-49,MED29,0.526,exact,artery
+Artery - Coronary,40-49,PSKH1,0.567,exact,coronary artery
+Artery - Coronary,40-49,YTHDF2,0.667,exact,coronary artery
+Artery - Coronary,40-49,UPRT,0.557,exact,artery
+Artery - Coronary,40-49,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,KLHDC10,4.963,global,bto:0000042
+Artery - Coronary,40-49,SLC35B2,4.986,global,bto:0000042
+Artery - Coronary,40-49,ASB7,4.888,global,bto:0000042
+Artery - Coronary,40-49,HMGN4,4.987,global,bto:0000042
+Artery - Coronary,40-49,SNX17,0.781,exact,artery
+Artery - Coronary,40-49,DGCR8,1.348,exact,coronary artery
+Artery - Coronary,40-49,LEPROT,4.983,global,bto:0000042
+Artery - Coronary,40-49,UNC119B,0.523,exact,coronary artery
+Artery - Coronary,40-49,ZNF592,5.0,global,adrenal gland
+Artery - Coronary,40-49,NAPA,4.997,global,bto:0000042
+Artery - Coronary,40-49,ZC3H4,0.596,exact,artery
+Artery - Coronary,40-49,TRMT5,4.818,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,GPKOW,1.055,exact,artery
+Artery - Coronary,40-49,HCFC1,0.567,exact,coronary artery
+Artery - Coronary,40-49,DHX8,0.553,exact,artery
+Artery - Coronary,40-49,PHETA2,4.782,global,bto:0000042
+Artery - Coronary,40-49,MRPL20-AS1,,,
+Artery - Coronary,40-49,CBLL1,0.929,exact,artery
+Artery - Coronary,40-49,TGOLN2,0.918,exact,artery
+Artery - Coronary,40-49,TACO1,4.94,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,EMC7,4.556,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,SPRYD7,4.557,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,ATG3,1.092,exact,coronary artery
+Artery - Coronary,40-49,ATG13,1.156,exact,coronary artery
+Artery - Coronary,40-49,ENSG00000269032,,,
+Artery - Coronary,40-49,SIGMAR1,0.91,exact,coronary artery
+Artery - Coronary,40-49,ZNF613,4.749,global,bto:0000042
+Artery - Coronary,40-49,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,ATXN7L3B,4.24,global,bto:0000042
+Artery - Coronary,40-49,TMEM129,4.802,global,bto:0000042
+Artery - Coronary,40-49,FOXJ2,0.664,exact,artery
+Artery - Coronary,40-49,PGAM1,0.79,exact,coronary artery
+Artery - Coronary,40-49,SNX15,4.92,global,bto:0000042
+Artery - Coronary,40-49,IRF2BPL,0.517,exact,artery
+Artery - Coronary,40-49,TMUB2,4.959,global,bto:0000042
+Artery - Coronary,40-49,TM2D2,4.98,global,bto:0000042
+Artery - Coronary,40-49,EIF4E2,0.508,exact,artery
+Artery - Coronary,40-49,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,DHRS7B,4.92,global,bto:0000042
+Artery - Coronary,40-49,TRIM21,1.038,exact,coronary artery
+Artery - Coronary,40-49,HERPUD2-AS1,,,
+Artery - Coronary,40-49,TTI2,4.863,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,PDPK1,0.573,exact,coronary artery
+Artery - Coronary,40-49,RTCB,0.591,exact,artery
+Artery - Coronary,40-49,RNF123,4.978,global,bto:0000042
+Artery - Coronary,40-49,SLC35A5,4.976,global,bto:0000042
+Artery - Coronary,40-49,DPF2,4.988,global,bto:0000042
+Artery - Coronary,40-49,SNX12,4.984,global,bto:0000042
+Artery - Coronary,40-49,TMEM184C,4.891,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,FUNDC1,1.634,exact,coronary artery
+Artery - Coronary,40-49,NAP1L4,4.995,global,bto:0000042
+Artery - Coronary,40-49,NLRX1,0.524,exact,coronary artery
+Artery - Coronary,40-49,SMARCE1,0.994,exact,artery
+Artery - Coronary,40-49,RPA1,4.16,exact,artery
+Artery - Coronary,40-49,ZSCAN32,4.817,global,bto:0000042
+Artery - Coronary,40-49,RITA1,4.977,global,bto:0000042
+Artery - Coronary,40-49,NDUFAF3,0.541,exact,artery
+Artery - Coronary,40-49,UBE2E3,0.714,exact,artery
+Artery - Coronary,40-49,PSENEN,0.582,exact,coronary artery
+Artery - Coronary,40-49,SFT2D2,4.688,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,VPS33A,4.931,global,bto:0000042
+Artery - Coronary,40-49,MRM2,4.832,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,MEPCE,4.982,global,bto:0000042
+Artery - Coronary,40-49,COPS4,4.982,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,MRM3,4.94,global,bto:0000042
+Artery - Coronary,40-49,PHAF1,,,
+Artery - Coronary,40-49,CANT1,0.51,exact,artery
+Artery - Coronary,40-49,PLRG1,4.987,global,bto:0000042
+Artery - Coronary,40-49,RHOA,2.192,exact,coronary artery
+Artery - Coronary,40-49,EEFSEC,0.768,exact,artery
+Artery - Coronary,40-49,TBC1D13,4.978,global,bto:0000042
+Artery - Coronary,40-49,UBA1,1.178,exact,artery
+Artery - Coronary,40-49,THG1L,4.916,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,RRAGA,0.867,exact,artery
+Artery - Coronary,40-49,SLC39A9,0.537,exact,artery
+Artery - Coronary,40-49,ZNF319,4.541,global,bto:0000042
+Artery - Coronary,40-49,SNAP29,0.533,exact,coronary artery
+Artery - Coronary,40-49,DHX57,4.894,global,bto:0000042
+Artery - Coronary,40-49,UBE2Q1,4.98,global,bto:0000042
+Artery - Coronary,40-49,ZDHHC4,0.815,exact,artery
+Artery - Coronary,40-49,EIF4H,4.998,global,bto:0000042
+Artery - Coronary,40-49,ZNF687,4.875,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,LSM14B,4.89,global,bto:0000042
+Artery - Coronary,40-49,BRD7,0.52,exact,artery
+Artery - Coronary,40-49,EIF2AK1,0.771,exact,artery
+Artery - Coronary,40-49,TMEM199,4.46,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,RAB5C,0.861,exact,artery
+Artery - Coronary,40-49,FAM118B,4.966,global,bto:0000042
+Artery - Coronary,40-49,AGGF1,1.43,exact,artery
+Artery - Coronary,40-49,DMAC2,4.995,global,bto:0000042
+Artery - Coronary,40-49,SNX2,4.991,global,bto:0000042
+Artery - Coronary,40-49,GRB2,1.088,exact,coronary artery
+Artery - Coronary,40-49,UROD,0.931,exact,artery
+Artery - Coronary,40-49,PEX26,0.52,exact,artery
+Artery - Coronary,40-49,ISY1,4.976,global,bto:0000042
+Artery - Coronary,40-49,USP5,0.587,exact,artery
+Artery - Coronary,40-49,GOLGA5,4.96,global,bto:0000042
+Artery - Coronary,40-49,TANGO2,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,GSPT2,4.919,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,SLC25A3,0.565,exact,coronary artery
+Artery - Coronary,40-49,C5ORF22,4.52,global,bto:0000042
+Artery - Coronary,40-49,CENPBD1,4.754,global,bto:0000042
+Artery - Coronary,40-49,CNPPD1,4.974,global,bto:0000042
+Artery - Coronary,40-49,DENND1A,4.0,exact,artery
+Artery - Coronary,40-49,GNAI2,0.722,exact,coronary artery
+Artery - Coronary,40-49,NAA60,0.524,exact,artery
+Artery - Coronary,40-49,ARAF,1.122,exact,artery
+Artery - Coronary,40-49,ERAL1,4.99,global,bto:0000042
+Artery - Coronary,40-49,MAPKAP1,0.738,exact,coronary artery
+Artery - Coronary,40-49,VIRMA,0.596,exact,coronary artery
+Artery - Coronary,40-49,TM9SF4,4.993,global,bto:0000042
+Artery - Coronary,40-49,PIP4K2C,4.958,global,bto:0000042
+Artery - Coronary,40-49,TRAPPC13,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,HIF1AN,0.952,exact,coronary artery
+Artery - Coronary,40-49,RAB1B,0.63,exact,artery
+Artery - Coronary,40-49,ESS2,0.558,exact,coronary artery
+Artery - Coronary,40-49,ARID1A,1.424,exact,artery
+Artery - Coronary,40-49,TADA2B,4.913,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,DCTN5,4.988,global,bto:0000042
+Artery - Coronary,40-49,NCOA6,0.904,exact,artery
+Artery - Coronary,40-49,ZNF777,4.866,global,bto:0000042
+Artery - Coronary,40-49,PARG,1.22,exact,artery
+Artery - Coronary,40-49,TMBIM6,0.768,exact,coronary artery
+Artery - Coronary,40-49,CDIPT,0.845,exact,artery
+Artery - Coronary,40-49,PATZ1,0.802,exact,artery
+Artery - Coronary,40-49,MAGEF1,4.975,global,bto:0000042
+Artery - Coronary,40-49,TSPYL5,4.931,global,bto:0000042
+Artery - Coronary,40-49,MICU1,0.96,exact,coronary artery
+Artery - Coronary,40-49,GPATCH3,4.974,global,bto:0000042
+Artery - Coronary,40-49,SETD1A,0.636,exact,coronary artery
+Artery - Coronary,40-49,PPP1R7,4.991,global,bto:0000042
+Artery - Coronary,40-49,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,FAF2,4.985,global,bto:0000042
+Artery - Coronary,40-49,STRIP1,4.971,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,AGPS,0.64,exact,artery
+Artery - Coronary,40-49,ST3GAL2,4.929,global,bto:0000042
+Artery - Coronary,40-49,RNF26,4.992,global,bto:0000042
+Artery - Coronary,40-49,PDE6D,0.695,exact,artery
+Artery - Coronary,40-49,ZC3H10,4.897,global,bto:0000042
+Artery - Coronary,40-49,NDN,0.884,exact,artery
+Artery - Coronary,40-49,OGDH,0.789,exact,coronary artery
+Artery - Coronary,40-49,UBE2Z,0.845,exact,coronary artery
+Artery - Coronary,40-49,TNPO3,4.99,global,bto:0000042
+Artery - Coronary,40-49,MED18,4.833,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,RALGAPB,4.976,global,bto:0000042
+Artery - Coronary,40-49,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,GFM2,4.0,exact,artery
+Artery - Coronary,40-49,GPN1,4.972,global,bto:0000042
+Artery - Coronary,40-49,ZNF746,4.918,global,bto:0000042
+Artery - Coronary,40-49,DCTD,4.986,global,bto:0000042
+Artery - Coronary,40-49,MON1B,4.982,global,bto:0000042
+Artery - Coronary,40-49,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,ASH2L,0.973,exact,artery
+Artery - Coronary,40-49,NSL1,0.682,exact,artery
+Artery - Coronary,40-49,EXOC7,0.89,exact,artery
+Artery - Coronary,40-49,ANXA11,0.947,exact,artery
+Artery - Coronary,40-49,CNOT11,0.506,exact,coronary artery
+Artery - Coronary,40-49,TRIOBP,0.865,exact,artery
+Artery - Coronary,40-49,CCDC71,4.771,global,bto:0000042
+Artery - Coronary,40-49,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,DDB1,1.069,exact,artery
+Artery - Coronary,40-49,PRKAG1,0.861,exact,artery
+Artery - Coronary,40-49,DHRS4-AS1,2.1,global,yy-8103 cell
+Artery - Coronary,40-49,PIK3R4,0.812,exact,coronary artery
+Artery - Coronary,40-49,MED17,4.978,global,bto:0000042
+Artery - Coronary,40-49,SMG6,0.687,exact,coronary artery
+Artery - Coronary,40-49,MRPL46,4.938,global,bto:0000042
+Artery - Coronary,40-49,TIRAP,1.176,exact,coronary artery
+Artery - Coronary,40-49,SCO1,0.663,exact,artery
+Artery - Coronary,40-49,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,PIGT,4.997,global,bto:0000042
+Artery - Coronary,40-49,VPS11,1.16,exact,artery
+Artery - Coronary,40-49,PSMD9,4.97,global,bto:0000042
+Artery - Coronary,40-49,LAMTOR3,4.585,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,GIPC1,0.735,exact,coronary artery
+Artery - Coronary,40-49,JADE2,4.986,global,bto:0000042
+Artery - Coronary,40-49,PSMD4,0.732,exact,artery
+Artery - Coronary,40-49,GID8,4.983,global,bto:0000042
+Artery - Coronary,40-49,EIF2B1,0.885,exact,artery
+Artery - Coronary,40-49,TMEM127,1.635,exact,artery
+Artery - Coronary,40-49,SRRD,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,PSMC1,1.493,exact,artery
+Artery - Coronary,40-49,TOLLIP,0.506,exact,coronary artery
+Artery - Coronary,40-49,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,MAP1S,1.424,exact,coronary artery
+Artery - Coronary,40-49,BRF2,4.947,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,TBCCD1,4.908,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,C18ORF21,4.796,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,BRD3OS,1.192,global,keratocyte
+Artery - Coronary,40-49,PLA2G12A,0.772,exact,artery
+Artery - Coronary,40-49,ABRAXAS2,4.921,global,bto:0000042
+Artery - Coronary,40-49,TSG101,1.479,exact,coronary artery
+Artery - Coronary,40-49,MED4,0.563,exact,artery
+Artery - Coronary,40-49,RNF40,4.997,global,bto:0000042
+Artery - Coronary,40-49,HPS6,0.607,exact,artery
+Artery - Coronary,40-49,GUCD1,4.983,global,bto:0000042
+Artery - Coronary,40-49,NBAS,0.812,exact,artery
+Artery - Coronary,40-49,NDST1,0.575,exact,coronary artery
+Artery - Coronary,40-49,MTX1,0.83,exact,artery
+Artery - Coronary,40-49,LINC02916,,,
+Artery - Coronary,40-49,ASB8,4.969,global,bto:0000042
+Artery - Coronary,40-49,GNA11,0.679,exact,coronary artery
+Artery - Coronary,40-49,CUEDC1,4.947,global,bto:0000042
+Artery - Coronary,40-49,GORASP1,4.99,global,bto:0000042
+Artery - Coronary,40-49,RBBP5,0.725,exact,artery
+Artery - Coronary,40-49,MRPL57,4.888,global,bto:0000042
+Artery - Coronary,40-49,CYREN,0.653,exact,coronary artery
+Artery - Coronary,40-49,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,NUP133,4.99,global,bto:0000042
+Artery - Coronary,40-49,BRAP,0.677,exact,coronary artery
+Artery - Coronary,40-49,MCM3,0.618,exact,coronary artery
+Artery - Coronary,40-49,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,BTBD10,4.97,global,bto:0000042
+Artery - Coronary,40-49,ARPC4,4.986,global,bto:0000042
+Artery - Coronary,40-49,PSMF1,4.994,global,bto:0000042
+Artery - Coronary,40-49,SNAP47,0.935,exact,artery
+Artery - Coronary,40-49,KAT5,0.843,exact,coronary artery
+Artery - Coronary,40-49,ZNF384,0.591,exact,artery
+Artery - Coronary,40-49,VIPAS39,0.827,exact,artery
+Artery - Coronary,40-49,OTUB1,0.7,exact,artery
+Artery - Coronary,40-49,ACTR6,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,TMEM167A,4.991,global,bto:0000042
+Artery - Coronary,40-49,CHST14,1.177,exact,artery
+Artery - Coronary,40-49,BSG,1.553,exact,coronary artery
+Artery - Coronary,40-49,GLOD4,4.983,global,bto:0000042
+Artery - Coronary,40-49,FAF1,0.776,exact,artery
+Artery - Coronary,40-49,COG8,4.879,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,NDUFAF1,0.697,exact,artery
+Artery - Coronary,40-49,DYNLL2,4.819,global,bto:0000042
+Artery - Coronary,40-49,MRFAP1L1,4.984,global,bto:0000042
+Artery - Coronary,40-49,PIGC,0.73,exact,artery
+Artery - Coronary,40-49,TMEM109,0.522,exact,artery
+Artery - Coronary,40-49,PARS2,4.821,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,SMG8,4.966,global,bto:0000042
+Artery - Coronary,40-49,TBC1D9B,4.988,global,bto:0000042
+Artery - Coronary,40-49,PSEN1,0.929,exact,coronary artery
+Artery - Coronary,40-49,C1ORF43,0.661,exact,coronary artery
+Artery - Coronary,40-49,CHMP6,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,C9ORF64,4.751,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,SEC22C,4.961,global,bto:0000042
+Artery - Coronary,40-49,VPS18,0.592,exact,artery
+Artery - Coronary,40-49,SUCLA2,0.67,exact,coronary artery
+Artery - Coronary,40-49,UBQLN2,0.55,exact,artery
+Artery - Coronary,40-49,SPCS1,4.985,global,bto:0000042
+Artery - Coronary,40-49,MED9,4.964,global,bto:0000042
+Artery - Coronary,40-49,PDCD6IP,0.872,exact,coronary artery
+Artery - Coronary,40-49,TM9SF2,4.996,global,bto:0000042
+Artery - Coronary,40-49,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,SLC10A3,4.899,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,PDZD11,4.0,exact,artery
+Artery - Coronary,40-49,DCLRE1A,0.776,exact,artery
+Artery - Coronary,40-49,SF3A1,0.66,exact,artery
+Artery - Coronary,40-49,DCTN1,0.864,exact,artery
+Artery - Coronary,40-49,GATA4,2.385,exact,coronary artery
+Artery - Coronary,40-49,TPRG1L,4.961,global,bto:0000042
+Artery - Coronary,40-49,CAPNS1,0.75,exact,coronary artery
+Artery - Coronary,40-49,SEPHS1,4.975,global,bto:0000042
+Artery - Coronary,40-49,NUDCD3,4.991,global,bto:0000042
+Artery - Coronary,40-49,CD99L2,0.814,exact,coronary artery
+Artery - Coronary,40-49,GPAA1,0.545,exact,artery
+Artery - Coronary,40-49,EFCAB14,4.472,global,bto:0000042
+Artery - Coronary,40-49,C6ORF89,4.988,global,bto:0000042
+Artery - Coronary,40-49,TRAPPC12,0.52,exact,coronary artery
+Artery - Coronary,40-49,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,SLC4A1AP,4.963,global,bto:0000042
+Artery - Coronary,40-49,DCTN2,0.704,exact,artery
+Artery - Coronary,40-49,CSTF1,4.985,global,bto:0000042
+Artery - Coronary,40-49,IK,4.997,global,bto:0000042
+Artery - Coronary,40-49,PCIF1,0.577,exact,coronary artery
+Artery - Coronary,40-49,CRNKL1,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,PDCD6,0.603,exact,coronary artery
+Artery - Coronary,40-49,PPCS,4.973,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,UCK1,4.971,global,bto:0000042
+Artery - Coronary,40-49,CHMP4B,4.978,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,GANAB,1.026,exact,artery
+Artery - Coronary,40-49,SLC25A11,1.055,exact,artery
+Artery - Coronary,40-49,TSN,0.96,exact,artery
+Artery - Coronary,40-49,TRMT61B,4.936,global,bto:0000042
+Artery - Coronary,40-49,CD164,1.064,exact,artery
+Artery - Coronary,40-49,VPS35L,4.987,global,bto:0000042
+Artery - Coronary,40-49,SDHC,1.539,exact,coronary artery
+Artery - Coronary,40-49,ZC3HC1,1.34,exact,coronary artery
+Artery - Coronary,40-49,SLC25A12,0.827,exact,artery
+Artery - Coronary,40-49,FAM32A,4.98,global,bto:0000042
+Artery - Coronary,40-49,ATP5F1A,0.785,exact,coronary artery
+Artery - Coronary,40-49,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,CHERP,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,SLC35A4,4.99,global,bto:0000042
+Artery - Coronary,40-49,MBTPS2,1.143,exact,artery
+Artery - Coronary,40-49,STUB1,1.935,exact,coronary artery
+Artery - Coronary,40-49,METTL13,,,
+Artery - Coronary,40-49,PIGS,4.983,global,bto:0000042
+Artery - Coronary,40-49,RNH1,1.131,exact,coronary artery
+Artery - Coronary,40-49,PDCL,4.938,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,PPP1R8,0.561,exact,artery
+Artery - Coronary,40-49,PRDM4,4.942,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,DNAJC5,1.111,exact,artery
+Artery - Coronary,40-49,RETREG2,4.985,global,bto:0000042
+Artery - Coronary,40-49,RMDN1,4.945,global,bto:0000042
+Artery - Coronary,40-49,TOR1AIP2,4.957,global,bto:0000042
+Artery - Coronary,40-49,TRIM35,0.673,exact,artery
+Artery - Coronary,40-49,KEAP1,1.874,exact,coronary artery
+Artery - Coronary,40-49,VDAC3,0.611,exact,coronary artery
+Artery - Coronary,40-49,ENSA,4.0,exact,artery
+Artery - Coronary,40-49,TRAPPC11,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,DBR1,4.903,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,TEX261,0.762,exact,artery
+Artery - Coronary,40-49,ZNF629,1.093,exact,artery
+Artery - Coronary,40-49,NFE2L1,0.589,exact,coronary artery
+Artery - Coronary,40-49,GDE1,0.697,exact,artery
+Artery - Coronary,40-49,WASHC5,4.98,global,bto:0000042
+Artery - Coronary,40-49,PEX14,4.97,global,bto:0000042
+Artery - Coronary,40-49,JKAMP,4.98,global,bto:0000042
+Artery - Coronary,40-49,COMMD2,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,AP3B1,0.626,exact,artery
+Artery - Coronary,40-49,ADD1,0.774,exact,coronary artery
+Artery - Coronary,40-49,CRAT,0.678,exact,coronary artery
+Artery - Coronary,40-49,INIP,4.881,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,ZNF689,4.944,global,bto:0000042
+Artery - Coronary,40-49,CTDP1,4.919,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,NDUFV3,0.732,exact,artery
+Artery - Coronary,40-49,EID2,0.602,exact,artery
+Artery - Coronary,40-49,GTF2F1,4.976,global,bto:0000042
+Artery - Coronary,40-49,RTL8A,4.778,global,bto:0000042
+Artery - Coronary,40-49,NUB1,0.812,exact,artery
+Artery - Coronary,40-49,CDC23,4.983,global,bto:0000042
+Artery - Coronary,40-49,TBC1D14,4.971,global,bto:0000042
+Artery - Coronary,40-49,COPS6,0.625,exact,artery
+Artery - Coronary,40-49,ALKBH4,4.906,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,40-49,RBM15B,0.896,exact,artery
+Artery - Coronary,50-59,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,DDB1,1.069,exact,artery
+Artery - Coronary,50-59,ZSCAN32,4.817,global,bto:0000042
+Artery - Coronary,50-59,RITA1,4.977,global,bto:0000042
+Artery - Coronary,50-59,PRKAG1,0.861,exact,artery
+Artery - Coronary,50-59,C1ORF50,4.749,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,SLC10A3,4.899,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,DHRS4-AS1,2.1,global,yy-8103 cell
+Artery - Coronary,50-59,NDUFAF3,0.541,exact,artery
+Artery - Coronary,50-59,UBE2E3,0.714,exact,artery
+Artery - Coronary,50-59,PIK3R4,0.812,exact,coronary artery
+Artery - Coronary,50-59,PDZD11,4.0,exact,artery
+Artery - Coronary,50-59,DCLRE1A,0.776,exact,artery
+Artery - Coronary,50-59,CORO1B,0.783,exact,artery
+Artery - Coronary,50-59,SF3A1,0.66,exact,artery
+Artery - Coronary,50-59,DCTN1,0.864,exact,artery
+Artery - Coronary,50-59,MED17,4.978,global,bto:0000042
+Artery - Coronary,50-59,ZNF329,4.62,global,bto:0000042
+Artery - Coronary,50-59,AASDHPPT,0.936,exact,artery
+Artery - Coronary,50-59,CAND1,0.613,exact,artery
+Artery - Coronary,50-59,SMG6,0.687,exact,coronary artery
+Artery - Coronary,50-59,TPRG1L,4.961,global,bto:0000042
+Artery - Coronary,50-59,SFT2D2,4.688,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,MAT2B,0.823,exact,artery
+Artery - Coronary,50-59,VPS33A,4.931,global,bto:0000042
+Artery - Coronary,50-59,MRPL46,4.938,global,bto:0000042
+Artery - Coronary,50-59,TIRAP,1.176,exact,coronary artery
+Artery - Coronary,50-59,SCO1,0.663,exact,artery
+Artery - Coronary,50-59,CAPNS1,0.75,exact,coronary artery
+Artery - Coronary,50-59,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,HINT1,0.538,exact,artery
+Artery - Coronary,50-59,PIGT,4.997,global,bto:0000042
+Artery - Coronary,50-59,SEPHS1,4.975,global,bto:0000042
+Artery - Coronary,50-59,HNRNPUL1,4.998,global,bto:0000042
+Artery - Coronary,50-59,MRM2,4.832,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,GPAA1,0.545,exact,artery
+Artery - Coronary,50-59,VPS11,1.16,exact,artery
+Artery - Coronary,50-59,PSMD9,4.97,global,bto:0000042
+Artery - Coronary,50-59,EIF2AK4,0.807,exact,coronary artery
+Artery - Coronary,50-59,MEPCE,4.982,global,bto:0000042
+Artery - Coronary,50-59,NUDCD3,4.991,global,bto:0000042
+Artery - Coronary,50-59,COPS4,4.982,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,LAMTOR3,4.585,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,GIPC1,0.735,exact,coronary artery
+Artery - Coronary,50-59,EFCAB14,4.472,global,bto:0000042
+Artery - Coronary,50-59,MRM3,4.94,global,bto:0000042
+Artery - Coronary,50-59,RAB14,0.599,exact,artery
+Artery - Coronary,50-59,JADE2,4.986,global,bto:0000042
+Artery - Coronary,50-59,PSMD4,0.732,exact,artery
+Artery - Coronary,50-59,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,GID8,4.983,global,bto:0000042
+Artery - Coronary,50-59,PHAF1,,,
+Artery - Coronary,50-59,EIF2B1,0.885,exact,artery
+Artery - Coronary,50-59,C6ORF89,4.988,global,bto:0000042
+Artery - Coronary,50-59,TRAPPC12,0.52,exact,coronary artery
+Artery - Coronary,50-59,ZNF2,0.546,exact,artery
+Artery - Coronary,50-59,TMEM127,1.635,exact,artery
+Artery - Coronary,50-59,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,PSMD5,0.911,exact,coronary artery
+Artery - Coronary,50-59,APEH,0.763,exact,artery
+Artery - Coronary,50-59,SRRD,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,PLRG1,4.987,global,bto:0000042
+Artery - Coronary,50-59,USP22,0.636,exact,coronary artery
+Artery - Coronary,50-59,SLC4A1AP,4.963,global,bto:0000042
+Artery - Coronary,50-59,TOLLIP,0.506,exact,coronary artery
+Artery - Coronary,50-59,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,SLC25A38,4.984,global,bto:0000042
+Artery - Coronary,50-59,TBCCD1,4.908,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,DCTN2,0.704,exact,artery
+Artery - Coronary,50-59,EEFSEC,0.768,exact,artery
+Artery - Coronary,50-59,CSTF1,4.985,global,bto:0000042
+Artery - Coronary,50-59,IK,4.997,global,bto:0000042
+Artery - Coronary,50-59,UBA1,1.178,exact,artery
+Artery - Coronary,50-59,ZNF71,4.78,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,PLA2G12A,0.772,exact,artery
+Artery - Coronary,50-59,ABRAXAS2,4.921,global,bto:0000042
+Artery - Coronary,50-59,CRNKL1,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,PCIF1,0.577,exact,coronary artery
+Artery - Coronary,50-59,KDM4A,1.239,exact,artery
+Artery - Coronary,50-59,BRD3OS,1.192,global,keratocyte
+Artery - Coronary,50-59,ZNF747,4.84,global,bto:0000042
+Artery - Coronary,50-59,TSG101,1.479,exact,coronary artery
+Artery - Coronary,50-59,SMIM15,0.511,exact,coronary artery
+Artery - Coronary,50-59,RNF40,4.997,global,bto:0000042
+Artery - Coronary,50-59,RRAGA,0.867,exact,artery
+Artery - Coronary,50-59,MED4,0.563,exact,artery
+Artery - Coronary,50-59,GUCD1,4.983,global,bto:0000042
+Artery - Coronary,50-59,PDCD6,0.603,exact,coronary artery
+Artery - Coronary,50-59,NBAS,0.812,exact,artery
+Artery - Coronary,50-59,PPCS,4.973,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,SNAP29,0.533,exact,coronary artery
+Artery - Coronary,50-59,SLC39A9,0.537,exact,artery
+Artery - Coronary,50-59,HBS1L,0.798,exact,artery
+Artery - Coronary,50-59,DHX57,4.894,global,bto:0000042
+Artery - Coronary,50-59,NDST1,0.575,exact,coronary artery
+Artery - Coronary,50-59,UBE3B,4.978,global,bto:0000042
+Artery - Coronary,50-59,UCK1,4.971,global,bto:0000042
+Artery - Coronary,50-59,UBE2Q1,4.98,global,bto:0000042
+Artery - Coronary,50-59,CHMP4B,4.978,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,ZDHHC4,0.815,exact,artery
+Artery - Coronary,50-59,LSM14B,4.89,global,bto:0000042
+Artery - Coronary,50-59,BRD7,0.52,exact,artery
+Artery - Coronary,50-59,EIF2AK1,0.771,exact,artery
+Artery - Coronary,50-59,MED29,0.526,exact,artery
+Artery - Coronary,50-59,ZSCAN21,4.927,global,bto:0000042
+Artery - Coronary,50-59,PSKH1,0.567,exact,coronary artery
+Artery - Coronary,50-59,TMEM199,4.46,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,GANAB,1.026,exact,artery
+Artery - Coronary,50-59,YTHDF2,0.667,exact,coronary artery
+Artery - Coronary,50-59,RAB5C,0.861,exact,artery
+Artery - Coronary,50-59,SLC25A11,1.055,exact,artery
+Artery - Coronary,50-59,UPRT,0.557,exact,artery
+Artery - Coronary,50-59,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,FAM118B,4.966,global,bto:0000042
+Artery - Coronary,50-59,TSN,0.96,exact,artery
+Artery - Coronary,50-59,KLHDC10,4.963,global,bto:0000042
+Artery - Coronary,50-59,SLC35B2,4.986,global,bto:0000042
+Artery - Coronary,50-59,GNA11,0.679,exact,coronary artery
+Artery - Coronary,50-59,TRMT61B,4.936,global,bto:0000042
+Artery - Coronary,50-59,SNX2,4.991,global,bto:0000042
+Artery - Coronary,50-59,GRB2,1.088,exact,coronary artery
+Artery - Coronary,50-59,AGGF1,1.43,exact,artery
+Artery - Coronary,50-59,DMAC2,4.995,global,bto:0000042
+Artery - Coronary,50-59,ASB7,4.888,global,bto:0000042
+Artery - Coronary,50-59,CUEDC1,4.947,global,bto:0000042
+Artery - Coronary,50-59,GORASP1,4.99,global,bto:0000042
+Artery - Coronary,50-59,HMGN4,4.987,global,bto:0000042
+Artery - Coronary,50-59,CD164,1.064,exact,artery
+Artery - Coronary,50-59,UROD,0.931,exact,artery
+Artery - Coronary,50-59,RBBP5,0.725,exact,artery
+Artery - Coronary,50-59,MRPL57,4.888,global,bto:0000042
+Artery - Coronary,50-59,VPS35L,4.987,global,bto:0000042
+Artery - Coronary,50-59,PEX26,0.52,exact,artery
+Artery - Coronary,50-59,CYREN,0.653,exact,coronary artery
+Artery - Coronary,50-59,SNX17,0.781,exact,artery
+Artery - Coronary,50-59,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,DGCR8,1.348,exact,coronary artery
+Artery - Coronary,50-59,ISY1,4.976,global,bto:0000042
+Artery - Coronary,50-59,NUP133,4.99,global,bto:0000042
+Artery - Coronary,50-59,UNC119B,0.523,exact,coronary artery
+Artery - Coronary,50-59,ZNF592,5.0,global,adrenal gland
+Artery - Coronary,50-59,USP5,0.587,exact,artery
+Artery - Coronary,50-59,GOLGA5,4.96,global,bto:0000042
+Artery - Coronary,50-59,LEPROT,4.983,global,bto:0000042
+Artery - Coronary,50-59,ZC3HC1,1.34,exact,coronary artery
+Artery - Coronary,50-59,SLC25A12,0.827,exact,artery
+Artery - Coronary,50-59,MCM3,0.618,exact,coronary artery
+Artery - Coronary,50-59,FAM32A,4.98,global,bto:0000042
+Artery - Coronary,50-59,NAPA,4.997,global,bto:0000042
+Artery - Coronary,50-59,ZC3H4,0.596,exact,artery
+Artery - Coronary,50-59,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,GPKOW,1.055,exact,artery
+Artery - Coronary,50-59,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,HCFC1,0.567,exact,coronary artery
+Artery - Coronary,50-59,BTBD10,4.97,global,bto:0000042
+Artery - Coronary,50-59,DHX8,0.553,exact,artery
+Artery - Coronary,50-59,SLC35A4,4.99,global,bto:0000042
+Artery - Coronary,50-59,SLC25A3,0.565,exact,coronary artery
+Artery - Coronary,50-59,ARPC4,4.986,global,bto:0000042
+Artery - Coronary,50-59,C5ORF22,4.52,global,bto:0000042
+Artery - Coronary,50-59,CENPBD1,4.754,global,bto:0000042
+Artery - Coronary,50-59,MBTPS2,1.143,exact,artery
+Artery - Coronary,50-59,STUB1,1.935,exact,coronary artery
+Artery - Coronary,50-59,METTL13,,,
+Artery - Coronary,50-59,CNPPD1,4.974,global,bto:0000042
+Artery - Coronary,50-59,PIGS,4.983,global,bto:0000042
+Artery - Coronary,50-59,DENND1A,4.0,exact,artery
+Artery - Coronary,50-59,GNAI2,0.722,exact,coronary artery
+Artery - Coronary,50-59,RNH1,1.131,exact,coronary artery
+Artery - Coronary,50-59,PPP1R8,0.561,exact,artery
+Artery - Coronary,50-59,PRDM4,4.942,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,NAA60,0.524,exact,artery
+Artery - Coronary,50-59,ARAF,1.122,exact,artery
+Artery - Coronary,50-59,ERAL1,4.99,global,bto:0000042
+Artery - Coronary,50-59,PSMF1,4.994,global,bto:0000042
+Artery - Coronary,50-59,MRPL20-AS1,,,
+Artery - Coronary,50-59,RETREG2,4.985,global,bto:0000042
+Artery - Coronary,50-59,VIRMA,0.596,exact,coronary artery
+Artery - Coronary,50-59,TM9SF4,4.993,global,bto:0000042
+Artery - Coronary,50-59,PIP4K2C,4.958,global,bto:0000042
+Artery - Coronary,50-59,TRAPPC13,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,RMDN1,4.945,global,bto:0000042
+Artery - Coronary,50-59,TACO1,4.94,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,TOR1AIP2,4.957,global,bto:0000042
+Artery - Coronary,50-59,TRIM35,0.673,exact,artery
+Artery - Coronary,50-59,KEAP1,1.874,exact,coronary artery
+Artery - Coronary,50-59,EMC7,4.556,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,SNAP47,0.935,exact,artery
+Artery - Coronary,50-59,VDAC3,0.611,exact,coronary artery
+Artery - Coronary,50-59,SPRYD7,4.557,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,ATG3,1.092,exact,coronary artery
+Artery - Coronary,50-59,ENSA,4.0,exact,artery
+Artery - Coronary,50-59,ATG13,1.156,exact,coronary artery
+Artery - Coronary,50-59,TRAPPC11,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,HIF1AN,0.952,exact,coronary artery
+Artery - Coronary,50-59,KAT5,0.843,exact,coronary artery
+Artery - Coronary,50-59,RAB1B,0.63,exact,artery
+Artery - Coronary,50-59,ESS2,0.558,exact,coronary artery
+Artery - Coronary,50-59,ZNF384,0.591,exact,artery
+Artery - Coronary,50-59,TEX261,0.762,exact,artery
+Artery - Coronary,50-59,SIGMAR1,0.91,exact,coronary artery
+Artery - Coronary,50-59,VIPAS39,0.827,exact,artery
+Artery - Coronary,50-59,DCTN5,4.988,global,bto:0000042
+Artery - Coronary,50-59,ZNF629,1.093,exact,artery
+Artery - Coronary,50-59,NCOA6,0.904,exact,artery
+Artery - Coronary,50-59,OTUB1,0.7,exact,artery
+Artery - Coronary,50-59,ACTR6,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,TMEM167A,4.991,global,bto:0000042
+Artery - Coronary,50-59,PARG,1.22,exact,artery
+Artery - Coronary,50-59,TMBIM6,0.768,exact,coronary artery
+Artery - Coronary,50-59,ZNF613,4.749,global,bto:0000042
+Artery - Coronary,50-59,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,CDIPT,0.845,exact,artery
+Artery - Coronary,50-59,ATXN7L3B,4.24,global,bto:0000042
+Artery - Coronary,50-59,CHST14,1.177,exact,artery
+Artery - Coronary,50-59,TMEM129,4.802,global,bto:0000042
+Artery - Coronary,50-59,MAGEF1,4.975,global,bto:0000042
+Artery - Coronary,50-59,BSG,1.553,exact,coronary artery
+Artery - Coronary,50-59,GDE1,0.697,exact,artery
+Artery - Coronary,50-59,SNX15,4.92,global,bto:0000042
+Artery - Coronary,50-59,WASHC5,4.98,global,bto:0000042
+Artery - Coronary,50-59,PEX14,4.97,global,bto:0000042
+Artery - Coronary,50-59,JKAMP,4.98,global,bto:0000042
+Artery - Coronary,50-59,TMUB2,4.959,global,bto:0000042
+Artery - Coronary,50-59,GPATCH3,4.974,global,bto:0000042
+Artery - Coronary,50-59,GLOD4,4.983,global,bto:0000042
+Artery - Coronary,50-59,COMMD2,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,SETD1A,0.636,exact,coronary artery
+Artery - Coronary,50-59,AP3B1,0.626,exact,artery
+Artery - Coronary,50-59,ADD1,0.774,exact,coronary artery
+Artery - Coronary,50-59,CRAT,0.678,exact,coronary artery
+Artery - Coronary,50-59,FAF2,4.985,global,bto:0000042
+Artery - Coronary,50-59,FAF1,0.776,exact,artery
+Artery - Coronary,50-59,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,EIF4E2,0.508,exact,artery
+Artery - Coronary,50-59,INIP,4.881,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,STRIP1,4.971,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,PPP1R7,4.991,global,bto:0000042
+Artery - Coronary,50-59,COG8,4.879,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,CNOT11,0.506,exact,coronary artery
+Artery - Coronary,50-59,AGPS,0.64,exact,artery
+Artery - Coronary,50-59,NDUFAF1,0.697,exact,artery
+Artery - Coronary,50-59,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,MRFAP1L1,4.984,global,bto:0000042
+Artery - Coronary,50-59,PIGC,0.73,exact,artery
+Artery - Coronary,50-59,ST3GAL2,4.929,global,bto:0000042
+Artery - Coronary,50-59,TTI2,4.863,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,PDPK1,0.573,exact,coronary artery
+Artery - Coronary,50-59,RTCB,0.591,exact,artery
+Artery - Coronary,50-59,RNF123,4.978,global,bto:0000042
+Artery - Coronary,50-59,CTDP1,4.919,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,SLC35A5,4.976,global,bto:0000042
+Artery - Coronary,50-59,DPF2,4.988,global,bto:0000042
+Artery - Coronary,50-59,RNF26,4.992,global,bto:0000042
+Artery - Coronary,50-59,NDUFV3,0.732,exact,artery
+Artery - Coronary,50-59,EID2,0.602,exact,artery
+Artery - Coronary,50-59,GTF2F1,4.976,global,bto:0000042
+Artery - Coronary,50-59,PDE6D,0.695,exact,artery
+Artery - Coronary,50-59,TBC1D9B,4.988,global,bto:0000042
+Artery - Coronary,50-59,ZC3H10,4.897,global,bto:0000042
+Artery - Coronary,50-59,UBE2Z,0.845,exact,coronary artery
+Artery - Coronary,50-59,TNPO3,4.99,global,bto:0000042
+Artery - Coronary,50-59,MED18,4.833,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,RALGAPB,4.976,global,bto:0000042
+Artery - Coronary,50-59,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,NUB1,0.812,exact,artery
+Artery - Coronary,50-59,C1ORF43,0.661,exact,coronary artery
+Artery - Coronary,50-59,GFM2,4.0,exact,artery
+Artery - Coronary,50-59,GPN1,4.972,global,bto:0000042
+Artery - Coronary,50-59,RTL8A,4.778,global,bto:0000042
+Artery - Coronary,50-59,CHMP6,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,ZNF746,4.918,global,bto:0000042
+Artery - Coronary,50-59,CDC23,4.983,global,bto:0000042
+Artery - Coronary,50-59,SNX12,4.984,global,bto:0000042
+Artery - Coronary,50-59,TMEM184C,4.891,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,C9ORF64,4.751,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,COPS6,0.625,exact,artery
+Artery - Coronary,50-59,SEC22C,4.961,global,bto:0000042
+Artery - Coronary,50-59,VPS18,0.592,exact,artery
+Artery - Coronary,50-59,SUCLA2,0.67,exact,coronary artery
+Artery - Coronary,50-59,FUNDC1,1.634,exact,coronary artery
+Artery - Coronary,50-59,SPCS1,4.985,global,bto:0000042
+Artery - Coronary,50-59,DCTD,4.986,global,bto:0000042
+Artery - Coronary,50-59,NAP1L4,4.995,global,bto:0000042
+Artery - Coronary,50-59,RBM15B,0.896,exact,artery
+Artery - Coronary,50-59,PDCD6IP,0.872,exact,coronary artery
+Artery - Coronary,50-59,TM9SF2,4.996,global,bto:0000042
+Artery - Coronary,50-59,MON1B,4.982,global,bto:0000042
+Artery - Coronary,50-59,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,50-59,SMARCE1,0.994,exact,artery
+Artery - Coronary,50-59,ASH2L,0.973,exact,artery
+Artery - Coronary,50-59,NSL1,0.682,exact,artery
+Artery - Coronary,50-59,EXOC7,0.89,exact,artery
+Artery - Coronary,50-59,RPA1,4.16,exact,artery
+Artery - Coronary,60-69,DDB1,1.069,exact,artery
+Artery - Coronary,60-69,ZSCAN32,4.817,global,bto:0000042
+Artery - Coronary,60-69,DNAJC9,4.97,global,bto:0000042
+Artery - Coronary,60-69,PRKAG1,0.861,exact,artery
+Artery - Coronary,60-69,C1ORF50,4.749,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,SLC10A3,4.899,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,PSPC1,0.739,exact,artery
+Artery - Coronary,60-69,DHRS4-AS1,2.1,global,yy-8103 cell
+Artery - Coronary,60-69,PHF14,4.952,global,bto:0000042
+Artery - Coronary,60-69,UBE2E3,0.714,exact,artery
+Artery - Coronary,60-69,PIK3R4,0.812,exact,coronary artery
+Artery - Coronary,60-69,PDZD11,4.0,exact,artery
+Artery - Coronary,60-69,DCLRE1A,0.776,exact,artery
+Artery - Coronary,60-69,CORO1B,0.783,exact,artery
+Artery - Coronary,60-69,SF3A1,0.66,exact,artery
+Artery - Coronary,60-69,MED17,4.978,global,bto:0000042
+Artery - Coronary,60-69,ZNF329,4.62,global,bto:0000042
+Artery - Coronary,60-69,AASDHPPT,0.936,exact,artery
+Artery - Coronary,60-69,CAND1,0.613,exact,artery
+Artery - Coronary,60-69,TPRG1L,4.961,global,bto:0000042
+Artery - Coronary,60-69,MAT2B,0.823,exact,artery
+Artery - Coronary,60-69,SFT2D2,4.688,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,VPS33A,4.931,global,bto:0000042
+Artery - Coronary,60-69,CAPNS1,0.75,exact,coronary artery
+Artery - Coronary,60-69,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,HINT1,0.538,exact,artery
+Artery - Coronary,60-69,PIGT,4.997,global,bto:0000042
+Artery - Coronary,60-69,SEPHS1,4.975,global,bto:0000042
+Artery - Coronary,60-69,NUDCD3,4.991,global,bto:0000042
+Artery - Coronary,60-69,MRM2,4.832,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,GPAA1,0.545,exact,artery
+Artery - Coronary,60-69,PSMD9,4.97,global,bto:0000042
+Artery - Coronary,60-69,COPS4,4.982,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,LAMTOR3,4.585,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,GIPC1,0.735,exact,coronary artery
+Artery - Coronary,60-69,EFCAB14,4.472,global,bto:0000042
+Artery - Coronary,60-69,RAB14,0.599,exact,artery
+Artery - Coronary,60-69,PSMD4,0.732,exact,artery
+Artery - Coronary,60-69,GID8,4.983,global,bto:0000042
+Artery - Coronary,60-69,EIF2B1,0.885,exact,artery
+Artery - Coronary,60-69,C6ORF89,4.988,global,bto:0000042
+Artery - Coronary,60-69,TRAPPC12,0.52,exact,coronary artery
+Artery - Coronary,60-69,UBA3,4.991,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,PSMD5,0.911,exact,coronary artery
+Artery - Coronary,60-69,APEH,0.763,exact,artery
+Artery - Coronary,60-69,SRRD,4.9,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,PLRG1,4.987,global,bto:0000042
+Artery - Coronary,60-69,USP22,0.636,exact,coronary artery
+Artery - Coronary,60-69,SLC4A1AP,4.963,global,bto:0000042
+Artery - Coronary,60-69,TOLLIP,0.506,exact,coronary artery
+Artery - Coronary,60-69,ATG12,1.326,exact,coronary artery
+Artery - Coronary,60-69,SLC25A38,4.984,global,bto:0000042
+Artery - Coronary,60-69,TBCCD1,4.908,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,DCTN2,0.704,exact,artery
+Artery - Coronary,60-69,EEFSEC,0.768,exact,artery
+Artery - Coronary,60-69,CSTF1,4.985,global,bto:0000042
+Artery - Coronary,60-69,IK,4.997,global,bto:0000042
+Artery - Coronary,60-69,PLA2G12A,0.772,exact,artery
+Artery - Coronary,60-69,ABRAXAS2,4.921,global,bto:0000042
+Artery - Coronary,60-69,CRNKL1,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,PCIF1,0.577,exact,coronary artery
+Artery - Coronary,60-69,GABARAPL2,1.068,exact,coronary artery
+Artery - Coronary,60-69,ZNF747,4.84,global,bto:0000042
+Artery - Coronary,60-69,TSG101,1.479,exact,coronary artery
+Artery - Coronary,60-69,SMIM15,0.511,exact,coronary artery
+Artery - Coronary,60-69,MED4,0.563,exact,artery
+Artery - Coronary,60-69,RRAGA,0.867,exact,artery
+Artery - Coronary,60-69,NBAS,0.812,exact,artery
+Artery - Coronary,60-69,PDCD6,0.603,exact,coronary artery
+Artery - Coronary,60-69,PPCS,4.973,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,SLC39A9,0.537,exact,artery
+Artery - Coronary,60-69,HBS1L,0.798,exact,artery
+Artery - Coronary,60-69,DHX57,4.894,global,bto:0000042
+Artery - Coronary,60-69,UBE3B,4.978,global,bto:0000042
+Artery - Coronary,60-69,UCK1,4.971,global,bto:0000042
+Artery - Coronary,60-69,UBE2Q1,4.98,global,bto:0000042
+Artery - Coronary,60-69,CHMP4B,4.978,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,LSM14B,4.89,global,bto:0000042
+Artery - Coronary,60-69,BRD7,0.52,exact,artery
+Artery - Coronary,60-69,EIF2AK1,0.771,exact,artery
+Artery - Coronary,60-69,MED29,0.526,exact,artery
+Artery - Coronary,60-69,WARS2,0.585,exact,coronary artery
+Artery - Coronary,60-69,TMEM199,4.46,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,GANAB,1.026,exact,artery
+Artery - Coronary,60-69,RAB5C,0.861,exact,artery
+Artery - Coronary,60-69,SLC25A11,1.055,exact,artery
+Artery - Coronary,60-69,UPRT,0.557,exact,artery
+Artery - Coronary,60-69,COP1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,FAM118B,4.966,global,bto:0000042
+Artery - Coronary,60-69,SLC35B2,4.986,global,bto:0000042
+Artery - Coronary,60-69,AGGF1,1.43,exact,artery
+Artery - Coronary,60-69,SNX2,4.991,global,bto:0000042
+Artery - Coronary,60-69,GRB2,1.088,exact,coronary artery
+Artery - Coronary,60-69,ASB7,4.888,global,bto:0000042
+Artery - Coronary,60-69,CUEDC1,4.947,global,bto:0000042
+Artery - Coronary,60-69,GORASP1,4.99,global,bto:0000042
+Artery - Coronary,60-69,HMGN4,4.987,global,bto:0000042
+Artery - Coronary,60-69,CD164,1.064,exact,artery
+Artery - Coronary,60-69,UROD,0.931,exact,artery
+Artery - Coronary,60-69,MRPL57,4.888,global,bto:0000042
+Artery - Coronary,60-69,VPS35L,4.987,global,bto:0000042
+Artery - Coronary,60-69,CYREN,0.653,exact,coronary artery
+Artery - Coronary,60-69,SNX17,0.781,exact,artery
+Artery - Coronary,60-69,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,NUP133,4.99,global,bto:0000042
+Artery - Coronary,60-69,LEPROT,4.983,global,bto:0000042
+Artery - Coronary,60-69,ZNF592,5.0,global,adrenal gland
+Artery - Coronary,60-69,GOLGA5,4.96,global,bto:0000042
+Artery - Coronary,60-69,ZC3HC1,1.34,exact,coronary artery
+Artery - Coronary,60-69,MCM3,0.618,exact,coronary artery
+Artery - Coronary,60-69,SLC25A12,0.827,exact,artery
+Artery - Coronary,60-69,NAPA,4.997,global,bto:0000042
+Artery - Coronary,60-69,FAM32A,4.98,global,bto:0000042
+Artery - Coronary,60-69,SPPL3,4.975,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,GPKOW,1.055,exact,artery
+Artery - Coronary,60-69,SLC25A3,0.565,exact,coronary artery
+Artery - Coronary,60-69,SARNP,4.983,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,ARPC4,4.986,global,bto:0000042
+Artery - Coronary,60-69,MBTPS2,1.143,exact,artery
+Artery - Coronary,60-69,STUB1,1.935,exact,coronary artery
+Artery - Coronary,60-69,CNPPD1,4.974,global,bto:0000042
+Artery - Coronary,60-69,PIGS,4.983,global,bto:0000042
+Artery - Coronary,60-69,RNH1,1.131,exact,coronary artery
+Artery - Coronary,60-69,GNAI2,0.722,exact,coronary artery
+Artery - Coronary,60-69,PPP1R8,0.561,exact,artery
+Artery - Coronary,60-69,PRDM4,4.942,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,NAA60,0.524,exact,artery
+Artery - Coronary,60-69,RARS2,0.566,exact,artery
+Artery - Coronary,60-69,ERAL1,4.99,global,bto:0000042
+Artery - Coronary,60-69,LCMT1,0.637,exact,artery
+Artery - Coronary,60-69,PSMF1,4.994,global,bto:0000042
+Artery - Coronary,60-69,TM9SF4,4.993,global,bto:0000042
+Artery - Coronary,60-69,PIP4K2C,4.958,global,bto:0000042
+Artery - Coronary,60-69,TRAPPC13,4.95,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,RMDN1,4.945,global,bto:0000042
+Artery - Coronary,60-69,TACO1,4.94,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,TRIM35,0.673,exact,artery
+Artery - Coronary,60-69,EMC7,4.556,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,KEAP1,1.874,exact,coronary artery
+Artery - Coronary,60-69,SNAP47,0.935,exact,artery
+Artery - Coronary,60-69,VDAC3,0.611,exact,coronary artery
+Artery - Coronary,60-69,SPRYD7,4.557,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,ATG3,1.092,exact,coronary artery
+Artery - Coronary,60-69,ENSA,4.0,exact,artery
+Artery - Coronary,60-69,ATG13,1.156,exact,coronary artery
+Artery - Coronary,60-69,ETFRF1,4.965,global,bto:0000042
+Artery - Coronary,60-69,TRAPPC11,4.968,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,WDR70,4.922,global,bto:0000042
+Artery - Coronary,60-69,KAT5,0.843,exact,coronary artery
+Artery - Coronary,60-69,RAB1B,0.63,exact,artery
+Artery - Coronary,60-69,VIPAS39,0.827,exact,artery
+Artery - Coronary,60-69,NCOA6,0.904,exact,artery
+Artery - Coronary,60-69,OTUB1,0.7,exact,artery
+Artery - Coronary,60-69,ACTR6,4.966,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,UVRAG,0.645,exact,coronary artery
+Artery - Coronary,60-69,TMEM167A,4.991,global,bto:0000042
+Artery - Coronary,60-69,PARG,1.22,exact,artery
+Artery - Coronary,60-69,TMBIM6,0.768,exact,coronary artery
+Artery - Coronary,60-69,ZNF613,4.749,global,bto:0000042
+Artery - Coronary,60-69,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,CDIPT,0.845,exact,artery
+Artery - Coronary,60-69,CHST14,1.177,exact,artery
+Artery - Coronary,60-69,TMEM129,4.802,global,bto:0000042
+Artery - Coronary,60-69,MAGEF1,4.975,global,bto:0000042
+Artery - Coronary,60-69,BSG,1.553,exact,coronary artery
+Artery - Coronary,60-69,WASHC5,4.98,global,bto:0000042
+Artery - Coronary,60-69,ACBD6,4.933,global,bto:0000042
+Artery - Coronary,60-69,JKAMP,4.98,global,bto:0000042
+Artery - Coronary,60-69,CYB5D2,4.947,global,bto:0000042
+Artery - Coronary,60-69,PEX14,4.97,global,bto:0000042
+Artery - Coronary,60-69,TMUB2,4.959,global,bto:0000042
+Artery - Coronary,60-69,GPATCH3,4.974,global,bto:0000042
+Artery - Coronary,60-69,GLOD4,4.983,global,bto:0000042
+Artery - Coronary,60-69,COMMD2,4.937,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,AP3B1,0.626,exact,artery
+Artery - Coronary,60-69,ADD1,0.774,exact,coronary artery
+Artery - Coronary,60-69,CRAT,0.678,exact,coronary artery
+Artery - Coronary,60-69,FAF1,0.776,exact,artery
+Artery - Coronary,60-69,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,PPP1R7,4.991,global,bto:0000042
+Artery - Coronary,60-69,EIF4E2,0.508,exact,artery
+Artery - Coronary,60-69,MFSD11,0.603,exact,artery
+Artery - Coronary,60-69,AGPS,0.64,exact,artery
+Artery - Coronary,60-69,NDUFAF1,0.697,exact,artery
+Artery - Coronary,60-69,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,MRFAP1L1,4.984,global,bto:0000042
+Artery - Coronary,60-69,PIGC,0.73,exact,artery
+Artery - Coronary,60-69,ATF2,1.101,exact,coronary artery
+Artery - Coronary,60-69,PDPK1,0.573,exact,coronary artery
+Artery - Coronary,60-69,RTCB,0.591,exact,artery
+Artery - Coronary,60-69,LRRC51,,,
+Artery - Coronary,60-69,RNF123,4.978,global,bto:0000042
+Artery - Coronary,60-69,CTDP1,4.919,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,SLC35A5,4.976,global,bto:0000042
+Artery - Coronary,60-69,CFAP36,4.82,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,NDUFV3,0.732,exact,artery
+Artery - Coronary,60-69,GTF2F1,4.976,global,bto:0000042
+Artery - Coronary,60-69,PDE6D,0.695,exact,artery
+Artery - Coronary,60-69,UBE2Z,0.845,exact,coronary artery
+Artery - Coronary,60-69,RALGAPB,4.976,global,bto:0000042
+Artery - Coronary,60-69,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,NUB1,0.812,exact,artery
+Artery - Coronary,60-69,C1ORF43,0.661,exact,coronary artery
+Artery - Coronary,60-69,GFM2,4.0,exact,artery
+Artery - Coronary,60-69,GPN1,4.972,global,bto:0000042
+Artery - Coronary,60-69,RTL8A,4.778,global,bto:0000042
+Artery - Coronary,60-69,CHMP6,4.961,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,CDC23,4.983,global,bto:0000042
+Artery - Coronary,60-69,SNX12,4.984,global,bto:0000042
+Artery - Coronary,60-69,SEC22C,4.961,global,bto:0000042
+Artery - Coronary,60-69,COPS6,0.625,exact,artery
+Artery - Coronary,60-69,SUCLA2,0.67,exact,coronary artery
+Artery - Coronary,60-69,FUNDC1,1.634,exact,coronary artery
+Artery - Coronary,60-69,SPCS1,4.985,global,bto:0000042
+Artery - Coronary,60-69,NAP1L4,4.995,global,bto:0000042
+Artery - Coronary,60-69,PDCD6IP,0.872,exact,coronary artery
+Artery - Coronary,60-69,TM9SF2,4.996,global,bto:0000042
+Artery - Coronary,60-69,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,SMARCE1,0.994,exact,artery
+Artery - Coronary,60-69,ASH2L,0.973,exact,artery
+Artery - Coronary,60-69,NSL1,0.682,exact,artery
+Artery - Coronary,60-69,EMC2,4.584,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,60-69,RPA1,4.16,exact,artery
+Artery - Coronary,70-79,CFAP300,4.839,global,bto:0000042
+Artery - Coronary,70-79,RPL5P34,,,
+Artery - Coronary,70-79,KTN1-AS1,1.695,global,non-small cell lung cancer cell
+Artery - Coronary,70-79,VPS33B-DT,,,
+Artery - Coronary,70-79,RPL10,5.0,global,bto:0000042
+Artery - Coronary,70-79,DNAJC9,4.97,global,bto:0000042
+Artery - Coronary,70-79,RPS6,0.86,exact,coronary artery
+Artery - Coronary,70-79,C1ORF50,4.749,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,SEC62,0.583,exact,artery
+Artery - Coronary,70-79,LINC00671,1.296,global,b-cpap cell
+Artery - Coronary,70-79,PSPC1,0.739,exact,artery
+Artery - Coronary,70-79,COX7A2L,0.639,exact,artery
+Artery - Coronary,70-79,NUMB,1.303,exact,artery
+Artery - Coronary,70-79,BAZ1A-AS1,,,
+Artery - Coronary,70-79,PHF14,4.952,global,bto:0000042
+Artery - Coronary,70-79,POMZP3,4.834,global,bto:0000042
+Artery - Coronary,70-79,POLB,0.984,exact,artery
+Artery - Coronary,70-79,IMMP2L,0.815,exact,artery
+Artery - Coronary,70-79,CRYZL1,4.956,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,NKAP,4.901,global,bto:0000042
+Artery - Coronary,70-79,HINT1,0.538,exact,artery
+Artery - Coronary,70-79,PHF1,1.137,exact,artery
+Artery - Coronary,70-79,ILRUN-AS1,,,
+Artery - Coronary,70-79,PSMA1,0.82,exact,artery
+Artery - Coronary,70-79,FIG4,0.858,exact,artery
+Artery - Coronary,70-79,NACA,4.999,global,bto:0000042
+Artery - Coronary,70-79,ZFAND1,4.934,global,bto:0000042
+Artery - Coronary,70-79,SEC11A,0.556,exact,artery
+Artery - Coronary,70-79,BTF3,0.612,exact,artery
+Artery - Coronary,70-79,CNRIP1,4.948,global,bto:0000042
+Artery - Coronary,70-79,C2ORF76,3.48,global,bto:0000042
+Artery - Coronary,70-79,RPL7,0.854,exact,artery
+Artery - Coronary,70-79,RSPH1,4.816,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,RPL10A,1.026,exact,artery
+Artery - Coronary,70-79,FNTA,4.983,global,bto:0000042
+Artery - Coronary,70-79,TNNI3K,1.2,exact,coronary artery
+Artery - Coronary,70-79,HYDIN,0.675,exact,artery
+Artery - Coronary,70-79,LINC02482,,,
+Artery - Coronary,70-79,RPS20,0.785,exact,artery
+Artery - Coronary,70-79,ZMYM5,4.833,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,ZP3,0.726,exact,artery
+Artery - Coronary,70-79,CRCP,1.98,exact,artery
+Artery - Coronary,70-79,ATG12,1.326,exact,coronary artery
+Artery - Coronary,70-79,SUPT3H,4.782,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,CD276,1.17,exact,coronary artery
+Artery - Coronary,70-79,RPS4Y1,1.034,exact,artery
+Artery - Coronary,70-79,RPL19,1.316,exact,artery
+Artery - Coronary,70-79,BRAF,1.163,exact,coronary artery
+Artery - Coronary,70-79,KIF9,4.939,global,bto:0000042
+Artery - Coronary,70-79,CD99,0.791,exact,coronary artery
+Artery - Coronary,70-79,NENF,4.979,global,bto:0000042
+Artery - Coronary,70-79,EIF3H,4.997,global,bto:0000042
+Artery - Coronary,70-79,GABARAPL2,1.068,exact,coronary artery
+Artery - Coronary,70-79,HSPB2,1.837,exact,coronary artery
+Artery - Coronary,70-79,TAF1A-AS1,0.835,global,pancreatic beta cell
+Artery - Coronary,70-79,RPL6,0.507,exact,artery
+Artery - Coronary,70-79,DNAH12,0.901,exact,artery
+Artery - Coronary,70-79,TRIP10,0.633,exact,artery
+Artery - Coronary,70-79,SNHG6,0.806,exact,artery
+Artery - Coronary,70-79,SPACA6,4.415,global,male reproductive system
+Artery - Coronary,70-79,CWF19L2,4.866,global,bto:0000042
+Artery - Coronary,70-79,COMMD3,4.983,global,bto:0000042
+Artery - Coronary,70-79,SDHAF4,0.619,exact,artery
+Artery - Coronary,70-79,ATRAID,0.577,exact,artery
+Artery - Coronary,70-79,NSMCE2,1.36,exact,artery
+Artery - Coronary,70-79,CEP112,4.828,global,bto:0000042
+Artery - Coronary,70-79,WARS2,0.585,exact,coronary artery
+Artery - Coronary,70-79,UIMC1,0.701,exact,artery
+Artery - Coronary,70-79,UBXN1,4.985,global,bto:0000042
+Artery - Coronary,70-79,S100A13,0.995,exact,artery
+Artery - Coronary,70-79,LINC00963,0.52,exact,artery
+Artery - Coronary,70-79,WASHC3,4.933,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,FAHD2B,4.648,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,NGDN,0.556,exact,artery
+Artery - Coronary,70-79,ENSG00000260360,,,
+Artery - Coronary,70-79,ENSG00000226007,,,
+Artery - Coronary,70-79,CFAP221,4.8,global,bto:0000042
+Artery - Coronary,70-79,TADA2A,4.857,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,ISCU,0.519,exact,coronary artery
+Artery - Coronary,70-79,PSTK,4.788,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,OSGEPL1-AS1,0.963,global,colonic epithelium cell line
+Artery - Coronary,70-79,CNBP,1.021,exact,artery
+Artery - Coronary,70-79,IFT20,0.524,exact,artery
+Artery - Coronary,70-79,RBMX2,4.922,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,IFTAP,,,
+Artery - Coronary,70-79,CYTH2,0.626,exact,artery
+Artery - Coronary,70-79,RSPH3,4.879,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,IQUB,4.801,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,SARNP,4.983,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,PIBF1,0.605,exact,artery
+Artery - Coronary,70-79,RARS2,0.566,exact,artery
+Artery - Coronary,70-79,BICD1,4.944,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,LCMT1,0.637,exact,artery
+Artery - Coronary,70-79,CMPK1,0.651,exact,artery
+Artery - Coronary,70-79,UBE2R2,4.99,global,bto:0000042
+Artery - Coronary,70-79,SNHG9,1.575,global,thyroid epithelial cell
+Artery - Coronary,70-79,EIF1P7,,,
+Artery - Coronary,70-79,ENSG00000285257,,,
+Artery - Coronary,70-79,ENSG00000287601,,,
+Artery - Coronary,70-79,RPL35,4.997,global,bto:0000042
+Artery - Coronary,70-79,ENSG00000224738,,,
+Artery - Coronary,70-79,GALK2,4.97,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,ETFRF1,4.965,global,bto:0000042
+Artery - Coronary,70-79,TIAM2,0.566,exact,artery
+Artery - Coronary,70-79,WDR70,4.922,global,bto:0000042
+Artery - Coronary,70-79,RPS8,5.0,global,bto:0000042
+Artery - Coronary,70-79,VKORC1,1.626,exact,coronary artery
+Artery - Coronary,70-79,LYRM4,4.497,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,A1BG,0.546,exact,coronary artery
+Artery - Coronary,70-79,UQCRHL,0.984,global,hepatoma hle cell
+Artery - Coronary,70-79,HCFC2,4.931,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,RPS23,0.618,exact,artery
+Artery - Coronary,70-79,RPL22,0.91,exact,artery
+Artery - Coronary,70-79,UVRAG,0.645,exact,coronary artery
+Artery - Coronary,70-79,FAHD2CP,,,
+Artery - Coronary,70-79,PRPF18,4.936,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,POC1B,0.581,exact,artery
+Artery - Coronary,70-79,EEF1A1,0.677,exact,coronary artery
+Artery - Coronary,70-79,KRT16P2,,,
+Artery - Coronary,70-79,LINC00933,1.494,global,infralimbic cortex
+Artery - Coronary,70-79,ZFPM2,1.351,exact,coronary artery
+Artery - Coronary,70-79,LINC01881,,,
+Artery - Coronary,70-79,ACBD6,4.933,global,bto:0000042
+Artery - Coronary,70-79,ZRANB3,1.109,exact,artery
+Artery - Coronary,70-79,CYB5D2,4.947,global,bto:0000042
+Artery - Coronary,70-79,PEX14,4.97,global,bto:0000042
+Artery - Coronary,70-79,SWI5,4.59,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,ZBTB8A,4.805,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,CIBAR1,,,
+Artery - Coronary,70-79,RPL24,4.996,global,bto:0000042
+Artery - Coronary,70-79,RPL14,0.637,exact,coronary artery
+Artery - Coronary,70-79,ENSG00000202343,,,
+Artery - Coronary,70-79,CADPS2,4.929,global,bto:0000042
+Artery - Coronary,70-79,MFSD11,0.603,exact,artery
+Artery - Coronary,70-79,CDKL1,4.78,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,HMGB1,2.131,exact,coronary artery
+Artery - Coronary,70-79,YAF2,4.977,global,bto:0000042
+Artery - Coronary,70-79,TMEM14C,4.987,global,bto:0000042
+Artery - Coronary,70-79,LINC02256,,,
+Artery - Coronary,70-79,AOPEP,0.855,exact,artery
+Artery - Coronary,70-79,SNHG5,0.507,exact,coronary artery
+Artery - Coronary,70-79,ATF2,1.101,exact,coronary artery
+Artery - Coronary,70-79,RNU6-8,,,
+Artery - Coronary,70-79,LRRC51,,,
+Artery - Coronary,70-79,RPL29,0.594,exact,artery
+Artery - Coronary,70-79,SPATA17,4.977,global,bto:0000042
+Artery - Coronary,70-79,EIF3E,0.792,exact,artery
+Artery - Coronary,70-79,TMSB4X,2.02,exact,coronary artery
+Artery - Coronary,70-79,LRRC37BP1,,,
+Artery - Coronary,70-79,RPS24,0.881,exact,artery
+Artery - Coronary,70-79,CFAP36,4.82,global,"tissues, cell types and enzyme sources"
+Artery - Coronary,70-79,EIF2A,4.179,exact,artery
+Artery - Coronary,70-79,PDE6D,0.695,exact,artery
+Artery - Coronary,70-79,RPL21P16,,,
+Artery - Coronary,70-79,CSNK2B,0.824,exact,artery
+Artery - Coronary,70-79,ZNF880,4.757,global,bto:0000042
+Artery - Coronary,70-79,C9ORF85,3.334,global,bto:0000042
+Artery - Coronary,70-79,ADAM32,4.782,global,bto:0000042
+Artery - Coronary,70-79,ANP32B,4.992,global,bto:0000042
+Artery - Coronary,70-79,NFU1,1.246,exact,artery
+Artery - Coronary,70-79,DPY30,4.954,global,bto:0000042
+Artery - Coronary,70-79,PCBP2,0.795,exact,artery
+Artery - Coronary,70-79,EMC2,4.584,global,"tissues, cell types and enzyme sources"

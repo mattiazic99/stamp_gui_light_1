@@ -1,0 +1,458 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Brain - Caudate (basal ganglia),30-39,RABEPK,0.342,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,EMC6,4.612,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,ATP5F1C,1.038,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,NAXE,4.955,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,CYC1,0.748,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ZNF205,0.041,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,RAC1,1.693,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TMEM230,1.122,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,APEH,0.061,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ACOT13,4.997,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,NDUFAF6,0.805,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CCM2,0.23,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TIMM21,0.789,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CDIPT,1.161,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RFX5-AS1,,,
+Brain - Caudate (basal ganglia),30-39,LSAMP,1.51,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TMEM203,0.556,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,WDR86,4.663,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,CFL1,0.786,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NFIB,4.322,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,UROS,1.09,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ATP5PF,1.377,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ACYP2,0.686,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,VTI1B,0.672,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,AP3S2,4.988,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,NDUFB5,1.127,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RPP30,0.362,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CUEDC2,0.643,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,EAF2,4.796,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,THRB-AS1,0.874,global,non-small cell lung cancer cell line
+Brain - Caudate (basal ganglia),30-39,ADAP1,0.613,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,PGM1,0.728,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,KIFBP,0.653,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PEMT,0.65,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ECSIT,0.061,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MRPS28,0.407,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,ATP5F1A,1.846,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RDH11,0.204,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SUPT4H1,1.025,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,COX8A,1.602,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CYB5D2,4.0,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,THAP7,0.097,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,AIFM3,4.0,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MAGEF1,0.041,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,THOC7,0.398,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NDUFA12,1.221,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NEU4,0.845,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,SLC25A15,0.924,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,TMEM9,4.992,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,MRPS24,4.948,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,PDE6D,0.332,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MPC1,0.954,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,INSYN1,1.466,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,ENSG00000269176,,,
+Brain - Caudate (basal ganglia),30-39,DGCR6L,0.545,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,SMIM8,4.326,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,MICOS13,0.667,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,FGGY,4.902,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,IDH2,1.342,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CCDC12,4.947,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,PFDN6,0.47,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PMS2P4,,,
+Brain - Caudate (basal ganglia),30-39,AIFM1,1.16,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,NDUFA7,1.008,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,RANGRF,0.571,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,ABHD17A,1.382,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CCDC85B,1.17,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,COX7A2,1.735,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LYRM4,0.825,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,NRSN2,0.574,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PHPT1,0.602,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,HMBS,0.735,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TOMM6,0.532,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,COQ3,0.661,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,B4GALT2,4.964,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,POLR2G,0.803,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ATP5PO,1.406,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RBX1,1.347,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MRPL40,0.389,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,IMP4,4.163,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,C7ORF50,0.255,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ARV1,1.109,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MRPS18B,0.312,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MIR9-1HG,,,
+Brain - Caudate (basal ganglia),30-39,PEBP1,1.89,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ERAL1,4.99,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,C11ORF49,0.799,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CPTP,0.161,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PINK1,2.669,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PTPRA,0.556,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ENSG00000187186,,,
+Brain - Caudate (basal ganglia),30-39,ENSG00000273293,,,
+Brain - Caudate (basal ganglia),30-39,ACY1,0.729,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,DDA1,0.255,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,CCDC51,4.924,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,ATP5PD,1.407,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PRADC1,0.29,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PMM1,0.061,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,TADA3,0.061,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,IGBP1,0.477,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PPP2R2D,0.731,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,PARD6A,4.858,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,CTNNA2,1.0,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NDUFA9,0.538,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,C1ORF122,0.597,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SPAG7,0.477,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ATP6V0E2-AS1,1.25,global,thyroid nodule
+Brain - Caudate (basal ganglia),30-39,ARFRP1,0.736,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PTPMT1,4.951,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,SFXN1,0.995,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,IAH1,4.94,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,ASPSCR1,4.964,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,MCRS1,4.982,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,FKBP8,0.491,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MFN2,1.603,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TOMM5,0.966,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,ENSG00000244239,,,
+Brain - Caudate (basal ganglia),30-39,MRPL36,4.957,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,OAT,1.311,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,HDDC3,4.825,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,ENSG00000288675,,,
+Brain - Caudate (basal ganglia),30-39,TESK1,4.921,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,NUDT16L1,4.959,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,DDAH1,1.225,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,COPS6,0.23,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,FHIT,0.545,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RPP25L,4.539,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,POLR3F,0.709,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,COQ10A,4.93,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,KIF26B,0.532,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,SLC25A3,2.091,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SRR,1.04,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PSMD4,0.906,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PFKM,1.46,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ENSG00000250222,,,
+Brain - Caudate (basal ganglia),30-39,ELOB,0.799,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PSMB5,0.889,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,OXLD1,4.363,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,RNF14,0.13,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MRPL24,0.55,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,COA3,0.759,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,GCAT,0.634,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,NDUFB3,0.977,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NME3,0.533,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,PSMC5,0.789,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LINC02482,,,
+Brain - Caudate (basal ganglia),30-39,MRPL16,4.969,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,MAP3K13,1.455,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,TXN2,0.38,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,C16ORF95,1.899,global,t/g ha-vsmc cell
+Brain - Caudate (basal ganglia),30-39,COX16,4.973,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,YWHAE,4.372,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ISCA2,0.666,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,NDUFA6,1.082,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MRPL47,0.146,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LINC00634,,,
+Brain - Caudate (basal ganglia),30-39,LIPE-AS1,1.541,global,preadipocyte cell line
+Brain - Caudate (basal ganglia),30-39,TMEM126B,0.161,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TMEM205,4.956,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,MMP24OS,1.447,global,pos cell
+Brain - Caudate (basal ganglia),30-39,TMEM126A,0.279,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,NTM,1.168,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,HMGB1P6,,,
+Brain - Caudate (basal ganglia),30-39,MRPL30,4.348,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,COA1,4.959,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,ATP5F1D,1.072,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,COPE,0.407,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PLAAT1,4.729,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,ERGIC3,0.322,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,FH,1.167,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,UBA52,1.736,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MT-CO3,0.81,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LDHB,,,
+Brain - Caudate (basal ganglia),30-39,NDUFA2,0.431,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PECR,0.7,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,NSFL1C,0.061,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,APOO,0.29,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,HSD11B1L,4.981,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,NDUFS3,1.255,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LAMTOR5,0.869,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,BAD,1.174,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,OAZ2,0.712,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ESD,0.748,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NTHL1,0.58,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TEX264,0.6,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MRPS15,0.061,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,ZNF467,4.917,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,TMEM129,0.041,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,UQCR11,0.557,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CHCHD1,4.764,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,NAXD,0.439,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ANKRD29,3.988,global,whole body
+Brain - Caudate (basal ganglia),30-39,DNAJC19,1.07,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,PPP1R16A,4.967,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,POLDIP2,0.541,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,NDUFA11,0.803,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SKP1,1.66,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ZNF561-AS1,1.599,global,laryngeal cancer cell
+Brain - Caudate (basal ganglia),30-39,HIGD2A,4.909,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,TMEM167A,4.991,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,CETN4P,,,
+Brain - Caudate (basal ganglia),30-39,EIF4ENIF1,0.204,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,CDC34,0.89,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,STAG3L4,,,
+Brain - Caudate (basal ganglia),30-39,ENY2,0.398,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SNF8,0.38,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CNIH2,0.301,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,FAM136A,4.955,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,NDUFV1,2.014,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LINC00853,1.137,global,ags cell
+Brain - Caudate (basal ganglia),30-39,SELENOW,1.826,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CSNK2B,1.214,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ATP5MF,0.782,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NUBP2,0.217,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MAP2K2,0.681,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ATP6V0E2,1.38,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NOVA1-DT,,,
+Brain - Caudate (basal ganglia),30-39,SUCLG1,1.635,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,STUB1,0.708,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,THAP3,4.967,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,CENPX,0.362,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,STX8,0.267,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,FXYD7,0.512,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,C18ORF32,4.171,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,MRPS26,0.796,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ENSG00000288700,,,
+Brain - Caudate (basal ganglia),30-39,ELP5,4.0,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MTCH2,0.23,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RMND5B,4.989,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,DDX41,0.332,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ZPLD2P,,,
+Brain - Caudate (basal ganglia),30-39,FAM204A,4.796,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,HCFC1R1,1.401,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ENSG00000247134,,,
+Brain - Caudate (basal ganglia),30-39,AURKAIP1,4.989,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,SDHB,1.015,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,METRN,0.954,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MSRB2,0.658,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RTF1,0.021,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,VDAC2,1.22,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SLC25A5,1.276,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CSPG5,0.415,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CSNK1G2,0.161,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ACBD6,4.933,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,POP7,4.932,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,DPY30,0.47,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ATP5PB,1.561,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,COMMD7,0.633,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LAMTOR2,4.63,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,URM1,0.243,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MRPL1,4.959,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,NABP2,4.9,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,UQCC2,0.857,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MRPL28,0.775,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NDUFB7,0.332,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PPCS,1.148,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PEF1,0.628,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SMIM26,1.451,global,lim1863 cell
+Brain - Caudate (basal ganglia),30-39,PAXX,4.887,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,MCEE,0.565,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,PSMB10,1.063,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,CCDC28B,4.895,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,COA8,4.103,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,PTN,1.858,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MRPL13,0.645,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,RHEB,1.281,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ISOC2,4.956,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,SPCS1,0.987,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,BTBD2,0.041,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NAT14,4.96,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,TNR,1.219,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MRPL12,0.243,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SLC22A3,0.82,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,BEGAIN,4.304,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,TMEM14C,4.987,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,ZNF771,4.872,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,ARFGAP2,4.117,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,HACD3,4.995,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,ERI3,4.987,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,DLD,0.76,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CTSF,0.752,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LINC00237,1.668,global,intraocular melanoma cell
+Brain - Caudate (basal ganglia),30-39,MANBAL,4.964,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,EIF3K,1.112,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PTGFRN,4.992,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,MRPL21,4.699,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,POMP,1.178,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ANTKMT,4.764,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,UQCRFS1,1.314,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,COX6B1,1.408,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,EMC4,4.563,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,MNAT1,4.952,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,METTL5,0.462,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,COX5B,1.51,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,FLYWCH2,0.869,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TCEA2,1.061,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,COX7B,1.388,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ECI1,4.971,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,SAMM50,0.322,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RNF208,4.026,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,UROD,0.648,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TACO1,4.113,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,SEC62,0.914,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PPA2,0.568,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,GPX4,2.336,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LINC02370,,,
+Brain - Caudate (basal ganglia),30-39,PCCB,4.104,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NIPSNAP2,0.301,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,CATSPERZ,0.13,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NDUFB11,1.979,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,RPL15,1.424,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ENSG00000267890,,,
+Brain - Caudate (basal ganglia),30-39,GET3,0.407,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,DCTN6,0.875,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TIMM8B,1.132,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,TIMM13,0.389,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,EIF2AK1,0.13,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,KLF12,4.941,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,NDUFAF1,0.988,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,SF3B6,0.81,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PPP2R3C,0.677,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,VPS13B-DT,,,
+Brain - Caudate (basal ganglia),30-39,MRPL57,0.796,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,NDUFV3,1.019,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,UBE2E3,0.643,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,FUNDC2,4.977,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,PDE9A,1.552,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,ITPA,0.731,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MRPL58,1.025,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,RBP1,1.054,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,RNF187,0.857,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PACSIN3,0.534,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,KLHDC3,0.613,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,PSMB6,1.172,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MED7,0.021,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,FAM89B,0.13,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ASPDH,4.638,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),30-39,GLRX5,1.655,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,OGDHL,0.954,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,MRPS11,0.23,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,VPS28,0.407,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,COX4I1,1.848,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TCEAL8,4.964,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,ZNF883,4.0,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,ENSG00000276075,,,
+Brain - Caudate (basal ganglia),30-39,ENSG00000276740,,,
+Brain - Caudate (basal ganglia),30-39,FAM3A,4.974,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,NDUFA13,0.916,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,BCKDHA,0.831,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,LAMA5-AS1,1.232,global,hos cell
+Brain - Caudate (basal ganglia),30-39,UQCR10,1.407,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SOCS2-AS1,1.776,global,p69 prostate cancer cell
+Brain - Caudate (basal ganglia),30-39,MICU1,0.695,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MIEN1,0.823,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,ANAPC13,0.591,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,SOBP,0.38,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TMEM14B,0.789,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,WAC-AS1,1.425,global,hep-g2/2.15 cell
+Brain - Caudate (basal ganglia),30-39,IFT27,4.916,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,PFDN1,0.623,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,FBLN2,0.792,exact,basal ganglion
+Brain - Caudate (basal ganglia),30-39,VPS4A,1.051,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,TXNL4A,0.927,exact,caudate nucleus
+Brain - Caudate (basal ganglia),30-39,MTRES1,4.622,global,bto:0000042
+Brain - Caudate (basal ganglia),30-39,DNAJC8,0.041,exact,basal ganglion
+Brain - Caudate (basal ganglia),40-49,MT-CO3,0.81,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,DXO,0.079,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,MAPK12,1.673,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,BRAT1,0.503,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,NIT1,0.447,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,GTF3C1,0.455,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,CSNK1E,0.255,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,UPF3B,0.716,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,ACAD10,4.927,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,KSR1,0.903,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,NUMA1,0.967,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,SUFU,0.815,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,IFT43,4.536,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),70-79,ZNF362,4.914,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,FAM120AOS,4.866,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),70-79,GTF3C2,0.371,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,SUZ12P1,,,
+Brain - Caudate (basal ganglia),70-79,GRIN2C,1.27,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,SMYD4,4.804,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,XXYLT1,4.423,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,MAP3K5-AS1,,,
+Brain - Caudate (basal ganglia),70-79,KIAA1614,4.593,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,PIGQ,0.528,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,ABCB7,0.509,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,NHSL1,4.883,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,LRRC57,0.747,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,ALPK1,4.902,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,SLC25A34,0.524,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,MED24,4.998,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,ENSG00000275120,,,
+Brain - Caudate (basal ganglia),70-79,CLEC16A,0.557,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,CDC16,0.505,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,CHD8,1.295,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,TTC28-AS1,1.493,global,lim1863 cell
+Brain - Caudate (basal ganglia),70-79,GATD1,4.929,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,TSC2,1.147,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,STRADA,0.605,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,THBS4,1.131,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,TRIM8,1.346,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,LMBR1L,0.279,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,PSMG4,4.939,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),70-79,PGAP3,4.968,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,ZBTB4,0.255,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,CAPN10,4.994,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,KANSL3,0.525,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,ARID3B,4.939,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,ENSG00000269973,,,
+Brain - Caudate (basal ganglia),70-79,RPTOR,1.683,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,APC2,0.607,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,RGS20,0.789,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,SPATA1,0.559,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,KDM4B,0.097,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,RECQL5,4.934,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),70-79,RAB33B-AS1,,,
+Brain - Caudate (basal ganglia),70-79,DHX57,4.894,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,EP400,0.762,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,DVL2,1.06,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,EXOSC10,4.997,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,AKT2,1.427,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,SIDT2,0.061,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,CCNL2,4.287,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,CEP131,4.846,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),70-79,KRBA1,3.709,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,DCP1B,4.921,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,GORASP1,0.775,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,ANAPC2,0.217,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,ZNF76,0.332,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,FOXO3,0.989,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,FYN,1.739,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,OSGEP,4.981,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,USP4,0.423,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,PTCD3,4.996,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,ENSG00000275807,,,
+Brain - Caudate (basal ganglia),70-79,UBAP2,0.204,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,ELAC2,0.604,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,ZNF160,0.592,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,CNOT4,4.967,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,MTFMT,0.892,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,ANO8,0.23,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,COG7,4.92,global,"tissues, cell types and enzyme sources"
+Brain - Caudate (basal ganglia),70-79,CDC42EP4,4.996,global,bto:0000042
+Brain - Caudate (basal ganglia),70-79,CENATAC,,,
+Brain - Caudate (basal ganglia),70-79,MTHFR,1.425,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,EXOC7,0.041,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,CSPG4,0.981,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,ELMO2,0.951,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,CDK5RAP1,0.935,exact,basal ganglion
+Brain - Caudate (basal ganglia),70-79,ATG2A,0.021,exact,caudate nucleus
+Brain - Caudate (basal ganglia),70-79,ZC3H4,0.021,exact,caudate nucleus

@@ -1,0 +1,79 @@
+tissue,age_group,gene_symbol,tissues_confidence,tissues_tissue_match,tissues_best_tissue
+Adipose - Visceral (Omentum),30-39,FASTKD5,4.961,global,bto:0000042
+Adipose - Visceral (Omentum),30-39,TBCC,4.969,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),30-39,NPR1,4.945,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),50-59,TMBIM6,5.0,global,bto:0000042
+Adipose - Visceral (Omentum),50-59,MLF2,4.994,global,bto:0000042
+Adipose - Visceral (Omentum),50-59,RNF123,4.978,global,bto:0000042
+Adipose - Visceral (Omentum),50-59,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),50-59,ZFPL1,4.976,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),50-59,VPS4A,4.988,global,bto:0000042
+Adipose - Visceral (Omentum),50-59,ECI2,4.988,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,MLF2,4.994,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,PRPS2,4.978,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,FAF2,4.985,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,RRP8,4.956,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,DCAF5,4.983,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,HBS1L,4.989,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,MBD2,4.965,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,LCMT1,4.973,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,NDUFA10,4.991,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,RNF123,4.978,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,GLO1,4.999,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,ZFPL1,4.976,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,EIF2AK1,4.995,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,ELF2,4.973,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,OXA1L,4.997,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,VPS4A,4.988,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,YME1L1,4.998,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,FBXO7,4.995,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,SEM1,4.553,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),60-69,AP3S2,4.988,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,ECI2,4.988,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,TMBIM6,5.0,global,bto:0000042
+Adipose - Visceral (Omentum),60-69,NR2C2,4.976,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,MLF2,4.994,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,YWHAE,5.0,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,HMGCL,4.983,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,UBE2V1,4.999,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,PRPS2,4.978,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,FAF2,4.985,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,CDK16,4.993,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,RRP8,4.956,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,DCAF5,4.983,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,HBS1L,4.989,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,MBD2,4.965,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,LCMT1,4.973,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,NDUFA10,4.991,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,RNF123,4.978,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,GLO1,4.999,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,HINT1,4.993,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,ZFPL1,4.976,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,EIF2AK1,4.995,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,RAD23B,4.994,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,ELF2,4.973,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,OXA1L,4.997,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,HDAC3,4.983,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,PRKCSH,5.0,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,SFT2D1,4.774,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,VPS4A,4.988,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,COX4I1,4.998,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,DCAKD,4.853,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,YME1L1,4.998,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,FBXO7,4.995,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,SEM1,4.553,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,SERPINB6,4.998,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,VPS26B,4.977,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,AP3S2,4.988,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,UBE2E1,4.972,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,ECI2,4.988,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,TMBIM6,5.0,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,NDUFV1,4.999,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,ANKRD16,4.728,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,NR2C2,4.976,global,"tissues, cell types and enzyme sources"
+Adipose - Visceral (Omentum),70-79,GRHPR,4.993,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,MRPL10,4.98,global,bto:0000042
+Adipose - Visceral (Omentum),70-79,TOMM7,4.989,global,bto:0000042

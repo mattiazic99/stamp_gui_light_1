@@ -1,0 +1,355 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Heart - Atrial Appendage,30-39,PTPRK,4.969,global,bto:0000042
+Heart - Atrial Appendage,30-39,HEPH,4.944,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TTI1,4.964,global,bto:0000042
+Heart - Atrial Appendage,30-39,AP2M1,5.0,global,bto:0000042
+Heart - Atrial Appendage,30-39,TADA2B,4.913,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,ZNF271P,,,
+Heart - Atrial Appendage,30-39,ADAM23,4.82,global,bto:0000042
+Heart - Atrial Appendage,30-39,BIVM,4.97,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,GLO1,4.999,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MGAT5,4.982,global,bto:0000042
+Heart - Atrial Appendage,30-39,GSK3B,4.985,global,bto:0000042
+Heart - Atrial Appendage,30-39,PANK4,4.964,global,bto:0000042
+Heart - Atrial Appendage,30-39,ACOT13,4.997,global,bto:0000042
+Heart - Atrial Appendage,30-39,POLR3GL,4.904,global,bto:0000042
+Heart - Atrial Appendage,30-39,MED29,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,CCDC134,4.63,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MAIP1,4.811,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MOCS2,4.972,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,ENSG00000224152,,,
+Heart - Atrial Appendage,30-39,GDE1,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,CDKN2AIPNL,3.906,global,bto:0000042
+Heart - Atrial Appendage,30-39,ZNF362,4.914,global,bto:0000042
+Heart - Atrial Appendage,30-39,MARK1,4.6,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,KPNA6,4.994,global,bto:0000042
+Heart - Atrial Appendage,30-39,AP3S2,4.988,global,bto:0000042
+Heart - Atrial Appendage,30-39,ANK2,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,ENSG00000228801,,,
+Heart - Atrial Appendage,30-39,MORF4L1P1,,,
+Heart - Atrial Appendage,30-39,TECRL,4.745,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MT-CO2,4.909,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,NGRN,4.994,global,bto:0000042
+Heart - Atrial Appendage,30-39,ATPAF1,4.981,global,bto:0000042
+Heart - Atrial Appendage,30-39,PEX19,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,SRRD,4.9,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PGM1,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,PARP1,4.998,global,bto:0000042
+Heart - Atrial Appendage,30-39,VAPB,4.992,global,bto:0000042
+Heart - Atrial Appendage,30-39,COQ7,4.927,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,ATP5F1A,5.0,global,atrium
+Heart - Atrial Appendage,30-39,DDR1,4.998,global,bto:0000042
+Heart - Atrial Appendage,30-39,FSD2,4.92,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,DDB1,4.999,global,bto:0000042
+Heart - Atrial Appendage,30-39,EMC3,4.608,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MTIF3,4.965,global,bto:0000042
+Heart - Atrial Appendage,30-39,PTDSS1,4.986,global,bto:0000042
+Heart - Atrial Appendage,30-39,KEAP1,4.997,global,bto:0000042
+Heart - Atrial Appendage,30-39,MYOM3,4.806,global,bto:0000042
+Heart - Atrial Appendage,30-39,SPATA2,4.965,global,bto:0000042
+Heart - Atrial Appendage,30-39,TCEAL3,4.75,global,bto:0000042
+Heart - Atrial Appendage,30-39,DTNA,4.989,global,bto:0000042
+Heart - Atrial Appendage,30-39,NAP1L4,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,ACAD8,4.985,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,SYT13,4.921,global,bto:0000042
+Heart - Atrial Appendage,30-39,ASAH1,4.999,global,bto:0000042
+Heart - Atrial Appendage,30-39,PPP2R5D,4.991,global,bto:0000042
+Heart - Atrial Appendage,30-39,DYNLL2,4.819,global,bto:0000042
+Heart - Atrial Appendage,30-39,RAVER2,4.89,global,bto:0000042
+Heart - Atrial Appendage,30-39,HIBADH,4.982,global,bto:0000042
+Heart - Atrial Appendage,30-39,TSTD2,4.808,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PEX2,4.981,global,bto:0000042
+Heart - Atrial Appendage,30-39,COIL,4.955,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,AIFM1,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,PLCD3,4.953,global,bto:0000042
+Heart - Atrial Appendage,30-39,ZNF711,4.911,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,ATP6V1H,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,RFC1,4.974,global,bto:0000042
+Heart - Atrial Appendage,30-39,LRRC28,4.916,global,bto:0000042
+Heart - Atrial Appendage,30-39,COPS7A,4.991,global,bto:0000042
+Heart - Atrial Appendage,30-39,TTC1,4.985,global,bto:0000042
+Heart - Atrial Appendage,30-39,PSMC1,4.989,global,bto:0000042
+Heart - Atrial Appendage,30-39,RAD1,4.958,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PSMF1,4.994,global,bto:0000042
+Heart - Atrial Appendage,30-39,MAP7D1,4.981,global,bto:0000042
+Heart - Atrial Appendage,30-39,CDIP1,4.982,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,ILRUN,4.986,global,bto:0000042
+Heart - Atrial Appendage,30-39,MTFMT,4.732,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,NPM2,4.834,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,IDH3G,4.982,global,bto:0000042
+Heart - Atrial Appendage,30-39,PSMC2,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,ARV1,4.924,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TAF6L,4.985,global,bto:0000042
+Heart - Atrial Appendage,30-39,MLF1,4.974,global,bto:0000042
+Heart - Atrial Appendage,30-39,PCMT1,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,PRUNE1,4.958,global,bto:0000042
+Heart - Atrial Appendage,30-39,QARS1,5.0,global,bto:0000042
+Heart - Atrial Appendage,30-39,DESI1,4.476,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PERP,4.997,global,bto:0000042
+Heart - Atrial Appendage,30-39,PEBP1,4.999,global,bto:0000042
+Heart - Atrial Appendage,30-39,AGPAT3,4.987,global,bto:0000042
+Heart - Atrial Appendage,30-39,ERAL1,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,FAM168B,4.989,global,bto:0000042
+Heart - Atrial Appendage,30-39,C19ORF12,4.95,global,bto:0000042
+Heart - Atrial Appendage,30-39,ST20-AS1,1.083,global,hpac cell
+Heart - Atrial Appendage,30-39,PINK1,4.973,global,bto:0000042
+Heart - Atrial Appendage,30-39,TLE5,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,TUSC2,4.97,global,bto:0000042
+Heart - Atrial Appendage,30-39,NDRG2,5.0,global,bto:0000042
+Heart - Atrial Appendage,30-39,HRC,4.873,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,IFTAP,,,
+Heart - Atrial Appendage,30-39,MRPL50,4.951,global,bto:0000042
+Heart - Atrial Appendage,30-39,CUL4A,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,ATP5F1B,5.0,global,atrium
+Heart - Atrial Appendage,30-39,SYNGR1,4.974,global,bto:0000042
+Heart - Atrial Appendage,30-39,RPUSD3,4.96,global,bto:0000042
+Heart - Atrial Appendage,30-39,IRGQ,4.938,global,bto:0000042
+Heart - Atrial Appendage,30-39,SLC44A2,4.997,global,bto:0000042
+Heart - Atrial Appendage,30-39,TSPAN7,4.998,global,bto:0000042
+Heart - Atrial Appendage,30-39,MRPL44,4.96,global,bto:0000042
+Heart - Atrial Appendage,30-39,TM2D1,4.956,global,bto:0000042
+Heart - Atrial Appendage,30-39,ECH1,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,AR,4.942,global,bto:0000042
+Heart - Atrial Appendage,30-39,MKRN1,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,SLC25A12,4.987,global,bto:0000042
+Heart - Atrial Appendage,30-39,WIPI2,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,CTBP1-DT,,,
+Heart - Atrial Appendage,30-39,GTF3A,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,LPAR3,4.895,global,bto:0000042
+Heart - Atrial Appendage,30-39,CRLS1,4.819,global,bto:0000042
+Heart - Atrial Appendage,30-39,FLJ37453,1.264,global,oropharynx
+Heart - Atrial Appendage,30-39,RNF20,4.969,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PAIP2,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,CHMP3,4.993,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,BPNT1,4.938,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PFKM,4.998,global,bto:0000042
+Heart - Atrial Appendage,30-39,WBP4,4.934,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,HIF1AN,4.976,global,bto:0000042
+Heart - Atrial Appendage,30-39,THRA,4.985,global,bto:0000042
+Heart - Atrial Appendage,30-39,RBFOX1,4.772,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,RABGAP1,4.947,global,bto:0000042
+Heart - Atrial Appendage,30-39,UBE2D4,4.946,global,bto:0000042
+Heart - Atrial Appendage,30-39,SEM1,4.553,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,OPA3,4.906,global,bto:0000042
+Heart - Atrial Appendage,30-39,ADGRA3,4.971,global,bto:0000042
+Heart - Atrial Appendage,30-39,MRPL16,4.969,global,bto:0000042
+Heart - Atrial Appendage,30-39,NDUFS2,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,ZNF747,4.84,global,bto:0000042
+Heart - Atrial Appendage,30-39,RILPL1,4.877,global,bto:0000042
+Heart - Atrial Appendage,30-39,GPATCH3,4.974,global,bto:0000042
+Heart - Atrial Appendage,30-39,TSR2,4.949,global,bto:0000042
+Heart - Atrial Appendage,30-39,NPTXR,4.821,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,CALM3,5.0,global,bto:0000042
+Heart - Atrial Appendage,30-39,GPANK1,4.943,global,bto:0000042
+Heart - Atrial Appendage,30-39,EXTL3,4.982,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MRPL10,4.98,global,bto:0000042
+Heart - Atrial Appendage,30-39,RAB5B,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,C6ORF89,4.988,global,bto:0000042
+Heart - Atrial Appendage,30-39,LARS2,4.988,global,bto:0000042
+Heart - Atrial Appendage,30-39,FAF1,4.986,global,bto:0000042
+Heart - Atrial Appendage,30-39,CRPPA,3.396,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,LRRC47,4.857,global,bto:0000042
+Heart - Atrial Appendage,30-39,SUB1,4.997,global,bto:0000042
+Heart - Atrial Appendage,30-39,AKIP1,4.838,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,CYFIP2,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,MRPL45,4.971,global,bto:0000042
+Heart - Atrial Appendage,30-39,RANBP3,4.991,global,bto:0000042
+Heart - Atrial Appendage,30-39,ATXN7L3B,4.24,global,bto:0000042
+Heart - Atrial Appendage,30-39,B4GAT1,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,LSM14B,4.89,global,bto:0000042
+Heart - Atrial Appendage,30-39,FH,4.992,global,bto:0000042
+Heart - Atrial Appendage,30-39,PGAP4,4.869,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MRFAP1L1,4.984,global,bto:0000042
+Heart - Atrial Appendage,30-39,AP5S1,4.798,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,LDHB,,,
+Heart - Atrial Appendage,30-39,ACO2,5.0,global,atrium
+Heart - Atrial Appendage,30-39,MYH14,4.991,global,bto:0000042
+Heart - Atrial Appendage,30-39,UQCC1,4.994,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MRPL39,4.931,global,bto:0000042
+Heart - Atrial Appendage,30-39,TTI2,4.863,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PDPK1,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,TIMM17A,4.991,global,bto:0000042
+Heart - Atrial Appendage,30-39,PPP1R26,4.88,global,bto:0000042
+Heart - Atrial Appendage,30-39,MOAP1,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,C19ORF47,4.785,global,bto:0000042
+Heart - Atrial Appendage,30-39,TSPAN18,4.8,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TEAD1,4.863,global,bto:0000042
+Heart - Atrial Appendage,30-39,TMEM177,4.88,global,bto:0000042
+Heart - Atrial Appendage,30-39,ZBTB18,4.952,global,bto:0000042
+Heart - Atrial Appendage,30-39,FECH,4.982,global,bto:0000042
+Heart - Atrial Appendage,30-39,ATP6V1E1,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,FIZ1,4.855,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TMEM129,4.802,global,bto:0000042
+Heart - Atrial Appendage,30-39,INPP5A,4.936,global,bto:0000042
+Heart - Atrial Appendage,30-39,HJV,4.946,global,bto:0000042
+Heart - Atrial Appendage,30-39,DIDO1,4.984,global,bto:0000042
+Heart - Atrial Appendage,30-39,KLHDC2,4.989,global,bto:0000042
+Heart - Atrial Appendage,30-39,NFS1,4.989,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PDHA1,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,CLASP1,4.965,global,bto:0000042
+Heart - Atrial Appendage,30-39,DMAC2,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,GSTK1,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,FAM136A,4.955,global,bto:0000042
+Heart - Atrial Appendage,30-39,SNAPC5,4.939,global,bto:0000042
+Heart - Atrial Appendage,30-39,GTF3C6,4.919,global,bto:0000042
+Heart - Atrial Appendage,30-39,ATP2A2,4.999,global,bto:0000042
+Heart - Atrial Appendage,30-39,CALCOCO2,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,CHCHD7,4.948,global,bto:0000042
+Heart - Atrial Appendage,30-39,SUCLG1,4.992,global,bto:0000042
+Heart - Atrial Appendage,30-39,GNPAT,4.994,global,bto:0000042
+Heart - Atrial Appendage,30-39,HAND2,4.817,global,bto:0000042
+Heart - Atrial Appendage,30-39,DCAF6,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,VPS52,4.992,global,bto:0000042
+Heart - Atrial Appendage,30-39,MAPKAP1,4.991,global,bto:0000042
+Heart - Atrial Appendage,30-39,ZDHHC4,4.969,global,bto:0000042
+Heart - Atrial Appendage,30-39,VPS45,4.988,global,bto:0000042
+Heart - Atrial Appendage,30-39,CSGALNACT1,4.97,global,bto:0000042
+Heart - Atrial Appendage,30-39,RAF1,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,RPA1,4.983,global,bto:0000042
+Heart - Atrial Appendage,30-39,TFDP2,4.98,global,bto:0000042
+Heart - Atrial Appendage,30-39,IRF2BPL,4.779,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,VDAC3,4.992,global,bto:0000042
+Heart - Atrial Appendage,30-39,PIGBOS1,4.0,global,eye cancer cell
+Heart - Atrial Appendage,30-39,ARHGAP35,4.985,global,bto:0000042
+Heart - Atrial Appendage,30-39,GSE1,4.983,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PDE4DIP,4.998,global,bto:0000042
+Heart - Atrial Appendage,30-39,ASB1,4.959,global,bto:0000042
+Heart - Atrial Appendage,30-39,THAP11,4.962,global,bto:0000042
+Heart - Atrial Appendage,30-39,HAGH,4.986,global,bto:0000042
+Heart - Atrial Appendage,30-39,MRPS9,4.963,global,bto:0000042
+Heart - Atrial Appendage,30-39,RDH14,4.898,global,bto:0000042
+Heart - Atrial Appendage,30-39,PNMA8A,4.583,global,bto:0000042
+Heart - Atrial Appendage,30-39,KCNQ1,4.909,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PROB1,4.404,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PPP1R12B,4.985,global,bto:0000042
+Heart - Atrial Appendage,30-39,SCAPER,4.94,global,bto:0000042
+Heart - Atrial Appendage,30-39,TMOD1,4.945,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,RCBTB1,4.972,global,bto:0000042
+Heart - Atrial Appendage,30-39,WFS1,4.984,global,bto:0000042
+Heart - Atrial Appendage,30-39,STAU2,4.985,global,bto:0000042
+Heart - Atrial Appendage,30-39,GNRHR2,,,
+Heart - Atrial Appendage,30-39,ARPC1A,4.997,global,bto:0000042
+Heart - Atrial Appendage,30-39,FKBP3,4.982,global,bto:0000042
+Heart - Atrial Appendage,30-39,MTUS2,4.782,global,bto:0000042
+Heart - Atrial Appendage,30-39,COPS4,4.982,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,SCHIP1,4.399,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,NFIC,4.988,global,bto:0000042
+Heart - Atrial Appendage,30-39,DIS3L,4.896,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,RNF41,4.977,global,bto:0000042
+Heart - Atrial Appendage,30-39,STRADB,4.965,global,bto:0000042
+Heart - Atrial Appendage,30-39,FBH1,4.986,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,GLRB,4.933,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,DMTN,4.985,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,ABR,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,PDAP1,4.978,global,bto:0000042
+Heart - Atrial Appendage,30-39,ZNF764,4.718,global,bto:0000042
+Heart - Atrial Appendage,30-39,MCM2,4.995,global,bto:0000042
+Heart - Atrial Appendage,30-39,MPP1,4.984,global,bto:0000042
+Heart - Atrial Appendage,30-39,PPP1R13B,4.962,global,bto:0000042
+Heart - Atrial Appendage,30-39,PFN2,4.997,global,bto:0000042
+Heart - Atrial Appendage,30-39,UQCRFS1,4.988,global,bto:0000042
+Heart - Atrial Appendage,30-39,PAK6,4.98,global,bto:0000042
+Heart - Atrial Appendage,30-39,ENSG00000279118,,,
+Heart - Atrial Appendage,30-39,SLC9A7,2.585,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,SLCO3A1,4.96,global,bto:0000042
+Heart - Atrial Appendage,30-39,MRPS14,4.813,global,bto:0000042
+Heart - Atrial Appendage,30-39,C6ORF47,3.969,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TMEM185A,4.931,global,bto:0000042
+Heart - Atrial Appendage,30-39,C22ORF39,4.933,global,bto:0000042
+Heart - Atrial Appendage,30-39,SLC35A4,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,ANK3,4.989,global,bto:0000042
+Heart - Atrial Appendage,30-39,ATP6V0D1,4.994,global,bto:0000042
+Heart - Atrial Appendage,30-39,ASCC1,4.974,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,IARS2,4.982,global,bto:0000042
+Heart - Atrial Appendage,30-39,GSTM4,4.909,global,bto:0000042
+Heart - Atrial Appendage,30-39,MAPKAPK3,4.977,global,bto:0000042
+Heart - Atrial Appendage,30-39,RHNO1,4.968,global,bto:0000042
+Heart - Atrial Appendage,30-39,FOXO4,4.913,global,bto:0000042
+Heart - Atrial Appendage,30-39,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,SDHC,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,TRUB2,4.962,global,bto:0000042
+Heart - Atrial Appendage,30-39,PPP2R5C,4.992,global,bto:0000042
+Heart - Atrial Appendage,30-39,MRPS17,4.842,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TACO1,4.94,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,COX17,4.966,global,bto:0000042
+Heart - Atrial Appendage,30-39,PPA2,4.98,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,DNAJC30,4.918,global,bto:0000042
+Heart - Atrial Appendage,30-39,PNPO,4.972,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,WDTC1,4.982,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,HK1,4.992,global,bto:0000042
+Heart - Atrial Appendage,30-39,NUBPL,4.906,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,RBM23,4.991,global,bto:0000042
+Heart - Atrial Appendage,30-39,TRAPPC6B,4.961,global,bto:0000042
+Heart - Atrial Appendage,30-39,RTRAF,4.988,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,BEX4,4.965,global,bto:0000042
+Heart - Atrial Appendage,30-39,SIPA1L2,4.951,global,bto:0000042
+Heart - Atrial Appendage,30-39,DPF2,4.988,global,bto:0000042
+Heart - Atrial Appendage,30-39,SSBP1,4.99,global,bto:0000042
+Heart - Atrial Appendage,30-39,HDDC2,4.959,global,bto:0000042
+Heart - Atrial Appendage,30-39,ADGRL1,4.974,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,GET3,4.987,global,bto:0000042
+Heart - Atrial Appendage,30-39,MYH6,5.0,global,alimentary canal
+Heart - Atrial Appendage,30-39,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,AUH,4.887,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,NDUFAF1,4.908,global,bto:0000042
+Heart - Atrial Appendage,30-39,ACTR1A,4.998,global,bto:0000042
+Heart - Atrial Appendage,30-39,TCEA3,4.94,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,HNRNPUL1,4.998,global,bto:0000042
+Heart - Atrial Appendage,30-39,DUSP14,4.933,global,bto:0000042
+Heart - Atrial Appendage,30-39,PLN,4.987,global,bto:0000042
+Heart - Atrial Appendage,30-39,KRCC1,4.48,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PRDX1,5.0,global,bto:0000042
+Heart - Atrial Appendage,30-39,TMEM69,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,FNTB,4.447,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,ADCY9,4.885,global,bto:0000042
+Heart - Atrial Appendage,30-39,MLH1,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,PDHB,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,MED7,4.936,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TIMMDC1,4.987,global,bto:0000042
+Heart - Atrial Appendage,30-39,MRPS27,4.994,global,bto:0000042
+Heart - Atrial Appendage,30-39,MAT2B,4.985,global,bto:0000042
+Heart - Atrial Appendage,30-39,PAF1,4.992,global,bto:0000042
+Heart - Atrial Appendage,30-39,KCNK1,4.949,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,ENSG00000250132,,,
+Heart - Atrial Appendage,30-39,FHOD3,4.903,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,OARD1,4.963,global,bto:0000042
+Heart - Atrial Appendage,30-39,TRIM24,4.967,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,PSMA6,4.996,global,bto:0000042
+Heart - Atrial Appendage,30-39,WDR20,4.969,global,bto:0000042
+Heart - Atrial Appendage,30-39,CMTR1,4.993,global,bto:0000042
+Heart - Atrial Appendage,30-39,DGCR2,4.998,global,bto:0000042
+Heart - Atrial Appendage,30-39,CELSR2,4.97,global,bto:0000042
+Heart - Atrial Appendage,30-39,UBE4B,4.989,global,bto:0000042
+Heart - Atrial Appendage,30-39,RBBP7,4.997,global,bto:0000042
+Heart - Atrial Appendage,30-39,ANAPC13,4.987,global,bto:0000042
+Heart - Atrial Appendage,30-39,CHST10,4.912,global,bto:0000042
+Heart - Atrial Appendage,30-39,PIGP,4.927,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TRMT2B,4.934,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,MT-CO1,4.95,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,NDUFV2,4.977,global,bto:0000042
+Heart - Atrial Appendage,30-39,COA5,4.967,global,bto:0000042
+Heart - Atrial Appendage,30-39,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,30-39,TAF15,4.988,global,bto:0000042
+Heart - Atrial Appendage,30-39,MTRES1,4.622,global,bto:0000042
+Heart - Atrial Appendage,40-49,MT-CO2,4.909,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,40-49,MT-CO1,4.95,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,40-49,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,40-49,DPF2,4.988,global,bto:0000042
+Heart - Atrial Appendage,50-59,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,50-59,ADIPOR1,4.998,global,bto:0000042
+Heart - Atrial Appendage,50-59,DPF2,4.988,global,bto:0000042
+Heart - Atrial Appendage,60-69,EEF1G,4.604,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,60-69,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,60-69,ADIPOR1,4.998,global,bto:0000042
+Heart - Atrial Appendage,60-69,DPF2,4.988,global,bto:0000042
+Heart - Atrial Appendage,70-79,MRPL37,4.99,global,bto:0000042
+Heart - Atrial Appendage,70-79,EEF1G,4.604,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,70-79,GLE1,4.981,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,70-79,ARSG,4.759,global,"tissues, cell types and enzyme sources"
+Heart - Atrial Appendage,70-79,ARFGAP2,4.996,global,bto:0000042
+Heart - Atrial Appendage,70-79,DUSP28,4.775,global,bto:0000042
+Heart - Atrial Appendage,70-79,EML2,4.97,global,bto:0000042
+Heart - Atrial Appendage,70-79,GRB2,4.997,global,bto:0000042
+Heart - Atrial Appendage,70-79,ZCCHC17,4.979,global,bto:0000042
+Heart - Atrial Appendage,70-79,ADIPOR1,4.998,global,bto:0000042

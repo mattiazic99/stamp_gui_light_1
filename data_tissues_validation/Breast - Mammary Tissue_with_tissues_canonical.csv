@@ -1,0 +1,544 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Breast - Mammary Tissue,30-39,ARAF,0.915,exact,mammary gland
+Breast - Mammary Tissue,30-39,UNC50,0.545,exact,breast
+Breast - Mammary Tissue,30-39,DCTN1,0.833,exact,mammary gland
+Breast - Mammary Tissue,30-39,SLC35E1,0.688,exact,mammary gland
+Breast - Mammary Tissue,30-39,PEX26,1.148,exact,breast
+Breast - Mammary Tissue,30-39,YY1,1.707,exact,mammary gland
+Breast - Mammary Tissue,30-39,ACTR1B,0.528,exact,breast
+Breast - Mammary Tissue,30-39,UBE3C,1.452,exact,breast
+Breast - Mammary Tissue,30-39,FBXO8,0.839,exact,mammary gland
+Breast - Mammary Tissue,30-39,SCAP,1.238,exact,mammary gland
+Breast - Mammary Tissue,30-39,CZIB,0.791,exact,breast
+Breast - Mammary Tissue,30-39,SUOX,0.833,exact,mammary gland
+Breast - Mammary Tissue,30-39,SMPD1,1.051,exact,mammary gland
+Breast - Mammary Tissue,30-39,TGOLN2,0.94,exact,mammary gland
+Breast - Mammary Tissue,30-39,SLC44A2,0.677,exact,mammary gland
+Breast - Mammary Tissue,30-39,PEX10,0.754,exact,breast
+Breast - Mammary Tissue,30-39,TPCN2,1.772,exact,breast
+Breast - Mammary Tissue,30-39,AGGF1,1.039,exact,breast
+Breast - Mammary Tissue,30-39,OS9,0.519,exact,mammary gland
+Breast - Mammary Tissue,30-39,PARP4,0.703,exact,mammary gland
+Breast - Mammary Tissue,30-39,BABAM1,0.708,exact,mammary gland
+Breast - Mammary Tissue,30-39,ATG9A,0.798,exact,mammary gland
+Breast - Mammary Tissue,30-39,TIMM29,0.182,exact,breast
+Breast - Mammary Tissue,30-39,CHMP4A,0.643,exact,mammary gland
+Breast - Mammary Tissue,30-39,MGAT5,1.183,exact,mammary gland
+Breast - Mammary Tissue,30-39,CUX1,1.398,exact,mammary gland
+Breast - Mammary Tissue,30-39,DYNC1H1,0.658,exact,mammary gland
+Breast - Mammary Tissue,30-39,MFN2,1.349,exact,mammary gland
+Breast - Mammary Tissue,30-39,SLC25A42,1.11,exact,breast
+Breast - Mammary Tissue,30-39,POLR3GL,0.809,exact,breast
+Breast - Mammary Tissue,30-39,CARS2,4.148,exact,mammary gland
+Breast - Mammary Tissue,30-39,C8ORF82,0.545,exact,breast
+Breast - Mammary Tissue,30-39,FAM120A,1.225,exact,breast
+Breast - Mammary Tissue,30-39,SLC35A4,0.877,exact,mammary gland
+Breast - Mammary Tissue,30-39,VPS11,0.61,exact,mammary gland
+Breast - Mammary Tissue,30-39,ADD1,0.699,exact,mammary gland
+Breast - Mammary Tissue,30-39,FAM219B,4.756,global,bto:0000042
+Breast - Mammary Tissue,30-39,RALBP1,0.714,exact,mammary gland
+Breast - Mammary Tissue,30-39,POFUT1,0.983,exact,mammary gland
+Breast - Mammary Tissue,30-39,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Breast - Mammary Tissue,30-39,WIPI2,0.886,exact,mammary gland
+Breast - Mammary Tissue,30-39,ASCC1,0.823,exact,breast
+Breast - Mammary Tissue,30-39,ENSG00000224046,,,
+Breast - Mammary Tissue,30-39,DNAJB12,0.862,exact,breast
+Breast - Mammary Tissue,30-39,ZNF746,4.918,global,bto:0000042
+Breast - Mammary Tissue,30-39,COPS6,1.674,exact,breast
+Breast - Mammary Tissue,30-39,WIZ,1.795,exact,breast
+Breast - Mammary Tissue,30-39,VPS35L,4.987,global,bto:0000042
+Breast - Mammary Tissue,30-39,LETMD1,1.216,exact,breast
+Breast - Mammary Tissue,30-39,PSKH1,1.25,exact,breast
+Breast - Mammary Tissue,30-39,NPRL3,0.753,exact,mammary gland
+Breast - Mammary Tissue,30-39,RNF20,4.212,exact,mammary gland
+Breast - Mammary Tissue,30-39,ISY1,0.412,exact,breast
+Breast - Mammary Tissue,30-39,PHAX,0.571,exact,breast
+Breast - Mammary Tissue,30-39,LARP1,0.908,exact,mammary gland
+Breast - Mammary Tissue,30-39,KAT14,0.784,exact,breast
+Breast - Mammary Tissue,30-39,SPRTN,0.963,exact,breast
+Breast - Mammary Tissue,30-39,MFSD11,0.545,exact,breast
+Breast - Mammary Tissue,30-39,RTCA,1.21,exact,breast
+Breast - Mammary Tissue,30-39,CLPTM1,0.861,exact,breast
+Breast - Mammary Tissue,30-39,BAG6,1.219,exact,mammary gland
+Breast - Mammary Tissue,30-39,CHMP3,1.132,exact,breast
+Breast - Mammary Tissue,30-39,PRKAR2A,0.562,exact,mammary gland
+Breast - Mammary Tissue,30-39,TMEM218,0.545,exact,breast
+Breast - Mammary Tissue,30-39,DNAJC30,4.918,global,bto:0000042
+Breast - Mammary Tissue,30-39,SLC25A43,0.816,exact,mammary gland
+Breast - Mammary Tissue,30-39,SLC25A3,0.875,exact,mammary gland
+Breast - Mammary Tissue,30-39,DARS2,1.009,exact,breast
+Breast - Mammary Tissue,30-39,PSMD4,0.838,exact,mammary gland
+Breast - Mammary Tissue,30-39,FRG1CP,,,
+Breast - Mammary Tissue,30-39,CTNNBL1,4.121,exact,mammary gland
+Breast - Mammary Tissue,30-39,EXOC4,0.959,exact,mammary gland
+Breast - Mammary Tissue,30-39,SCAMP3,1.103,exact,breast
+Breast - Mammary Tissue,30-39,MAPK14,1.7,exact,mammary gland
+Breast - Mammary Tissue,30-39,EID2,1.25,exact,mammary gland
+Breast - Mammary Tissue,30-39,VCP,1.261,exact,mammary gland
+Breast - Mammary Tissue,30-39,GPN2,4.96,global,bto:0000042
+Breast - Mammary Tissue,30-39,PDSS2,1.494,exact,breast
+Breast - Mammary Tissue,30-39,NUDCD3,0.599,exact,breast
+Breast - Mammary Tissue,30-39,NDN,1.23,exact,mammary gland
+Breast - Mammary Tissue,30-39,LDAH,1.099,exact,breast
+Breast - Mammary Tissue,30-39,MAPKAP1,1.208,exact,mammary gland
+Breast - Mammary Tissue,30-39,GNPTG,1.091,exact,breast
+Breast - Mammary Tissue,30-39,HOMEZ,1.281,exact,breast
+Breast - Mammary Tissue,30-39,ZDHHC4,0.748,exact,mammary gland
+Breast - Mammary Tissue,30-39,TOR1B,0.146,exact,breast
+Breast - Mammary Tissue,30-39,TPRG1L,4.961,global,bto:0000042
+Breast - Mammary Tissue,30-39,MRPL2,1.091,exact,breast
+Breast - Mammary Tissue,30-39,ORAI3,0.914,exact,mammary gland
+Breast - Mammary Tissue,30-39,VAPB,0.823,exact,mammary gland
+Breast - Mammary Tissue,30-39,SNX11,0.806,exact,breast
+Breast - Mammary Tissue,30-39,VIPAS39,0.559,exact,breast
+Breast - Mammary Tissue,30-39,SENP3,1.277,exact,mammary gland
+Breast - Mammary Tissue,30-39,NMNAT1,0.753,exact,mammary gland
+Breast - Mammary Tissue,30-39,MESD,0.91,exact,mammary gland
+Breast - Mammary Tissue,30-39,WDR5,1.306,exact,mammary gland
+Breast - Mammary Tissue,30-39,RPAP1,1.588,exact,breast
+Breast - Mammary Tissue,30-39,CYB5D2,0.569,exact,mammary gland
+Breast - Mammary Tissue,30-39,CD81,1.731,exact,mammary gland
+Breast - Mammary Tissue,30-39,GPAA1,0.865,exact,mammary gland
+Breast - Mammary Tissue,30-39,RPA1,0.549,exact,mammary gland
+Breast - Mammary Tissue,30-39,CPT2,1.324,exact,mammary gland
+Breast - Mammary Tissue,30-39,LARP7,0.768,exact,mammary gland
+Breast - Mammary Tissue,30-39,MRPS16,0.965,exact,breast
+Breast - Mammary Tissue,30-39,WDR13,0.545,exact,breast
+Breast - Mammary Tissue,30-39,TUFM,0.604,exact,mammary gland
+Breast - Mammary Tissue,30-39,TOR1A,0.536,exact,mammary gland
+Breast - Mammary Tissue,30-39,RRAGA,0.695,exact,mammary gland
+Breast - Mammary Tissue,30-39,MRPL16,1.091,exact,breast
+Breast - Mammary Tissue,30-39,RPL7L1,4.988,global,bto:0000042
+Breast - Mammary Tissue,30-39,OCEL1,1.705,exact,breast
+Breast - Mammary Tissue,30-39,TOLLIP,0.997,exact,mammary gland
+Breast - Mammary Tissue,30-39,ZNF747,0.182,exact,breast
+Breast - Mammary Tissue,30-39,NBR1,1.176,exact,mammary gland
+Breast - Mammary Tissue,30-39,KEAP1,1.699,exact,mammary gland
+Breast - Mammary Tissue,30-39,SMIM7,0.708,exact,breast
+Breast - Mammary Tissue,30-39,TMEM245,1.12,exact,breast
+Breast - Mammary Tissue,30-39,FAM20B,1.277,exact,mammary gland
+Breast - Mammary Tissue,30-39,ZBTB7A,0.672,exact,mammary gland
+Breast - Mammary Tissue,30-39,EIF2B1,1.268,exact,breast
+Breast - Mammary Tissue,30-39,GLI4,0.74,exact,breast
+Breast - Mammary Tissue,30-39,WDR82,1.092,exact,breast
+Breast - Mammary Tissue,30-39,PPP6C,0.689,exact,mammary gland
+Breast - Mammary Tissue,30-39,IK,1.091,exact,breast
+Breast - Mammary Tissue,30-39,HNRNPUL1,1.427,exact,breast
+Breast - Mammary Tissue,30-39,NUDT14,0.545,exact,breast
+Breast - Mammary Tissue,30-39,CTDNEP1,1.072,exact,breast
+Breast - Mammary Tissue,30-39,RPUSD4,4.0,exact,mammary gland
+Breast - Mammary Tissue,30-39,ALG1,1.161,exact,mammary gland
+Breast - Mammary Tissue,30-39,NOTCH2,1.887,exact,mammary gland
+Breast - Mammary Tissue,30-39,UCK1,4.0,exact,mammary gland
+Breast - Mammary Tissue,30-39,UBL4A,1.164,exact,breast
+Breast - Mammary Tissue,30-39,BCL2L2,1.463,exact,mammary gland
+Breast - Mammary Tissue,30-39,PIGS,4.983,global,bto:0000042
+Breast - Mammary Tissue,30-39,ANO10,1.157,exact,breast
+Breast - Mammary Tissue,30-39,GSK3A,1.331,exact,mammary gland
+Breast - Mammary Tissue,30-39,SLC38A10,0.615,exact,breast
+Breast - Mammary Tissue,30-39,TMEM127,1.479,exact,breast
+Breast - Mammary Tissue,30-39,NELFB,1.145,exact,mammary gland
+Breast - Mammary Tissue,30-39,MRPL10,1.12,exact,breast
+Breast - Mammary Tissue,30-39,ABRAXAS2,1.69,exact,breast
+Breast - Mammary Tissue,30-39,CDC123,1.066,exact,breast
+Breast - Mammary Tissue,30-39,DNAJA2,1.499,exact,breast
+Breast - Mammary Tissue,30-39,ZC3HC1,4.0,exact,mammary gland
+Breast - Mammary Tissue,30-39,FBXO9,0.674,exact,mammary gland
+Breast - Mammary Tissue,30-39,VPS33A,0.938,exact,breast
+Breast - Mammary Tissue,30-39,GPS1,1.008,exact,breast
+Breast - Mammary Tissue,30-39,PHKB,0.54,exact,mammary gland
+Breast - Mammary Tissue,30-39,AAMP,1.851,exact,breast
+Breast - Mammary Tissue,30-39,DHX35,0.67,exact,breast
+Breast - Mammary Tissue,30-39,MMP24OS,1.447,global,pos cell
+Breast - Mammary Tissue,30-39,MRM2,0.698,exact,breast
+Breast - Mammary Tissue,30-39,CTDSP1,0.803,exact,mammary gland
+Breast - Mammary Tissue,30-39,LRRC47,1.145,exact,breast
+Breast - Mammary Tissue,30-39,TBRG4,1.037,exact,mammary gland
+Breast - Mammary Tissue,30-39,TIMMDC1,0.544,exact,breast
+Breast - Mammary Tissue,30-39,CDC42BPB,0.686,exact,mammary gland
+Breast - Mammary Tissue,30-39,URM1,1.413,exact,breast
+Breast - Mammary Tissue,30-39,WASF2,0.899,exact,mammary gland
+Breast - Mammary Tissue,30-39,SNX17,1.242,exact,breast
+Breast - Mammary Tissue,30-39,GHDC,4.187,exact,mammary gland
+Breast - Mammary Tissue,30-39,SLC4A1AP,1.413,exact,breast
+Breast - Mammary Tissue,30-39,DCTN2,0.705,exact,mammary gland
+Breast - Mammary Tissue,30-39,ATG13,1.281,exact,mammary gland
+Breast - Mammary Tissue,30-39,DNASE2,0.662,exact,mammary gland
+Breast - Mammary Tissue,30-39,UBXN6,0.194,exact,breast
+Breast - Mammary Tissue,30-39,CIZ1,1.52,exact,breast
+Breast - Mammary Tissue,30-39,SCRN3,1.594,exact,breast
+Breast - Mammary Tissue,30-39,NUDT5,0.677,exact,mammary gland
+Breast - Mammary Tissue,30-39,ELAC2,1.922,exact,breast
+Breast - Mammary Tissue,30-39,COPS7A,4.139,exact,mammary gland
+Breast - Mammary Tissue,30-39,PSMF1,1.845,exact,breast
+Breast - Mammary Tissue,30-39,FAM3A,1.048,exact,breast
+Breast - Mammary Tissue,30-39,MAP2K5,0.843,exact,mammary gland
+Breast - Mammary Tissue,30-39,HUWE1,0.96,exact,mammary gland
+Breast - Mammary Tissue,30-39,JMJD8,0.85,exact,breast
+Breast - Mammary Tissue,30-39,SCAMP2,1.679,exact,breast
+Breast - Mammary Tissue,30-39,BCKDHA,1.287,exact,mammary gland
+Breast - Mammary Tissue,30-39,TATDN3,0.545,exact,breast
+Breast - Mammary Tissue,30-39,WDCP,1.347,exact,breast
+Breast - Mammary Tissue,30-39,RAB1B,1.638,exact,breast
+Breast - Mammary Tissue,30-39,METTL13,,,
+Breast - Mammary Tissue,30-39,FAM53B,1.1,exact,mammary gland
+Breast - Mammary Tissue,30-39,AFG3L2,1.158,exact,breast
+Breast - Mammary Tissue,30-39,SMARCD1,0.819,exact,mammary gland
+Breast - Mammary Tissue,30-39,UBN1,0.607,exact,mammary gland
+Breast - Mammary Tissue,30-39,TNPO3,0.724,exact,mammary gland
+Breast - Mammary Tissue,30-39,PTPRF,1.138,exact,mammary gland
+Breast - Mammary Tissue,30-39,IDH3G,0.7,exact,mammary gland
+Breast - Mammary Tissue,30-39,KIAA0100,0.543,exact,mammary gland
+Breast - Mammary Tissue,30-39,VPS26C,1.091,exact,breast
+Breast - Mammary Tissue,30-39,ARPC1A,0.927,exact,breast
+Breast - Mammary Tissue,30-39,MFSD14B,0.545,exact,breast
+Breast - Mammary Tissue,30-39,MRPS18B,0.918,exact,breast
+Breast - Mammary Tissue,30-39,ERLIN1,0.53,exact,mammary gland
+Breast - Mammary Tissue,30-39,UBE3B,1.539,exact,breast
+Breast - Mammary Tissue,30-39,SNAPIN,1.0,exact,breast
+Breast - Mammary Tissue,30-39,MUL1,0.8,exact,mammary gland
+Breast - Mammary Tissue,30-39,UBE4B,0.694,exact,mammary gland
+Breast - Mammary Tissue,30-39,WDR77,0.602,exact,mammary gland
+Breast - Mammary Tissue,30-39,FXR2,0.798,exact,mammary gland
+Breast - Mammary Tissue,30-39,PEBP1,1.084,exact,mammary gland
+Breast - Mammary Tissue,30-39,SCMH1,1.18,exact,breast
+Breast - Mammary Tissue,30-39,PSMB2,1.588,exact,breast
+Breast - Mammary Tissue,30-39,HECTD3,1.151,exact,breast
+Breast - Mammary Tissue,30-39,RWDD2B,0.182,exact,breast
+Breast - Mammary Tissue,30-39,GCC1,1.882,exact,breast
+Breast - Mammary Tissue,30-39,CSTF1,0.752,exact,mammary gland
+Breast - Mammary Tissue,30-39,POLG,0.89,exact,mammary gland
+Breast - Mammary Tissue,30-39,CTDSP2,0.815,exact,mammary gland
+Breast - Mammary Tissue,30-39,ZMAT2,0.684,exact,mammary gland
+Breast - Mammary Tissue,30-39,BECN1,4.39,exact,mammary gland
+Breast - Mammary Tissue,30-39,RAD17,1.191,exact,mammary gland
+Breast - Mammary Tissue,30-39,PTPRA,0.587,exact,mammary gland
+Breast - Mammary Tissue,30-39,STAG3L4,,,
+Breast - Mammary Tissue,30-39,GTPBP6,0.638,exact,breast
+Breast - Mammary Tissue,30-39,RRM1,1.239,exact,mammary gland
+Breast - Mammary Tissue,30-39,ITFG1,0.767,exact,mammary gland
+Breast - Mammary Tissue,30-39,DDA1,0.545,exact,breast
+Breast - Mammary Tissue,30-39,TAB1,1.155,exact,mammary gland
+Breast - Mammary Tissue,30-39,GOLGA7,4.0,exact,mammary gland
+Breast - Mammary Tissue,30-39,AKT1S1,1.379,exact,mammary gland
+Breast - Mammary Tissue,30-39,PACS2,0.546,exact,mammary gland
+Breast - Mammary Tissue,30-39,CCNDBP1,0.669,exact,mammary gland
+Breast - Mammary Tissue,30-39,TEX261,0.182,exact,breast
+Breast - Mammary Tissue,30-39,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Breast - Mammary Tissue,30-39,SIAE,0.599,exact,mammary gland
+Breast - Mammary Tissue,30-39,EI24,0.626,exact,mammary gland
+Breast - Mammary Tissue,30-39,USE1,4.0,exact,mammary gland
+Breast - Mammary Tissue,30-39,HNRNPUL2,1.113,exact,breast
+Breast - Mammary Tissue,30-39,MTX1,0.64,exact,mammary gland
+Breast - Mammary Tissue,30-39,RMC1,4.97,global,bto:0000042
+Breast - Mammary Tissue,30-39,KLHL12,0.835,exact,breast
+Breast - Mammary Tissue,30-39,DERL2,0.617,exact,mammary gland
+Breast - Mammary Tissue,30-39,UBE2Q1,0.997,exact,breast
+Breast - Mammary Tissue,30-39,NLRX1,0.73,exact,mammary gland
+Breast - Mammary Tissue,30-39,RTF2,0.182,exact,breast
+Breast - Mammary Tissue,30-39,SNAP29,0.599,exact,mammary gland
+Breast - Mammary Tissue,30-39,BRD3OS,1.192,global,keratocyte
+Breast - Mammary Tissue,30-39,ENSG00000289106,,,
+Breast - Mammary Tissue,30-39,MTRES1,1.091,exact,breast
+Breast - Mammary Tissue,30-39,NDUFA9,1.01,exact,mammary gland
+Breast - Mammary Tissue,40-49,ARAF,0.915,exact,mammary gland
+Breast - Mammary Tissue,40-49,UNC50,0.545,exact,breast
+Breast - Mammary Tissue,40-49,SLC35E1,0.688,exact,mammary gland
+Breast - Mammary Tissue,40-49,PEX26,1.148,exact,breast
+Breast - Mammary Tissue,40-49,YY1,1.707,exact,mammary gland
+Breast - Mammary Tissue,40-49,ACTR1B,0.528,exact,breast
+Breast - Mammary Tissue,40-49,UBE3C,1.452,exact,breast
+Breast - Mammary Tissue,40-49,FBXO8,0.839,exact,mammary gland
+Breast - Mammary Tissue,40-49,SCAP,1.238,exact,mammary gland
+Breast - Mammary Tissue,40-49,SLC44A2,0.677,exact,mammary gland
+Breast - Mammary Tissue,40-49,PEX10,0.754,exact,breast
+Breast - Mammary Tissue,40-49,AGGF1,1.039,exact,breast
+Breast - Mammary Tissue,40-49,OS9,0.519,exact,mammary gland
+Breast - Mammary Tissue,40-49,BABAM1,0.708,exact,mammary gland
+Breast - Mammary Tissue,40-49,ATG9A,0.798,exact,mammary gland
+Breast - Mammary Tissue,40-49,TIMM29,0.182,exact,breast
+Breast - Mammary Tissue,40-49,CHMP4A,0.643,exact,mammary gland
+Breast - Mammary Tissue,40-49,MGAT5,1.183,exact,mammary gland
+Breast - Mammary Tissue,40-49,MFN2,1.349,exact,mammary gland
+Breast - Mammary Tissue,40-49,CARS2,4.148,exact,mammary gland
+Breast - Mammary Tissue,40-49,C8ORF82,0.545,exact,breast
+Breast - Mammary Tissue,40-49,FAM120A,1.225,exact,breast
+Breast - Mammary Tissue,40-49,SLC35A4,0.877,exact,mammary gland
+Breast - Mammary Tissue,40-49,VPS11,0.61,exact,mammary gland
+Breast - Mammary Tissue,40-49,RALBP1,0.714,exact,mammary gland
+Breast - Mammary Tissue,40-49,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Breast - Mammary Tissue,40-49,ASCC1,0.823,exact,breast
+Breast - Mammary Tissue,40-49,DNAJB12,0.862,exact,breast
+Breast - Mammary Tissue,40-49,ZNF746,4.918,global,bto:0000042
+Breast - Mammary Tissue,40-49,WIZ,1.795,exact,breast
+Breast - Mammary Tissue,40-49,COPS6,1.674,exact,breast
+Breast - Mammary Tissue,40-49,VPS35L,4.987,global,bto:0000042
+Breast - Mammary Tissue,40-49,LETMD1,1.216,exact,breast
+Breast - Mammary Tissue,40-49,GSK3A,1.331,exact,mammary gland
+Breast - Mammary Tissue,40-49,NPRL3,0.753,exact,mammary gland
+Breast - Mammary Tissue,40-49,RNF20,4.212,exact,mammary gland
+Breast - Mammary Tissue,40-49,ISY1,0.412,exact,breast
+Breast - Mammary Tissue,40-49,PHAX,0.571,exact,breast
+Breast - Mammary Tissue,40-49,LARP1,0.908,exact,mammary gland
+Breast - Mammary Tissue,40-49,KAT14,0.784,exact,breast
+Breast - Mammary Tissue,40-49,SPRTN,0.963,exact,breast
+Breast - Mammary Tissue,40-49,MFSD11,0.545,exact,breast
+Breast - Mammary Tissue,40-49,RTCA,1.21,exact,breast
+Breast - Mammary Tissue,40-49,CLPTM1,0.861,exact,breast
+Breast - Mammary Tissue,40-49,BAG6,1.219,exact,mammary gland
+Breast - Mammary Tissue,40-49,PRKAR2A,0.562,exact,mammary gland
+Breast - Mammary Tissue,40-49,TMEM218,0.545,exact,breast
+Breast - Mammary Tissue,40-49,DNAJC30,4.918,global,bto:0000042
+Breast - Mammary Tissue,40-49,SLC25A43,0.816,exact,mammary gland
+Breast - Mammary Tissue,40-49,SLC25A3,0.875,exact,mammary gland
+Breast - Mammary Tissue,40-49,DARS2,1.009,exact,breast
+Breast - Mammary Tissue,40-49,CTNNBL1,4.121,exact,mammary gland
+Breast - Mammary Tissue,40-49,EXOC4,0.959,exact,mammary gland
+Breast - Mammary Tissue,40-49,SCAMP3,1.103,exact,breast
+Breast - Mammary Tissue,40-49,MAPK14,1.7,exact,mammary gland
+Breast - Mammary Tissue,40-49,EID2,1.25,exact,mammary gland
+Breast - Mammary Tissue,40-49,VCP,1.261,exact,mammary gland
+Breast - Mammary Tissue,40-49,GPN2,4.96,global,bto:0000042
+Breast - Mammary Tissue,40-49,PDSS2,1.494,exact,breast
+Breast - Mammary Tissue,40-49,NUDCD3,0.599,exact,breast
+Breast - Mammary Tissue,40-49,LDAH,1.099,exact,breast
+Breast - Mammary Tissue,40-49,GNPTG,1.091,exact,breast
+Breast - Mammary Tissue,40-49,HOMEZ,1.281,exact,breast
+Breast - Mammary Tissue,40-49,TOR1B,0.146,exact,breast
+Breast - Mammary Tissue,40-49,MRPL2,1.091,exact,breast
+Breast - Mammary Tissue,40-49,SNX11,0.806,exact,breast
+Breast - Mammary Tissue,40-49,VIPAS39,0.559,exact,breast
+Breast - Mammary Tissue,40-49,SENP3,1.277,exact,mammary gland
+Breast - Mammary Tissue,40-49,NMNAT1,0.753,exact,mammary gland
+Breast - Mammary Tissue,40-49,MESD,0.91,exact,mammary gland
+Breast - Mammary Tissue,40-49,WDR5,1.306,exact,mammary gland
+Breast - Mammary Tissue,40-49,RPAP1,1.588,exact,breast
+Breast - Mammary Tissue,40-49,GPAA1,0.865,exact,mammary gland
+Breast - Mammary Tissue,40-49,RPA1,0.549,exact,mammary gland
+Breast - Mammary Tissue,40-49,LARP7,0.768,exact,mammary gland
+Breast - Mammary Tissue,40-49,MRPS16,0.965,exact,breast
+Breast - Mammary Tissue,40-49,TUFM,0.604,exact,mammary gland
+Breast - Mammary Tissue,40-49,RRAGA,0.695,exact,mammary gland
+Breast - Mammary Tissue,40-49,MRPL16,1.091,exact,breast
+Breast - Mammary Tissue,40-49,RPL7L1,4.988,global,bto:0000042
+Breast - Mammary Tissue,40-49,TOLLIP,0.997,exact,mammary gland
+Breast - Mammary Tissue,40-49,ZNF747,0.182,exact,breast
+Breast - Mammary Tissue,40-49,NBR1,1.176,exact,mammary gland
+Breast - Mammary Tissue,40-49,KEAP1,1.699,exact,mammary gland
+Breast - Mammary Tissue,40-49,FAM20B,1.277,exact,mammary gland
+Breast - Mammary Tissue,40-49,ZBTB7A,0.672,exact,mammary gland
+Breast - Mammary Tissue,40-49,EIF2B1,1.268,exact,breast
+Breast - Mammary Tissue,40-49,WDR82,1.092,exact,breast
+Breast - Mammary Tissue,40-49,PPP6C,0.689,exact,mammary gland
+Breast - Mammary Tissue,40-49,IK,1.091,exact,breast
+Breast - Mammary Tissue,40-49,HNRNPUL1,1.427,exact,breast
+Breast - Mammary Tissue,40-49,CTDNEP1,1.072,exact,breast
+Breast - Mammary Tissue,40-49,RPUSD4,4.0,exact,mammary gland
+Breast - Mammary Tissue,40-49,ALG1,1.161,exact,mammary gland
+Breast - Mammary Tissue,40-49,UCK1,4.0,exact,mammary gland
+Breast - Mammary Tissue,40-49,UBL4A,1.164,exact,breast
+Breast - Mammary Tissue,40-49,PIGS,4.983,global,bto:0000042
+Breast - Mammary Tissue,40-49,ANO10,1.157,exact,breast
+Breast - Mammary Tissue,40-49,SLC38A10,0.615,exact,breast
+Breast - Mammary Tissue,40-49,NELFB,1.145,exact,mammary gland
+Breast - Mammary Tissue,40-49,MRPL10,1.12,exact,breast
+Breast - Mammary Tissue,40-49,ABRAXAS2,1.69,exact,breast
+Breast - Mammary Tissue,40-49,CDC123,1.066,exact,breast
+Breast - Mammary Tissue,40-49,DNAJA2,1.499,exact,breast
+Breast - Mammary Tissue,40-49,ZC3HC1,4.0,exact,mammary gland
+Breast - Mammary Tissue,40-49,VPS33A,0.938,exact,breast
+Breast - Mammary Tissue,40-49,PHKB,0.54,exact,mammary gland
+Breast - Mammary Tissue,40-49,AAMP,1.851,exact,breast
+Breast - Mammary Tissue,40-49,DHX35,0.67,exact,breast
+Breast - Mammary Tissue,40-49,MMP24OS,1.447,global,pos cell
+Breast - Mammary Tissue,40-49,MRM2,0.698,exact,breast
+Breast - Mammary Tissue,40-49,CTDSP1,0.803,exact,mammary gland
+Breast - Mammary Tissue,40-49,LRRC47,1.145,exact,breast
+Breast - Mammary Tissue,40-49,TBRG4,1.037,exact,mammary gland
+Breast - Mammary Tissue,40-49,TIMMDC1,0.544,exact,breast
+Breast - Mammary Tissue,40-49,URM1,1.413,exact,breast
+Breast - Mammary Tissue,40-49,WASF2,0.899,exact,mammary gland
+Breast - Mammary Tissue,40-49,SNX17,1.242,exact,breast
+Breast - Mammary Tissue,40-49,GHDC,4.187,exact,mammary gland
+Breast - Mammary Tissue,40-49,SLC4A1AP,1.413,exact,breast
+Breast - Mammary Tissue,40-49,DCTN2,0.705,exact,mammary gland
+Breast - Mammary Tissue,40-49,DNASE2,0.662,exact,mammary gland
+Breast - Mammary Tissue,40-49,UBXN6,0.194,exact,breast
+Breast - Mammary Tissue,40-49,CIZ1,1.52,exact,breast
+Breast - Mammary Tissue,40-49,NUDT5,0.677,exact,mammary gland
+Breast - Mammary Tissue,40-49,ELAC2,1.922,exact,breast
+Breast - Mammary Tissue,40-49,COPS7A,4.139,exact,mammary gland
+Breast - Mammary Tissue,40-49,PSMF1,1.845,exact,breast
+Breast - Mammary Tissue,40-49,FAM3A,1.048,exact,breast
+Breast - Mammary Tissue,40-49,MAP2K5,0.843,exact,mammary gland
+Breast - Mammary Tissue,40-49,HUWE1,0.96,exact,mammary gland
+Breast - Mammary Tissue,40-49,JMJD8,0.85,exact,breast
+Breast - Mammary Tissue,40-49,SCAMP2,1.679,exact,breast
+Breast - Mammary Tissue,40-49,BCKDHA,1.287,exact,mammary gland
+Breast - Mammary Tissue,40-49,METTL13,,,
+Breast - Mammary Tissue,40-49,WDCP,1.347,exact,breast
+Breast - Mammary Tissue,40-49,RAB1B,1.638,exact,breast
+Breast - Mammary Tissue,40-49,TOR1A,0.536,exact,mammary gland
+Breast - Mammary Tissue,40-49,AFG3L2,1.158,exact,breast
+Breast - Mammary Tissue,40-49,SMARCD1,0.819,exact,mammary gland
+Breast - Mammary Tissue,40-49,UBN1,0.607,exact,mammary gland
+Breast - Mammary Tissue,40-49,TNPO3,0.724,exact,mammary gland
+Breast - Mammary Tissue,40-49,VPS26C,1.091,exact,breast
+Breast - Mammary Tissue,40-49,ARPC1A,0.927,exact,breast
+Breast - Mammary Tissue,40-49,MFSD14B,0.545,exact,breast
+Breast - Mammary Tissue,40-49,MRPS18B,0.918,exact,breast
+Breast - Mammary Tissue,40-49,ERLIN1,0.53,exact,mammary gland
+Breast - Mammary Tissue,40-49,UBE3B,1.539,exact,breast
+Breast - Mammary Tissue,40-49,MUL1,0.8,exact,mammary gland
+Breast - Mammary Tissue,40-49,UBE4B,0.694,exact,mammary gland
+Breast - Mammary Tissue,40-49,WDR77,0.602,exact,mammary gland
+Breast - Mammary Tissue,40-49,FXR2,0.798,exact,mammary gland
+Breast - Mammary Tissue,40-49,PSMB2,1.588,exact,breast
+Breast - Mammary Tissue,40-49,SCMH1,1.18,exact,breast
+Breast - Mammary Tissue,40-49,RWDD2B,0.182,exact,breast
+Breast - Mammary Tissue,40-49,CSTF1,0.752,exact,mammary gland
+Breast - Mammary Tissue,40-49,POLG,0.89,exact,mammary gland
+Breast - Mammary Tissue,40-49,CTDSP2,0.815,exact,mammary gland
+Breast - Mammary Tissue,40-49,ZMAT2,0.684,exact,mammary gland
+Breast - Mammary Tissue,40-49,RAD17,1.191,exact,mammary gland
+Breast - Mammary Tissue,40-49,PTPRA,0.587,exact,mammary gland
+Breast - Mammary Tissue,40-49,RRM1,1.239,exact,mammary gland
+Breast - Mammary Tissue,40-49,DDA1,0.545,exact,breast
+Breast - Mammary Tissue,40-49,TAB1,1.155,exact,mammary gland
+Breast - Mammary Tissue,40-49,AKT1S1,1.379,exact,mammary gland
+Breast - Mammary Tissue,40-49,PACS2,0.546,exact,mammary gland
+Breast - Mammary Tissue,40-49,TEX261,0.182,exact,breast
+Breast - Mammary Tissue,40-49,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Breast - Mammary Tissue,40-49,EI24,0.626,exact,mammary gland
+Breast - Mammary Tissue,40-49,HNRNPUL2,1.113,exact,breast
+Breast - Mammary Tissue,40-49,MTX1,0.64,exact,mammary gland
+Breast - Mammary Tissue,40-49,RMC1,4.97,global,bto:0000042
+Breast - Mammary Tissue,40-49,KLHL12,0.835,exact,breast
+Breast - Mammary Tissue,40-49,DERL2,0.617,exact,mammary gland
+Breast - Mammary Tissue,40-49,UBE2Q1,0.997,exact,breast
+Breast - Mammary Tissue,40-49,NLRX1,0.73,exact,mammary gland
+Breast - Mammary Tissue,40-49,RTF2,0.182,exact,breast
+Breast - Mammary Tissue,40-49,SNAP29,0.599,exact,mammary gland
+Breast - Mammary Tissue,40-49,BRD3OS,1.192,global,keratocyte
+Breast - Mammary Tissue,40-49,ENSG00000289106,,,
+Breast - Mammary Tissue,40-49,MTRES1,1.091,exact,breast
+Breast - Mammary Tissue,40-49,NDUFA9,1.01,exact,mammary gland
+Breast - Mammary Tissue,50-59,ARAF,0.915,exact,mammary gland
+Breast - Mammary Tissue,50-59,PEX26,1.148,exact,breast
+Breast - Mammary Tissue,50-59,UBE3C,1.452,exact,breast
+Breast - Mammary Tissue,50-59,FBXO8,0.839,exact,mammary gland
+Breast - Mammary Tissue,50-59,SLC44A2,0.677,exact,mammary gland
+Breast - Mammary Tissue,50-59,AGGF1,1.039,exact,breast
+Breast - Mammary Tissue,50-59,ATG9A,0.798,exact,mammary gland
+Breast - Mammary Tissue,50-59,MFN2,1.349,exact,mammary gland
+Breast - Mammary Tissue,50-59,CARS2,4.148,exact,mammary gland
+Breast - Mammary Tissue,50-59,FAM120A,1.225,exact,breast
+Breast - Mammary Tissue,50-59,RALBP1,0.714,exact,mammary gland
+Breast - Mammary Tissue,50-59,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Breast - Mammary Tissue,50-59,DNAJB12,0.862,exact,breast
+Breast - Mammary Tissue,50-59,ZNF746,4.918,global,bto:0000042
+Breast - Mammary Tissue,50-59,WIZ,1.795,exact,breast
+Breast - Mammary Tissue,50-59,VPS35L,4.987,global,bto:0000042
+Breast - Mammary Tissue,50-59,ISY1,0.412,exact,breast
+Breast - Mammary Tissue,50-59,SPRTN,0.963,exact,breast
+Breast - Mammary Tissue,50-59,MFSD11,0.545,exact,breast
+Breast - Mammary Tissue,50-59,RTCA,1.21,exact,breast
+Breast - Mammary Tissue,50-59,CLPTM1,0.861,exact,breast
+Breast - Mammary Tissue,50-59,BAG6,1.219,exact,mammary gland
+Breast - Mammary Tissue,50-59,SLC25A43,0.816,exact,mammary gland
+Breast - Mammary Tissue,50-59,CTNNBL1,4.121,exact,mammary gland
+Breast - Mammary Tissue,50-59,EXOC4,0.959,exact,mammary gland
+Breast - Mammary Tissue,50-59,SCAMP3,1.103,exact,breast
+Breast - Mammary Tissue,50-59,MAPK14,1.7,exact,mammary gland
+Breast - Mammary Tissue,50-59,VCP,1.261,exact,mammary gland
+Breast - Mammary Tissue,50-59,GPN2,4.96,global,bto:0000042
+Breast - Mammary Tissue,50-59,PDSS2,1.494,exact,breast
+Breast - Mammary Tissue,50-59,GNPTG,1.091,exact,breast
+Breast - Mammary Tissue,50-59,SNX11,0.806,exact,breast
+Breast - Mammary Tissue,50-59,SENP3,1.277,exact,mammary gland
+Breast - Mammary Tissue,50-59,MESD,0.91,exact,mammary gland
+Breast - Mammary Tissue,50-59,WDR5,1.306,exact,mammary gland
+Breast - Mammary Tissue,50-59,RPAP1,1.588,exact,breast
+Breast - Mammary Tissue,50-59,LARP7,0.768,exact,mammary gland
+Breast - Mammary Tissue,50-59,TOLLIP,0.997,exact,mammary gland
+Breast - Mammary Tissue,50-59,NBR1,1.176,exact,mammary gland
+Breast - Mammary Tissue,50-59,FAM20B,1.277,exact,mammary gland
+Breast - Mammary Tissue,50-59,WDR82,1.092,exact,breast
+Breast - Mammary Tissue,50-59,PPP6C,0.689,exact,mammary gland
+Breast - Mammary Tissue,50-59,IK,1.091,exact,breast
+Breast - Mammary Tissue,50-59,UCK1,4.0,exact,mammary gland
+Breast - Mammary Tissue,50-59,PIGS,4.983,global,bto:0000042
+Breast - Mammary Tissue,50-59,SLC38A10,0.615,exact,breast
+Breast - Mammary Tissue,50-59,NELFB,1.145,exact,mammary gland
+Breast - Mammary Tissue,50-59,ABRAXAS2,1.69,exact,breast
+Breast - Mammary Tissue,50-59,DNAJA2,1.499,exact,breast
+Breast - Mammary Tissue,50-59,VPS33A,0.938,exact,breast
+Breast - Mammary Tissue,50-59,PHKB,0.54,exact,mammary gland
+Breast - Mammary Tissue,50-59,AAMP,1.851,exact,breast
+Breast - Mammary Tissue,50-59,CTDSP1,0.803,exact,mammary gland
+Breast - Mammary Tissue,50-59,LRRC47,1.145,exact,breast
+Breast - Mammary Tissue,50-59,TBRG4,1.037,exact,mammary gland
+Breast - Mammary Tissue,50-59,SNX17,1.242,exact,breast
+Breast - Mammary Tissue,50-59,SLC4A1AP,1.413,exact,breast
+Breast - Mammary Tissue,50-59,DCTN2,0.705,exact,mammary gland
+Breast - Mammary Tissue,50-59,NUDT5,0.677,exact,mammary gland
+Breast - Mammary Tissue,50-59,PSMF1,1.845,exact,breast
+Breast - Mammary Tissue,50-59,TOR1A,0.536,exact,mammary gland
+Breast - Mammary Tissue,50-59,RAB1B,1.638,exact,breast
+Breast - Mammary Tissue,50-59,AFG3L2,1.158,exact,breast
+Breast - Mammary Tissue,50-59,UBN1,0.607,exact,mammary gland
+Breast - Mammary Tissue,50-59,TNPO3,0.724,exact,mammary gland
+Breast - Mammary Tissue,50-59,MFSD14B,0.545,exact,breast
+Breast - Mammary Tissue,50-59,ERLIN1,0.53,exact,mammary gland
+Breast - Mammary Tissue,50-59,MUL1,0.8,exact,mammary gland
+Breast - Mammary Tissue,50-59,FXR2,0.798,exact,mammary gland
+Breast - Mammary Tissue,50-59,PSMB2,1.588,exact,breast
+Breast - Mammary Tissue,50-59,POLG,0.89,exact,mammary gland
+Breast - Mammary Tissue,50-59,CTDSP2,0.815,exact,mammary gland
+Breast - Mammary Tissue,50-59,ZMAT2,0.684,exact,mammary gland
+Breast - Mammary Tissue,50-59,RAD17,1.191,exact,mammary gland
+Breast - Mammary Tissue,50-59,PTPRA,0.587,exact,mammary gland
+Breast - Mammary Tissue,50-59,TAB1,1.155,exact,mammary gland
+Breast - Mammary Tissue,50-59,AKT1S1,1.379,exact,mammary gland
+Breast - Mammary Tissue,50-59,PACS2,0.546,exact,mammary gland
+Breast - Mammary Tissue,50-59,TEX261,0.182,exact,breast
+Breast - Mammary Tissue,50-59,AAR2,4.961,global,"tissues, cell types and enzyme sources"
+Breast - Mammary Tissue,50-59,HNRNPUL2,1.113,exact,breast
+Breast - Mammary Tissue,50-59,RMC1,4.97,global,bto:0000042
+Breast - Mammary Tissue,50-59,KLHL12,0.835,exact,breast
+Breast - Mammary Tissue,50-59,DERL2,0.617,exact,mammary gland
+Breast - Mammary Tissue,50-59,UBE2Q1,0.997,exact,breast
+Breast - Mammary Tissue,50-59,NLRX1,0.73,exact,mammary gland
+Breast - Mammary Tissue,60-69,PPP6C,0.689,exact,mammary gland
+Breast - Mammary Tissue,60-69,STARD3NL,1.091,exact,breast
+Breast - Mammary Tissue,60-69,PSMF1,1.845,exact,breast
+Breast - Mammary Tissue,60-69,SLC25A43,0.816,exact,mammary gland
+Breast - Mammary Tissue,60-69,TOR1A,0.536,exact,mammary gland
+Breast - Mammary Tissue,60-69,CTNNBL1,4.121,exact,mammary gland
+Breast - Mammary Tissue,60-69,EXOC4,0.959,exact,mammary gland
+Breast - Mammary Tissue,60-69,UBN1,0.607,exact,mammary gland
+Breast - Mammary Tissue,60-69,PIGS,4.983,global,bto:0000042
+Breast - Mammary Tissue,60-69,VCP,1.261,exact,mammary gland
+Breast - Mammary Tissue,60-69,ERLIN1,0.53,exact,mammary gland
+Breast - Mammary Tissue,60-69,MUL1,0.8,exact,mammary gland
+Breast - Mammary Tissue,60-69,MFN2,1.349,exact,mammary gland
+Breast - Mammary Tissue,60-69,DNAJA2,1.499,exact,breast
+Breast - Mammary Tissue,60-69,PSMB2,1.588,exact,breast
+Breast - Mammary Tissue,60-69,MESD,0.91,exact,mammary gland
+Breast - Mammary Tissue,60-69,POLG,0.89,exact,mammary gland
+Breast - Mammary Tissue,60-69,PHKB,0.54,exact,mammary gland
+Breast - Mammary Tissue,60-69,AAMP,1.851,exact,breast
+Breast - Mammary Tissue,60-69,PTPRA,0.587,exact,mammary gland
+Breast - Mammary Tissue,60-69,AKT1S1,1.379,exact,mammary gland
+Breast - Mammary Tissue,60-69,TOLLIP,0.997,exact,mammary gland
+Breast - Mammary Tissue,60-69,DNAJB12,0.862,exact,breast
+Breast - Mammary Tissue,60-69,WIZ,1.795,exact,breast
+Breast - Mammary Tissue,60-69,VPS35L,4.987,global,bto:0000042
+Breast - Mammary Tissue,60-69,ISY1,0.412,exact,breast
+Breast - Mammary Tissue,60-69,DCTN2,0.705,exact,mammary gland
+Breast - Mammary Tissue,60-69,RMC1,4.97,global,bto:0000042
+Breast - Mammary Tissue,60-69,MFSD11,0.545,exact,breast
+Breast - Mammary Tissue,60-69,WDR82,1.092,exact,breast
+Breast - Mammary Tissue,70-79,STARD3NL,1.091,exact,breast
+Breast - Mammary Tissue,70-79,ATP6V1E1,0.54,exact,mammary gland
+Breast - Mammary Tissue,70-79,RARA-AS1,1.365,global,scale

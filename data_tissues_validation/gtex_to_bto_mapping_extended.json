@@ -1,0 +1,217 @@
+{
+    "_description": "Mapping from GTEx tissue names to TISSUES/BTO tissue name keywords. Each GTEx tissue maps to a list of candidate BTO names (lowercase). The first match found in TISSUES is used. Order matters: more specific terms come first.",
+    "Adipose - Subcutaneous": [
+        "subcutaneous adipose tissue",
+        "adipose tissue",
+        "white adipose tissue"
+    ],
+    "Adipose - Visceral (Omentum)": [
+        "omentum",
+        "visceral adipose tissue",
+        "adipose tissue",
+        "white adipose tissue"
+    ],
+    "Adrenal Gland": [
+        "adrenal gland",
+        "adrenal cortex"
+    ],
+    "Artery - Aorta": [
+        "aorta",
+        "artery"
+    ],
+    "Artery - Coronary": [
+        "coronary artery",
+        "artery"
+    ],
+    "Artery - Tibial": [
+        "tibial artery",
+        "artery"
+    ],
+    "Bladder": [
+        "urinary bladder",
+        "bladder"
+    ],
+    "Brain - Amygdala": [
+        "amygdala",
+        "brain"
+    ],
+    "Brain - Anterior cingulate cortex (BA24)": [
+        "cingulate cortex",
+        "cerebral cortex",
+        "brain"
+    ],
+    "Brain - Caudate (basal ganglia)": [
+        "caudate nucleus",
+        "basal ganglion",
+        "brain"
+    ],
+    "Brain - Cerebellar Hemisphere": [
+        "cerebellum",
+        "brain"
+    ],
+    "Brain - Cerebellum": [
+        "cerebellum",
+        "brain"
+    ],
+    "Brain - Cortex": [
+        "cerebral cortex",
+        "brain"
+    ],
+    "Brain - Frontal Cortex (BA9)": [
+        "frontal cortex",
+        "prefrontal cortex",
+        "cerebral cortex",
+        "brain"
+    ],
+    "Brain - Hippocampus": [
+        "hippocampus",
+        "brain"
+    ],
+    "Brain - Hypothalamus": [
+        "hypothalamus",
+        "brain"
+    ],
+    "Brain - Nucleus accumbens (basal ganglia)": [
+        "nucleus accumbens",
+        "basal ganglion",
+        "brain"
+    ],
+    "Brain - Putamen (basal ganglia)": [
+        "putamen",
+        "basal ganglion",
+        "brain"
+    ],
+    "Brain - Spinal cord (cervical c-1)": [
+        "spinal cord",
+        "brain"
+    ],
+    "Brain - Substantia nigra": [
+        "substantia nigra",
+        "brain"
+    ],
+    "Breast - Mammary Tissue": [
+        "mammary gland",
+        "breast"
+    ],
+    "Cells - Cultured fibroblasts": [
+        "fibroblast"
+    ],
+    "Cells - EBV-transformed lymphocytes": [
+        "lymphocyte",
+        "b-lymphocyte"
+    ],
+    "Cervix - Ectocervix": [
+        "uterine cervix",
+        "cervix"
+    ],
+    "Cervix - Endocervix": [
+        "endocervix",
+        "uterine cervix",
+        "cervix"
+    ],
+    "Colon - Sigmoid": [
+        "sigmoid colon",
+        "colon",
+        "large intestine"
+    ],
+    "Colon - Transverse": [
+        "transverse colon",
+        "colon",
+        "large intestine"
+    ],
+    "Esophagus - Gastroesophageal Junction": [
+        "esophagus"
+    ],
+    "Esophagus - Mucosa": [
+        "esophagus"
+    ],
+    "Esophagus - Muscularis": [
+        "esophagus"
+    ],
+    "Fallopian Tube": [
+        "fallopian tube",
+        "oviduct"
+    ],
+    "Heart - Atrial Appendage": [
+        "heart atrium",
+        "heart"
+    ],
+    "Heart - Left Ventricle": [
+        "heart ventricle",
+        "heart"
+    ],
+    "Kidney - Cortex": [
+        "kidney cortex",
+        "kidney"
+    ],
+    "Kidney - Medulla": [
+        "kidney medulla",
+        "kidney"
+    ],
+    "Liver": [
+        "liver"
+    ],
+    "Lung": [
+        "lung"
+    ],
+    "Minor Salivary Gland": [
+        "salivary gland"
+    ],
+    "Muscle - Skeletal": [
+        "skeletal muscle",
+        "muscle"
+    ],
+    "Nerve - Tibial": [
+        "tibial nerve",
+        "peripheral nerve",
+        "nerve"
+    ],
+    "Ovary": [
+        "ovary"
+    ],
+    "Pancreas": [
+        "pancreas"
+    ],
+    "Pituitary": [
+        "pituitary gland"
+    ],
+    "Prostate": [
+        "prostate gland",
+        "prostate"
+    ],
+    "Skin - Not Sun Exposed (Suprapubic)": [
+        "skin"
+    ],
+    "Skin - Sun Exposed (Lower leg)": [
+        "skin"
+    ],
+    "Small Intestine - Terminal Ileum": [
+        "ileum",
+        "small intestine",
+        "intestine"
+    ],
+    "Spleen": [
+        "spleen"
+    ],
+    "Stomach": [
+        "stomach"
+    ],
+    "Testis": [
+        "testis"
+    ],
+    "Thyroid": [
+        "thyroid gland",
+        "thyroid"
+    ],
+    "Uterus": [
+        "uterus"
+    ],
+    "Vagina": [
+        "vagina"
+    ],
+    "Whole Blood": [
+        "blood",
+        "whole blood",
+        "peripheral blood"
+    ]
+}

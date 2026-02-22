@@ -1,0 +1,1526 @@
+tissue,age_group,gene_symbol,tissues_confidence,tissues_tissue_match,tissues_best_tissue
+Nerve - Tibial,30-39,HAGH,4.986,global,bto:0000042
+Nerve - Tibial,30-39,HIP1,4.956,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,ACOX1,4.986,global,bto:0000042
+Nerve - Tibial,30-39,FNBP1,4.981,global,bto:0000042
+Nerve - Tibial,30-39,DHX40,4.972,global,bto:0000042
+Nerve - Tibial,30-39,GRK5,4.991,global,bto:0000042
+Nerve - Tibial,30-39,KLHDC9,4.857,global,bto:0000042
+Nerve - Tibial,30-39,VDAC2,4.997,global,bto:0000042
+Nerve - Tibial,30-39,ACY1,4.981,global,bto:0000042
+Nerve - Tibial,30-39,TRAPPC10,4.963,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,ELOVL1,4.99,global,bto:0000042
+Nerve - Tibial,30-39,ATP6V1D,4.989,global,bto:0000042
+Nerve - Tibial,30-39,MRPL49,4.988,global,bto:0000042
+Nerve - Tibial,30-39,HAUS1,4.951,global,bto:0000042
+Nerve - Tibial,30-39,VAT1,4.999,global,bto:0000042
+Nerve - Tibial,30-39,MMP24OS,1.447,global,pos cell
+Nerve - Tibial,30-39,FAM210B,4.974,global,bto:0000042
+Nerve - Tibial,30-39,PLP2,4.992,global,bto:0000042
+Nerve - Tibial,30-39,PALM,4.957,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,DCAF6,4.993,global,bto:0000042
+Nerve - Tibial,30-39,RHOA,5.0,global,bto:0000042
+Nerve - Tibial,30-39,SEMA6A,4.985,global,bto:0000042
+Nerve - Tibial,30-39,ETFA,4.991,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,MGST2,4.951,global,bto:0000042
+Nerve - Tibial,30-39,NCSTN,4.995,global,bto:0000042
+Nerve - Tibial,30-39,SIRT2,4.997,global,bto:0000042
+Nerve - Tibial,30-39,LRP5,4.972,global,bto:0000042
+Nerve - Tibial,30-39,ETV3,4.693,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,DNASE1L1,4.898,global,bto:0000042
+Nerve - Tibial,30-39,PREP,4.971,global,bto:0000042
+Nerve - Tibial,30-39,MANSC1,4.972,global,bto:0000042
+Nerve - Tibial,30-39,FBXL7,4.946,global,bto:0000042
+Nerve - Tibial,30-39,SAP130,4.968,global,bto:0000042
+Nerve - Tibial,30-39,UBE2Q1,4.98,global,bto:0000042
+Nerve - Tibial,30-39,CD151,4.996,global,bto:0000042
+Nerve - Tibial,30-39,MRPS36,4.852,global,bto:0000042
+Nerve - Tibial,30-39,ECH1,4.996,global,bto:0000042
+Nerve - Tibial,30-39,MRPL45,4.971,global,bto:0000042
+Nerve - Tibial,30-39,GNE,4.935,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,RAB5C,4.994,global,bto:0000042
+Nerve - Tibial,30-39,IGF2R,4.991,global,bto:0000042
+Nerve - Tibial,30-39,EIPR1,4.978,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,ULK2,4.966,global,bto:0000042
+Nerve - Tibial,30-39,FAM118B,4.966,global,bto:0000042
+Nerve - Tibial,30-39,ACP2,,,
+Nerve - Tibial,30-39,ENOX2,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,GORASP1,4.99,global,bto:0000042
+Nerve - Tibial,30-39,KIF3B,4.985,global,bto:0000042
+Nerve - Tibial,30-39,SDHC,4.993,global,bto:0000042
+Nerve - Tibial,30-39,PTPMT1,4.951,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,SNX17,4.999,global,bto:0000042
+Nerve - Tibial,30-39,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,ATP6V1H,4.995,global,bto:0000042
+Nerve - Tibial,30-39,ISY1,4.976,global,bto:0000042
+Nerve - Tibial,30-39,MGLL,4.995,global,bto:0000042
+Nerve - Tibial,30-39,BFAR,5.0,global,alimentary canal
+Nerve - Tibial,30-39,TSPAN4,4.983,global,bto:0000042
+Nerve - Tibial,30-39,TRIP12,4.987,global,bto:0000042
+Nerve - Tibial,30-39,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,FRG1CP,,,
+Nerve - Tibial,30-39,WDR82,4.989,global,bto:0000042
+Nerve - Tibial,30-39,MAPKAP1,4.991,global,bto:0000042
+Nerve - Tibial,30-39,SARS2,4.977,global,bto:0000042
+Nerve - Tibial,30-39,FAM174A,4.864,global,bto:0000042
+Nerve - Tibial,30-39,EMC7,4.556,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,VKORC1L1,4.959,global,bto:0000042
+Nerve - Tibial,30-39,LNP1,4.668,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,ELMO1,4.993,global,bto:0000042
+Nerve - Tibial,30-39,PEBP1,4.999,global,bto:0000042
+Nerve - Tibial,30-39,PRDM2,4.978,global,bto:0000042
+Nerve - Tibial,30-39,AP2A1,4.976,global,bto:0000042
+Nerve - Tibial,30-39,AP2M1,5.0,global,bto:0000042
+Nerve - Tibial,30-39,PLEKHB2,4.995,global,bto:0000042
+Nerve - Tibial,30-39,PIGBOS1,4.0,global,eye cancer cell
+Nerve - Tibial,30-39,SLC35A1,4.964,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,CNDP2,4.998,global,bto:0000042
+Nerve - Tibial,30-39,SLC25A10,4.469,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,SLC25A17,4.967,global,bto:0000042
+Nerve - Tibial,30-39,PTPN18,4.975,global,bto:0000042
+Nerve - Tibial,30-39,DHRS7B,4.92,global,bto:0000042
+Nerve - Tibial,30-39,CYB5R3,4.996,global,bto:0000042
+Nerve - Tibial,30-39,ORAI3,4.929,global,bto:0000042
+Nerve - Tibial,30-39,SLC25A35,4.865,global,bto:0000042
+Nerve - Tibial,30-39,MAML2,4.88,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,ATP5F1C,4.997,global,bto:0000042
+Nerve - Tibial,30-39,C1ORF43,4.995,global,bto:0000042
+Nerve - Tibial,30-39,BACE1,4.992,global,bto:0000042
+Nerve - Tibial,30-39,SPCS1,4.985,global,bto:0000042
+Nerve - Tibial,30-39,EPN1,4.94,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,SLC25A23,4.978,global,bto:0000042
+Nerve - Tibial,30-39,RNF7,4.978,global,bto:0000042
+Nerve - Tibial,30-39,TIGD6,4.634,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,ZDHHC14,4.855,global,bto:0000042
+Nerve - Tibial,40-49,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,HIP1,4.956,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,ACOX1,4.986,global,bto:0000042
+Nerve - Tibial,40-49,FNBP1,4.981,global,bto:0000042
+Nerve - Tibial,40-49,PHF3,4.97,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,KDM5B,4.972,global,bto:0000042
+Nerve - Tibial,40-49,TRAPPC10,4.963,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,SPG11,4.985,global,bto:0000042
+Nerve - Tibial,40-49,EIF2AK4,4.959,global,bto:0000042
+Nerve - Tibial,40-49,ATP6V1D,4.989,global,bto:0000042
+Nerve - Tibial,40-49,GIT2,4.985,global,bto:0000042
+Nerve - Tibial,40-49,MMP24OS,1.447,global,pos cell
+Nerve - Tibial,40-49,SBF1,4.985,global,bto:0000042
+Nerve - Tibial,40-49,PIAS3,4.987,global,bto:0000042
+Nerve - Tibial,40-49,PLP2,4.992,global,bto:0000042
+Nerve - Tibial,40-49,ZNF512,4.979,global,bto:0000042
+Nerve - Tibial,40-49,DCAF6,4.993,global,bto:0000042
+Nerve - Tibial,40-49,RHOA,5.0,global,bto:0000042
+Nerve - Tibial,40-49,TBC1D20,4.962,global,bto:0000042
+Nerve - Tibial,40-49,RAF1,4.996,global,bto:0000042
+Nerve - Tibial,40-49,PRPF40B,4.879,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,ETFA,4.991,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,ETV3,4.693,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,DNASE1L1,4.898,global,bto:0000042
+Nerve - Tibial,40-49,SIRT5,4.976,global,bto:0000042
+Nerve - Tibial,40-49,PREP,4.971,global,bto:0000042
+Nerve - Tibial,40-49,FBXL7,4.946,global,bto:0000042
+Nerve - Tibial,40-49,UBE2Q1,4.98,global,bto:0000042
+Nerve - Tibial,40-49,KDM4C,4.968,global,bto:0000042
+Nerve - Tibial,40-49,GNE,4.935,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,HMGXB4,4.958,global,bto:0000042
+Nerve - Tibial,40-49,RAB5C,4.994,global,bto:0000042
+Nerve - Tibial,40-49,IGF2R,4.991,global,bto:0000042
+Nerve - Tibial,40-49,PHF2,4.927,global,bto:0000042
+Nerve - Tibial,40-49,FAM118B,4.966,global,bto:0000042
+Nerve - Tibial,40-49,CTPS2,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,ANKRD17,4.989,global,bto:0000042
+Nerve - Tibial,40-49,ZFP41,4.964,global,bto:0000042
+Nerve - Tibial,40-49,ENOX2,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,GORASP1,4.99,global,bto:0000042
+Nerve - Tibial,40-49,SDHC,4.993,global,bto:0000042
+Nerve - Tibial,40-49,SNX17,4.999,global,bto:0000042
+Nerve - Tibial,40-49,ISY1,4.976,global,bto:0000042
+Nerve - Tibial,40-49,SLC25A12,4.987,global,bto:0000042
+Nerve - Tibial,40-49,BFAR,5.0,global,alimentary canal
+Nerve - Tibial,40-49,TSPAN4,4.983,global,bto:0000042
+Nerve - Tibial,40-49,HEATR5B,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,TRIP12,4.987,global,bto:0000042
+Nerve - Tibial,40-49,ZNF7,4.94,global,bto:0000042
+Nerve - Tibial,40-49,MLH1,4.993,global,bto:0000042
+Nerve - Tibial,40-49,ANKRA2,4.945,global,bto:0000042
+Nerve - Tibial,40-49,PHLDB1,4.986,global,bto:0000042
+Nerve - Tibial,40-49,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,NOP14-AS1,1.717,global,papillary renal cell carcinoma cell
+Nerve - Tibial,40-49,WDR82,4.989,global,bto:0000042
+Nerve - Tibial,40-49,AQR,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,BOD1L1,4.786,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,FAM174A,4.864,global,bto:0000042
+Nerve - Tibial,40-49,VKORC1L1,4.959,global,bto:0000042
+Nerve - Tibial,40-49,ELMO1,4.993,global,bto:0000042
+Nerve - Tibial,40-49,ZNF646,4.788,global,bto:0000042
+Nerve - Tibial,40-49,LRIG3,4.561,global,bto:0000042
+Nerve - Tibial,40-49,PRDM2,4.978,global,bto:0000042
+Nerve - Tibial,40-49,AP2A1,4.976,global,bto:0000042
+Nerve - Tibial,40-49,RPUSD3,4.96,global,bto:0000042
+Nerve - Tibial,40-49,SLC35A1,4.964,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,FOXJ2,4.902,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,PPP6R2,4.986,global,bto:0000042
+Nerve - Tibial,40-49,OXSR1,4.955,global,bto:0000042
+Nerve - Tibial,40-49,PTCD1,4.292,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,RNMT,4.971,global,bto:0000042
+Nerve - Tibial,40-49,SLC25A17,4.967,global,bto:0000042
+Nerve - Tibial,40-49,PTPN18,4.975,global,bto:0000042
+Nerve - Tibial,40-49,RBFOX2,4.993,global,bto:0000042
+Nerve - Tibial,40-49,ARID1B,4.965,global,bto:0000042
+Nerve - Tibial,40-49,PDPK1,4.99,global,bto:0000042
+Nerve - Tibial,40-49,ORAI3,4.929,global,bto:0000042
+Nerve - Tibial,40-49,SLC25A35,4.865,global,bto:0000042
+Nerve - Tibial,40-49,GPS1,4.996,global,bto:0000042
+Nerve - Tibial,40-49,C1ORF43,4.995,global,bto:0000042
+Nerve - Tibial,40-49,BTBD7,4.959,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,ZNF324,4.898,global,bto:0000042
+Nerve - Tibial,40-49,GON4L,4.962,global,bto:0000042
+Nerve - Tibial,40-49,BACE1,4.992,global,bto:0000042
+Nerve - Tibial,40-49,OSBPL9,4.984,global,bto:0000042
+Nerve - Tibial,40-49,RNF7,4.978,global,bto:0000042
+Nerve - Tibial,40-49,TIGD6,4.634,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,GBF1,4.991,global,bto:0000042
+Nerve - Tibial,40-49,RCBTB1,4.972,global,bto:0000042
+Nerve - Tibial,40-49,ZMPSTE24-DT,,,
+Nerve - Tibial,50-59,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,ACOX1,4.986,global,bto:0000042
+Nerve - Tibial,50-59,PHF3,4.97,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,INO80,4.941,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,IPO8,4.968,global,bto:0000042
+Nerve - Tibial,50-59,KDM5B,4.972,global,bto:0000042
+Nerve - Tibial,50-59,HIRIP3,4.97,global,bto:0000042
+Nerve - Tibial,50-59,TRAPPC10,4.963,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,TSTD2,4.808,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,ZNF786,4.323,global,bto:0000042
+Nerve - Tibial,50-59,SPG11,4.985,global,bto:0000042
+Nerve - Tibial,50-59,EIF2AK4,4.959,global,bto:0000042
+Nerve - Tibial,50-59,MRPS14,4.813,global,bto:0000042
+Nerve - Tibial,50-59,GIT2,4.985,global,bto:0000042
+Nerve - Tibial,50-59,SBF1,4.985,global,bto:0000042
+Nerve - Tibial,50-59,PIAS3,4.987,global,bto:0000042
+Nerve - Tibial,50-59,GRIPAP1,4.944,global,bto:0000042
+Nerve - Tibial,50-59,PLP2,4.992,global,bto:0000042
+Nerve - Tibial,50-59,ZNF512,4.979,global,bto:0000042
+Nerve - Tibial,50-59,TBC1D20,4.962,global,bto:0000042
+Nerve - Tibial,50-59,ZXDC,4.978,global,bto:0000042
+Nerve - Tibial,50-59,RAF1,4.996,global,bto:0000042
+Nerve - Tibial,50-59,PRPF40B,4.879,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,LLGL1,4.973,global,bto:0000042
+Nerve - Tibial,50-59,ETFA,4.991,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,RFT1,4.867,global,bto:0000042
+Nerve - Tibial,50-59,NPHP4,4.926,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,REV1,4.95,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,OTUD5,4.978,global,bto:0000042
+Nerve - Tibial,50-59,ETV3,4.693,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,DNASE1L1,4.898,global,bto:0000042
+Nerve - Tibial,50-59,SIRT5,4.976,global,bto:0000042
+Nerve - Tibial,50-59,SNRNP200,4.997,global,bto:0000042
+Nerve - Tibial,50-59,FBXL7,4.946,global,bto:0000042
+Nerve - Tibial,50-59,KDM4C,4.968,global,bto:0000042
+Nerve - Tibial,50-59,CCDC97,4.948,global,bto:0000042
+Nerve - Tibial,50-59,RBM39,4.996,global,bto:0000042
+Nerve - Tibial,50-59,TMEM9,4.992,global,bto:0000042
+Nerve - Tibial,50-59,TYSND1,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,HMGXB4,4.958,global,bto:0000042
+Nerve - Tibial,50-59,RAB5C,4.994,global,bto:0000042
+Nerve - Tibial,50-59,IGF2R,4.991,global,bto:0000042
+Nerve - Tibial,50-59,IQSEC1,4.981,global,bto:0000042
+Nerve - Tibial,50-59,PHF2,4.927,global,bto:0000042
+Nerve - Tibial,50-59,FAM118B,4.966,global,bto:0000042
+Nerve - Tibial,50-59,CTPS2,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,RUFY1,4.958,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,OSGEPL1,4.853,global,bto:0000042
+Nerve - Tibial,50-59,ANKRD17,4.989,global,bto:0000042
+Nerve - Tibial,50-59,ZFP41,4.964,global,bto:0000042
+Nerve - Tibial,50-59,USP19,4.965,global,bto:0000042
+Nerve - Tibial,50-59,ENOX2,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,GORASP1,4.99,global,bto:0000042
+Nerve - Tibial,50-59,SETDB1,4.985,global,bto:0000042
+Nerve - Tibial,50-59,COQ6,4.967,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,SNX17,4.999,global,bto:0000042
+Nerve - Tibial,50-59,ISY1,4.976,global,bto:0000042
+Nerve - Tibial,50-59,ZNF592,5.0,global,adrenal gland
+Nerve - Tibial,50-59,EP300,4.984,global,bto:0000042
+Nerve - Tibial,50-59,BRD3,4.992,global,bto:0000042
+Nerve - Tibial,50-59,RASSF1-AS1,1.296,global,endocrine gland
+Nerve - Tibial,50-59,SLC25A12,4.987,global,bto:0000042
+Nerve - Tibial,50-59,HEATR5B,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,TRIP12,4.987,global,bto:0000042
+Nerve - Tibial,50-59,ZNF7,4.94,global,bto:0000042
+Nerve - Tibial,50-59,MLH1,4.993,global,bto:0000042
+Nerve - Tibial,50-59,ANKRA2,4.945,global,bto:0000042
+Nerve - Tibial,50-59,PHLDB1,4.986,global,bto:0000042
+Nerve - Tibial,50-59,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,NOP14-AS1,1.717,global,papillary renal cell carcinoma cell
+Nerve - Tibial,50-59,SETD2,4.987,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,WDR82,4.989,global,bto:0000042
+Nerve - Tibial,50-59,TRRAP,4.964,global,bto:0000042
+Nerve - Tibial,50-59,CUL1,4.995,global,bto:0000042
+Nerve - Tibial,50-59,PANK4,4.964,global,bto:0000042
+Nerve - Tibial,50-59,DIDO1,4.984,global,bto:0000042
+Nerve - Tibial,50-59,AQR,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,BOD1L1,4.786,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,PRR12,4.829,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,BAZ2A,4.989,global,bto:0000042
+Nerve - Tibial,50-59,ZNF646,4.788,global,bto:0000042
+Nerve - Tibial,50-59,ESS2,4.973,global,bto:0000042
+Nerve - Tibial,50-59,SF3B1,4.994,global,bto:0000042
+Nerve - Tibial,50-59,TTC31,4.626,global,bto:0000042
+Nerve - Tibial,50-59,PPP6R3,4.99,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,PRDM2,4.978,global,bto:0000042
+Nerve - Tibial,50-59,AP2A1,4.976,global,bto:0000042
+Nerve - Tibial,50-59,LRIG3,4.561,global,bto:0000042
+Nerve - Tibial,50-59,NCOR2,4.991,global,bto:0000042
+Nerve - Tibial,50-59,RPUSD3,4.96,global,bto:0000042
+Nerve - Tibial,50-59,CHD8,4.977,global,bto:0000042
+Nerve - Tibial,50-59,RNF20,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,FOXJ2,4.902,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,PPP6R2,4.986,global,bto:0000042
+Nerve - Tibial,50-59,OXSR1,4.955,global,bto:0000042
+Nerve - Tibial,50-59,PTCD1,4.292,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,RNMT,4.971,global,bto:0000042
+Nerve - Tibial,50-59,FUS,4.999,global,bto:0000042
+Nerve - Tibial,50-59,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,BRPF3,4.917,global,bto:0000042
+Nerve - Tibial,50-59,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Nerve - Tibial,50-59,PTPN18,4.975,global,bto:0000042
+Nerve - Tibial,50-59,STRIP1,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,RBFOX2,4.993,global,bto:0000042
+Nerve - Tibial,50-59,TNRC18,4.96,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,VCP,5.0,global,bto:0000042
+Nerve - Tibial,50-59,ARID1B,4.965,global,bto:0000042
+Nerve - Tibial,50-59,HNRNPL,4.989,global,bto:0000042
+Nerve - Tibial,50-59,AMBRA1,4.959,global,bto:0000042
+Nerve - Tibial,50-59,PDPK1,4.99,global,bto:0000042
+Nerve - Tibial,50-59,ORAI3,4.929,global,bto:0000042
+Nerve - Tibial,50-59,DDX42,4.982,global,bto:0000042
+Nerve - Tibial,50-59,TBC1D9B,4.988,global,bto:0000042
+Nerve - Tibial,50-59,POC5,4.957,global,bto:0000042
+Nerve - Tibial,50-59,GPS1,4.996,global,bto:0000042
+Nerve - Tibial,50-59,TTF1,4.905,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,RTL8A,4.778,global,bto:0000042
+Nerve - Tibial,50-59,STK25,4.996,global,bto:0000042
+Nerve - Tibial,50-59,BTBD7,4.959,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,ZNF324,4.898,global,bto:0000042
+Nerve - Tibial,50-59,GON4L,4.962,global,bto:0000042
+Nerve - Tibial,50-59,OSBPL9,4.984,global,bto:0000042
+Nerve - Tibial,50-59,DVL2,4.978,global,bto:0000042
+Nerve - Tibial,50-59,GBF1,4.991,global,bto:0000042
+Nerve - Tibial,50-59,GOLGA2,4.985,global,bto:0000042
+Nerve - Tibial,50-59,RCBTB1,4.972,global,bto:0000042
+Nerve - Tibial,50-59,TAF1,5.0,global,alimentary canal
+Nerve - Tibial,50-59,ZMPSTE24-DT,,,
+Nerve - Tibial,50-59,SDCCAG8,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,TERF2,4.95,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,SCLT1,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,KHSRP,4.989,global,bto:0000042
+Nerve - Tibial,60-69,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PIP4K2B,4.991,global,bto:0000042
+Nerve - Tibial,60-69,FAN1,4.92,global,bto:0000042
+Nerve - Tibial,60-69,PHF3,4.97,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,INO80,4.941,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,MTA1,4.987,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ARIH2,4.993,global,bto:0000042
+Nerve - Tibial,60-69,IPO8,4.968,global,bto:0000042
+Nerve - Tibial,60-69,IMMP2L,4.917,global,bto:0000042
+Nerve - Tibial,60-69,SCAF11,4.986,global,bto:0000042
+Nerve - Tibial,60-69,KDM5B,4.972,global,bto:0000042
+Nerve - Tibial,60-69,HIRIP3,4.97,global,bto:0000042
+Nerve - Tibial,60-69,FAM120B,4.972,global,bto:0000042
+Nerve - Tibial,60-69,ITFG2,4.942,global,bto:0000042
+Nerve - Tibial,60-69,ZNF572,4.327,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ARHGEF9,4.971,global,bto:0000042
+Nerve - Tibial,60-69,KIAA2026,4.862,global,bto:0000042
+Nerve - Tibial,60-69,LIX1L,4.863,global,bto:0000042
+Nerve - Tibial,60-69,GNB1,4.996,global,bto:0000042
+Nerve - Tibial,60-69,TSTD2,4.808,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ZNF786,4.323,global,bto:0000042
+Nerve - Tibial,60-69,PRPF8,5.0,global,bto:0000042
+Nerve - Tibial,60-69,SPG11,4.985,global,bto:0000042
+Nerve - Tibial,60-69,EIF2AK4,4.959,global,bto:0000042
+Nerve - Tibial,60-69,ANKRD52,4.576,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,HECTD4,4.614,global,bto:0000042
+Nerve - Tibial,60-69,MRPS14,4.813,global,bto:0000042
+Nerve - Tibial,60-69,TULP3,4.917,global,bto:0000042
+Nerve - Tibial,60-69,SLTM,4.978,global,bto:0000042
+Nerve - Tibial,60-69,GIT2,4.985,global,bto:0000042
+Nerve - Tibial,60-69,ZNF200,4.886,global,bto:0000042
+Nerve - Tibial,60-69,PTPN23,4.961,global,bto:0000042
+Nerve - Tibial,60-69,NUMA1,5.0,global,adrenal gland
+Nerve - Tibial,60-69,DSTYK,4.955,global,bto:0000042
+Nerve - Tibial,60-69,HABP4,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,KLHL12,4.978,global,bto:0000042
+Nerve - Tibial,60-69,SBF1,4.985,global,bto:0000042
+Nerve - Tibial,60-69,PIAS3,4.987,global,bto:0000042
+Nerve - Tibial,60-69,PPIG,4.993,global,bto:0000042
+Nerve - Tibial,60-69,HIKESHI,4.954,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,GRIPAP1,4.944,global,bto:0000042
+Nerve - Tibial,60-69,SMIM8,4.326,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,VPS13B,4.955,global,bto:0000042
+Nerve - Tibial,60-69,TTC5,4.92,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,EIF3J-DT,,,
+Nerve - Tibial,60-69,UBE3A,4.992,global,bto:0000042
+Nerve - Tibial,60-69,ZNF512,4.979,global,bto:0000042
+Nerve - Tibial,60-69,TCEAL8,4.964,global,bto:0000042
+Nerve - Tibial,60-69,ZZZ3,4.961,global,bto:0000042
+Nerve - Tibial,60-69,GPATCH2L,4.391,global,bto:0000042
+Nerve - Tibial,60-69,TBC1D20,4.962,global,bto:0000042
+Nerve - Tibial,60-69,ZXDC,4.978,global,bto:0000042
+Nerve - Tibial,60-69,RAF1,4.996,global,bto:0000042
+Nerve - Tibial,60-69,DCAF8,4.992,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PRPF40B,4.879,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,LLGL1,4.973,global,bto:0000042
+Nerve - Tibial,60-69,ETFA,4.991,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ZNF532,4.97,global,bto:0000042
+Nerve - Tibial,60-69,USP42,4.965,global,bto:0000042
+Nerve - Tibial,60-69,OBSL1,5.0,global,bto:0000042
+Nerve - Tibial,60-69,RNASEL,4.822,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,RFT1,4.867,global,bto:0000042
+Nerve - Tibial,60-69,NPHP4,4.926,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,REV1,4.95,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,TTC28,4.977,global,bto:0000042
+Nerve - Tibial,60-69,OTUD5,4.978,global,bto:0000042
+Nerve - Tibial,60-69,ETV3,4.693,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PRRC2C,4.994,global,bto:0000042
+Nerve - Tibial,60-69,VEZT,4.99,global,bto:0000042
+Nerve - Tibial,60-69,MLLT10,4.965,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,TNFSF12,4.551,global,bto:0000042
+Nerve - Tibial,60-69,LNPEP,4.927,global,bto:0000042
+Nerve - Tibial,60-69,RAB5B,4.993,global,bto:0000042
+Nerve - Tibial,60-69,SIRT5,4.976,global,bto:0000042
+Nerve - Tibial,60-69,MSH6,4.988,global,bto:0000042
+Nerve - Tibial,60-69,UBE3B,4.978,global,bto:0000042
+Nerve - Tibial,60-69,SNRNP200,4.997,global,bto:0000042
+Nerve - Tibial,60-69,CPNE2,4.952,global,bto:0000042
+Nerve - Tibial,60-69,PEG3,4.986,global,bto:0000042
+Nerve - Tibial,60-69,KDM4C,4.968,global,bto:0000042
+Nerve - Tibial,60-69,TASOR,4.968,global,bto:0000042
+Nerve - Tibial,60-69,MAML3,4.894,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,MMAB,4.944,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,CLYBL,4.923,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,CCDC97,4.948,global,bto:0000042
+Nerve - Tibial,60-69,RBM39,4.996,global,bto:0000042
+Nerve - Tibial,60-69,TMEM9,4.992,global,bto:0000042
+Nerve - Tibial,60-69,PRKCSH,5.0,global,bto:0000042
+Nerve - Tibial,60-69,TYSND1,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,HMGXB4,4.958,global,bto:0000042
+Nerve - Tibial,60-69,IGF2R,4.991,global,bto:0000042
+Nerve - Tibial,60-69,GNAS,5.0,global,bto:0000042
+Nerve - Tibial,60-69,MLH3,4.934,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,IQSEC1,4.981,global,bto:0000042
+Nerve - Tibial,60-69,CCDC115,4.974,global,bto:0000042
+Nerve - Tibial,60-69,OSBPL2,4.98,global,bto:0000042
+Nerve - Tibial,60-69,PHF2,4.927,global,bto:0000042
+Nerve - Tibial,60-69,ZFP64,4.953,global,bto:0000042
+Nerve - Tibial,60-69,DYRK1B,4.944,global,bto:0000042
+Nerve - Tibial,60-69,CTPS2,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,RUFY1,4.958,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,OSGEPL1,4.853,global,bto:0000042
+Nerve - Tibial,60-69,ANKRD17,4.989,global,bto:0000042
+Nerve - Tibial,60-69,ZFP41,4.964,global,bto:0000042
+Nerve - Tibial,60-69,USP19,4.965,global,bto:0000042
+Nerve - Tibial,60-69,ENOX2,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,DYNC1LI2,4.995,global,bto:0000042
+Nerve - Tibial,60-69,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,NSD2,4.988,global,bto:0000042
+Nerve - Tibial,60-69,SETDB1,4.985,global,bto:0000042
+Nerve - Tibial,60-69,ING4,4.962,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,COQ6,4.967,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,KIAA1328,2.45,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,DGCR8,4.96,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,LRBA,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ISY1,4.976,global,bto:0000042
+Nerve - Tibial,60-69,ZNF592,5.0,global,adrenal gland
+Nerve - Tibial,60-69,EP300,4.984,global,bto:0000042
+Nerve - Tibial,60-69,BRD3,4.992,global,bto:0000042
+Nerve - Tibial,60-69,RASSF1-AS1,1.296,global,endocrine gland
+Nerve - Tibial,60-69,SLC25A12,4.987,global,bto:0000042
+Nerve - Tibial,60-69,COPB1,4.997,global,bto:0000042
+Nerve - Tibial,60-69,HEATR5B,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,CTCF,4.979,global,bto:0000042
+Nerve - Tibial,60-69,FAM120AOS,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,KCTD9,4.917,global,bto:0000042
+Nerve - Tibial,60-69,NBPF12,4.227,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ZNF7,4.94,global,bto:0000042
+Nerve - Tibial,60-69,BTBD10,4.97,global,bto:0000042
+Nerve - Tibial,60-69,MLH1,4.993,global,bto:0000042
+Nerve - Tibial,60-69,ERV3-1,3.862,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,RNASEH2B,4.927,global,bto:0000042
+Nerve - Tibial,60-69,ANKRA2,4.945,global,bto:0000042
+Nerve - Tibial,60-69,ZNF197,4.875,global,bto:0000042
+Nerve - Tibial,60-69,DNAJC17,4.801,global,bto:0000042
+Nerve - Tibial,60-69,PHLDB1,4.986,global,bto:0000042
+Nerve - Tibial,60-69,NOP14-AS1,1.717,global,papillary renal cell carcinoma cell
+Nerve - Tibial,60-69,PIK3R2,4.98,global,bto:0000042
+Nerve - Tibial,60-69,ALDH3A2,4.991,global,bto:0000042
+Nerve - Tibial,60-69,SETD2,4.987,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,WDR82,4.989,global,bto:0000042
+Nerve - Tibial,60-69,TRRAP,4.964,global,bto:0000042
+Nerve - Tibial,60-69,KANSL3,4.993,global,bto:0000042
+Nerve - Tibial,60-69,CUL1,4.995,global,bto:0000042
+Nerve - Tibial,60-69,PANK4,4.964,global,bto:0000042
+Nerve - Tibial,60-69,DIDO1,4.984,global,bto:0000042
+Nerve - Tibial,60-69,LENG1,4.498,global,bto:0000042
+Nerve - Tibial,60-69,DIS3L2,4.941,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,MAGED2,4.997,global,bto:0000042
+Nerve - Tibial,60-69,BOD1L1,4.786,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ALKBH8,4.857,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,AQR,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PRR12,4.829,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,TNRC6C,4.962,global,bto:0000042
+Nerve - Tibial,60-69,AGPAT3,4.987,global,bto:0000042
+Nerve - Tibial,60-69,TAOK1,4.979,global,bto:0000042
+Nerve - Tibial,60-69,MBD4,4.979,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,THRA,4.985,global,bto:0000042
+Nerve - Tibial,60-69,CREBBP,4.986,global,bto:0000042
+Nerve - Tibial,60-69,BAZ2A,4.989,global,bto:0000042
+Nerve - Tibial,60-69,SEPTIN9,4.999,global,bto:0000042
+Nerve - Tibial,60-69,FAM8A1,4.97,global,bto:0000042
+Nerve - Tibial,60-69,STAG1,4.972,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ESS2,4.973,global,bto:0000042
+Nerve - Tibial,60-69,ZNF646,4.788,global,bto:0000042
+Nerve - Tibial,60-69,SF3B1,4.994,global,bto:0000042
+Nerve - Tibial,60-69,SMU1,4.917,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,TTC31,4.626,global,bto:0000042
+Nerve - Tibial,60-69,PPP6R3,4.99,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PRDM2,4.978,global,bto:0000042
+Nerve - Tibial,60-69,LRIG3,4.561,global,bto:0000042
+Nerve - Tibial,60-69,NCOR2,4.991,global,bto:0000042
+Nerve - Tibial,60-69,SETD5,4.991,global,bto:0000042
+Nerve - Tibial,60-69,UBE2E1,4.972,global,bto:0000042
+Nerve - Tibial,60-69,EP400,4.982,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,FBXO17,4.319,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,RPUSD3,4.96,global,bto:0000042
+Nerve - Tibial,60-69,CHD8,4.977,global,bto:0000042
+Nerve - Tibial,60-69,RNF20,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ZNF606,4.883,global,bto:0000042
+Nerve - Tibial,60-69,FOXJ2,4.902,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PPP6R2,4.986,global,bto:0000042
+Nerve - Tibial,60-69,PATZ1,4.952,global,bto:0000042
+Nerve - Tibial,60-69,OXSR1,4.955,global,bto:0000042
+Nerve - Tibial,60-69,RNMT,4.971,global,bto:0000042
+Nerve - Tibial,60-69,PTCD1,4.292,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ZBTB4,4.977,global,bto:0000042
+Nerve - Tibial,60-69,ZNF583,4.67,global,bto:0000042
+Nerve - Tibial,60-69,WDR20,4.969,global,bto:0000042
+Nerve - Tibial,60-69,GPATCH8,4.961,global,bto:0000042
+Nerve - Tibial,60-69,FUS,4.999,global,bto:0000042
+Nerve - Tibial,60-69,GLOD4,4.983,global,bto:0000042
+Nerve - Tibial,60-69,TMEM175,4.944,global,bto:0000042
+Nerve - Tibial,60-69,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,RFFL,4.941,global,bto:0000042
+Nerve - Tibial,60-69,BRPF3,4.917,global,bto:0000042
+Nerve - Tibial,60-69,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Nerve - Tibial,60-69,ZNF512B,4.882,global,bto:0000042
+Nerve - Tibial,60-69,CUL2,4.98,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,STX18,4.941,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,STRIP1,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,DENND10,4.979,global,bto:0000042
+Nerve - Tibial,60-69,RILPL1,4.877,global,bto:0000042
+Nerve - Tibial,60-69,RBFOX2,4.993,global,bto:0000042
+Nerve - Tibial,60-69,ATF7IP,4.979,global,bto:0000042
+Nerve - Tibial,60-69,TNRC18,4.96,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,VCP,5.0,global,bto:0000042
+Nerve - Tibial,60-69,ARID1B,4.965,global,bto:0000042
+Nerve - Tibial,60-69,HNRNPL,4.989,global,bto:0000042
+Nerve - Tibial,60-69,AMBRA1,4.959,global,bto:0000042
+Nerve - Tibial,60-69,PDPK1,4.99,global,bto:0000042
+Nerve - Tibial,60-69,NIN,4.964,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,TCTN1,4.976,global,bto:0000042
+Nerve - Tibial,60-69,RNF34,4.981,global,bto:0000042
+Nerve - Tibial,60-69,ACOX2,4.884,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PUM1,4.995,global,bto:0000042
+Nerve - Tibial,60-69,DDX42,4.982,global,bto:0000042
+Nerve - Tibial,60-69,TBC1D9B,4.988,global,bto:0000042
+Nerve - Tibial,60-69,PHF12,4.951,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,POC5,4.957,global,bto:0000042
+Nerve - Tibial,60-69,GPS1,4.996,global,bto:0000042
+Nerve - Tibial,60-69,TAB1,4.98,global,bto:0000042
+Nerve - Tibial,60-69,RALY,4.988,global,bto:0000042
+Nerve - Tibial,60-69,TTF1,4.905,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,RTL8A,4.778,global,bto:0000042
+Nerve - Tibial,60-69,STK25,4.996,global,bto:0000042
+Nerve - Tibial,60-69,BTBD7,4.959,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,ZNF324,4.898,global,bto:0000042
+Nerve - Tibial,60-69,GON4L,4.962,global,bto:0000042
+Nerve - Tibial,60-69,CAMSAP1,4.97,global,bto:0000042
+Nerve - Tibial,60-69,ZNF839,4.852,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,COPG2,4.944,global,bto:0000042
+Nerve - Tibial,60-69,OSBPL9,4.984,global,bto:0000042
+Nerve - Tibial,60-69,SETDB2,4.902,global,bto:0000042
+Nerve - Tibial,60-69,DVL2,4.978,global,bto:0000042
+Nerve - Tibial,60-69,CAPZB,4.996,global,bto:0000042
+Nerve - Tibial,60-69,AGO4,4.915,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,KLHDC2,4.989,global,bto:0000042
+Nerve - Tibial,60-69,GBF1,4.991,global,bto:0000042
+Nerve - Tibial,60-69,MTIF3,4.965,global,bto:0000042
+Nerve - Tibial,60-69,GOLGA2,4.985,global,bto:0000042
+Nerve - Tibial,60-69,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,MBTD1,4.895,global,bto:0000042
+Nerve - Tibial,60-69,RCBTB1,4.972,global,bto:0000042
+Nerve - Tibial,60-69,UBFD1,4.98,global,bto:0000042
+Nerve - Tibial,60-69,DNAAF9,,,
+Nerve - Tibial,60-69,COX15,4.974,global,bto:0000042
+Nerve - Tibial,60-69,PRKAB2,4.952,global,bto:0000042
+Nerve - Tibial,60-69,TAF1,5.0,global,alimentary canal
+Nerve - Tibial,60-69,ZMPSTE24-DT,,,
+Nerve - Tibial,60-69,ARHGEF11,4.968,global,bto:0000042
+Nerve - Tibial,60-69,SDCCAG8,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,TERF2,4.95,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GNG7,4.964,global,bto:0000042
+Nerve - Tibial,70-79,SCLT1,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LINC00662,1.942,global,liver cancer cell
+Nerve - Tibial,70-79,CABIN1,4.969,global,bto:0000042
+Nerve - Tibial,70-79,NMT2,4.877,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PLCD1,4.982,global,bto:0000042
+Nerve - Tibial,70-79,KDM8,4.895,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF311,4.304,global,bto:0000042
+Nerve - Tibial,70-79,EMSY-DT,,,
+Nerve - Tibial,70-79,PHF3,4.97,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SLC25A21-AS1,2.129,global,nci-h1688 cell
+Nerve - Tibial,70-79,C17ORF113,,,
+Nerve - Tibial,70-79,OCEL1,4.815,global,bto:0000042
+Nerve - Tibial,70-79,MTA1,4.987,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF594,4.627,global,bto:0000042
+Nerve - Tibial,70-79,ARIH2,4.993,global,bto:0000042
+Nerve - Tibial,70-79,PRIMPOL,4.855,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ACAD10,4.927,global,bto:0000042
+Nerve - Tibial,70-79,SCAF11,4.986,global,bto:0000042
+Nerve - Tibial,70-79,RAB9B,4.826,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DTWD1,4.928,global,bto:0000042
+Nerve - Tibial,70-79,RNASEH1-AS1,2.045,global,nci-h522 cell
+Nerve - Tibial,70-79,HEPH,4.944,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RPA2,4.988,global,bto:0000042
+Nerve - Tibial,70-79,ZC3H13,4.987,global,bto:0000042
+Nerve - Tibial,70-79,CRKL,4.989,global,bto:0000042
+Nerve - Tibial,70-79,EIF2AK4,4.959,global,bto:0000042
+Nerve - Tibial,70-79,DENND2B,4.992,global,bto:0000042
+Nerve - Tibial,70-79,ANKRD52,4.576,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,HECTD4,4.614,global,bto:0000042
+Nerve - Tibial,70-79,MRPS14,4.813,global,bto:0000042
+Nerve - Tibial,70-79,LINC01011,1.414,global,cal-27 cell
+Nerve - Tibial,70-79,ZNF485,4.538,global,bto:0000042
+Nerve - Tibial,70-79,GIT2,4.985,global,bto:0000042
+Nerve - Tibial,70-79,DZIP3,4.973,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,AKR7A2,4.978,global,bto:0000042
+Nerve - Tibial,70-79,YY1AP1,4.994,global,bto:0000042
+Nerve - Tibial,70-79,CCL28,4.711,global,bto:0000042
+Nerve - Tibial,70-79,CRAMP1,4.933,global,bto:0000042
+Nerve - Tibial,70-79,TTC5,4.92,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SRI,4.993,global,bto:0000042
+Nerve - Tibial,70-79,KIF2A,4.974,global,bto:0000042
+Nerve - Tibial,70-79,SCAPER,4.94,global,bto:0000042
+Nerve - Tibial,70-79,ZNF512,4.979,global,bto:0000042
+Nerve - Tibial,70-79,TMEM205,4.956,global,bto:0000042
+Nerve - Tibial,70-79,MRPS9,4.963,global,bto:0000042
+Nerve - Tibial,70-79,RPS6KC1,5.0,global,bladder
+Nerve - Tibial,70-79,CLASP2,4.991,global,bto:0000042
+Nerve - Tibial,70-79,GPATCH2L,4.391,global,bto:0000042
+Nerve - Tibial,70-79,ARHGEF17,4.974,global,bto:0000042
+Nerve - Tibial,70-79,CEP44,4.885,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,EPC1,4.982,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RNASEL,4.822,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,OBSL1,5.0,global,bto:0000042
+Nerve - Tibial,70-79,RFT1,4.867,global,bto:0000042
+Nerve - Tibial,70-79,CDC34,4.974,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ATXN7L1,4.505,global,bto:0000042
+Nerve - Tibial,70-79,CPSF6,5.0,global,bto:0000042
+Nerve - Tibial,70-79,FAM50B,4.774,global,bto:0000042
+Nerve - Tibial,70-79,MIEF2,4.934,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,VRK3,4.992,global,bto:0000042
+Nerve - Tibial,70-79,USP27X,4.312,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LNPEP,4.927,global,bto:0000042
+Nerve - Tibial,70-79,MED12,4.966,global,bto:0000042
+Nerve - Tibial,70-79,SIRT5,4.976,global,bto:0000042
+Nerve - Tibial,70-79,MTERF3,4.836,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TIMM29,4.797,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,UBE3B,4.978,global,bto:0000042
+Nerve - Tibial,70-79,PRXL2B,4.968,global,bto:0000042
+Nerve - Tibial,70-79,CTDSPL,4.983,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MMAB,4.944,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TRMT1L,4.452,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PACSIN3,4.939,global,bto:0000042
+Nerve - Tibial,70-79,NVL,4.958,global,bto:0000042
+Nerve - Tibial,70-79,WDCP,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CCDC97,4.948,global,bto:0000042
+Nerve - Tibial,70-79,SMUG1,4.959,global,bto:0000042
+Nerve - Tibial,70-79,ZNF775,4.866,global,bto:0000042
+Nerve - Tibial,70-79,MED29,4.993,global,bto:0000042
+Nerve - Tibial,70-79,ZSCAN21,4.927,global,bto:0000042
+Nerve - Tibial,70-79,TMEM9,4.992,global,bto:0000042
+Nerve - Tibial,70-79,ZNF616,4.975,global,bto:0000042
+Nerve - Tibial,70-79,PLCE1,4.918,global,bto:0000042
+Nerve - Tibial,70-79,PRKCSH,5.0,global,bto:0000042
+Nerve - Tibial,70-79,EIF4BP6,,,
+Nerve - Tibial,70-79,LTO1,4.869,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NNT-AS1,1.891,global,lung cancer cell
+Nerve - Tibial,70-79,HMGXB4,4.958,global,bto:0000042
+Nerve - Tibial,70-79,SNX13,4.961,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000242282,,,
+Nerve - Tibial,70-79,NACAD,4.828,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PHF2,4.927,global,bto:0000042
+Nerve - Tibial,70-79,WDR18,4.98,global,bto:0000042
+Nerve - Tibial,70-79,DYRK1B,4.944,global,bto:0000042
+Nerve - Tibial,70-79,CTPS2,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TTI1,4.964,global,bto:0000042
+Nerve - Tibial,70-79,ASAP2,4.987,global,bto:0000042
+Nerve - Tibial,70-79,OSGEPL1,4.853,global,bto:0000042
+Nerve - Tibial,70-79,TMED4,4.996,global,bto:0000042
+Nerve - Tibial,70-79,ZFP41,4.964,global,bto:0000042
+Nerve - Tibial,70-79,ING4,4.962,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CALHM2,4.953,global,bto:0000042
+Nerve - Tibial,70-79,TPCN2,4.913,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,METTL6,4.892,global,bto:0000042
+Nerve - Tibial,70-79,DGCR8,4.96,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CDC14B,4.951,global,bto:0000042
+Nerve - Tibial,70-79,RAB40C,4.967,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000274828,,,
+Nerve - Tibial,70-79,CBX6,4.962,global,bto:0000042
+Nerve - Tibial,70-79,ZNF592,5.0,global,adrenal gland
+Nerve - Tibial,70-79,CC2D2A,4.876,global,bto:0000042
+Nerve - Tibial,70-79,PPP1R21,4.881,global,bto:0000042
+Nerve - Tibial,70-79,RPAP1,4.974,global,bto:0000042
+Nerve - Tibial,70-79,BICRA,4.927,global,bto:0000042
+Nerve - Tibial,70-79,TARDBP,4.999,global,bto:0000042
+Nerve - Tibial,70-79,METTL3,4.996,global,bto:0000042
+Nerve - Tibial,70-79,SLC16A2,4.64,global,bto:0000042
+Nerve - Tibial,70-79,NMNAT1,4.886,global,bto:0000042
+Nerve - Tibial,70-79,CPS1,4.976,global,bto:0000042
+Nerve - Tibial,70-79,CBR1,4.988,global,bto:0000042
+Nerve - Tibial,70-79,ERV3-1,3.862,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF836,4.684,global,bto:0000042
+Nerve - Tibial,70-79,ANKRA2,4.945,global,bto:0000042
+Nerve - Tibial,70-79,ZNF197,4.875,global,bto:0000042
+Nerve - Tibial,70-79,SNUPN,4.973,global,bto:0000042
+Nerve - Tibial,70-79,ZNF226,4.929,global,bto:0000042
+Nerve - Tibial,70-79,AMOT,4.941,global,bto:0000042
+Nerve - Tibial,70-79,CUL1,4.995,global,bto:0000042
+Nerve - Tibial,70-79,PANK4,4.964,global,bto:0000042
+Nerve - Tibial,70-79,LINC00869,1.096,global,renal cell carcinoma cell
+Nerve - Tibial,70-79,CEPT1,4.917,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,AQR,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,C14ORF28,4.668,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FBXO25,4.941,global,bto:0000042
+Nerve - Tibial,70-79,GATD1,4.929,global,bto:0000042
+Nerve - Tibial,70-79,C1ORF216,4.634,global,bto:0000042
+Nerve - Tibial,70-79,CNNM3,4.945,global,bto:0000042
+Nerve - Tibial,70-79,ZCWPW2,4.571,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TAOK1,4.979,global,bto:0000042
+Nerve - Tibial,70-79,APBB1,4.99,global,bto:0000042
+Nerve - Tibial,70-79,ZNF33B,4.935,global,bto:0000042
+Nerve - Tibial,70-79,TEP1,4.925,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SCAF1,4.937,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PPP6R3,4.99,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FHIP1A,,,
+Nerve - Tibial,70-79,DFFA,4.985,global,bto:0000042
+Nerve - Tibial,70-79,GALT,4.981,global,bto:0000042
+Nerve - Tibial,70-79,SQSTM1,5.0,global,bto:0000042
+Nerve - Tibial,70-79,CXXC5,4.988,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KMT2C,4.988,global,bto:0000042
+Nerve - Tibial,70-79,TAF4,4.446,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,UBE2E1,4.972,global,bto:0000042
+Nerve - Tibial,70-79,METTL25,4.699,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DDX17,4.999,global,bto:0000042
+Nerve - Tibial,70-79,MSL2,4.921,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ATXN7L3B,4.24,global,bto:0000042
+Nerve - Tibial,70-79,FOXJ2,4.902,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,OXSR1,4.955,global,bto:0000042
+Nerve - Tibial,70-79,PTCD1,4.292,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RNMT,4.971,global,bto:0000042
+Nerve - Tibial,70-79,RYK,4.963,global,bto:0000042
+Nerve - Tibial,70-79,EIF4A2,5.0,global,bto:0000042
+Nerve - Tibial,70-79,MAP3K4,4.949,global,bto:0000042
+Nerve - Tibial,70-79,WDR20,4.969,global,bto:0000042
+Nerve - Tibial,70-79,AKTIP,4.98,global,bto:0000042
+Nerve - Tibial,70-79,MAPRE3,4.984,global,bto:0000042
+Nerve - Tibial,70-79,TMEM175,4.944,global,bto:0000042
+Nerve - Tibial,70-79,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CYP2R1,4.92,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,INKA1,4.452,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Nerve - Tibial,70-79,GPATCH1,4.847,global,bto:0000042
+Nerve - Tibial,70-79,DNAJC19,4.978,global,bto:0000042
+Nerve - Tibial,70-79,RFFL,4.941,global,bto:0000042
+Nerve - Tibial,70-79,TSHZ1,4.93,global,bto:0000042
+Nerve - Tibial,70-79,CDC42BPA,4.978,global,bto:0000042
+Nerve - Tibial,70-79,STX18,4.941,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SCAMP4,4.987,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RPAIN,4.974,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TCFL5,4.926,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TRERF1,4.87,global,bto:0000042
+Nerve - Tibial,70-79,LRSAM1,4.961,global,bto:0000042
+Nerve - Tibial,70-79,RO60,4.978,global,bto:0000042
+Nerve - Tibial,70-79,RBFOX2,4.993,global,bto:0000042
+Nerve - Tibial,70-79,LSS,4.994,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PCMTD1,4.98,global,bto:0000042
+Nerve - Tibial,70-79,HNRNPL,4.989,global,bto:0000042
+Nerve - Tibial,70-79,TTI2,4.863,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PDPK1,4.99,global,bto:0000042
+Nerve - Tibial,70-79,NIN,4.964,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ACD,4.969,global,bto:0000042
+Nerve - Tibial,70-79,HDAC11,4.983,global,bto:0000042
+Nerve - Tibial,70-79,RANP4,,,
+Nerve - Tibial,70-79,DCP1B,4.921,global,bto:0000042
+Nerve - Tibial,70-79,TBC1D10B,4.945,global,bto:0000042
+Nerve - Tibial,70-79,BAHD1,4.937,global,bto:0000042
+Nerve - Tibial,70-79,DPF2,4.988,global,bto:0000042
+Nerve - Tibial,70-79,FANCF,4.954,global,bto:0000042
+Nerve - Tibial,70-79,ACOX2,4.884,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PHIP,4.98,global,bto:0000042
+Nerve - Tibial,70-79,ZSCAN29,4.859,global,bto:0000042
+Nerve - Tibial,70-79,LINC00663,1.466,global,hgc-27 cell
+Nerve - Tibial,70-79,TMEM116,4.897,global,bto:0000042
+Nerve - Tibial,70-79,FBXO3,4.987,global,bto:0000042
+Nerve - Tibial,70-79,METTL18,4.931,global,bto:0000042
+Nerve - Tibial,70-79,ZBTB14,4.926,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MAGOHB,4.933,global,bto:0000042
+Nerve - Tibial,70-79,C2CD5,4.476,global,bto:0000042
+Nerve - Tibial,70-79,MRPL48,4.947,global,bto:0000042
+Nerve - Tibial,70-79,PINLYP,4.157,global,bto:0000042
+Nerve - Tibial,70-79,SELENOW,4.995,global,bto:0000042
+Nerve - Tibial,70-79,XYLT2,4.83,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZC3H14,4.985,global,bto:0000042
+Nerve - Tibial,70-79,ZNF324,4.898,global,bto:0000042
+Nerve - Tibial,70-79,BOLA3-AS1,1.32,global,k22
+Nerve - Tibial,70-79,QDPR,4.994,global,bto:0000042
+Nerve - Tibial,70-79,RAE1,4.992,global,bto:0000042
+Nerve - Tibial,70-79,IVD,4.986,global,bto:0000042
+Nerve - Tibial,70-79,TMCC1,4.952,global,bto:0000042
+Nerve - Tibial,70-79,USE1,4.889,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DDB2,4.974,global,bto:0000042
+Nerve - Tibial,70-79,SETDB2,4.902,global,bto:0000042
+Nerve - Tibial,70-79,MUS81,4.978,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CLASRP,4.631,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CAPZB,4.996,global,bto:0000042
+Nerve - Tibial,70-79,EPG5,4.917,global,bto:0000042
+Nerve - Tibial,70-79,MTIF3,4.965,global,bto:0000042
+Nerve - Tibial,70-79,SLF2,4.954,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MED11,4.875,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF263,4.972,global,bto:0000042
+Nerve - Tibial,70-79,ACSS1,4.987,global,bto:0000042
+Nerve - Tibial,70-79,DNAAF9,,,
+Nerve - Tibial,70-79,MBD1,4.989,global,bto:0000042
+Nerve - Tibial,70-79,KAT6B,4.96,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,EEF1AKMT1,4.761,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FOXO3B,1.43,global,electrocyte
+Nerve - Tibial,70-79,DYNC1LI1,4.974,global,bto:0000042
+Nerve - Tibial,70-79,STAG1,4.972,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MCEE,4.897,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NUP160,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF618,4.928,global,bto:0000042
+Nerve - Tibial,70-79,FRG1BP,,,
+Nerve - Tibial,70-79,PPCDC,4.872,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MTX3,4.899,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ENSG00000272462,,,
+Nerve - Tibial,70-79,SREBF2,4.996,global,bto:0000042
+Nerve - Tibial,70-79,MARCHF8,4.991,global,bto:0000042
+Nerve - Tibial,70-79,MMP28,4.929,global,bto:0000042
+Nerve - Tibial,70-79,ZSWIM3,4.734,global,bto:0000042
+Nerve - Tibial,70-79,VAPB,4.992,global,bto:0000042
+Nerve - Tibial,70-79,ALG12,4.92,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GNB1,4.996,global,bto:0000042
+Nerve - Tibial,70-79,TAB3,4.89,global,bto:0000042
+Nerve - Tibial,70-79,ARHGEF9,4.971,global,bto:0000042
+Nerve - Tibial,70-79,PAAF1,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PPIP5K1,4.953,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TSTD2,4.808,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SIDT2,4.981,global,bto:0000042
+Nerve - Tibial,70-79,NUDT6,4.72,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LYRM7,4.905,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PRPF8,5.0,global,bto:0000042
+Nerve - Tibial,70-79,KBTBD3,4.72,global,bto:0000042
+Nerve - Tibial,70-79,DYRK1A,4.979,global,bto:0000042
+Nerve - Tibial,70-79,C17ORF100,3.67,global,bto:0000042
+Nerve - Tibial,70-79,MINDY2,4.88,global,bto:0000042
+Nerve - Tibial,70-79,UPF2,4.947,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LYRM1,4.938,global,bto:0000042
+Nerve - Tibial,70-79,HELZ,4.96,global,bto:0000042
+Nerve - Tibial,70-79,NOL4L,4.949,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NUMA1,5.0,global,adrenal gland
+Nerve - Tibial,70-79,MRM3,4.94,global,bto:0000042
+Nerve - Tibial,70-79,FAM168A,4.968,global,bto:0000042
+Nerve - Tibial,70-79,ZNF260,4.237,global,bto:0000042
+Nerve - Tibial,70-79,STK11,4.984,global,bto:0000042
+Nerve - Tibial,70-79,HIKESHI,4.954,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PHAF1,,,
+Nerve - Tibial,70-79,VPS13B,4.955,global,bto:0000042
+Nerve - Tibial,70-79,PTK2,4.997,global,bto:0000042
+Nerve - Tibial,70-79,ERCC2,4.942,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TUBG2,4.984,global,bto:0000042
+Nerve - Tibial,70-79,UBL4A,4.981,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ELK4,4.967,global,bto:0000042
+Nerve - Tibial,70-79,ZNF138,4.771,global,bto:0000042
+Nerve - Tibial,70-79,MORF4L1P1,,,
+Nerve - Tibial,70-79,ZFP30,4.713,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TBC1D20,4.962,global,bto:0000042
+Nerve - Tibial,70-79,ARHGEF18,4.959,global,bto:0000042
+Nerve - Tibial,70-79,LNCTAM34A,,,
+Nerve - Tibial,70-79,RAF1,4.996,global,bto:0000042
+Nerve - Tibial,70-79,UBE4B,4.989,global,bto:0000042
+Nerve - Tibial,70-79,C7ORF26,4.893,global,bto:0000042
+Nerve - Tibial,70-79,PRPF40B,4.879,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,URI1,4.974,global,bto:0000042
+Nerve - Tibial,70-79,TMEM63B,4.948,global,bto:0000042
+Nerve - Tibial,70-79,ASXL3,4.803,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,USP42,4.965,global,bto:0000042
+Nerve - Tibial,70-79,L3MBTL1,4.875,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PTCD2,4.828,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,HDAC1,4.998,global,bto:0000042
+Nerve - Tibial,70-79,MTMR3,4.979,global,bto:0000042
+Nerve - Tibial,70-79,AMZ2,4.987,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DMWD,4.937,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,OTUD5,4.978,global,bto:0000042
+Nerve - Tibial,70-79,CWC27,4.927,global,bto:0000042
+Nerve - Tibial,70-79,CERK,4.967,global,bto:0000042
+Nerve - Tibial,70-79,SPATA7,4.934,global,bto:0000042
+Nerve - Tibial,70-79,ACADSB,4.958,global,bto:0000042
+Nerve - Tibial,70-79,PRRC2C,4.994,global,bto:0000042
+Nerve - Tibial,70-79,EFNA4,4.158,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KRBA1,3.709,global,bto:0000042
+Nerve - Tibial,70-79,PRMT2,4.995,global,bto:0000042
+Nerve - Tibial,70-79,NIPSNAP1,4.989,global,bto:0000042
+Nerve - Tibial,70-79,MSH6,4.988,global,bto:0000042
+Nerve - Tibial,70-79,KLHL36,4.817,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NAPRT,4.97,global,bto:0000042
+Nerve - Tibial,70-79,TASOR,4.968,global,bto:0000042
+Nerve - Tibial,70-79,PXMP4,4.865,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,BRD7,4.981,global,bto:0000042
+Nerve - Tibial,70-79,TYSND1,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZBTB7A,4.97,global,bto:0000042
+Nerve - Tibial,70-79,BLOC1S5,4.859,global,bto:0000042
+Nerve - Tibial,70-79,EPB41L2,4.993,global,bto:0000042
+Nerve - Tibial,70-79,DCAKD,4.853,global,bto:0000042
+Nerve - Tibial,70-79,MLH3,4.934,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,METTL2A,4.91,global,bto:0000042
+Nerve - Tibial,70-79,IGSF8,4.975,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TMEM254,4.979,global,bto:0000042
+Nerve - Tibial,70-79,SNX2,4.991,global,bto:0000042
+Nerve - Tibial,70-79,SPACA9,4.854,global,bto:0000042
+Nerve - Tibial,70-79,ANKRD17,4.989,global,bto:0000042
+Nerve - Tibial,70-79,VGLL4,4.989,global,bto:0000042
+Nerve - Tibial,70-79,NSD2,4.988,global,bto:0000042
+Nerve - Tibial,70-79,TP73-AS1,2.035,global,glioma cell
+Nerve - Tibial,70-79,R3HDM2,4.917,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ANKRD16,4.728,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FAM86C2P,,,
+Nerve - Tibial,70-79,HAUS4,4.978,global,bto:0000042
+Nerve - Tibial,70-79,SSBP2,4.971,global,bto:0000042
+Nerve - Tibial,70-79,DAXX,4.992,global,bto:0000042
+Nerve - Tibial,70-79,TCEA2,4.976,global,bto:0000042
+Nerve - Tibial,70-79,UNC13B,4.978,global,bto:0000042
+Nerve - Tibial,70-79,CTCF,4.979,global,bto:0000042
+Nerve - Tibial,70-79,TFAP4,4.724,global,bto:0000042
+Nerve - Tibial,70-79,HEATR5B,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TSPAN31,4.947,global,bto:0000042
+Nerve - Tibial,70-79,FAM120AOS,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,QRSL1,4.969,global,bto:0000042
+Nerve - Tibial,70-79,IFTAP,,,
+Nerve - Tibial,70-79,PWWP2A,4.84,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ARSA,4.992,global,bto:0000042
+Nerve - Tibial,70-79,STK4,4.961,global,bto:0000042
+Nerve - Tibial,70-79,DNAJC17,4.801,global,bto:0000042
+Nerve - Tibial,70-79,AKAP8L,4.997,global,bto:0000042
+Nerve - Tibial,70-79,C1ORF35,4.885,global,bto:0000042
+Nerve - Tibial,70-79,NUP62,4.996,global,bto:0000042
+Nerve - Tibial,70-79,ALDH3A2,4.991,global,bto:0000042
+Nerve - Tibial,70-79,SETD2,4.987,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FAM98C,4.856,global,bto:0000042
+Nerve - Tibial,70-79,IDS,4.998,global,bto:0000042
+Nerve - Tibial,70-79,VIRMA,4.977,global,bto:0000042
+Nerve - Tibial,70-79,TUB,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,UFSP2,4.962,global,bto:0000042
+Nerve - Tibial,70-79,DIDO1,4.984,global,bto:0000042
+Nerve - Tibial,70-79,CEP89,4.446,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DIS3L2,4.941,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MAGED2,4.997,global,bto:0000042
+Nerve - Tibial,70-79,ALKBH8,4.857,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ITGB4,4.989,global,bto:0000042
+Nerve - Tibial,70-79,CCDC28A,4.744,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SERP2,4.828,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PJA1,4.976,global,bto:0000042
+Nerve - Tibial,70-79,ZFP14,4.632,global,bto:0000042
+Nerve - Tibial,70-79,HIF1AN,4.976,global,bto:0000042
+Nerve - Tibial,70-79,CREBBP,4.986,global,bto:0000042
+Nerve - Tibial,70-79,LLPH,4.873,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ESS2,4.973,global,bto:0000042
+Nerve - Tibial,70-79,GSTK1,4.99,global,bto:0000042
+Nerve - Tibial,70-79,LRIG3,4.561,global,bto:0000042
+Nerve - Tibial,70-79,NCOA6,4.975,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LINC00957,1.563,global,colonic epithelium cell line
+Nerve - Tibial,70-79,SETD5,4.991,global,bto:0000042
+Nerve - Tibial,70-79,ZNF610,4.725,global,bto:0000042
+Nerve - Tibial,70-79,SNRPD3,4.975,global,bto:0000042
+Nerve - Tibial,70-79,CEP83-DT,,,
+Nerve - Tibial,70-79,MTF1,4.959,global,bto:0000042
+Nerve - Tibial,70-79,EP400,4.982,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ANXA2R,4.458,global,bto:0000042
+Nerve - Tibial,70-79,FBXO17,4.319,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ENSG00000259969,,,
+Nerve - Tibial,70-79,PPP6R2,4.986,global,bto:0000042
+Nerve - Tibial,70-79,PATZ1,4.952,global,bto:0000042
+Nerve - Tibial,70-79,PCYOX1L,4.942,global,bto:0000042
+Nerve - Tibial,70-79,TTLL1,4.918,global,bto:0000042
+Nerve - Tibial,70-79,LINC01881,,,
+Nerve - Tibial,70-79,TARS2,4.974,global,bto:0000042
+Nerve - Tibial,70-79,FUS,4.999,global,bto:0000042
+Nerve - Tibial,70-79,RRP8,4.956,global,bto:0000042
+Nerve - Tibial,70-79,STRIP1,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FGGY,4.902,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PAIP2B,4.901,global,bto:0000042
+Nerve - Tibial,70-79,MIOS,4.944,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GLG1,4.994,global,bto:0000042
+Nerve - Tibial,70-79,ARHGEF28,4.633,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CFAP20,4.975,global,bto:0000042
+Nerve - Tibial,70-79,PHF21A,4.97,global,bto:0000042
+Nerve - Tibial,70-79,ARID1B,4.965,global,bto:0000042
+Nerve - Tibial,70-79,RHOT1,4.97,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,AFMID,4.832,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ARMC7,4.945,global,bto:0000042
+Nerve - Tibial,70-79,BCL9,4.892,global,bto:0000042
+Nerve - Tibial,70-79,ZNF566-AS1,,,
+Nerve - Tibial,70-79,PUM1,4.995,global,bto:0000042
+Nerve - Tibial,70-79,CIZ1,4.993,global,bto:0000042
+Nerve - Tibial,70-79,DDX42,4.982,global,bto:0000042
+Nerve - Tibial,70-79,PHF12,4.951,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZC3H10,4.897,global,bto:0000042
+Nerve - Tibial,70-79,NDN,4.977,global,bto:0000042
+Nerve - Tibial,70-79,PPP1R16A,4.967,global,bto:0000042
+Nerve - Tibial,70-79,C2ORF42,4.963,global,bto:0000042
+Nerve - Tibial,70-79,DSTNP2,,,
+Nerve - Tibial,70-79,MYO18A,4.979,global,bto:0000042
+Nerve - Tibial,70-79,ZNF425,4.641,global,bto:0000042
+Nerve - Tibial,70-79,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DLG3,4.959,global,bto:0000042
+Nerve - Tibial,70-79,STK25,4.996,global,bto:0000042
+Nerve - Tibial,70-79,ARGLU1,4.99,global,bto:0000042
+Nerve - Tibial,70-79,CMC4,4.464,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CAMSAP1,4.97,global,bto:0000042
+Nerve - Tibial,70-79,GON4L,4.962,global,bto:0000042
+Nerve - Tibial,70-79,FRS3,4.694,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MORC2,4.974,global,bto:0000042
+Nerve - Tibial,70-79,MBOAT2,4.991,global,bto:0000042
+Nerve - Tibial,70-79,NAT14,4.96,global,bto:0000042
+Nerve - Tibial,70-79,MRGBP,4.955,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NBEA,4.965,global,bto:0000042
+Nerve - Tibial,70-79,ARHGEF6,4.952,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SPEF2,4.847,global,bto:0000042
+Nerve - Tibial,70-79,C3ORF14,4.894,global,bto:0000042
+Nerve - Tibial,70-79,AGO4,4.915,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GBF1,4.991,global,bto:0000042
+Nerve - Tibial,70-79,STX10,4.958,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,AK9,4.861,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MBTD1,4.895,global,bto:0000042
+Nerve - Tibial,70-79,RCBTB1,4.972,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000261663,,,
+Nerve - Tibial,70-79,JPT2,4.991,global,bto:0000042
+Nerve - Tibial,70-79,BCORL1,4.879,global,bto:0000042
+Nerve - Tibial,70-79,COMT,4.998,global,bto:0000042
+Nerve - Tibial,70-79,ANKRD35,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TAF1,5.0,global,alimentary canal
+Nerve - Tibial,70-79,TERF2IP,4.996,global,bto:0000042
+Nerve - Tibial,70-79,ARHGEF11,4.968,global,bto:0000042
+Nerve - Tibial,70-79,TERF2,4.95,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CPSF7,4.992,global,bto:0000042
+Nerve - Tibial,70-79,PGBD2,4.819,global,bto:0000042
+Nerve - Tibial,70-79,KIAA0586,4.927,global,bto:0000042
+Nerve - Tibial,70-79,NFS1,4.989,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF79,4.737,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LIN7B,4.7,global,bto:0000042
+Nerve - Tibial,70-79,RFC5,4.99,global,bto:0000042
+Nerve - Tibial,70-79,IFT46,4.962,global,bto:0000042
+Nerve - Tibial,70-79,NUMB,4.992,global,bto:0000042
+Nerve - Tibial,70-79,NUP37,4.904,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FAN1,4.92,global,bto:0000042
+Nerve - Tibial,70-79,AMN1,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,HOXD-AS2,1.932,global,ln-229 cell
+Nerve - Tibial,70-79,INO80,4.941,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ARMCX3,4.988,global,bto:0000042
+Nerve - Tibial,70-79,LRRC27,4.59,global,bto:0000042
+Nerve - Tibial,70-79,IPO8,4.968,global,bto:0000042
+Nerve - Tibial,70-79,CALHM5,4.766,global,bto:0000042
+Nerve - Tibial,70-79,CRYZL1,4.956,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,OGA,4.998,global,bto:0000042
+Nerve - Tibial,70-79,CEP104,4.914,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF132,4.0,global,adenocarcinoma cell
+Nerve - Tibial,70-79,FAM120B,4.972,global,bto:0000042
+Nerve - Tibial,70-79,ITFG2,4.942,global,bto:0000042
+Nerve - Tibial,70-79,KIAA2026,4.862,global,bto:0000042
+Nerve - Tibial,70-79,LIX1L,4.863,global,bto:0000042
+Nerve - Tibial,70-79,GSTA4,4.981,global,bto:0000042
+Nerve - Tibial,70-79,MMAA,4.789,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CDKL3,4.766,global,bto:0000042
+Nerve - Tibial,70-79,C4ORF3,4.991,global,bto:0000042
+Nerve - Tibial,70-79,SPG11,4.985,global,bto:0000042
+Nerve - Tibial,70-79,SMURF2P1,,,
+Nerve - Tibial,70-79,HDAC3,4.983,global,bto:0000042
+Nerve - Tibial,70-79,MAF1,4.986,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SLTM,4.978,global,bto:0000042
+Nerve - Tibial,70-79,ZNF200,4.886,global,bto:0000042
+Nerve - Tibial,70-79,PPM1D,4.95,global,bto:0000042
+Nerve - Tibial,70-79,PTPN23,4.961,global,bto:0000042
+Nerve - Tibial,70-79,DIP2C,4.836,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DSTYK,4.955,global,bto:0000042
+Nerve - Tibial,70-79,SBF1,4.985,global,bto:0000042
+Nerve - Tibial,70-79,PPIG,4.993,global,bto:0000042
+Nerve - Tibial,70-79,JUP,4.992,global,bto:0000042
+Nerve - Tibial,70-79,SLC46A1,4.938,global,bto:0000042
+Nerve - Tibial,70-79,ZNF516-AS1,,,
+Nerve - Tibial,70-79,UBE3A,4.992,global,bto:0000042
+Nerve - Tibial,70-79,C11ORF68,4.918,global,bto:0000042
+Nerve - Tibial,70-79,SUCLG2,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PARP4,4.964,global,bto:0000042
+Nerve - Tibial,70-79,ZZZ3,4.961,global,bto:0000042
+Nerve - Tibial,70-79,NUDT2,4.979,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,UNC45A,4.994,global,bto:0000042
+Nerve - Tibial,70-79,KPNA5,4.899,global,bto:0000042
+Nerve - Tibial,70-79,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZXDC,4.978,global,bto:0000042
+Nerve - Tibial,70-79,DCAF8,4.992,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,BRF2,4.947,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TFCP2,4.974,global,bto:0000042
+Nerve - Tibial,70-79,LLGL1,4.973,global,bto:0000042
+Nerve - Tibial,70-79,MCM9,4.971,global,bto:0000042
+Nerve - Tibial,70-79,NSMCE3,4.818,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NPHP4,4.926,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,REV1,4.95,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF554,4.6,global,bto:0000042
+Nerve - Tibial,70-79,ACBD4,4.883,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LZIC,4.921,global,bto:0000042
+Nerve - Tibial,70-79,POLDIP3,4.998,global,bto:0000042
+Nerve - Tibial,70-79,FAM172A,4.958,global,bto:0000042
+Nerve - Tibial,70-79,ZNF696,4.583,global,bto:0000042
+Nerve - Tibial,70-79,EHMT2,4.986,global,bto:0000042
+Nerve - Tibial,70-79,NIPBL,4.977,global,bto:0000042
+Nerve - Tibial,70-79,CNTLN,4.821,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DYNLT2B,,,
+Nerve - Tibial,70-79,SUDS3,4.95,global,bto:0000042
+Nerve - Tibial,70-79,SLC22A17,4.966,global,bto:0000042
+Nerve - Tibial,70-79,METTL16,4.974,global,bto:0000042
+Nerve - Tibial,70-79,OPTN,4.992,global,bto:0000042
+Nerve - Tibial,70-79,PEG3,4.986,global,bto:0000042
+Nerve - Tibial,70-79,PPP1R9B,4.544,global,bto:0000042
+Nerve - Tibial,70-79,MAGEE1,4.931,global,bto:0000042
+Nerve - Tibial,70-79,KDM4C,4.968,global,bto:0000042
+Nerve - Tibial,70-79,C6ORF136,4.264,global,bto:0000042
+Nerve - Tibial,70-79,CLYBL,4.923,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RCCD1,4.914,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ENSG00000239665,,,
+Nerve - Tibial,70-79,VPS37D,4.622,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SAP18,4.995,global,bto:0000042
+Nerve - Tibial,70-79,PPDPF,4.99,global,bto:0000042
+Nerve - Tibial,70-79,CDCA4,4.944,global,bto:0000042
+Nerve - Tibial,70-79,DDX6,4.961,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF526,4.916,global,bto:0000042
+Nerve - Tibial,70-79,SAFB,4.995,global,bto:0000042
+Nerve - Tibial,70-79,NFKBIL1,4.906,global,bto:0000042
+Nerve - Tibial,70-79,NRN1,4.963,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,C7ORF50,4.984,global,bto:0000042
+Nerve - Tibial,70-79,PRPF38A,4.977,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZBTB9,4.844,global,bto:0000042
+Nerve - Tibial,70-79,FAM161B,4.879,global,bto:0000042
+Nerve - Tibial,70-79,ARMCX2,4.96,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KLF12,4.941,global,bto:0000042
+Nerve - Tibial,70-79,USP19,4.965,global,bto:0000042
+Nerve - Tibial,70-79,KDM2A,4.984,global,bto:0000042
+Nerve - Tibial,70-79,DYNC1LI2,4.995,global,bto:0000042
+Nerve - Tibial,70-79,SRSF8,4.263,global,bto:0000042
+Nerve - Tibial,70-79,TTC9C,4.404,global,bto:0000042
+Nerve - Tibial,70-79,SETDB1,4.985,global,bto:0000042
+Nerve - Tibial,70-79,SPECC1L,4.971,global,bto:0000042
+Nerve - Tibial,70-79,PEX11G,4.451,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,COQ6,4.967,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LRBA,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NUP133,4.99,global,bto:0000042
+Nerve - Tibial,70-79,STIMATE,4.288,global,bto:0000042
+Nerve - Tibial,70-79,PAFAH1B1,4.995,global,bto:0000042
+Nerve - Tibial,70-79,MARF1,4.976,global,bto:0000042
+Nerve - Tibial,70-79,COQ7,4.927,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SKIV2L,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KIAA1217,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,COPB1,4.997,global,bto:0000042
+Nerve - Tibial,70-79,BCAP29,4.988,global,bto:0000042
+Nerve - Tibial,70-79,TGIF2,4.915,global,bto:0000042
+Nerve - Tibial,70-79,AASDH,4.901,global,bto:0000042
+Nerve - Tibial,70-79,ZFPM1,4.738,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CASC3,4.994,global,bto:0000042
+Nerve - Tibial,70-79,BEND5,4.928,global,bto:0000042
+Nerve - Tibial,70-79,UBE2I,4.994,global,bto:0000042
+Nerve - Tibial,70-79,FER,4.803,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,HMGCL,4.983,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NBPF12,4.227,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,BTBD10,4.97,global,bto:0000042
+Nerve - Tibial,70-79,APLF,4.772,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MLH1,4.993,global,bto:0000042
+Nerve - Tibial,70-79,KANTR,,,
+Nerve - Tibial,70-79,THEM4,4.533,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PRIM1,4.892,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,OXCT1-AS1,1.49,global,urinary bladder cancer cell
+Nerve - Tibial,70-79,INO80D,4.926,global,bto:0000042
+Nerve - Tibial,70-79,TDRKH,4.928,global,bto:0000042
+Nerve - Tibial,70-79,ABCB7,4.963,global,bto:0000042
+Nerve - Tibial,70-79,PHLDB1,4.986,global,bto:0000042
+Nerve - Tibial,70-79,FAM193A,4.6,global,bto:0000042
+Nerve - Tibial,70-79,HDHD2,4.97,global,bto:0000042
+Nerve - Tibial,70-79,MAP1LC3A,4.912,global,bto:0000042
+Nerve - Tibial,70-79,AQP11,4.734,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZBTB45,4.937,global,bto:0000042
+Nerve - Tibial,70-79,NOP14-AS1,1.717,global,papillary renal cell carcinoma cell
+Nerve - Tibial,70-79,PIK3R2,4.98,global,bto:0000042
+Nerve - Tibial,70-79,TRRAP,4.964,global,bto:0000042
+Nerve - Tibial,70-79,BACE1-AS,2.247,global,alzheimer disease specific cell type
+Nerve - Tibial,70-79,TMEM69,4.996,global,bto:0000042
+Nerve - Tibial,70-79,DEAF1,4.976,global,bto:0000042
+Nerve - Tibial,70-79,LENG1,4.498,global,bto:0000042
+Nerve - Tibial,70-79,CCDC93,4.964,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MTFMT,4.732,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RSBN1L,4.927,global,bto:0000042
+Nerve - Tibial,70-79,ABCD4,4.977,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000289436,,,
+Nerve - Tibial,70-79,SPATC1L,4.491,global,male reproductive system
+Nerve - Tibial,70-79,AGPAT3,4.987,global,bto:0000042
+Nerve - Tibial,70-79,NCOA2,4.918,global,bto:0000042
+Nerve - Tibial,70-79,TMEM177,4.88,global,bto:0000042
+Nerve - Tibial,70-79,MBD4,4.979,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PSIP1,4.978,global,bto:0000042
+Nerve - Tibial,70-79,TTC28,4.977,global,bto:0000042
+Nerve - Tibial,70-79,SEPTIN9,4.999,global,bto:0000042
+Nerve - Tibial,70-79,THAP11,4.962,global,bto:0000042
+Nerve - Tibial,70-79,SMU1,4.917,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,VIPAS39,4.963,global,bto:0000042
+Nerve - Tibial,70-79,UPF3A,4.971,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TTC31,4.626,global,bto:0000042
+Nerve - Tibial,70-79,SCRN3,4.928,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SNX30,4.856,global,bto:0000042
+Nerve - Tibial,70-79,NCOR2,4.991,global,bto:0000042
+Nerve - Tibial,70-79,ANKRD6,4.92,global,bto:0000042
+Nerve - Tibial,70-79,SLC2A4RG,4.975,global,bto:0000042
+Nerve - Tibial,70-79,ANKMY2,4.945,global,bto:0000042
+Nerve - Tibial,70-79,RPUSD3,4.96,global,bto:0000042
+Nerve - Tibial,70-79,BACH2,4.892,global,bto:0000042
+Nerve - Tibial,70-79,ADNP,4.988,global,bto:0000042
+Nerve - Tibial,70-79,CHD8,4.977,global,bto:0000042
+Nerve - Tibial,70-79,ZNF606,4.883,global,bto:0000042
+Nerve - Tibial,70-79,TCF3,4.955,global,bto:0000042
+Nerve - Tibial,70-79,PLPBP,4.974,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZBTB4,4.977,global,bto:0000042
+Nerve - Tibial,70-79,ATP6V0E2,4.995,global,bto:0000042
+Nerve - Tibial,70-79,BOLA1,4.81,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF563,4.895,global,bto:0000042
+Nerve - Tibial,70-79,AARS2,4.893,global,bto:0000042
+Nerve - Tibial,70-79,EMC10,4.98,global,bto:0000042
+Nerve - Tibial,70-79,WASHC2C,4.409,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SLC9A3R1,4.999,global,bto:0000042
+Nerve - Tibial,70-79,GLOD4,4.983,global,bto:0000042
+Nerve - Tibial,70-79,RIC8A,4.997,global,bto:0000042
+Nerve - Tibial,70-79,LARP7,4.992,global,bto:0000042
+Nerve - Tibial,70-79,QSOX1,4.999,global,bto:0000042
+Nerve - Tibial,70-79,CUL2,4.98,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ERCC5,4.984,global,bto:0000042
+Nerve - Tibial,70-79,ANP32A,4.992,global,bto:0000042
+Nerve - Tibial,70-79,SMAD2,4.991,global,bto:0000042
+Nerve - Tibial,70-79,THTPA,4.96,global,bto:0000042
+Nerve - Tibial,70-79,RILPL1,4.877,global,bto:0000042
+Nerve - Tibial,70-79,DYNLL2,4.819,global,bto:0000042
+Nerve - Tibial,70-79,TRIM65,4.86,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,VPS45,4.988,global,bto:0000042
+Nerve - Tibial,70-79,NAE1,4.987,global,bto:0000042
+Nerve - Tibial,70-79,ATF7IP,4.979,global,bto:0000042
+Nerve - Tibial,70-79,MGMT,4.954,global,bto:0000042
+Nerve - Tibial,70-79,AMBRA1,4.959,global,bto:0000042
+Nerve - Tibial,70-79,TMEM263-DT,,,
+Nerve - Tibial,70-79,TMEM109,4.986,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000258559,,,
+Nerve - Tibial,70-79,RNF34,4.981,global,bto:0000042
+Nerve - Tibial,70-79,DLG5,4.987,global,bto:0000042
+Nerve - Tibial,70-79,LRRC37BP1,,,
+Nerve - Tibial,70-79,ATP7B,4.937,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ENSG00000204745,,,
+Nerve - Tibial,70-79,FAM219A,4.766,global,bto:0000042
+Nerve - Tibial,70-79,ZNF579,4.558,global,bto:0000042
+Nerve - Tibial,70-79,POC5,4.957,global,bto:0000042
+Nerve - Tibial,70-79,SALL2,4.98,global,bto:0000042
+Nerve - Tibial,70-79,TBC1D9B,4.988,global,bto:0000042
+Nerve - Tibial,70-79,GPS1,4.996,global,bto:0000042
+Nerve - Tibial,70-79,NRF1,4.907,global,bto:0000042
+Nerve - Tibial,70-79,THEM6,4.98,global,bto:0000042
+Nerve - Tibial,70-79,IFT172,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PCNX4,4.957,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ARMCX1,4.959,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RALY,4.988,global,bto:0000042
+Nerve - Tibial,70-79,CDK19,4.942,global,bto:0000042
+Nerve - Tibial,70-79,TTF1,4.905,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,HADHA,4.998,global,bto:0000042
+Nerve - Tibial,70-79,THYN1,4.959,global,bto:0000042
+Nerve - Tibial,70-79,CHMP6,4.961,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,BTBD7,4.959,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PCGF1,4.878,global,bto:0000042
+Nerve - Tibial,70-79,METAP1,4.98,global,bto:0000042
+Nerve - Tibial,70-79,RNF130,4.98,global,bto:0000042
+Nerve - Tibial,70-79,HPX,4.974,global,bto:0000042
+Nerve - Tibial,70-79,KLC1,4.996,global,bto:0000042
+Nerve - Tibial,70-79,MTERF1,4.897,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FBXO15,4.949,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GOLGA2,4.985,global,bto:0000042
+Nerve - Tibial,70-79,USP9X,4.994,global,bto:0000042
+Nerve - Tibial,70-79,SLITRK5,4.699,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GOSR1,4.958,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF316,4.0,global,blood cancer cell
+Nerve - Tibial,70-79,DPY30,4.954,global,bto:0000042
+Nerve - Tibial,70-79,COX15,4.974,global,bto:0000042
+Nerve - Tibial,70-79,VEZF1,4.842,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PRKAB2,4.952,global,bto:0000042
+Nerve - Tibial,70-79,MRPL10,4.98,global,bto:0000042
+Nerve - Tibial,70-79,TNFSF12,4.551,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000170846,,,
+Nerve - Tibial,70-79,KIAA0319L,4.992,global,bto:0000042
+Nerve - Tibial,70-79,SDCCAG8,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DENND2A,4.835,global,bto:0000042
+Nerve - Tibial,70-79,AP2B1,4.998,global,bto:0000042
+Nerve - Tibial,70-79,KHSRP,4.989,global,bto:0000042
+Nerve - Tibial,70-79,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RPS6KA4,4.964,global,bto:0000042
+Nerve - Tibial,70-79,PHPT1,4.979,global,bto:0000042
+Nerve - Tibial,70-79,PIP4K2B,4.991,global,bto:0000042
+Nerve - Tibial,70-79,DAB2IP,4.974,global,bto:0000042
+Nerve - Tibial,70-79,UHRF1BP1,4.978,global,bto:0000042
+Nerve - Tibial,70-79,MED20,4.977,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,EBAG9,4.952,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NEK3,4.896,global,bto:0000042
+Nerve - Tibial,70-79,ARL2,4.976,global,bto:0000042
+Nerve - Tibial,70-79,ZKSCAN3,4.65,global,bto:0000042
+Nerve - Tibial,70-79,RFXANK,4.969,global,bto:0000042
+Nerve - Tibial,70-79,OARD1,4.963,global,bto:0000042
+Nerve - Tibial,70-79,PREPL,4.998,global,bto:0000042
+Nerve - Tibial,70-79,KDM5B,4.972,global,bto:0000042
+Nerve - Tibial,70-79,ZBTB5,4.949,global,bto:0000042
+Nerve - Tibial,70-79,IMMP2L,4.917,global,bto:0000042
+Nerve - Tibial,70-79,GTPBP3,4.95,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,HIRIP3,4.97,global,bto:0000042
+Nerve - Tibial,70-79,FAM228B,3.962,global,bto:0000042
+Nerve - Tibial,70-79,ABHD4,4.948,global,bto:0000042
+Nerve - Tibial,70-79,ZNF572,4.327,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZER1,4.982,global,bto:0000042
+Nerve - Tibial,70-79,ZNF786,4.323,global,bto:0000042
+Nerve - Tibial,70-79,TSPAN3,4.998,global,bto:0000042
+Nerve - Tibial,70-79,TULP3,4.917,global,bto:0000042
+Nerve - Tibial,70-79,ZNF501,4.762,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DOCK7,4.943,global,bto:0000042
+Nerve - Tibial,70-79,FMNL2,4.958,global,bto:0000042
+Nerve - Tibial,70-79,HABP4,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KLHL12,4.978,global,bto:0000042
+Nerve - Tibial,70-79,LRP10,4.993,global,bto:0000042
+Nerve - Tibial,70-79,PIAS3,4.987,global,bto:0000042
+Nerve - Tibial,70-79,GRIPAP1,4.944,global,bto:0000042
+Nerve - Tibial,70-79,SMIM8,4.326,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,EIF3J-DT,,,
+Nerve - Tibial,70-79,ARPC1A,4.997,global,bto:0000042
+Nerve - Tibial,70-79,ZMYM3,4.971,global,bto:0000042
+Nerve - Tibial,70-79,KIDINS220,4.985,global,bto:0000042
+Nerve - Tibial,70-79,GSAP,4.897,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,METTL14,4.965,global,bto:0000042
+Nerve - Tibial,70-79,NEDD4L,4.99,global,bto:0000042
+Nerve - Tibial,70-79,CCDC112,4.823,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LINC02381,,,
+Nerve - Tibial,70-79,TCEAL8,4.964,global,bto:0000042
+Nerve - Tibial,70-79,SLC4A2,4.989,global,bto:0000042
+Nerve - Tibial,70-79,NAA40,4.957,global,bto:0000042
+Nerve - Tibial,70-79,UNKL,4.919,global,bto:0000042
+Nerve - Tibial,70-79,YARS2,4.947,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SLC25A26,4.934,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LINC00665,1.914,global,carcinoma cell
+Nerve - Tibial,70-79,KIF1B,4.991,global,bto:0000042
+Nerve - Tibial,70-79,R3HCC1,4.971,global,bto:0000042
+Nerve - Tibial,70-79,SMIM10,4.384,global,bto:0000042
+Nerve - Tibial,70-79,ZNF532,4.97,global,bto:0000042
+Nerve - Tibial,70-79,DCTN2,4.998,global,bto:0000042
+Nerve - Tibial,70-79,SIPA1,4.936,global,bto:0000042
+Nerve - Tibial,70-79,ARHGEF10,4.962,global,bto:0000042
+Nerve - Tibial,70-79,AP1S1,4.958,global,bto:0000042
+Nerve - Tibial,70-79,TAF6,4.975,global,bto:0000042
+Nerve - Tibial,70-79,LSM14A,4.477,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FARS2,4.91,global,bto:0000042
+Nerve - Tibial,70-79,CTSF,4.982,global,bto:0000042
+Nerve - Tibial,70-79,ZNF445,4.822,global,bto:0000042
+Nerve - Tibial,70-79,VEZT,4.99,global,bto:0000042
+Nerve - Tibial,70-79,MLLT10,4.965,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SORBS1,4.987,global,bto:0000042
+Nerve - Tibial,70-79,RAB5B,4.993,global,bto:0000042
+Nerve - Tibial,70-79,UBTF,4.989,global,bto:0000042
+Nerve - Tibial,70-79,NFXL1,4.797,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZFC3H1,4.914,global,bto:0000042
+Nerve - Tibial,70-79,SNRNP200,4.997,global,bto:0000042
+Nerve - Tibial,70-79,CPNE2,4.952,global,bto:0000042
+Nerve - Tibial,70-79,PIGP,4.927,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SAAL1,4.931,global,bto:0000042
+Nerve - Tibial,70-79,MAML3,4.894,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PFKL,4.995,global,bto:0000042
+Nerve - Tibial,70-79,MARVELD1,4.388,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ACSF3,4.875,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,OGFOD2,4.945,global,bto:0000042
+Nerve - Tibial,70-79,GIN1,4.763,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RBM39,4.996,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000289018,,,
+Nerve - Tibial,70-79,USP28,4.904,global,bto:0000042
+Nerve - Tibial,70-79,DEPTOR,4.955,global,bto:0000042
+Nerve - Tibial,70-79,SS18L1,4.912,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ARL3,4.983,global,bto:0000042
+Nerve - Tibial,70-79,BBX,4.982,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,C2ORF68,4.627,global,bto:0000042
+Nerve - Tibial,70-79,FKBP8,4.996,global,bto:0000042
+Nerve - Tibial,70-79,SLC25A11,4.988,global,bto:0000042
+Nerve - Tibial,70-79,GNAS,5.0,global,bto:0000042
+Nerve - Tibial,70-79,IQSEC1,4.981,global,bto:0000042
+Nerve - Tibial,70-79,IMMP1L,4.718,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,WDR44,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CCDC115,4.974,global,bto:0000042
+Nerve - Tibial,70-79,ZFP64,4.953,global,bto:0000042
+Nerve - Tibial,70-79,OSBPL2,4.98,global,bto:0000042
+Nerve - Tibial,70-79,EFL1,4.924,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PTMS,4.964,global,bto:0000042
+Nerve - Tibial,70-79,RUFY1,4.958,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FAM200B,4.643,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MAML1,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NFYA,4.957,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CTBP1-DT,,,
+Nerve - Tibial,70-79,CDKAL1,4.927,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CFAP126,2.887,global,endocrine gland
+Nerve - Tibial,70-79,KIAA1328,2.45,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF75A,4.832,global,bto:0000042
+Nerve - Tibial,70-79,ZFP82,4.783,global,bto:0000042
+Nerve - Tibial,70-79,SLC2A11,4.99,global,bto:0000042
+Nerve - Tibial,70-79,CNBP,4.999,global,bto:0000042
+Nerve - Tibial,70-79,AIG1,4.962,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NELFB,4.982,global,bto:0000042
+Nerve - Tibial,70-79,PAF1,4.992,global,bto:0000042
+Nerve - Tibial,70-79,EP300,4.984,global,bto:0000042
+Nerve - Tibial,70-79,SHARPIN,4.988,global,bto:0000042
+Nerve - Tibial,70-79,BRD3,4.992,global,bto:0000042
+Nerve - Tibial,70-79,RASSF1-AS1,1.296,global,endocrine gland
+Nerve - Tibial,70-79,HNRNPU,4.999,global,bto:0000042
+Nerve - Tibial,70-79,SLC25A12,4.987,global,bto:0000042
+Nerve - Tibial,70-79,NPHP3,4.913,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF704,4.946,global,bto:0000042
+Nerve - Tibial,70-79,KCTD9,4.917,global,bto:0000042
+Nerve - Tibial,70-79,THOC2,4.967,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,YTHDC1,4.987,global,bto:0000042
+Nerve - Tibial,70-79,ZNF7,4.94,global,bto:0000042
+Nerve - Tibial,70-79,PRKAR2A,4.973,global,bto:0000042
+Nerve - Tibial,70-79,KBTBD2,4.959,global,bto:0000042
+Nerve - Tibial,70-79,RNASEH2B,4.927,global,bto:0000042
+Nerve - Tibial,70-79,CEBPZ,4.978,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LINC00526,1.403,global,tr-146 cell
+Nerve - Tibial,70-79,UBE2O,4.974,global,bto:0000042
+Nerve - Tibial,70-79,ZNF559,4.964,global,bto:0000042
+Nerve - Tibial,70-79,YEATS2,4.995,global,bto:0000042
+Nerve - Tibial,70-79,MCM7,4.999,global,bto:0000042
+Nerve - Tibial,70-79,KAT14,4.888,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NME3,4.952,global,bto:0000042
+Nerve - Tibial,70-79,ZMYND11,4.985,global,bto:0000042
+Nerve - Tibial,70-79,SGPL1,4.977,global,bto:0000042
+Nerve - Tibial,70-79,TMEM42,4.856,global,bto:0000042
+Nerve - Tibial,70-79,ACTR5,4.827,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KANSL3,4.993,global,bto:0000042
+Nerve - Tibial,70-79,BOD1L1,4.786,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,WIPF2,4.985,global,bto:0000042
+Nerve - Tibial,70-79,TRIM35,4.798,global,bto:0000042
+Nerve - Tibial,70-79,FAM149B1,4.896,global,bto:0000042
+Nerve - Tibial,70-79,PRR12,4.829,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CASTOR3,4.968,global,bto:0000042
+Nerve - Tibial,70-79,TNRC6C,4.962,global,bto:0000042
+Nerve - Tibial,70-79,MED7,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TRAFD1,4.986,global,bto:0000042
+Nerve - Tibial,70-79,RTL8C,4.98,global,bto:0000042
+Nerve - Tibial,70-79,CREB3L4,4.95,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GALK2,4.97,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FOXD3,4.319,global,blood cancer cell
+Nerve - Tibial,70-79,THRA,4.985,global,bto:0000042
+Nerve - Tibial,70-79,BAZ2A,4.989,global,bto:0000042
+Nerve - Tibial,70-79,LARGE1,4.94,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FAM8A1,4.97,global,bto:0000042
+Nerve - Tibial,70-79,METTL23,4.492,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF646,4.788,global,bto:0000042
+Nerve - Tibial,70-79,SF3B1,4.994,global,bto:0000042
+Nerve - Tibial,70-79,PGS1,4.926,global,bto:0000042
+Nerve - Tibial,70-79,SNX24,4.929,global,bto:0000042
+Nerve - Tibial,70-79,PHAX,4.995,global,bto:0000042
+Nerve - Tibial,70-79,BRK1,4.52,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,APOBEC3C,4.965,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000233170,,,
+Nerve - Tibial,70-79,RNF20,4.969,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CNOT10,4.965,global,bto:0000042
+Nerve - Tibial,70-79,LEO1,4.934,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,RUFY3,4.992,global,bto:0000042
+Nerve - Tibial,70-79,TDRD3,4.929,global,bto:0000042
+Nerve - Tibial,70-79,AMZ2P1,,,
+Nerve - Tibial,70-79,RABGAP1,4.947,global,bto:0000042
+Nerve - Tibial,70-79,ZNF142,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KCTD1,4.915,global,bto:0000042
+Nerve - Tibial,70-79,ZNF583,4.67,global,bto:0000042
+Nerve - Tibial,70-79,MMACHC,4.773,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,EFS,4.963,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GPATCH8,4.961,global,bto:0000042
+Nerve - Tibial,70-79,PTPRF,4.994,global,bto:0000042
+Nerve - Tibial,70-79,TBC1D31,4.776,global,bto:0000042
+Nerve - Tibial,70-79,INTS4,4.941,global,bto:0000042
+Nerve - Tibial,70-79,LIAS,4.891,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,BRPF3,4.917,global,bto:0000042
+Nerve - Tibial,70-79,ZNF512B,4.882,global,bto:0000042
+Nerve - Tibial,70-79,MOCS2,4.972,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,FOXJ3,4.969,global,bto:0000042
+Nerve - Tibial,70-79,KATNAL1,4.802,global,bto:0000042
+Nerve - Tibial,70-79,DENND10,4.979,global,bto:0000042
+Nerve - Tibial,70-79,MRPL1,4.959,global,bto:0000042
+Nerve - Tibial,70-79,NMNAT3,4.874,global,bto:0000042
+Nerve - Tibial,70-79,GNPAT,4.994,global,bto:0000042
+Nerve - Tibial,70-79,NSUN5,4.973,global,bto:0000042
+Nerve - Tibial,70-79,NFRKB,4.94,global,bto:0000042
+Nerve - Tibial,70-79,TNRC18,4.96,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNHIT3,4.978,global,bto:0000042
+Nerve - Tibial,70-79,BICRAL,4.508,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,VCP,5.0,global,bto:0000042
+Nerve - Tibial,70-79,RNF214,4.854,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KDM2B,4.958,global,bto:0000042
+Nerve - Tibial,70-79,TTC7B,4.961,global,bto:0000042
+Nerve - Tibial,70-79,TCTN1,4.976,global,bto:0000042
+Nerve - Tibial,70-79,MAN1B1,4.982,global,bto:0000042
+Nerve - Tibial,70-79,SLC15A4,4.968,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PCDHB6,4.7,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,STOX2,4.897,global,bto:0000042
+Nerve - Tibial,70-79,FAM111A-DT,,,
+Nerve - Tibial,70-79,DALRD3,4.957,global,bto:0000042
+Nerve - Tibial,70-79,FN3KRP,4.966,global,bto:0000042
+Nerve - Tibial,70-79,LTBP3,4.989,global,bto:0000042
+Nerve - Tibial,70-79,ATN1,4.983,global,bto:0000042
+Nerve - Tibial,70-79,RTL8A,4.778,global,bto:0000042
+Nerve - Tibial,70-79,NUB1,4.978,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF691,4.858,global,bto:0000042
+Nerve - Tibial,70-79,ZDHHC17,4.963,global,bto:0000042
+Nerve - Tibial,70-79,NSD3,4.965,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MGME1,4.54,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,COG6,4.968,global,bto:0000042
+Nerve - Tibial,70-79,ZNF839,4.852,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,COPG2,4.944,global,bto:0000042
+Nerve - Tibial,70-79,FAM171A1,4.981,global,bto:0000042
+Nerve - Tibial,70-79,OSBPL9,4.984,global,bto:0000042
+Nerve - Tibial,70-79,ALKBH4,4.906,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DVL2,4.978,global,bto:0000042
+Nerve - Tibial,70-79,C9ORF85,3.334,global,bto:0000042
+Nerve - Tibial,70-79,SLC35D2,4.913,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,UBE2D4,4.946,global,bto:0000042
+Nerve - Tibial,70-79,ZNF470,4.643,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KLHDC2,4.989,global,bto:0000042
+Nerve - Tibial,70-79,AP3M2,4.961,global,bto:0000042
+Nerve - Tibial,70-79,UBE3D,4.412,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,UBFD1,4.98,global,bto:0000042
+Nerve - Tibial,70-79,SUGP1,4.99,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,XPO7,4.984,global,bto:0000042
+Nerve - Tibial,70-79,PDSS2,4.927,global,bto:0000042
+Nerve - Tibial,70-79,ZNF576,4.802,global,bto:0000042
+Nerve - Tibial,70-79,SATB1,4.985,global,bto:0000042
+Nerve - Tibial,70-79,ZMPSTE24-DT,,,
+Nerve - Tibial,70-79,TMLHE,4.968,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TAB1,4.98,global,bto:0000042

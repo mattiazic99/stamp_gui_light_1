@@ -1,0 +1,16 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Whole Blood,30-39,GHITM,4.459,exact,blood
+Whole Blood,30-39,SAP18,2.531,exact,blood
+Whole Blood,30-39,MORF4L1,4.551,exact,blood
+Whole Blood,30-39,PPP2CA,3.092,exact,blood
+Whole Blood,30-39,ATP6V1E1,2.009,exact,blood
+Whole Blood,30-39,ATG13,2.597,exact,blood
+Whole Blood,30-39,MYL12B,3.172,exact,blood
+Whole Blood,30-39,RAB11A,4.657,exact,blood
+Whole Blood,30-39,TAF10,1.805,exact,blood
+Whole Blood,30-39,SUCLG1,2.91,exact,blood
+Whole Blood,30-39,ASH2L,2.588,exact,blood
+Whole Blood,30-39,ACTR1A,4.431,exact,blood
+Whole Blood,30-39,VIPAS39,2.123,exact,blood
+Whole Blood,30-39,EDEM2,2.331,exact,blood
+Whole Blood,30-39,DEDD,4.304,exact,blood

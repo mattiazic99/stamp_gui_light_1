@@ -1,0 +1,1526 @@
+tissue,age_group,gene_symbol,confidence_extended,match_type_extended,best_tissue_extended
+Nerve - Tibial,30-39,ELMO1,0.908,exact,peripheral nerve
+Nerve - Tibial,30-39,ETV3,1.11,exact,nerve
+Nerve - Tibial,30-39,SIRT2,1.657,exact,peripheral nerve
+Nerve - Tibial,30-39,SLC25A23,1.336,exact,nerve
+Nerve - Tibial,30-39,C1ORF43,0.766,exact,nerve
+Nerve - Tibial,30-39,ATP5F1C,1.415,exact,nerve
+Nerve - Tibial,30-39,AP2M1,1.888,exact,nerve
+Nerve - Tibial,30-39,FAM210B,4.974,global,bto:0000042
+Nerve - Tibial,30-39,PTPMT1,1.187,exact,nerve
+Nerve - Tibial,30-39,EPN1,1.514,exact,nerve
+Nerve - Tibial,30-39,ECH1,0.999,exact,nerve
+Nerve - Tibial,30-39,FNBP1,1.502,exact,nerve
+Nerve - Tibial,30-39,SLC35A1,0.769,exact,nerve
+Nerve - Tibial,30-39,PREP,0.562,exact,peripheral nerve
+Nerve - Tibial,30-39,IGF2R,1.081,exact,peripheral nerve
+Nerve - Tibial,30-39,GRK5,0.862,exact,peripheral nerve
+Nerve - Tibial,30-39,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,ULK2,0.93,exact,peripheral nerve
+Nerve - Tibial,30-39,ISY1,0.322,exact,nerve
+Nerve - Tibial,30-39,VKORC1L1,0.561,exact,nerve
+Nerve - Tibial,30-39,SDHC,1.381,exact,peripheral nerve
+Nerve - Tibial,30-39,TIGD6,0.161,exact,nerve
+Nerve - Tibial,30-39,MRPL49,0.762,exact,nerve
+Nerve - Tibial,30-39,PRDM2,1.312,exact,peripheral nerve
+Nerve - Tibial,30-39,KIF3B,1.791,exact,peripheral nerve
+Nerve - Tibial,30-39,ACOX1,1.021,exact,peripheral nerve
+Nerve - Tibial,30-39,KLHDC9,0.501,exact,peripheral nerve
+Nerve - Tibial,30-39,FRG1CP,,,
+Nerve - Tibial,30-39,VAT1,0.8,exact,nerve
+Nerve - Tibial,30-39,DCAF6,0.936,exact,nerve
+Nerve - Tibial,30-39,MAPKAP1,0.999,exact,peripheral nerve
+Nerve - Tibial,30-39,ORAI3,1.041,exact,peripheral nerve
+Nerve - Tibial,30-39,LNP1,1.79,exact,peripheral nerve
+Nerve - Tibial,30-39,CNDP2,1.005,exact,peripheral nerve
+Nerve - Tibial,30-39,PALM,1.709,exact,nerve
+Nerve - Tibial,30-39,BACE1,2.119,exact,peripheral nerve
+Nerve - Tibial,30-39,HAUS1,0.566,exact,nerve
+Nerve - Tibial,30-39,RNF7,0.771,exact,peripheral nerve
+Nerve - Tibial,30-39,ATP6V1D,1.148,exact,nerve
+Nerve - Tibial,30-39,FAM118B,0.656,exact,nerve
+Nerve - Tibial,30-39,PIGBOS1,4.0,global,eye cancer cell
+Nerve - Tibial,30-39,WDR82,1.453,exact,nerve
+Nerve - Tibial,30-39,MGLL,1.772,exact,peripheral nerve
+Nerve - Tibial,30-39,SARS2,0.53,exact,peripheral nerve
+Nerve - Tibial,30-39,ENOX2,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,MGST2,0.748,exact,nerve
+Nerve - Tibial,30-39,PTPN18,1.172,exact,nerve
+Nerve - Tibial,30-39,TRIP12,1.406,exact,nerve
+Nerve - Tibial,30-39,VDAC2,0.721,exact,peripheral nerve
+Nerve - Tibial,30-39,GORASP1,0.904,exact,peripheral nerve
+Nerve - Tibial,30-39,HAGH,0.922,exact,peripheral nerve
+Nerve - Tibial,30-39,LRP5,1.617,exact,peripheral nerve
+Nerve - Tibial,30-39,PLEKHB2,1.022,exact,nerve
+Nerve - Tibial,30-39,DHRS7B,4.92,global,bto:0000042
+Nerve - Tibial,30-39,MMP24OS,1.447,global,pos cell
+Nerve - Tibial,30-39,GNE,0.909,exact,peripheral nerve
+Nerve - Tibial,30-39,ETFA,0.846,exact,peripheral nerve
+Nerve - Tibial,30-39,EMC7,0.838,exact,nerve
+Nerve - Tibial,30-39,HIP1,0.98,exact,nerve
+Nerve - Tibial,30-39,ELOVL1,0.987,exact,peripheral nerve
+Nerve - Tibial,30-39,MRPS36,1.048,exact,nerve
+Nerve - Tibial,30-39,CYB5R3,2.421,exact,nerve
+Nerve - Tibial,30-39,ATP6V1H,1.322,exact,nerve
+Nerve - Tibial,30-39,SNX17,1.505,exact,nerve
+Nerve - Tibial,30-39,MRPL45,0.766,exact,nerve
+Nerve - Tibial,30-39,SLC25A17,1.066,exact,nerve
+Nerve - Tibial,30-39,RHOA,2.368,exact,peripheral nerve
+Nerve - Tibial,30-39,BFAR,0.71,exact,nerve
+Nerve - Tibial,30-39,ZDHHC14,0.548,exact,peripheral nerve
+Nerve - Tibial,30-39,ACP2,,,
+Nerve - Tibial,30-39,RAB5C,1.692,exact,nerve
+Nerve - Tibial,30-39,EIPR1,1.008,exact,nerve
+Nerve - Tibial,30-39,NIF3L1,4.967,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,30-39,DHX40,0.279,exact,nerve
+Nerve - Tibial,30-39,TRAPPC10,0.894,exact,peripheral nerve
+Nerve - Tibial,30-39,FAM174A,0.279,exact,nerve
+Nerve - Tibial,30-39,MANSC1,4.972,global,bto:0000042
+Nerve - Tibial,30-39,SEMA6A,1.982,exact,peripheral nerve
+Nerve - Tibial,30-39,PEBP1,1.066,exact,peripheral nerve
+Nerve - Tibial,30-39,SLC25A35,0.616,exact,nerve
+Nerve - Tibial,30-39,MAML2,1.04,exact,peripheral nerve
+Nerve - Tibial,30-39,SAP130,0.515,exact,nerve
+Nerve - Tibial,30-39,AP2A1,2.166,exact,nerve
+Nerve - Tibial,30-39,SPCS1,1.036,exact,nerve
+Nerve - Tibial,30-39,CD151,0.584,exact,peripheral nerve
+Nerve - Tibial,30-39,ACY1,0.992,exact,nerve
+Nerve - Tibial,30-39,PLP2,0.795,exact,peripheral nerve
+Nerve - Tibial,30-39,DNASE1L1,4.898,global,bto:0000042
+Nerve - Tibial,30-39,NCSTN,1.145,exact,peripheral nerve
+Nerve - Tibial,30-39,UBE2Q1,0.563,exact,peripheral nerve
+Nerve - Tibial,30-39,FBXL7,1.416,exact,nerve
+Nerve - Tibial,30-39,TSPAN4,0.652,exact,peripheral nerve
+Nerve - Tibial,30-39,SLC25A10,1.101,exact,nerve
+Nerve - Tibial,40-49,ZMPSTE24-DT,,,
+Nerve - Tibial,40-49,ELMO1,0.908,exact,peripheral nerve
+Nerve - Tibial,40-49,ETV3,1.11,exact,nerve
+Nerve - Tibial,40-49,ANKRA2,0.843,exact,nerve
+Nerve - Tibial,40-49,PHF3,1.153,exact,nerve
+Nerve - Tibial,40-49,RPUSD3,0.623,exact,nerve
+Nerve - Tibial,40-49,C1ORF43,0.766,exact,nerve
+Nerve - Tibial,40-49,HMGXB4,4.958,global,bto:0000042
+Nerve - Tibial,40-49,FNBP1,1.502,exact,nerve
+Nerve - Tibial,40-49,OSBPL9,0.845,exact,nerve
+Nerve - Tibial,40-49,SLC35A1,0.769,exact,nerve
+Nerve - Tibial,40-49,PREP,0.562,exact,peripheral nerve
+Nerve - Tibial,40-49,GIT2,1.381,exact,nerve
+Nerve - Tibial,40-49,IGF2R,1.081,exact,peripheral nerve
+Nerve - Tibial,40-49,SLC25A12,1.007,exact,peripheral nerve
+Nerve - Tibial,40-49,PIAS3,0.734,exact,peripheral nerve
+Nerve - Tibial,40-49,SPG11,1.551,exact,peripheral nerve
+Nerve - Tibial,40-49,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,BOD1L1,0.631,exact,nerve
+Nerve - Tibial,40-49,ARID1B,0.873,exact,peripheral nerve
+Nerve - Tibial,40-49,ISY1,0.322,exact,nerve
+Nerve - Tibial,40-49,VKORC1L1,0.561,exact,nerve
+Nerve - Tibial,40-49,SDHC,1.381,exact,peripheral nerve
+Nerve - Tibial,40-49,ANKRD17,0.88,exact,nerve
+Nerve - Tibial,40-49,TIGD6,0.161,exact,nerve
+Nerve - Tibial,40-49,PRDM2,1.312,exact,peripheral nerve
+Nerve - Tibial,40-49,ACOX1,1.021,exact,peripheral nerve
+Nerve - Tibial,40-49,KDM4C,1.443,exact,nerve
+Nerve - Tibial,40-49,DCAF6,0.936,exact,nerve
+Nerve - Tibial,40-49,FOXJ2,0.656,exact,peripheral nerve
+Nerve - Tibial,40-49,ZNF324,4.898,global,bto:0000042
+Nerve - Tibial,40-49,PHLDB1,0.986,exact,nerve
+Nerve - Tibial,40-49,NOP14-AS1,1.717,global,papillary renal cell carcinoma cell
+Nerve - Tibial,40-49,ORAI3,1.041,exact,peripheral nerve
+Nerve - Tibial,40-49,RAF1,1.369,exact,peripheral nerve
+Nerve - Tibial,40-49,BACE1,2.119,exact,peripheral nerve
+Nerve - Tibial,40-49,RNF7,0.771,exact,peripheral nerve
+Nerve - Tibial,40-49,BTBD7,0.655,exact,nerve
+Nerve - Tibial,40-49,RNMT,2.527,exact,peripheral nerve
+Nerve - Tibial,40-49,ATP6V1D,1.148,exact,nerve
+Nerve - Tibial,40-49,LRIG3,0.695,exact,peripheral nerve
+Nerve - Tibial,40-49,FAM118B,0.656,exact,nerve
+Nerve - Tibial,40-49,PRPF40B,0.939,exact,nerve
+Nerve - Tibial,40-49,SIRT5,0.89,exact,peripheral nerve
+Nerve - Tibial,40-49,RBFOX2,0.976,exact,peripheral nerve
+Nerve - Tibial,40-49,WDR82,1.453,exact,nerve
+Nerve - Tibial,40-49,ENOX2,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,CTPS2,0.909,exact,nerve
+Nerve - Tibial,40-49,PTPN18,1.172,exact,nerve
+Nerve - Tibial,40-49,TRIP12,1.406,exact,nerve
+Nerve - Tibial,40-49,EIF2AK4,1.29,exact,peripheral nerve
+Nerve - Tibial,40-49,PTCD1,0.746,exact,nerve
+Nerve - Tibial,40-49,GORASP1,0.904,exact,peripheral nerve
+Nerve - Tibial,40-49,TBC1D20,0.534,exact,peripheral nerve
+Nerve - Tibial,40-49,SBF1,1.516,exact,peripheral nerve
+Nerve - Tibial,40-49,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,40-49,GPS1,0.989,exact,nerve
+Nerve - Tibial,40-49,MLH1,0.677,exact,peripheral nerve
+Nerve - Tibial,40-49,MMP24OS,1.447,global,pos cell
+Nerve - Tibial,40-49,GNE,0.909,exact,peripheral nerve
+Nerve - Tibial,40-49,ZNF512,4.979,global,bto:0000042
+Nerve - Tibial,40-49,ETFA,0.846,exact,peripheral nerve
+Nerve - Tibial,40-49,HIP1,0.98,exact,nerve
+Nerve - Tibial,40-49,SNX17,1.505,exact,nerve
+Nerve - Tibial,40-49,ZNF7,0.568,exact,nerve
+Nerve - Tibial,40-49,KDM5B,0.632,exact,peripheral nerve
+Nerve - Tibial,40-49,AQR,2.26,exact,peripheral nerve
+Nerve - Tibial,40-49,RCBTB1,0.669,exact,nerve
+Nerve - Tibial,40-49,SLC25A17,1.066,exact,nerve
+Nerve - Tibial,40-49,RHOA,2.368,exact,peripheral nerve
+Nerve - Tibial,40-49,BFAR,0.71,exact,nerve
+Nerve - Tibial,40-49,GBF1,1.173,exact,nerve
+Nerve - Tibial,40-49,RAB5C,1.692,exact,nerve
+Nerve - Tibial,40-49,ZFP41,0.805,exact,nerve
+Nerve - Tibial,40-49,OXSR1,0.943,exact,peripheral nerve
+Nerve - Tibial,40-49,TRAPPC10,0.894,exact,peripheral nerve
+Nerve - Tibial,40-49,FAM174A,0.279,exact,nerve
+Nerve - Tibial,40-49,SLC25A35,0.616,exact,nerve
+Nerve - Tibial,40-49,AP2A1,2.166,exact,nerve
+Nerve - Tibial,40-49,MAML1,1.07,exact,peripheral nerve
+Nerve - Tibial,40-49,HEATR5B,0.516,exact,nerve
+Nerve - Tibial,40-49,ZNF646,0.556,exact,nerve
+Nerve - Tibial,40-49,PPP6R2,4.986,global,bto:0000042
+Nerve - Tibial,40-49,PDPK1,1.043,exact,peripheral nerve
+Nerve - Tibial,40-49,PHF2,0.631,exact,nerve
+Nerve - Tibial,40-49,PLP2,0.795,exact,peripheral nerve
+Nerve - Tibial,40-49,DNASE1L1,4.898,global,bto:0000042
+Nerve - Tibial,40-49,GON4L,4.962,global,bto:0000042
+Nerve - Tibial,40-49,UBE2Q1,0.563,exact,peripheral nerve
+Nerve - Tibial,40-49,FBXL7,1.416,exact,nerve
+Nerve - Tibial,40-49,TSPAN4,0.652,exact,peripheral nerve
+Nerve - Tibial,50-59,TAF1,0.784,exact,peripheral nerve
+Nerve - Tibial,50-59,ZMPSTE24-DT,,,
+Nerve - Tibial,50-59,POC5,0.564,exact,peripheral nerve
+Nerve - Tibial,50-59,ETV3,1.11,exact,nerve
+Nerve - Tibial,50-59,ANKRA2,0.843,exact,nerve
+Nerve - Tibial,50-59,PHF3,1.153,exact,nerve
+Nerve - Tibial,50-59,PRR12,0.021,exact,nerve
+Nerve - Tibial,50-59,RPUSD3,0.623,exact,nerve
+Nerve - Tibial,50-59,EP300,1.633,exact,peripheral nerve
+Nerve - Tibial,50-59,HIRIP3,0.822,exact,nerve
+Nerve - Tibial,50-59,HMGXB4,4.958,global,bto:0000042
+Nerve - Tibial,50-59,IPO8,1.252,exact,nerve
+Nerve - Tibial,50-59,NPHP4,1.904,exact,peripheral nerve
+Nerve - Tibial,50-59,OSBPL9,0.845,exact,nerve
+Nerve - Tibial,50-59,PANK4,1.103,exact,nerve
+Nerve - Tibial,50-59,MRPS14,0.564,exact,nerve
+Nerve - Tibial,50-59,GIT2,1.381,exact,nerve
+Nerve - Tibial,50-59,BAZ2A,1.445,exact,nerve
+Nerve - Tibial,50-59,PPP6R3,1.372,exact,nerve
+Nerve - Tibial,50-59,IGF2R,1.081,exact,peripheral nerve
+Nerve - Tibial,50-59,SLC25A12,1.007,exact,peripheral nerve
+Nerve - Tibial,50-59,DIDO1,1.019,exact,nerve
+Nerve - Tibial,50-59,PIAS3,0.734,exact,peripheral nerve
+Nerve - Tibial,50-59,SPG11,1.551,exact,peripheral nerve
+Nerve - Tibial,50-59,DDX42,1.308,exact,nerve
+Nerve - Tibial,50-59,SMAP1,4.975,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,NCOR2,0.681,exact,peripheral nerve
+Nerve - Tibial,50-59,BOD1L1,0.631,exact,nerve
+Nerve - Tibial,50-59,ZNF592,0.793,exact,nerve
+Nerve - Tibial,50-59,ARID1B,0.873,exact,peripheral nerve
+Nerve - Tibial,50-59,OSGEPL1,4.853,global,bto:0000042
+Nerve - Tibial,50-59,RNF20,1.277,exact,nerve
+Nerve - Tibial,50-59,ISY1,0.322,exact,nerve
+Nerve - Tibial,50-59,ZXDC,4.978,global,bto:0000042
+Nerve - Tibial,50-59,WRNIP1,0.751,exact,nerve
+Nerve - Tibial,50-59,GRIPAP1,0.619,exact,peripheral nerve
+Nerve - Tibial,50-59,ANKRD17,0.88,exact,nerve
+Nerve - Tibial,50-59,PRDM2,1.312,exact,peripheral nerve
+Nerve - Tibial,50-59,BRPF3,0.598,exact,nerve
+Nerve - Tibial,50-59,ACOX1,1.021,exact,peripheral nerve
+Nerve - Tibial,50-59,SETDB1,1.007,exact,peripheral nerve
+Nerve - Tibial,50-59,SF3B1,1.477,exact,nerve
+Nerve - Tibial,50-59,CUL1,1.172,exact,peripheral nerve
+Nerve - Tibial,50-59,VCP,1.607,exact,peripheral nerve
+Nerve - Tibial,50-59,RUFY1,1.028,exact,nerve
+Nerve - Tibial,50-59,KDM4C,1.443,exact,nerve
+Nerve - Tibial,50-59,FOXJ2,0.656,exact,peripheral nerve
+Nerve - Tibial,50-59,ZNF324,4.898,global,bto:0000042
+Nerve - Tibial,50-59,CHD8,1.209,exact,peripheral nerve
+Nerve - Tibial,50-59,PHLDB1,0.986,exact,nerve
+Nerve - Tibial,50-59,NOP14-AS1,1.717,global,papillary renal cell carcinoma cell
+Nerve - Tibial,50-59,ORAI3,1.041,exact,peripheral nerve
+Nerve - Tibial,50-59,TTC31,4.626,global,bto:0000042
+Nerve - Tibial,50-59,ZNF786,1.045,exact,nerve
+Nerve - Tibial,50-59,RAF1,1.369,exact,peripheral nerve
+Nerve - Tibial,50-59,BTBD7,0.655,exact,nerve
+Nerve - Tibial,50-59,RNMT,2.527,exact,peripheral nerve
+Nerve - Tibial,50-59,TBC1D9B,1.168,exact,nerve
+Nerve - Tibial,50-59,LRIG3,0.695,exact,peripheral nerve
+Nerve - Tibial,50-59,FAM118B,0.656,exact,nerve
+Nerve - Tibial,50-59,RFT1,4.867,global,bto:0000042
+Nerve - Tibial,50-59,PRPF40B,0.939,exact,nerve
+Nerve - Tibial,50-59,SNRNP200,0.737,exact,peripheral nerve
+Nerve - Tibial,50-59,TMEM9,0.75,exact,nerve
+Nerve - Tibial,50-59,SIRT5,0.89,exact,peripheral nerve
+Nerve - Tibial,50-59,RBFOX2,0.976,exact,peripheral nerve
+Nerve - Tibial,50-59,WDR82,1.453,exact,nerve
+Nerve - Tibial,50-59,DVL2,1.009,exact,peripheral nerve
+Nerve - Tibial,50-59,ENOX2,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,TRRAP,0.584,exact,peripheral nerve
+Nerve - Tibial,50-59,SDCCAG8,1.12,exact,peripheral nerve
+Nerve - Tibial,50-59,REV1,1.425,exact,nerve
+Nerve - Tibial,50-59,IQSEC1,1.513,exact,nerve
+Nerve - Tibial,50-59,TNRC18,0.624,exact,nerve
+Nerve - Tibial,50-59,CTPS2,0.909,exact,nerve
+Nerve - Tibial,50-59,PTPN18,1.172,exact,nerve
+Nerve - Tibial,50-59,OTUD5,1.033,exact,nerve
+Nerve - Tibial,50-59,TRIP12,1.406,exact,nerve
+Nerve - Tibial,50-59,TYSND1,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,EIF2AK4,1.29,exact,peripheral nerve
+Nerve - Tibial,50-59,COQ6,0.689,exact,peripheral nerve
+Nerve - Tibial,50-59,PTCD1,0.746,exact,nerve
+Nerve - Tibial,50-59,GORASP1,0.904,exact,peripheral nerve
+Nerve - Tibial,50-59,BRD3,0.739,exact,peripheral nerve
+Nerve - Tibial,50-59,TBC1D20,0.534,exact,peripheral nerve
+Nerve - Tibial,50-59,RASSF1-AS1,1.296,global,endocrine gland
+Nerve - Tibial,50-59,SBF1,1.516,exact,peripheral nerve
+Nerve - Tibial,50-59,TSTD2,0.646,exact,nerve
+Nerve - Tibial,50-59,INO80,0.621,exact,nerve
+Nerve - Tibial,50-59,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,50-59,GPS1,0.989,exact,nerve
+Nerve - Tibial,50-59,AMBRA1,1.085,exact,peripheral nerve
+Nerve - Tibial,50-59,MLH1,0.677,exact,peripheral nerve
+Nerve - Tibial,50-59,HNRNPL,0.517,exact,peripheral nerve
+Nerve - Tibial,50-59,ZNF512,4.979,global,bto:0000042
+Nerve - Tibial,50-59,ETFA,0.846,exact,peripheral nerve
+Nerve - Tibial,50-59,STRIP1,0.787,exact,peripheral nerve
+Nerve - Tibial,50-59,SNX17,1.505,exact,nerve
+Nerve - Tibial,50-59,ZNF7,0.568,exact,nerve
+Nerve - Tibial,50-59,KDM5B,0.632,exact,peripheral nerve
+Nerve - Tibial,50-59,AQR,2.26,exact,peripheral nerve
+Nerve - Tibial,50-59,RCBTB1,0.669,exact,nerve
+Nerve - Tibial,50-59,STK25,0.71,exact,peripheral nerve
+Nerve - Tibial,50-59,GBF1,1.173,exact,nerve
+Nerve - Tibial,50-59,RAB5C,1.692,exact,nerve
+Nerve - Tibial,50-59,ZFP41,0.805,exact,nerve
+Nerve - Tibial,50-59,OXSR1,0.943,exact,peripheral nerve
+Nerve - Tibial,50-59,ESS2,0.944,exact,peripheral nerve
+Nerve - Tibial,50-59,TRAPPC10,0.894,exact,peripheral nerve
+Nerve - Tibial,50-59,CCDC97,4.948,global,bto:0000042
+Nerve - Tibial,50-59,TTF1,0.879,exact,nerve
+Nerve - Tibial,50-59,AP2A1,2.166,exact,nerve
+Nerve - Tibial,50-59,MAML1,1.07,exact,peripheral nerve
+Nerve - Tibial,50-59,HEATR5B,0.516,exact,nerve
+Nerve - Tibial,50-59,GOLGA2,1.161,exact,peripheral nerve
+Nerve - Tibial,50-59,RTL8A,0.865,exact,nerve
+Nerve - Tibial,50-59,ZNF646,0.556,exact,nerve
+Nerve - Tibial,50-59,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Nerve - Tibial,50-59,PPP6R2,4.986,global,bto:0000042
+Nerve - Tibial,50-59,TERF2,1.358,exact,nerve
+Nerve - Tibial,50-59,LLGL1,0.583,exact,peripheral nerve
+Nerve - Tibial,50-59,PDPK1,1.043,exact,peripheral nerve
+Nerve - Tibial,50-59,PHF2,0.631,exact,nerve
+Nerve - Tibial,50-59,PLP2,0.795,exact,peripheral nerve
+Nerve - Tibial,50-59,DNASE1L1,4.898,global,bto:0000042
+Nerve - Tibial,50-59,FUS,2.037,exact,peripheral nerve
+Nerve - Tibial,50-59,USP19,1.552,exact,nerve
+Nerve - Tibial,50-59,GON4L,4.962,global,bto:0000042
+Nerve - Tibial,50-59,FBXL7,1.416,exact,nerve
+Nerve - Tibial,50-59,RBM39,0.638,exact,peripheral nerve
+Nerve - Tibial,50-59,SETD2,0.951,exact,peripheral nerve
+Nerve - Tibial,60-69,TAF1,0.784,exact,peripheral nerve
+Nerve - Tibial,60-69,ZMPSTE24-DT,,,
+Nerve - Tibial,60-69,POC5,0.564,exact,peripheral nerve
+Nerve - Tibial,60-69,ETV3,1.11,exact,nerve
+Nerve - Tibial,60-69,PIK3R2,0.881,exact,peripheral nerve
+Nerve - Tibial,60-69,ANKRA2,0.843,exact,nerve
+Nerve - Tibial,60-69,PHF3,1.153,exact,nerve
+Nerve - Tibial,60-69,EIF3J-DT,,,
+Nerve - Tibial,60-69,VEZT,1.276,exact,peripheral nerve
+Nerve - Tibial,60-69,PRR12,0.021,exact,nerve
+Nerve - Tibial,60-69,RPUSD3,0.623,exact,nerve
+Nerve - Tibial,60-69,EP300,1.633,exact,peripheral nerve
+Nerve - Tibial,60-69,HIRIP3,0.822,exact,nerve
+Nerve - Tibial,60-69,ZFP64,0.729,exact,nerve
+Nerve - Tibial,60-69,DIS3L2,1.16,exact,nerve
+Nerve - Tibial,60-69,HMGXB4,4.958,global,bto:0000042
+Nerve - Tibial,60-69,IPO8,1.252,exact,nerve
+Nerve - Tibial,60-69,STX18,1.281,exact,nerve
+Nerve - Tibial,60-69,DNAJC17,4.801,global,bto:0000042
+Nerve - Tibial,60-69,RFFL,0.834,exact,nerve
+Nerve - Tibial,60-69,OBSL1,1.151,exact,nerve
+Nerve - Tibial,60-69,IMMP2L,1.59,exact,nerve
+Nerve - Tibial,60-69,NPHP4,1.904,exact,peripheral nerve
+Nerve - Tibial,60-69,HIKESHI,0.591,exact,nerve
+Nerve - Tibial,60-69,CLYBL,0.676,exact,peripheral nerve
+Nerve - Tibial,60-69,OSBPL9,0.845,exact,nerve
+Nerve - Tibial,60-69,CAMSAP1,1.451,exact,nerve
+Nerve - Tibial,60-69,PANK4,1.103,exact,nerve
+Nerve - Tibial,60-69,MRPS14,0.564,exact,nerve
+Nerve - Tibial,60-69,GPATCH8,4.961,global,bto:0000042
+Nerve - Tibial,60-69,MSH6,0.877,exact,peripheral nerve
+Nerve - Tibial,60-69,TNFSF12,0.971,exact,peripheral nerve
+Nerve - Tibial,60-69,HABP4,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,SETD5,1.627,exact,nerve
+Nerve - Tibial,60-69,ALDH3A2,1.463,exact,nerve
+Nerve - Tibial,60-69,BAZ2A,1.445,exact,nerve
+Nerve - Tibial,60-69,GIT2,1.381,exact,nerve
+Nerve - Tibial,60-69,KHSRP,1.074,exact,peripheral nerve
+Nerve - Tibial,60-69,FAM8A1,0.927,exact,nerve
+Nerve - Tibial,60-69,PPP6R3,1.372,exact,nerve
+Nerve - Tibial,60-69,RNASEL,1.042,exact,peripheral nerve
+Nerve - Tibial,60-69,IGF2R,1.081,exact,peripheral nerve
+Nerve - Tibial,60-69,SLC25A12,1.007,exact,peripheral nerve
+Nerve - Tibial,60-69,ZZZ3,0.702,exact,nerve
+Nerve - Tibial,60-69,TTC28,0.723,exact,nerve
+Nerve - Tibial,60-69,DIDO1,1.019,exact,nerve
+Nerve - Tibial,60-69,SETDB2,1.086,exact,nerve
+Nerve - Tibial,60-69,PIAS3,0.734,exact,peripheral nerve
+Nerve - Tibial,60-69,SPG11,1.551,exact,peripheral nerve
+Nerve - Tibial,60-69,KLHDC2,0.871,exact,nerve
+Nerve - Tibial,60-69,DDX42,1.308,exact,nerve
+Nerve - Tibial,60-69,USP42,0.674,exact,nerve
+Nerve - Tibial,60-69,NUMA1,0.964,exact,peripheral nerve
+Nerve - Tibial,60-69,PRPF8,1.13,exact,peripheral nerve
+Nerve - Tibial,60-69,NCOR2,0.681,exact,peripheral nerve
+Nerve - Tibial,60-69,BOD1L1,0.631,exact,nerve
+Nerve - Tibial,60-69,ZNF592,0.793,exact,nerve
+Nerve - Tibial,60-69,ANKRD52,1.154,exact,nerve
+Nerve - Tibial,60-69,COPB1,0.751,exact,peripheral nerve
+Nerve - Tibial,60-69,ARID1B,0.873,exact,peripheral nerve
+Nerve - Tibial,60-69,OSGEPL1,4.853,global,bto:0000042
+Nerve - Tibial,60-69,RNF20,1.277,exact,nerve
+Nerve - Tibial,60-69,ISY1,0.322,exact,nerve
+Nerve - Tibial,60-69,FAM120AOS,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,VPS13B,1.537,exact,nerve
+Nerve - Tibial,60-69,ZXDC,4.978,global,bto:0000042
+Nerve - Tibial,60-69,MLH3,0.949,exact,nerve
+Nerve - Tibial,60-69,BTBD10,0.936,exact,nerve
+Nerve - Tibial,60-69,RBM39,0.638,exact,peripheral nerve
+Nerve - Tibial,60-69,WRNIP1,0.751,exact,nerve
+Nerve - Tibial,60-69,HECTD4,0.552,exact,nerve
+Nerve - Tibial,60-69,PRKCSH,0.571,exact,peripheral nerve
+Nerve - Tibial,60-69,ANKRD17,0.88,exact,nerve
+Nerve - Tibial,60-69,ZNF583,4.67,global,bto:0000042
+Nerve - Tibial,60-69,GRIPAP1,0.619,exact,peripheral nerve
+Nerve - Tibial,60-69,DYRK1B,1.419,exact,nerve
+Nerve - Tibial,60-69,TULP3,1.46,exact,peripheral nerve
+Nerve - Tibial,60-69,PRDM2,1.312,exact,peripheral nerve
+Nerve - Tibial,60-69,BRPF3,0.598,exact,nerve
+Nerve - Tibial,60-69,MMAB,0.787,exact,nerve
+Nerve - Tibial,60-69,FAN1,1.164,exact,nerve
+Nerve - Tibial,60-69,CPNE2,0.934,exact,nerve
+Nerve - Tibial,60-69,SETDB1,1.007,exact,peripheral nerve
+Nerve - Tibial,60-69,MLLT10,1.253,exact,nerve
+Nerve - Tibial,60-69,GLOD4,0.999,exact,nerve
+Nerve - Tibial,60-69,ING4,1.05,exact,nerve
+Nerve - Tibial,60-69,PHF12,1.004,exact,peripheral nerve
+Nerve - Tibial,60-69,LRBA,0.851,exact,peripheral nerve
+Nerve - Tibial,60-69,STAG1,1.614,exact,peripheral nerve
+Nerve - Tibial,60-69,SF3B1,1.477,exact,nerve
+Nerve - Tibial,60-69,CUL1,1.172,exact,peripheral nerve
+Nerve - Tibial,60-69,VCP,1.607,exact,peripheral nerve
+Nerve - Tibial,60-69,RUFY1,1.028,exact,nerve
+Nerve - Tibial,60-69,KDM4C,1.443,exact,nerve
+Nerve - Tibial,60-69,PPIG,1.598,exact,peripheral nerve
+Nerve - Tibial,60-69,ARIH2,1.16,exact,nerve
+Nerve - Tibial,60-69,FOXJ2,0.656,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF324,4.898,global,bto:0000042
+Nerve - Tibial,60-69,ATF7IP,0.544,exact,peripheral nerve
+Nerve - Tibial,60-69,CHD8,1.209,exact,peripheral nerve
+Nerve - Tibial,60-69,PHLDB1,0.986,exact,nerve
+Nerve - Tibial,60-69,NOP14-AS1,1.717,global,papillary renal cell carcinoma cell
+Nerve - Tibial,60-69,TTC31,4.626,global,bto:0000042
+Nerve - Tibial,60-69,NBPF12,0.548,exact,nerve
+Nerve - Tibial,60-69,THRA,0.852,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF786,1.045,exact,nerve
+Nerve - Tibial,60-69,NSD2,0.799,exact,peripheral nerve
+Nerve - Tibial,60-69,RAF1,1.369,exact,peripheral nerve
+Nerve - Tibial,60-69,MTIF3,1.393,exact,nerve
+Nerve - Tibial,60-69,AGO4,1.278,exact,nerve
+Nerve - Tibial,60-69,COX15,0.625,exact,peripheral nerve
+Nerve - Tibial,60-69,ZBTB4,1.142,exact,nerve
+Nerve - Tibial,60-69,MTA1,1.29,exact,nerve
+Nerve - Tibial,60-69,MBTD1,0.566,exact,nerve
+Nerve - Tibial,60-69,KANSL3,0.677,exact,peripheral nerve
+Nerve - Tibial,60-69,ALKBH8,1.128,exact,nerve
+Nerve - Tibial,60-69,BTBD7,0.655,exact,nerve
+Nerve - Tibial,60-69,RNMT,2.527,exact,peripheral nerve
+Nerve - Tibial,60-69,TBC1D9B,1.168,exact,nerve
+Nerve - Tibial,60-69,LRIG3,0.695,exact,peripheral nerve
+Nerve - Tibial,60-69,PEG3,0.636,exact,peripheral nerve
+Nerve - Tibial,60-69,ACOX2,0.513,exact,peripheral nerve
+Nerve - Tibial,60-69,RFT1,4.867,global,bto:0000042
+Nerve - Tibial,60-69,PRPF40B,0.939,exact,nerve
+Nerve - Tibial,60-69,LNPEP,1.451,exact,nerve
+Nerve - Tibial,60-69,TTC5,0.593,exact,nerve
+Nerve - Tibial,60-69,SNRNP200,0.737,exact,peripheral nerve
+Nerve - Tibial,60-69,RILPL1,1.649,exact,nerve
+Nerve - Tibial,60-69,SCAF11,1.416,exact,nerve
+Nerve - Tibial,60-69,TMEM9,0.75,exact,nerve
+Nerve - Tibial,60-69,SIRT5,0.89,exact,peripheral nerve
+Nerve - Tibial,60-69,EP400,0.561,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF606,4.883,global,bto:0000042
+Nerve - Tibial,60-69,RBFOX2,0.976,exact,peripheral nerve
+Nerve - Tibial,60-69,NIN,1.164,exact,peripheral nerve
+Nerve - Tibial,60-69,WDR82,1.453,exact,nerve
+Nerve - Tibial,60-69,RNASEH2B,1.33,exact,nerve
+Nerve - Tibial,60-69,DVL2,1.009,exact,peripheral nerve
+Nerve - Tibial,60-69,PATZ1,0.712,exact,peripheral nerve
+Nerve - Tibial,60-69,OSBPL2,0.836,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF200,4.886,global,bto:0000042
+Nerve - Tibial,60-69,MAML3,1.112,exact,peripheral nerve
+Nerve - Tibial,60-69,ENOX2,4.943,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PIP4K2B,1.66,exact,nerve
+Nerve - Tibial,60-69,TRRAP,0.584,exact,peripheral nerve
+Nerve - Tibial,60-69,SDCCAG8,1.12,exact,peripheral nerve
+Nerve - Tibial,60-69,SCLT1,0.948,exact,peripheral nerve
+Nerve - Tibial,60-69,IQSEC1,1.513,exact,nerve
+Nerve - Tibial,60-69,REV1,1.425,exact,nerve
+Nerve - Tibial,60-69,TNRC18,0.624,exact,nerve
+Nerve - Tibial,60-69,CTPS2,0.909,exact,nerve
+Nerve - Tibial,60-69,OTUD5,1.033,exact,nerve
+Nerve - Tibial,60-69,SLTM,1.249,exact,nerve
+Nerve - Tibial,60-69,SMIM8,4.326,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,TYSND1,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,PRKAB2,1.334,exact,nerve
+Nerve - Tibial,60-69,EIF2AK4,1.29,exact,peripheral nerve
+Nerve - Tibial,60-69,TAOK1,0.846,exact,peripheral nerve
+Nerve - Tibial,60-69,ARHGEF9,1.012,exact,peripheral nerve
+Nerve - Tibial,60-69,COQ6,0.689,exact,peripheral nerve
+Nerve - Tibial,60-69,PTCD1,0.746,exact,nerve
+Nerve - Tibial,60-69,BRD3,0.739,exact,peripheral nerve
+Nerve - Tibial,60-69,TBC1D20,0.534,exact,peripheral nerve
+Nerve - Tibial,60-69,RASSF1-AS1,1.296,global,endocrine gland
+Nerve - Tibial,60-69,RAB5B,1.741,exact,nerve
+Nerve - Tibial,60-69,SBF1,1.516,exact,peripheral nerve
+Nerve - Tibial,60-69,TSTD2,0.646,exact,nerve
+Nerve - Tibial,60-69,SEPTIN9,1.283,exact,peripheral nerve
+Nerve - Tibial,60-69,CCDC115,0.505,exact,nerve
+Nerve - Tibial,60-69,KIAA1328,0.114,exact,nerve
+Nerve - Tibial,60-69,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,GNAS,1.082,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF532,0.527,exact,nerve
+Nerve - Tibial,60-69,PRRC2C,1.112,exact,nerve
+Nerve - Tibial,60-69,GPS1,0.989,exact,nerve
+Nerve - Tibial,60-69,ZNF839,4.852,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,INO80,0.621,exact,nerve
+Nerve - Tibial,60-69,AMBRA1,1.085,exact,peripheral nerve
+Nerve - Tibial,60-69,MLH1,0.677,exact,peripheral nerve
+Nerve - Tibial,60-69,UBE3A,1.477,exact,peripheral nerve
+Nerve - Tibial,60-69,HNRNPL,0.517,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF512,4.979,global,bto:0000042
+Nerve - Tibial,60-69,MBD4,1.506,exact,nerve
+Nerve - Tibial,60-69,CTCF,1.675,exact,peripheral nerve
+Nerve - Tibial,60-69,UBE2E1,1.41,exact,nerve
+Nerve - Tibial,60-69,CUL2,0.733,exact,peripheral nerve
+Nerve - Tibial,60-69,ETFA,0.846,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF572,4.327,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,STRIP1,0.787,exact,peripheral nerve
+Nerve - Tibial,60-69,TNRC6C,0.767,exact,nerve
+Nerve - Tibial,60-69,SMU1,1.039,exact,nerve
+Nerve - Tibial,60-69,PTPN23,1.24,exact,nerve
+Nerve - Tibial,60-69,FAM120B,1.048,exact,nerve
+Nerve - Tibial,60-69,ZNF7,0.568,exact,nerve
+Nerve - Tibial,60-69,PUM1,0.563,exact,peripheral nerve
+Nerve - Tibial,60-69,KDM5B,0.632,exact,peripheral nerve
+Nerve - Tibial,60-69,FBXO17,0.586,exact,nerve
+Nerve - Tibial,60-69,AQR,2.26,exact,peripheral nerve
+Nerve - Tibial,60-69,DNAAF9,,,
+Nerve - Tibial,60-69,RCBTB1,0.669,exact,nerve
+Nerve - Tibial,60-69,TCEAL8,4.964,global,bto:0000042
+Nerve - Tibial,60-69,RALY,0.732,exact,peripheral nerve
+Nerve - Tibial,60-69,GNB1,1.187,exact,peripheral nerve
+Nerve - Tibial,60-69,ARHGEF11,0.982,exact,peripheral nerve
+Nerve - Tibial,60-69,TCTN1,1.203,exact,peripheral nerve
+Nerve - Tibial,60-69,GPATCH2L,4.391,global,bto:0000042
+Nerve - Tibial,60-69,STK25,0.71,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF512B,1.131,exact,nerve
+Nerve - Tibial,60-69,GBF1,1.173,exact,nerve
+Nerve - Tibial,60-69,RNF34,1.081,exact,nerve
+Nerve - Tibial,60-69,ITFG2,0.742,exact,nerve
+Nerve - Tibial,60-69,TMEM175,1.922,exact,nerve
+Nerve - Tibial,60-69,ZFP41,0.805,exact,nerve
+Nerve - Tibial,60-69,GOSR1,1.384,exact,nerve
+Nerve - Tibial,60-69,WDR20,1.375,exact,nerve
+Nerve - Tibial,60-69,OXSR1,0.943,exact,peripheral nerve
+Nerve - Tibial,60-69,ESS2,0.944,exact,peripheral nerve
+Nerve - Tibial,60-69,KIAA2026,4.862,global,bto:0000042
+Nerve - Tibial,60-69,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,60-69,KCTD9,0.796,exact,nerve
+Nerve - Tibial,60-69,CCDC97,4.948,global,bto:0000042
+Nerve - Tibial,60-69,UBFD1,4.98,global,bto:0000042
+Nerve - Tibial,60-69,UBE3B,1.361,exact,nerve
+Nerve - Tibial,60-69,TTF1,0.879,exact,nerve
+Nerve - Tibial,60-69,ZNF197,4.875,global,bto:0000042
+Nerve - Tibial,60-69,LIX1L,4.863,global,bto:0000042
+Nerve - Tibial,60-69,AGPAT3,1.419,exact,nerve
+Nerve - Tibial,60-69,DYNC1LI2,0.679,exact,peripheral nerve
+Nerve - Tibial,60-69,MAML1,1.07,exact,peripheral nerve
+Nerve - Tibial,60-69,HEATR5B,0.516,exact,nerve
+Nerve - Tibial,60-69,GOLGA2,1.161,exact,peripheral nerve
+Nerve - Tibial,60-69,MAGED2,1.007,exact,nerve
+Nerve - Tibial,60-69,CREBBP,1.652,exact,peripheral nerve
+Nerve - Tibial,60-69,ZNF646,0.556,exact,nerve
+Nerve - Tibial,60-69,RTL8A,0.865,exact,nerve
+Nerve - Tibial,60-69,DENND10,4.979,global,bto:0000042
+Nerve - Tibial,60-69,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Nerve - Tibial,60-69,PPP6R2,4.986,global,bto:0000042
+Nerve - Tibial,60-69,TERF2,1.358,exact,nerve
+Nerve - Tibial,60-69,DSTYK,0.796,exact,nerve
+Nerve - Tibial,60-69,LLGL1,0.583,exact,peripheral nerve
+Nerve - Tibial,60-69,PDPK1,1.043,exact,peripheral nerve
+Nerve - Tibial,60-69,ERV3-1,1.552,exact,peripheral nerve
+Nerve - Tibial,60-69,PHF2,0.631,exact,nerve
+Nerve - Tibial,60-69,TAB1,0.754,exact,peripheral nerve
+Nerve - Tibial,60-69,LENG1,1.023,exact,nerve
+Nerve - Tibial,60-69,DGCR8,1.414,exact,peripheral nerve
+Nerve - Tibial,60-69,FUS,2.037,exact,peripheral nerve
+Nerve - Tibial,60-69,DCAF8,0.524,exact,peripheral nerve
+Nerve - Tibial,60-69,USP19,1.552,exact,nerve
+Nerve - Tibial,60-69,GON4L,4.962,global,bto:0000042
+Nerve - Tibial,60-69,CAPZB,0.587,exact,peripheral nerve
+Nerve - Tibial,60-69,KLHL12,0.843,exact,nerve
+Nerve - Tibial,60-69,COPG2,1.076,exact,nerve
+Nerve - Tibial,60-69,SETD2,0.951,exact,peripheral nerve
+Nerve - Tibial,60-69,TASOR,4.968,global,bto:0000042
+Nerve - Tibial,70-79,SNX2,1.514,exact,nerve
+Nerve - Tibial,70-79,ZNF610,4.725,global,bto:0000042
+Nerve - Tibial,70-79,HEPH,0.555,exact,peripheral nerve
+Nerve - Tibial,70-79,PRR12,0.021,exact,nerve
+Nerve - Tibial,70-79,TTI1,1.041,exact,nerve
+Nerve - Tibial,70-79,SPECC1L,0.817,exact,nerve
+Nerve - Tibial,70-79,DIS3L2,1.16,exact,nerve
+Nerve - Tibial,70-79,TPCN2,0.874,exact,peripheral nerve
+Nerve - Tibial,70-79,TUB,1.522,exact,peripheral nerve
+Nerve - Tibial,70-79,NUDT6,0.83,exact,nerve
+Nerve - Tibial,70-79,SCAMP4,4.987,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,AMN1,0.664,exact,peripheral nerve
+Nerve - Tibial,70-79,DOCK7,1.032,exact,peripheral nerve
+Nerve - Tibial,70-79,CLYBL,0.676,exact,peripheral nerve
+Nerve - Tibial,70-79,PANK4,1.103,exact,nerve
+Nerve - Tibial,70-79,MAN1B1,0.844,exact,nerve
+Nerve - Tibial,70-79,GPATCH8,4.961,global,bto:0000042
+Nerve - Tibial,70-79,CDKAL1,1.231,exact,nerve
+Nerve - Tibial,70-79,MBOAT2,1.196,exact,nerve
+Nerve - Tibial,70-79,QSOX1,1.256,exact,nerve
+Nerve - Tibial,70-79,MED29,0.503,exact,peripheral nerve
+Nerve - Tibial,70-79,MIEF2,0.909,exact,peripheral nerve
+Nerve - Tibial,70-79,ATXN7L1,0.543,exact,peripheral nerve
+Nerve - Tibial,70-79,BACH2,0.762,exact,peripheral nerve
+Nerve - Tibial,70-79,ALDH3A2,1.463,exact,nerve
+Nerve - Tibial,70-79,HELZ,4.96,global,bto:0000042
+Nerve - Tibial,70-79,SPATA7,0.94,exact,peripheral nerve
+Nerve - Tibial,70-79,IFT172,1.784,exact,peripheral nerve
+Nerve - Tibial,70-79,AP2B1,0.619,exact,peripheral nerve
+Nerve - Tibial,70-79,UBTF,1.566,exact,nerve
+Nerve - Tibial,70-79,SPG11,1.551,exact,peripheral nerve
+Nerve - Tibial,70-79,KIF2A,1.326,exact,peripheral nerve
+Nerve - Tibial,70-79,MOCS2,0.54,exact,peripheral nerve
+Nerve - Tibial,70-79,DDX42,1.308,exact,nerve
+Nerve - Tibial,70-79,ZFC3H1,0.584,exact,nerve
+Nerve - Tibial,70-79,CASC3,1.853,exact,nerve
+Nerve - Tibial,70-79,IDS,0.691,exact,peripheral nerve
+Nerve - Tibial,70-79,TRERF1,0.811,exact,nerve
+Nerve - Tibial,70-79,ENSG00000170846,,,
+Nerve - Tibial,70-79,SLC25A21-AS1,2.129,global,nci-h1688 cell
+Nerve - Tibial,70-79,PRMT2,1.431,exact,nerve
+Nerve - Tibial,70-79,PHAX,1.209,exact,nerve
+Nerve - Tibial,70-79,MLH3,0.949,exact,nerve
+Nerve - Tibial,70-79,NSUN5,1.137,exact,nerve
+Nerve - Tibial,70-79,FAM149B1,0.555,exact,peripheral nerve
+Nerve - Tibial,70-79,WRNIP1,0.751,exact,nerve
+Nerve - Tibial,70-79,AP3M2,1.059,exact,nerve
+Nerve - Tibial,70-79,TMCC1,0.85,exact,nerve
+Nerve - Tibial,70-79,PRKCSH,0.571,exact,peripheral nerve
+Nerve - Tibial,70-79,RNASEH1-AS1,2.045,global,nci-h522 cell
+Nerve - Tibial,70-79,TULP3,1.46,exact,peripheral nerve
+Nerve - Tibial,70-79,KMT2C,0.541,exact,peripheral nerve
+Nerve - Tibial,70-79,PGS1,4.926,global,bto:0000042
+Nerve - Tibial,70-79,SREBF2,1.009,exact,peripheral nerve
+Nerve - Tibial,70-79,MORF4L1P1,,,
+Nerve - Tibial,70-79,MMAB,0.787,exact,nerve
+Nerve - Tibial,70-79,FAN1,1.164,exact,nerve
+Nerve - Tibial,70-79,SQSTM1,1.657,exact,peripheral nerve
+Nerve - Tibial,70-79,DZIP3,4.973,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF445,0.509,exact,nerve
+Nerve - Tibial,70-79,TMED4,0.743,exact,nerve
+Nerve - Tibial,70-79,ING4,1.05,exact,nerve
+Nerve - Tibial,70-79,CNOT10,0.936,exact,nerve
+Nerve - Tibial,70-79,YTHDC1,0.758,exact,peripheral nerve
+Nerve - Tibial,70-79,NUP37,0.89,exact,nerve
+Nerve - Tibial,70-79,LRBA,0.851,exact,peripheral nerve
+Nerve - Tibial,70-79,STAG1,1.614,exact,peripheral nerve
+Nerve - Tibial,70-79,CHMP6,1.44,exact,nerve
+Nerve - Tibial,70-79,PPP1R21,0.671,exact,nerve
+Nerve - Tibial,70-79,CRKL,0.629,exact,peripheral nerve
+Nerve - Tibial,70-79,CEP89,1.173,exact,peripheral nerve
+Nerve - Tibial,70-79,RIC8A,1.157,exact,peripheral nerve
+Nerve - Tibial,70-79,RUFY1,1.028,exact,nerve
+Nerve - Tibial,70-79,PPIG,1.598,exact,peripheral nerve
+Nerve - Tibial,70-79,CASTOR3,1.198,exact,nerve
+Nerve - Tibial,70-79,ZNF311,4.304,global,bto:0000042
+Nerve - Tibial,70-79,EIF4A2,1.25,exact,peripheral nerve
+Nerve - Tibial,70-79,HMGCL,1.388,exact,nerve
+Nerve - Tibial,70-79,VEZF1,1.46,exact,peripheral nerve
+Nerve - Tibial,70-79,FOXJ2,0.656,exact,peripheral nerve
+Nerve - Tibial,70-79,ATF7IP,0.544,exact,peripheral nerve
+Nerve - Tibial,70-79,TDRD3,1.387,exact,nerve
+Nerve - Tibial,70-79,VAPB,1.455,exact,peripheral nerve
+Nerve - Tibial,70-79,COQ7,0.723,exact,peripheral nerve
+Nerve - Tibial,70-79,YARS2,1.312,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF501,1.09,exact,peripheral nerve
+Nerve - Tibial,70-79,NUDT2,0.704,exact,nerve
+Nerve - Tibial,70-79,MTF1,1.195,exact,nerve
+Nerve - Tibial,70-79,ZNF786,1.045,exact,nerve
+Nerve - Tibial,70-79,C1ORF35,0.799,exact,nerve
+Nerve - Tibial,70-79,METTL25,4.699,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MTIF3,1.393,exact,nerve
+Nerve - Tibial,70-79,OXCT1-AS1,1.49,global,urinary bladder cancer cell
+Nerve - Tibial,70-79,METTL18,4.931,global,bto:0000042
+Nerve - Tibial,70-79,BTBD7,0.655,exact,nerve
+Nerve - Tibial,70-79,SLC15A4,1.341,exact,nerve
+Nerve - Tibial,70-79,DDB2,1.302,exact,nerve
+Nerve - Tibial,70-79,NCOA6,1.291,exact,nerve
+Nerve - Tibial,70-79,LRIG3,0.695,exact,peripheral nerve
+Nerve - Tibial,70-79,PEG3,0.636,exact,peripheral nerve
+Nerve - Tibial,70-79,PHAF1,,,
+Nerve - Tibial,70-79,BRD7,1.203,exact,nerve
+Nerve - Tibial,70-79,L3MBTL1,1.135,exact,nerve
+Nerve - Tibial,70-79,HDAC1,1.856,exact,peripheral nerve
+Nerve - Tibial,70-79,PRIM1,0.968,exact,nerve
+Nerve - Tibial,70-79,C4ORF3,4.991,global,bto:0000042
+Nerve - Tibial,70-79,SCAF11,1.416,exact,nerve
+Nerve - Tibial,70-79,TMEM9,0.75,exact,nerve
+Nerve - Tibial,70-79,SSBP2,0.599,exact,peripheral nerve
+Nerve - Tibial,70-79,CCL28,1.389,exact,peripheral nerve
+Nerve - Tibial,70-79,NIN,1.164,exact,peripheral nerve
+Nerve - Tibial,70-79,PRIMPOL,0.796,exact,nerve
+Nerve - Tibial,70-79,MAP3K4,0.855,exact,peripheral nerve
+Nerve - Tibial,70-79,RANP4,,,
+Nerve - Tibial,70-79,GSAP,1.563,exact,nerve
+Nerve - Tibial,70-79,MMP28,0.969,exact,peripheral nerve
+Nerve - Tibial,70-79,SIPA1,0.804,exact,nerve
+Nerve - Tibial,70-79,C17ORF113,,,
+Nerve - Tibial,70-79,MMACHC,0.984,exact,peripheral nerve
+Nerve - Tibial,70-79,SDCCAG8,1.12,exact,peripheral nerve
+Nerve - Tibial,70-79,REV1,1.425,exact,nerve
+Nerve - Tibial,70-79,AMZ2P1,,,
+Nerve - Tibial,70-79,BBX,0.688,exact,nerve
+Nerve - Tibial,70-79,SLTM,1.249,exact,nerve
+Nerve - Tibial,70-79,SMIM8,4.326,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DYNLL2,0.778,exact,peripheral nerve
+Nerve - Tibial,70-79,CCDC112,0.776,exact,peripheral nerve
+Nerve - Tibial,70-79,MED20,1.108,exact,nerve
+Nerve - Tibial,70-79,TAOK1,0.846,exact,peripheral nerve
+Nerve - Tibial,70-79,ARHGEF9,1.012,exact,peripheral nerve
+Nerve - Tibial,70-79,QRSL1,1.094,exact,peripheral nerve
+Nerve - Tibial,70-79,NIPBL,0.711,exact,peripheral nerve
+Nerve - Tibial,70-79,TSTD2,0.646,exact,nerve
+Nerve - Tibial,70-79,MAP1LC3A,1.026,exact,peripheral nerve
+Nerve - Tibial,70-79,SEPTIN9,1.283,exact,peripheral nerve
+Nerve - Tibial,70-79,FGGY,1.101,exact,nerve
+Nerve - Tibial,70-79,KIAA1328,0.114,exact,nerve
+Nerve - Tibial,70-79,SPACA9,4.854,global,bto:0000042
+Nerve - Tibial,70-79,RFC5,0.702,exact,nerve
+Nerve - Tibial,70-79,KLHL36,0.79,exact,nerve
+Nerve - Tibial,70-79,FRG1BP,,,
+Nerve - Tibial,70-79,DFFA,0.515,exact,peripheral nerve
+Nerve - Tibial,70-79,URI1,0.558,exact,nerve
+Nerve - Tibial,70-79,MINDY2,1.036,exact,nerve
+Nerve - Tibial,70-79,FARS2,0.668,exact,peripheral nerve
+Nerve - Tibial,70-79,HAUS4,0.502,exact,nerve
+Nerve - Tibial,70-79,ARL2,0.797,exact,peripheral nerve
+Nerve - Tibial,70-79,PLCD1,1.072,exact,peripheral nerve
+Nerve - Tibial,70-79,ARMCX2,4.96,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DYRK1A,1.31,exact,peripheral nerve
+Nerve - Tibial,70-79,LARGE1,1.135,exact,peripheral nerve
+Nerve - Tibial,70-79,UBE2I,1.198,exact,peripheral nerve
+Nerve - Tibial,70-79,PTPN23,1.24,exact,nerve
+Nerve - Tibial,70-79,ANKRD6,0.813,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF696,4.583,global,bto:0000042
+Nerve - Tibial,70-79,MAGEE1,0.778,exact,nerve
+Nerve - Tibial,70-79,KDM5B,0.632,exact,peripheral nerve
+Nerve - Tibial,70-79,LINC00665,1.914,global,carcinoma cell
+Nerve - Tibial,70-79,PHPT1,1.097,exact,nerve
+Nerve - Tibial,70-79,CIZ1,1.271,exact,nerve
+Nerve - Tibial,70-79,SCRN3,0.621,exact,nerve
+Nerve - Tibial,70-79,RTL8C,0.657,exact,nerve
+Nerve - Tibial,70-79,MAPRE3,1.713,exact,peripheral nerve
+Nerve - Tibial,70-79,HNRNPU,0.789,exact,peripheral nerve
+Nerve - Tibial,70-79,RALY,0.732,exact,peripheral nerve
+Nerve - Tibial,70-79,GNB1,1.187,exact,peripheral nerve
+Nerve - Tibial,70-79,TCTN1,1.203,exact,peripheral nerve
+Nerve - Tibial,70-79,MBD1,0.748,exact,peripheral nerve
+Nerve - Tibial,70-79,GPATCH2L,4.391,global,bto:0000042
+Nerve - Tibial,70-79,LTBP3,0.666,exact,peripheral nerve
+Nerve - Tibial,70-79,RNF130,0.708,exact,nerve
+Nerve - Tibial,70-79,MTFMT,0.905,exact,nerve
+Nerve - Tibial,70-79,C7ORF50,0.688,exact,nerve
+Nerve - Tibial,70-79,ZNF579,0.498,exact,nerve
+Nerve - Tibial,70-79,KBTBD2,0.521,exact,nerve
+Nerve - Tibial,70-79,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZNF138,4.771,global,bto:0000042
+Nerve - Tibial,70-79,PPM1D,1.511,exact,nerve
+Nerve - Tibial,70-79,CCDC97,4.948,global,bto:0000042
+Nerve - Tibial,70-79,ARL3,1.487,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF516-AS1,,,
+Nerve - Tibial,70-79,ARMC7,4.945,global,bto:0000042
+Nerve - Tibial,70-79,AGPAT3,1.419,exact,nerve
+Nerve - Tibial,70-79,THEM6,0.7,exact,nerve
+Nerve - Tibial,70-79,GOLGA2,1.161,exact,peripheral nerve
+Nerve - Tibial,70-79,SALL2,1.443,exact,nerve
+Nerve - Tibial,70-79,SAP18,1.632,exact,nerve
+Nerve - Tibial,70-79,ZNF75A,1.037,exact,nerve
+Nerve - Tibial,70-79,ARHGEF28,1.006,exact,peripheral nerve
+Nerve - Tibial,70-79,AARS2,1.269,exact,peripheral nerve
+Nerve - Tibial,70-79,FMNL2,1.063,exact,nerve
+Nerve - Tibial,70-79,GPATCH1,0.659,exact,peripheral nerve
+Nerve - Tibial,70-79,ATP7B,1.048,exact,peripheral nerve
+Nerve - Tibial,70-79,ERV3-1,1.552,exact,peripheral nerve
+Nerve - Tibial,70-79,TRMT1L,0.566,exact,nerve
+Nerve - Tibial,70-79,PRPF38A,0.929,exact,nerve
+Nerve - Tibial,70-79,HADHA,0.827,exact,peripheral nerve
+Nerve - Tibial,70-79,TAB1,0.754,exact,peripheral nerve
+Nerve - Tibial,70-79,LINC01881,,,
+Nerve - Tibial,70-79,IFTAP,,,
+Nerve - Tibial,70-79,CFAP126,0.598,exact,peripheral nerve
+Nerve - Tibial,70-79,MMAA,0.921,exact,nerve
+Nerve - Tibial,70-79,DGCR8,1.414,exact,peripheral nerve
+Nerve - Tibial,70-79,SMURF2P1,,,
+Nerve - Tibial,70-79,UHRF1BP1,0.568,exact,nerve
+Nerve - Tibial,70-79,DCAF8,0.524,exact,peripheral nerve
+Nerve - Tibial,70-79,CBR1,1.189,exact,peripheral nerve
+Nerve - Tibial,70-79,DLG3,1.425,exact,peripheral nerve
+Nerve - Tibial,70-79,CDK19,1.116,exact,nerve
+Nerve - Tibial,70-79,PCNX4,4.957,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CAPZB,0.587,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF425,4.641,global,bto:0000042
+Nerve - Tibial,70-79,LIN7B,0.916,exact,peripheral nerve
+Nerve - Tibial,70-79,RBM39,0.638,exact,peripheral nerve
+Nerve - Tibial,70-79,MCM9,4.971,global,bto:0000042
+Nerve - Tibial,70-79,UPF2,0.564,exact,peripheral nerve
+Nerve - Tibial,70-79,TAF1,0.784,exact,peripheral nerve
+Nerve - Tibial,70-79,MRPL48,0.64,exact,nerve
+Nerve - Tibial,70-79,ALKBH4,0.041,exact,nerve
+Nerve - Tibial,70-79,PHF3,1.153,exact,nerve
+Nerve - Tibial,70-79,EIF3J-DT,,,
+Nerve - Tibial,70-79,FBXO25,0.896,exact,nerve
+Nerve - Tibial,70-79,RPUSD3,0.623,exact,nerve
+Nerve - Tibial,70-79,EP300,1.633,exact,peripheral nerve
+Nerve - Tibial,70-79,CFAP20,0.949,exact,peripheral nerve
+Nerve - Tibial,70-79,ARGLU1,1.081,exact,nerve
+Nerve - Tibial,70-79,HMGXB4,4.958,global,bto:0000042
+Nerve - Tibial,70-79,AMOT,0.81,exact,peripheral nerve
+Nerve - Tibial,70-79,R3HDM2,0.872,exact,nerve
+Nerve - Tibial,70-79,TBC1D31,4.776,global,bto:0000042
+Nerve - Tibial,70-79,NNT-AS1,1.891,global,lung cancer cell
+Nerve - Tibial,70-79,STX18,1.281,exact,nerve
+Nerve - Tibial,70-79,RFFL,0.834,exact,nerve
+Nerve - Tibial,70-79,OBSL1,1.151,exact,nerve
+Nerve - Tibial,70-79,KDM8,0.54,exact,peripheral nerve
+Nerve - Tibial,70-79,PARP4,1.09,exact,nerve
+Nerve - Tibial,70-79,PPDPF,4.99,global,bto:0000042
+Nerve - Tibial,70-79,JPT2,0.577,exact,nerve
+Nerve - Tibial,70-79,FKBP8,0.799,exact,peripheral nerve
+Nerve - Tibial,70-79,KLC1,1.675,exact,peripheral nerve
+Nerve - Tibial,70-79,MRGBP,4.955,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MSH6,0.877,exact,peripheral nerve
+Nerve - Tibial,70-79,HABP4,4.939,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ABCD4,0.661,exact,peripheral nerve
+Nerve - Tibial,70-79,CPS1,1.205,exact,nerve
+Nerve - Tibial,70-79,ZSWIM3,4.734,global,bto:0000042
+Nerve - Tibial,70-79,DEAF1,0.559,exact,peripheral nerve
+Nerve - Tibial,70-79,GIT2,1.381,exact,nerve
+Nerve - Tibial,70-79,BAZ2A,1.445,exact,nerve
+Nerve - Tibial,70-79,FAM8A1,0.927,exact,nerve
+Nerve - Tibial,70-79,PPP6R3,1.372,exact,nerve
+Nerve - Tibial,70-79,SLC25A12,1.007,exact,peripheral nerve
+Nerve - Tibial,70-79,ZZZ3,0.702,exact,nerve
+Nerve - Tibial,70-79,ADNP,0.992,exact,peripheral nerve
+Nerve - Tibial,70-79,PTK2,1.684,exact,peripheral nerve
+Nerve - Tibial,70-79,TTC28,0.723,exact,nerve
+Nerve - Tibial,70-79,SETDB2,1.086,exact,nerve
+Nerve - Tibial,70-79,DCAKD,0.923,exact,nerve
+Nerve - Tibial,70-79,NSMCE3,0.97,exact,nerve
+Nerve - Tibial,70-79,CNNM3,0.907,exact,nerve
+Nerve - Tibial,70-79,SNX30,4.856,global,bto:0000042
+Nerve - Tibial,70-79,SNUPN,1.092,exact,nerve
+Nerve - Tibial,70-79,CTBP1-DT,,,
+Nerve - Tibial,70-79,NAPRT,1.576,exact,nerve
+Nerve - Tibial,70-79,NUP62,0.89,exact,peripheral nerve
+Nerve - Tibial,70-79,WDR44,0.507,exact,peripheral nerve
+Nerve - Tibial,70-79,BOD1L1,0.631,exact,nerve
+Nerve - Tibial,70-79,KANTR,,,
+Nerve - Tibial,70-79,OGA,1.318,exact,peripheral nerve
+Nerve - Tibial,70-79,COPB1,0.751,exact,peripheral nerve
+Nerve - Tibial,70-79,ARID1B,0.873,exact,peripheral nerve
+Nerve - Tibial,70-79,SRI,0.833,exact,peripheral nerve
+Nerve - Tibial,70-79,RNF20,1.277,exact,nerve
+Nerve - Tibial,70-79,RPA2,0.765,exact,nerve
+Nerve - Tibial,70-79,ZNF775,4.866,global,bto:0000042
+Nerve - Tibial,70-79,FAM228B,3.962,global,bto:0000042
+Nerve - Tibial,70-79,KDM2A,1.438,exact,nerve
+Nerve - Tibial,70-79,MGME1,1.143,exact,nerve
+Nerve - Tibial,70-79,ZNF583,4.67,global,bto:0000042
+Nerve - Tibial,70-79,HDAC3,1.536,exact,peripheral nerve
+Nerve - Tibial,70-79,TBC1D10B,0.862,exact,nerve
+Nerve - Tibial,70-79,DYRK1B,1.419,exact,nerve
+Nerve - Tibial,70-79,PRKAR2A,1.5,exact,nerve
+Nerve - Tibial,70-79,ZBTB45,0.683,exact,nerve
+Nerve - Tibial,70-79,BRPF3,0.598,exact,nerve
+Nerve - Tibial,70-79,SNX13,1.067,exact,nerve
+Nerve - Tibial,70-79,HDAC11,1.125,exact,peripheral nerve
+Nerve - Tibial,70-79,SETDB1,1.007,exact,peripheral nerve
+Nerve - Tibial,70-79,TMEM109,0.827,exact,nerve
+Nerve - Tibial,70-79,QDPR,0.692,exact,peripheral nerve
+Nerve - Tibial,70-79,CWC27,0.689,exact,peripheral nerve
+Nerve - Tibial,70-79,NFKBIL1,0.77,exact,nerve
+Nerve - Tibial,70-79,SF3B1,1.477,exact,nerve
+Nerve - Tibial,70-79,VCP,1.607,exact,peripheral nerve
+Nerve - Tibial,70-79,ZFP82,4.783,global,bto:0000042
+Nerve - Tibial,70-79,KDM4C,1.443,exact,nerve
+Nerve - Tibial,70-79,ARIH2,1.16,exact,nerve
+Nerve - Tibial,70-79,UFSP2,0.746,exact,nerve
+Nerve - Tibial,70-79,EPC1,4.982,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CEPT1,1.075,exact,nerve
+Nerve - Tibial,70-79,TARS2,0.73,exact,peripheral nerve
+Nerve - Tibial,70-79,SHARPIN,1.561,exact,nerve
+Nerve - Tibial,70-79,TSHZ1,1.161,exact,peripheral nerve
+Nerve - Tibial,70-79,NOP14-AS1,1.717,global,papillary renal cell carcinoma cell
+Nerve - Tibial,70-79,NBPF12,0.548,exact,nerve
+Nerve - Tibial,70-79,HIF1AN,0.577,exact,peripheral nerve
+Nerve - Tibial,70-79,OGFOD2,0.698,exact,nerve
+Nerve - Tibial,70-79,THRA,0.852,exact,peripheral nerve
+Nerve - Tibial,70-79,ENSG00000258559,,,
+Nerve - Tibial,70-79,MUS81,1.407,exact,nerve
+Nerve - Tibial,70-79,RABGAP1,1.094,exact,nerve
+Nerve - Tibial,70-79,UBE2D4,0.606,exact,nerve
+Nerve - Tibial,70-79,AGO4,1.278,exact,nerve
+Nerve - Tibial,70-79,ZKSCAN3,1.241,exact,nerve
+Nerve - Tibial,70-79,XYLT2,1.218,exact,nerve
+Nerve - Tibial,70-79,NME3,0.708,exact,nerve
+Nerve - Tibial,70-79,MTA1,1.29,exact,nerve
+Nerve - Tibial,70-79,TMEM63B,1.078,exact,peripheral nerve
+Nerve - Tibial,70-79,FN3KRP,0.644,exact,nerve
+Nerve - Tibial,70-79,NRF1,1.127,exact,peripheral nerve
+Nerve - Tibial,70-79,YEATS2,1.022,exact,nerve
+Nerve - Tibial,70-79,NUP133,1.429,exact,nerve
+Nerve - Tibial,70-79,TBC1D9B,1.168,exact,nerve
+Nerve - Tibial,70-79,SLC4A2,0.631,exact,peripheral nerve
+Nerve - Tibial,70-79,TRAFD1,0.581,exact,nerve
+Nerve - Tibial,70-79,ZFPM1,0.619,exact,peripheral nerve
+Nerve - Tibial,70-79,ACOX2,0.513,exact,peripheral nerve
+Nerve - Tibial,70-79,CNBP,1.049,exact,peripheral nerve
+Nerve - Tibial,70-79,CPSF7,1.272,exact,nerve
+Nerve - Tibial,70-79,TTC5,0.593,exact,nerve
+Nerve - Tibial,70-79,CYP2R1,1.218,exact,nerve
+Nerve - Tibial,70-79,DYNLT2B,,,
+Nerve - Tibial,70-79,SMIM10,4.384,global,bto:0000042
+Nerve - Tibial,70-79,RILPL1,1.649,exact,nerve
+Nerve - Tibial,70-79,MAF1,1.201,exact,nerve
+Nerve - Tibial,70-79,DAB2IP,1.282,exact,nerve
+Nerve - Tibial,70-79,SIRT5,0.89,exact,peripheral nerve
+Nerve - Tibial,70-79,EP400,0.561,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF606,4.883,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000259969,,,
+Nerve - Tibial,70-79,SMAD2,1.633,exact,peripheral nerve
+Nerve - Tibial,70-79,LYRM7,0.755,exact,nerve
+Nerve - Tibial,70-79,NUB1,1.259,exact,nerve
+Nerve - Tibial,70-79,FBXO15,0.564,exact,peripheral nerve
+Nerve - Tibial,70-79,ABHD4,0.757,exact,peripheral nerve
+Nerve - Tibial,70-79,METAP1,0.593,exact,peripheral nerve
+Nerve - Tibial,70-79,DVL2,1.009,exact,peripheral nerve
+Nerve - Tibial,70-79,TTC9C,4.404,global,bto:0000042
+Nerve - Tibial,70-79,THTPA,0.808,exact,nerve
+Nerve - Tibial,70-79,OSBPL2,0.836,exact,peripheral nerve
+Nerve - Tibial,70-79,SPEF2,0.635,exact,nerve
+Nerve - Tibial,70-79,PCGF1,1.12,exact,nerve
+Nerve - Tibial,70-79,ZNF563,0.061,exact,nerve
+Nerve - Tibial,70-79,RFXANK,0.924,exact,nerve
+Nerve - Tibial,70-79,KIAA0319L,0.696,exact,peripheral nerve
+Nerve - Tibial,70-79,LRRC27,4.59,global,bto:0000042
+Nerve - Tibial,70-79,PCDHB6,1.339,exact,nerve
+Nerve - Tibial,70-79,EMC10,0.851,exact,nerve
+Nerve - Tibial,70-79,DCP1B,0.999,exact,nerve
+Nerve - Tibial,70-79,SLITRK5,0.845,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF485,0.767,exact,nerve
+Nerve - Tibial,70-79,NELFB,0.776,exact,nerve
+Nerve - Tibial,70-79,PTCD1,0.746,exact,nerve
+Nerve - Tibial,70-79,RSBN1L,4.927,global,bto:0000042
+Nerve - Tibial,70-79,TBC1D20,0.534,exact,peripheral nerve
+Nerve - Tibial,70-79,MRPL10,0.982,exact,peripheral nerve
+Nerve - Tibial,70-79,RASSF1-AS1,1.296,global,endocrine gland
+Nerve - Tibial,70-79,SLC35D2,0.041,exact,nerve
+Nerve - Tibial,70-79,RAB5B,1.741,exact,nerve
+Nerve - Tibial,70-79,SBF1,1.516,exact,peripheral nerve
+Nerve - Tibial,70-79,CCDC115,0.505,exact,nerve
+Nerve - Tibial,70-79,SMUG1,1.2,exact,nerve
+Nerve - Tibial,70-79,NOP9,4.315,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PRRC2C,1.112,exact,nerve
+Nerve - Tibial,70-79,ZNF532,0.527,exact,nerve
+Nerve - Tibial,70-79,CXXC5,1.32,exact,nerve
+Nerve - Tibial,70-79,GPS1,0.989,exact,nerve
+Nerve - Tibial,70-79,TMEM205,4.956,global,bto:0000042
+Nerve - Tibial,70-79,HPX,1.327,exact,peripheral nerve
+Nerve - Tibial,70-79,LSM14A,1.159,exact,nerve
+Nerve - Tibial,70-79,LINC00957,1.563,global,colonic epithelium cell line
+Nerve - Tibial,70-79,DAXX,1.096,exact,peripheral nerve
+Nerve - Tibial,70-79,FRS3,1.153,exact,nerve
+Nerve - Tibial,70-79,HNRNPL,0.517,exact,peripheral nerve
+Nerve - Tibial,70-79,ZKSCAN5,4.921,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TP73-AS1,0.669,exact,nerve
+Nerve - Tibial,70-79,CUL2,0.733,exact,peripheral nerve
+Nerve - Tibial,70-79,BCORL1,0.694,exact,nerve
+Nerve - Tibial,70-79,STRIP1,0.787,exact,peripheral nerve
+Nerve - Tibial,70-79,DLG5,1.384,exact,nerve
+Nerve - Tibial,70-79,UBE2O,1.158,exact,nerve
+Nerve - Tibial,70-79,RRP8,0.689,exact,nerve
+Nerve - Tibial,70-79,SATB1,1.231,exact,peripheral nerve
+Nerve - Tibial,70-79,BRK1,0.552,exact,peripheral nerve
+Nerve - Tibial,70-79,RUFY3,0.951,exact,peripheral nerve
+Nerve - Tibial,70-79,DNAAF9,,,
+Nerve - Tibial,70-79,EMSY-DT,,,
+Nerve - Tibial,70-79,METTL16,1.179,exact,nerve
+Nerve - Tibial,70-79,ATXN7L3B,1.126,exact,nerve
+Nerve - Tibial,70-79,ZNF142,0.548,exact,nerve
+Nerve - Tibial,70-79,CABIN1,1.685,exact,nerve
+Nerve - Tibial,70-79,KDM2B,1.67,exact,nerve
+Nerve - Tibial,70-79,VGLL4,0.971,exact,nerve
+Nerve - Tibial,70-79,PAAF1,0.912,exact,nerve
+Nerve - Tibial,70-79,LINC00663,1.466,global,hgc-27 cell
+Nerve - Tibial,70-79,PXMP4,4.865,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GBF1,1.173,exact,nerve
+Nerve - Tibial,70-79,ZNF512B,1.131,exact,nerve
+Nerve - Tibial,70-79,ITFG2,0.742,exact,nerve
+Nerve - Tibial,70-79,INO80D,4.926,global,bto:0000042
+Nerve - Tibial,70-79,ANP32A,1.706,exact,nerve
+Nerve - Tibial,70-79,ZNF132,4.0,global,adenocarcinoma cell
+Nerve - Tibial,70-79,RAB9B,0.868,exact,nerve
+Nerve - Tibial,70-79,ZC3H10,4.897,global,bto:0000042
+Nerve - Tibial,70-79,ESS2,0.944,exact,peripheral nerve
+Nerve - Tibial,70-79,USP28,1.26,exact,nerve
+Nerve - Tibial,70-79,KIAA2026,4.862,global,bto:0000042
+Nerve - Tibial,70-79,LINC00662,1.942,global,liver cancer cell
+Nerve - Tibial,70-79,STK11,1.683,exact,peripheral nerve
+Nerve - Tibial,70-79,KCTD9,0.796,exact,nerve
+Nerve - Tibial,70-79,C3ORF14,4.894,global,bto:0000042
+Nerve - Tibial,70-79,DALRD3,0.886,exact,nerve
+Nerve - Tibial,70-79,AK9,4.861,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DYNC1LI2,0.679,exact,peripheral nerve
+Nerve - Tibial,70-79,CTDSPL,1.08,exact,nerve
+Nerve - Tibial,70-79,UBE3D,0.7,exact,nerve
+Nerve - Tibial,70-79,MAGED2,1.007,exact,nerve
+Nerve - Tibial,70-79,AKAP8L,1.007,exact,nerve
+Nerve - Tibial,70-79,PPCDC,4.872,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,TTI2,0.742,exact,nerve
+Nerve - Tibial,70-79,FHIP1A,,,
+Nerve - Tibial,70-79,ATN1,0.889,exact,peripheral nerve
+Nerve - Tibial,70-79,LNCTAM34A,,,
+Nerve - Tibial,70-79,TERF2,1.358,exact,nerve
+Nerve - Tibial,70-79,PDPK1,1.043,exact,peripheral nerve
+Nerve - Tibial,70-79,SLC46A1,0.537,exact,peripheral nerve
+Nerve - Tibial,70-79,ERCC2,1.027,exact,peripheral nerve
+Nerve - Tibial,70-79,EPG5,1.001,exact,peripheral nerve
+Nerve - Tibial,70-79,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LENG1,1.023,exact,nerve
+Nerve - Tibial,70-79,ACBD4,0.827,exact,nerve
+Nerve - Tibial,70-79,ACADSB,1.108,exact,nerve
+Nerve - Tibial,70-79,CEP44,4.885,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,GON4L,4.962,global,bto:0000042
+Nerve - Tibial,70-79,HOXD-AS2,0.623,exact,nerve
+Nerve - Tibial,70-79,SCAF1,1.525,exact,nerve
+Nerve - Tibial,70-79,TMEM177,4.88,global,bto:0000042
+Nerve - Tibial,70-79,GALK2,0.722,exact,nerve
+Nerve - Tibial,70-79,EPB41L2,1.505,exact,peripheral nerve
+Nerve - Tibial,70-79,ACSS1,0.584,exact,peripheral nerve
+Nerve - Tibial,70-79,ARHGEF17,0.819,exact,nerve
+Nerve - Tibial,70-79,APBB1,1.134,exact,peripheral nerve
+Nerve - Tibial,70-79,ZDHHC17,0.686,exact,peripheral nerve
+Nerve - Tibial,70-79,POC5,0.564,exact,peripheral nerve
+Nerve - Tibial,70-79,BOLA1,4.81,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PIK3R2,0.881,exact,peripheral nerve
+Nerve - Tibial,70-79,SRSF8,0.789,exact,nerve
+Nerve - Tibial,70-79,METTL14,1.026,exact,peripheral nerve
+Nerve - Tibial,70-79,VEZT,1.276,exact,peripheral nerve
+Nerve - Tibial,70-79,NFRKB,4.94,global,bto:0000042
+Nerve - Tibial,70-79,SNX24,0.58,exact,nerve
+Nerve - Tibial,70-79,MTX3,0.887,exact,nerve
+Nerve - Tibial,70-79,ZNF616,4.975,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000261663,,,
+Nerve - Tibial,70-79,SNRPD3,1.565,exact,nerve
+Nerve - Tibial,70-79,IGSF8,0.709,exact,peripheral nerve
+Nerve - Tibial,70-79,ARSA,1.588,exact,peripheral nerve
+Nerve - Tibial,70-79,FAM193A,4.6,global,bto:0000042
+Nerve - Tibial,70-79,GNG7,0.748,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF576,4.802,global,bto:0000042
+Nerve - Tibial,70-79,DNAJC19,1.278,exact,nerve
+Nerve - Tibial,70-79,PPP1R16A,4.967,global,bto:0000042
+Nerve - Tibial,70-79,USP27X,0.795,exact,nerve
+Nerve - Tibial,70-79,GTPBP3,0.66,exact,nerve
+Nerve - Tibial,70-79,SAFB,1.388,exact,nerve
+Nerve - Tibial,70-79,FANCF,0.854,exact,nerve
+Nerve - Tibial,70-79,FAM98C,4.856,global,bto:0000042
+Nerve - Tibial,70-79,ASAP2,0.613,exact,peripheral nerve
+Nerve - Tibial,70-79,MTERF1,0.913,exact,nerve
+Nerve - Tibial,70-79,ALG12,0.638,exact,nerve
+Nerve - Tibial,70-79,KHSRP,1.074,exact,peripheral nerve
+Nerve - Tibial,70-79,RPAIN,0.753,exact,nerve
+Nerve - Tibial,70-79,MGMT,0.785,exact,peripheral nerve
+Nerve - Tibial,70-79,RNASEL,1.042,exact,peripheral nerve
+Nerve - Tibial,70-79,FAM161B,4.0,exact,nerve
+Nerve - Tibial,70-79,ACAD10,0.642,exact,nerve
+Nerve - Tibial,70-79,BCAP29,0.648,exact,nerve
+Nerve - Tibial,70-79,MARF1,0.943,exact,nerve
+Nerve - Tibial,70-79,DIDO1,1.019,exact,nerve
+Nerve - Tibial,70-79,KLHDC2,0.871,exact,nerve
+Nerve - Tibial,70-79,DDX17,0.579,exact,peripheral nerve
+Nerve - Tibial,70-79,CDC34,1.195,exact,nerve
+Nerve - Tibial,70-79,NFS1,0.816,exact,peripheral nerve
+Nerve - Tibial,70-79,PRPF8,1.13,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF592,0.793,exact,nerve
+Nerve - Tibial,70-79,MED11,4.875,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,BICRA,1.17,exact,nerve
+Nerve - Tibial,70-79,METTL2A,4.91,global,bto:0000042
+Nerve - Tibial,70-79,OSGEPL1,4.853,global,bto:0000042
+Nerve - Tibial,70-79,POLDIP3,0.636,exact,peripheral nerve
+Nerve - Tibial,70-79,FOXO3B,0.75,exact,nerve
+Nerve - Tibial,70-79,C6ORF136,4.264,global,bto:0000042
+Nerve - Tibial,70-79,GSTK1,1.309,exact,nerve
+Nerve - Tibial,70-79,ZNF316,4.0,global,blood cancer cell
+Nerve - Tibial,70-79,BTBD10,0.936,exact,nerve
+Nerve - Tibial,70-79,NRN1,1.827,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF260,4.237,global,bto:0000042
+Nerve - Tibial,70-79,RHOT1,1.659,exact,peripheral nerve
+Nerve - Tibial,70-79,CMC4,4.464,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DYNC1LI1,0.58,exact,peripheral nerve
+Nerve - Tibial,70-79,ENSG00000242282,,,
+Nerve - Tibial,70-79,ANKRD17,0.88,exact,nerve
+Nerve - Tibial,70-79,SELENOW,2.258,exact,nerve
+Nerve - Tibial,70-79,TFCP2,0.55,exact,peripheral nerve
+Nerve - Tibial,70-79,ARMCX1,0.956,exact,peripheral nerve
+Nerve - Tibial,70-79,GRIPAP1,0.619,exact,peripheral nerve
+Nerve - Tibial,70-79,FER,0.956,exact,nerve
+Nerve - Tibial,70-79,KAT6B,0.686,exact,peripheral nerve
+Nerve - Tibial,70-79,ANKRD16,1.359,exact,nerve
+Nerve - Tibial,70-79,MCM7,0.564,exact,peripheral nerve
+Nerve - Tibial,70-79,CPNE2,0.934,exact,nerve
+Nerve - Tibial,70-79,CBX6,1.438,exact,nerve
+Nerve - Tibial,70-79,ATP6V0E2,1.207,exact,nerve
+Nerve - Tibial,70-79,NACAD,4.828,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ZBTB14,1.226,exact,nerve
+Nerve - Tibial,70-79,ENSG00000239665,,,
+Nerve - Tibial,70-79,MSL2,1.21,exact,nerve
+Nerve - Tibial,70-79,PCMTD1,0.537,exact,nerve
+Nerve - Tibial,70-79,CUL1,1.172,exact,peripheral nerve
+Nerve - Tibial,70-79,GNPAT,0.641,exact,peripheral nerve
+Nerve - Tibial,70-79,C9ORF85,0.906,exact,nerve
+Nerve - Tibial,70-79,TSPAN31,0.677,exact,nerve
+Nerve - Tibial,70-79,IMMP1L,0.779,exact,nerve
+Nerve - Tibial,70-79,NDN,1.288,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF324,4.898,global,bto:0000042
+Nerve - Tibial,70-79,CLASP2,0.957,exact,peripheral nerve
+Nerve - Tibial,70-79,CHD8,1.209,exact,peripheral nerve
+Nerve - Tibial,70-79,PHLDB1,0.986,exact,nerve
+Nerve - Tibial,70-79,SORBS1,1.667,exact,nerve
+Nerve - Tibial,70-79,VPS45,0.72,exact,peripheral nerve
+Nerve - Tibial,70-79,WDR18,0.566,exact,nerve
+Nerve - Tibial,70-79,TTC31,4.626,global,bto:0000042
+Nerve - Tibial,70-79,USP9X,0.826,exact,peripheral nerve
+Nerve - Tibial,70-79,TRIM65,1.028,exact,nerve
+Nerve - Tibial,70-79,C2ORF42,4.963,global,bto:0000042
+Nerve - Tibial,70-79,SLF2,0.63,exact,nerve
+Nerve - Tibial,70-79,NMNAT1,1.927,exact,peripheral nerve
+Nerve - Tibial,70-79,TAF6,1.221,exact,nerve
+Nerve - Tibial,70-79,TTC7B,0.687,exact,nerve
+Nerve - Tibial,70-79,RAF1,1.369,exact,peripheral nerve
+Nerve - Tibial,70-79,PTCD2,0.906,exact,nerve
+Nerve - Tibial,70-79,STX10,1.021,exact,nerve
+Nerve - Tibial,70-79,BCL9,1.046,exact,nerve
+Nerve - Tibial,70-79,ZBTB4,1.142,exact,nerve
+Nerve - Tibial,70-79,ARHGEF18,0.821,exact,nerve
+Nerve - Tibial,70-79,ENSG00000289436,,,
+Nerve - Tibial,70-79,MBTD1,0.566,exact,nerve
+Nerve - Tibial,70-79,LARP7,1.204,exact,nerve
+Nerve - Tibial,70-79,TGIF2,1.058,exact,nerve
+Nerve - Tibial,70-79,GSTA4,1.883,exact,nerve
+Nerve - Tibial,70-79,ALKBH8,1.128,exact,nerve
+Nerve - Tibial,70-79,OCEL1,4.815,global,bto:0000042
+Nerve - Tibial,70-79,NPHP3,1.183,exact,peripheral nerve
+Nerve - Tibial,70-79,ARHGEF6,0.932,exact,peripheral nerve
+Nerve - Tibial,70-79,SS18L1,0.968,exact,peripheral nerve
+Nerve - Tibial,70-79,TTLL1,1.062,exact,peripheral nerve
+Nerve - Tibial,70-79,TMEM254,0.455,exact,nerve
+Nerve - Tibial,70-79,DSTNP2,,,
+Nerve - Tibial,70-79,NFYA,1.449,exact,nerve
+Nerve - Tibial,70-79,VPS37D,0.644,exact,nerve
+Nerve - Tibial,70-79,TUBG2,1.041,exact,nerve
+Nerve - Tibial,70-79,PAFAH1B1,0.833,exact,peripheral nerve
+Nerve - Tibial,70-79,PLCE1,0.676,exact,peripheral nerve
+Nerve - Tibial,70-79,STOX2,0.617,exact,nerve
+Nerve - Tibial,70-79,SLC25A26,0.728,exact,nerve
+Nerve - Tibial,70-79,PINLYP,4.157,global,bto:0000042
+Nerve - Tibial,70-79,NVL,0.835,exact,nerve
+Nerve - Tibial,70-79,SLC9A3R1,1.199,exact,peripheral nerve
+Nerve - Tibial,70-79,ELK4,0.533,exact,peripheral nerve
+Nerve - Tibial,70-79,TCF3,1.489,exact,peripheral nerve
+Nerve - Tibial,70-79,RNASEH2B,1.33,exact,nerve
+Nerve - Tibial,70-79,UNC45A,1.153,exact,nerve
+Nerve - Tibial,70-79,ZNF200,4.886,global,bto:0000042
+Nerve - Tibial,70-79,PIP4K2B,1.66,exact,nerve
+Nerve - Tibial,70-79,TRRAP,0.584,exact,peripheral nerve
+Nerve - Tibial,70-79,PSIP1,0.577,exact,peripheral nerve
+Nerve - Tibial,70-79,FAM86C2P,,,
+Nerve - Tibial,70-79,R3HCC1,4.971,global,bto:0000042
+Nerve - Tibial,70-79,IQSEC1,1.513,exact,nerve
+Nerve - Tibial,70-79,FAM171A1,4.981,global,bto:0000042
+Nerve - Tibial,70-79,TNRC18,0.624,exact,nerve
+Nerve - Tibial,70-79,ZNF594,0.716,exact,nerve
+Nerve - Tibial,70-79,FAM50B,4.774,global,bto:0000042
+Nerve - Tibial,70-79,UBL4A,1.59,exact,nerve
+Nerve - Tibial,70-79,CTPS2,0.909,exact,nerve
+Nerve - Tibial,70-79,OTUD5,1.033,exact,nerve
+Nerve - Tibial,70-79,LSS,1.188,exact,nerve
+Nerve - Tibial,70-79,CERK,1.563,exact,nerve
+Nerve - Tibial,70-79,PRKAB2,1.334,exact,nerve
+Nerve - Tibial,70-79,EIF2AK4,1.29,exact,peripheral nerve
+Nerve - Tibial,70-79,NAE1,1.575,exact,nerve
+Nerve - Tibial,70-79,UNKL,4.919,global,bto:0000042
+Nerve - Tibial,70-79,THAP11,1.196,exact,nerve
+Nerve - Tibial,70-79,ZBTB5,0.619,exact,nerve
+Nerve - Tibial,70-79,THYN1,0.915,exact,nerve
+Nerve - Tibial,70-79,MAGOHB,1.653,exact,nerve
+Nerve - Tibial,70-79,YY1AP1,0.971,exact,nerve
+Nerve - Tibial,70-79,PWWP2A,0.506,exact,nerve
+Nerve - Tibial,70-79,NMT2,0.71,exact,nerve
+Nerve - Tibial,70-79,MARVELD1,0.884,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF526,0.255,exact,nerve
+Nerve - Tibial,70-79,MRPS9,0.76,exact,nerve
+Nerve - Tibial,70-79,C17ORF100,3.67,global,bto:0000042
+Nerve - Tibial,70-79,THEM4,1.232,exact,nerve
+Nerve - Tibial,70-79,KPNA5,0.833,exact,nerve
+Nerve - Tibial,70-79,BEND5,1.694,exact,nerve
+Nerve - Tibial,70-79,AMBRA1,1.085,exact,peripheral nerve
+Nerve - Tibial,70-79,DPY30,0.579,exact,peripheral nerve
+Nerve - Tibial,70-79,SUDS3,1.527,exact,nerve
+Nerve - Tibial,70-79,MARCHF8,1.166,exact,nerve
+Nerve - Tibial,70-79,PLPBP,0.508,exact,peripheral nerve
+Nerve - Tibial,70-79,UBE3A,1.477,exact,peripheral nerve
+Nerve - Tibial,70-79,CALHM5,4.766,global,bto:0000042
+Nerve - Tibial,70-79,MBD4,1.506,exact,nerve
+Nerve - Tibial,70-79,CTCF,1.675,exact,peripheral nerve
+Nerve - Tibial,70-79,UBE2E1,1.41,exact,nerve
+Nerve - Tibial,70-79,AKR7A2,0.53,exact,peripheral nerve
+Nerve - Tibial,70-79,LYRM1,4.938,global,bto:0000042
+Nerve - Tibial,70-79,TNRC6C,0.767,exact,nerve
+Nerve - Tibial,70-79,SMU1,1.039,exact,nerve
+Nerve - Tibial,70-79,CRAMP1,0.65,exact,nerve
+Nerve - Tibial,70-79,SCAPER,0.923,exact,nerve
+Nerve - Tibial,70-79,ZCWPW2,4.571,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,MRPL1,0.849,exact,nerve
+Nerve - Tibial,70-79,SETD2,0.951,exact,peripheral nerve
+Nerve - Tibial,70-79,DCTN2,1.11,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF470,4.643,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,AKTIP,0.597,exact,peripheral nerve
+Nerve - Tibial,70-79,FBXO17,0.586,exact,nerve
+Nerve - Tibial,70-79,RCBTB1,0.669,exact,nerve
+Nerve - Tibial,70-79,ASXL3,1.163,exact,nerve
+Nerve - Tibial,70-79,ANKRD35,0.176,exact,nerve
+Nerve - Tibial,70-79,TMEM263-DT,,,
+Nerve - Tibial,70-79,ZER1,0.625,exact,nerve
+Nerve - Tibial,70-79,CEP83-DT,,,
+Nerve - Tibial,70-79,RPS6KA4,1.088,exact,nerve
+Nerve - Tibial,70-79,PGBD2,0.783,exact,nerve
+Nerve - Tibial,70-79,MCEE,0.812,exact,nerve
+Nerve - Tibial,70-79,LLPH,0.826,exact,nerve
+Nerve - Tibial,70-79,RNF34,1.081,exact,nerve
+Nerve - Tibial,70-79,TMEM175,1.922,exact,nerve
+Nerve - Tibial,70-79,GOSR1,1.384,exact,nerve
+Nerve - Tibial,70-79,NUP160,1.267,exact,nerve
+Nerve - Tibial,70-79,WDCP,0.534,exact,nerve
+Nerve - Tibial,70-79,VIRMA,1.891,exact,nerve
+Nerve - Tibial,70-79,PREPL,1.603,exact,nerve
+Nerve - Tibial,70-79,KIAA0586,1.15,exact,peripheral nerve
+Nerve - Tibial,70-79,PTPRF,1.067,exact,peripheral nerve
+Nerve - Tibial,70-79,LINC00869,1.096,global,renal cell carcinoma cell
+Nerve - Tibial,70-79,AMZ2,0.176,exact,nerve
+Nerve - Tibial,70-79,ARPC1A,1.28,exact,nerve
+Nerve - Tibial,70-79,MTERF3,0.743,exact,nerve
+Nerve - Tibial,70-79,KATNAL1,1.007,exact,nerve
+Nerve - Tibial,70-79,CREB3L4,1.318,exact,peripheral nerve
+Nerve - Tibial,70-79,MIOS,0.873,exact,nerve
+Nerve - Tibial,70-79,SLC16A2,0.934,exact,peripheral nerve
+Nerve - Tibial,70-79,ARHGEF10,1.715,exact,peripheral nerve
+Nerve - Tibial,70-79,RPS6KC1,0.594,exact,nerve
+Nerve - Tibial,70-79,UBFD1,4.98,global,bto:0000042
+Nerve - Tibial,70-79,TTF1,0.879,exact,nerve
+Nerve - Tibial,70-79,DMWD,1.261,exact,nerve
+Nerve - Tibial,70-79,APOBEC3C,1.269,exact,nerve
+Nerve - Tibial,70-79,ZNF197,4.875,global,bto:0000042
+Nerve - Tibial,70-79,ZMYND11,1.387,exact,nerve
+Nerve - Tibial,70-79,LIX1L,4.863,global,bto:0000042
+Nerve - Tibial,70-79,MAML1,1.07,exact,peripheral nerve
+Nerve - Tibial,70-79,ZC3H14,0.945,exact,peripheral nerve
+Nerve - Tibial,70-79,INTS4,0.794,exact,nerve
+Nerve - Tibial,70-79,AP1S1,1.437,exact,nerve
+Nerve - Tibial,70-79,RTL8A,0.865,exact,nerve
+Nerve - Tibial,70-79,DENND10,4.979,global,bto:0000042
+Nerve - Tibial,70-79,NAT14,0.553,exact,nerve
+Nerve - Tibial,70-79,LINC01011,1.414,global,cal-27 cell
+Nerve - Tibial,70-79,DSTYK,0.796,exact,nerve
+Nerve - Tibial,70-79,DENND2A,4.835,global,bto:0000042
+Nerve - Tibial,70-79,DDX6,0.858,exact,peripheral nerve
+Nerve - Tibial,70-79,RO60,0.754,exact,peripheral nerve
+Nerve - Tibial,70-79,NEDD4L,1.462,exact,peripheral nerve
+Nerve - Tibial,70-79,IVD,0.859,exact,nerve
+Nerve - Tibial,70-79,ZBTB9,0.176,exact,nerve
+Nerve - Tibial,70-79,RYK,1.714,exact,peripheral nerve
+Nerve - Tibial,70-79,TARDBP,2.193,exact,peripheral nerve
+Nerve - Tibial,70-79,KLHL12,0.843,exact,nerve
+Nerve - Tibial,70-79,LINC02381,,,
+Nerve - Tibial,70-79,CTSF,0.704,exact,peripheral nerve
+Nerve - Tibial,70-79,LRP10,1.746,exact,nerve
+Nerve - Tibial,70-79,NIPSNAP1,0.704,exact,peripheral nerve
+Nerve - Tibial,70-79,TAB3,1.341,exact,nerve
+Nerve - Tibial,70-79,TASOR,4.968,global,bto:0000042
+Nerve - Tibial,70-79,AASDH,0.713,exact,peripheral nerve
+Nerve - Tibial,70-79,ANXA2R,0.575,exact,nerve
+Nerve - Tibial,70-79,ZMPSTE24-DT,,,
+Nerve - Tibial,70-79,ZSCAN21,1.47,exact,nerve
+Nerve - Tibial,70-79,ENSG00000274828,,,
+Nerve - Tibial,70-79,SGPL1,1.275,exact,peripheral nerve
+Nerve - Tibial,70-79,ANKRA2,0.843,exact,nerve
+Nerve - Tibial,70-79,COMT,1.684,exact,peripheral nerve
+Nerve - Tibial,70-79,COG6,1.272,exact,nerve
+Nerve - Tibial,70-79,PEX11G,0.796,exact,nerve
+Nerve - Tibial,70-79,LIAS,1.278,exact,nerve
+Nerve - Tibial,70-79,HIRIP3,0.822,exact,nerve
+Nerve - Tibial,70-79,ZNF554,0.255,exact,nerve
+Nerve - Tibial,70-79,PRXL2B,0.924,exact,nerve
+Nerve - Tibial,70-79,GIN1,0.605,exact,nerve
+Nerve - Tibial,70-79,ZFP64,0.729,exact,nerve
+Nerve - Tibial,70-79,THOC2,0.567,exact,peripheral nerve
+Nerve - Tibial,70-79,PHF21A,1.49,exact,nerve
+Nerve - Tibial,70-79,IPO8,1.252,exact,nerve
+Nerve - Tibial,70-79,STK4,0.795,exact,peripheral nerve
+Nerve - Tibial,70-79,UPF3A,1.482,exact,nerve
+Nerve - Tibial,70-79,DNAJC17,4.801,global,bto:0000042
+Nerve - Tibial,70-79,SKIV2L,1.077,exact,nerve
+Nerve - Tibial,70-79,PJA1,1.224,exact,nerve
+Nerve - Tibial,70-79,IMMP2L,1.59,exact,nerve
+Nerve - Tibial,70-79,NPHP4,1.904,exact,peripheral nerve
+Nerve - Tibial,70-79,HIKESHI,0.591,exact,nerve
+Nerve - Tibial,70-79,TIMM29,4.797,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NMNAT3,1.473,exact,peripheral nerve
+Nerve - Tibial,70-79,ACD,1.192,exact,nerve
+Nerve - Tibial,70-79,OSBPL9,0.845,exact,nerve
+Nerve - Tibial,70-79,CAMSAP1,1.451,exact,nerve
+Nerve - Tibial,70-79,MRPS14,0.564,exact,nerve
+Nerve - Tibial,70-79,CLASRP,1.055,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF33B,4.935,global,bto:0000042
+Nerve - Tibial,70-79,ENSG00000204745,,,
+Nerve - Tibial,70-79,TCFL5,0.643,exact,peripheral nerve
+Nerve - Tibial,70-79,TNFSF12,0.971,exact,peripheral nerve
+Nerve - Tibial,70-79,SETD5,1.627,exact,nerve
+Nerve - Tibial,70-79,C2ORF68,4.627,global,bto:0000042
+Nerve - Tibial,70-79,FOXJ3,0.525,exact,peripheral nerve
+Nerve - Tibial,70-79,RAE1,1.384,exact,nerve
+Nerve - Tibial,70-79,PIAS3,0.734,exact,peripheral nerve
+Nerve - Tibial,70-79,CDC42BPA,1.347,exact,nerve
+Nerve - Tibial,70-79,ZNF691,4.858,global,bto:0000042
+Nerve - Tibial,70-79,NUMB,1.602,exact,peripheral nerve
+Nerve - Tibial,70-79,BOLA3-AS1,1.32,global,k22
+Nerve - Tibial,70-79,USP42,0.674,exact,nerve
+Nerve - Tibial,70-79,KIDINS220,0.639,exact,peripheral nerve
+Nerve - Tibial,70-79,SAAL1,4.931,global,bto:0000042
+Nerve - Tibial,70-79,NUMA1,0.964,exact,peripheral nerve
+Nerve - Tibial,70-79,FOXD3,1.987,exact,peripheral nerve
+Nerve - Tibial,70-79,EBAG9,1.436,exact,peripheral nerve
+Nerve - Tibial,70-79,NCOR2,0.681,exact,peripheral nerve
+Nerve - Tibial,70-79,CCDC93,0.928,exact,nerve
+Nerve - Tibial,70-79,TCEA2,1.015,exact,nerve
+Nerve - Tibial,70-79,WIPF2,0.704,exact,nerve
+Nerve - Tibial,70-79,ANKRD52,1.154,exact,nerve
+Nerve - Tibial,70-79,MORC2,1.255,exact,peripheral nerve
+Nerve - Tibial,70-79,KIF1B,1.66,exact,peripheral nerve
+Nerve - Tibial,70-79,PCYOX1L,0.748,exact,nerve
+Nerve - Tibial,70-79,FAM120AOS,4.866,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,VPS13B,1.537,exact,nerve
+Nerve - Tibial,70-79,ZXDC,4.978,global,bto:0000042
+Nerve - Tibial,70-79,ZFP14,4.632,global,bto:0000042
+Nerve - Tibial,70-79,KAT14,0.619,exact,nerve
+Nerve - Tibial,70-79,JUP,1.238,exact,nerve
+Nerve - Tibial,70-79,HECTD4,0.552,exact,nerve
+Nerve - Tibial,70-79,METTL23,0.576,exact,nerve
+Nerve - Tibial,70-79,LRRC37BP1,,,
+Nerve - Tibial,70-79,CC2D2A,1.526,exact,peripheral nerve
+Nerve - Tibial,70-79,ABCB7,0.65,exact,peripheral nerve
+Nerve - Tibial,70-79,OPTN,1.423,exact,peripheral nerve
+Nerve - Tibial,70-79,HDHD2,4.97,global,bto:0000042
+Nerve - Tibial,70-79,C1ORF216,4.634,global,bto:0000042
+Nerve - Tibial,70-79,GALT,0.952,exact,nerve
+Nerve - Tibial,70-79,MLLT10,1.253,exact,nerve
+Nerve - Tibial,70-79,GLOD4,0.999,exact,nerve
+Nerve - Tibial,70-79,ACSF3,1.03,exact,nerve
+Nerve - Tibial,70-79,PHF12,1.004,exact,peripheral nerve
+Nerve - Tibial,70-79,PHIP,0.723,exact,nerve
+Nerve - Tibial,70-79,MRM3,0.564,exact,nerve
+Nerve - Tibial,70-79,NAA40,4.957,global,bto:0000042
+Nerve - Tibial,70-79,NCOA2,0.584,exact,peripheral nerve
+Nerve - Tibial,70-79,ZMYM3,1.055,exact,nerve
+Nerve - Tibial,70-79,FAM168A,4.968,global,bto:0000042
+Nerve - Tibial,70-79,C14ORF28,4.668,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,PDSS2,0.556,exact,peripheral nerve
+Nerve - Tibial,70-79,ZC3H13,1.203,exact,nerve
+Nerve - Tibial,70-79,LTO1,0.588,exact,nerve
+Nerve - Tibial,70-79,ANKMY2,0.649,exact,peripheral nerve
+Nerve - Tibial,70-79,EHMT2,1.754,exact,peripheral nerve
+Nerve - Tibial,70-79,GATD1,0.713,exact,nerve
+Nerve - Tibial,70-79,CDKL3,1.003,exact,nerve
+Nerve - Tibial,70-79,BAHD1,4.937,global,bto:0000042
+Nerve - Tibial,70-79,VIPAS39,0.713,exact,nerve
+Nerve - Tibial,70-79,FAM172A,0.969,exact,nerve
+Nerve - Tibial,70-79,AIG1,1.132,exact,nerve
+Nerve - Tibial,70-79,CRYZL1,0.789,exact,nerve
+Nerve - Tibial,70-79,DPF2,1.44,exact,nerve
+Nerve - Tibial,70-79,NSD2,0.799,exact,peripheral nerve
+Nerve - Tibial,70-79,RCCD1,4.914,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,NFXL1,0.672,exact,nerve
+Nerve - Tibial,70-79,RPAP1,4.974,global,bto:0000042
+Nerve - Tibial,70-79,FBXO3,1.121,exact,nerve
+Nerve - Tibial,70-79,DIP2C,0.996,exact,nerve
+Nerve - Tibial,70-79,COX15,0.625,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNHIT3,1.063,exact,nerve
+Nerve - Tibial,70-79,RNF214,4.854,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,KANSL3,0.677,exact,peripheral nerve
+Nerve - Tibial,70-79,EFNA4,1.706,exact,peripheral nerve
+Nerve - Tibial,70-79,RNMT,2.527,exact,peripheral nerve
+Nerve - Tibial,70-79,MED12,0.642,exact,peripheral nerve
+Nerve - Tibial,70-79,MYO18A,1.187,exact,nerve
+Nerve - Tibial,70-79,LRSAM1,1.36,exact,peripheral nerve
+Nerve - Tibial,70-79,SLC2A4RG,0.615,exact,nerve
+Nerve - Tibial,70-79,ZNF704,0.98,exact,nerve
+Nerve - Tibial,70-79,RFT1,4.867,global,bto:0000042
+Nerve - Tibial,70-79,SERP2,0.828,exact,nerve
+Nerve - Tibial,70-79,PRPF40B,0.939,exact,nerve
+Nerve - Tibial,70-79,KLF12,1.05,exact,nerve
+Nerve - Tibial,70-79,GLG1,0.666,exact,peripheral nerve
+Nerve - Tibial,70-79,FAM200B,4.643,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,LNPEP,1.451,exact,nerve
+Nerve - Tibial,70-79,WASHC2C,0.727,exact,nerve
+Nerve - Tibial,70-79,SNRNP200,0.737,exact,peripheral nerve
+Nerve - Tibial,70-79,ZBTB7A,1.154,exact,nerve
+Nerve - Tibial,70-79,SUGP1,1.158,exact,nerve
+Nerve - Tibial,70-79,NBEA,1.03,exact,peripheral nerve
+Nerve - Tibial,70-79,RAB40C,0.884,exact,nerve
+Nerve - Tibial,70-79,RBFOX2,0.976,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF263,1.146,exact,nerve
+Nerve - Tibial,70-79,KCTD1,1.329,exact,nerve
+Nerve - Tibial,70-79,CEBPZ,1.315,exact,nerve
+Nerve - Tibial,70-79,EFL1,4.924,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,DEPTOR,0.822,exact,peripheral nerve
+Nerve - Tibial,70-79,TDRKH,0.777,exact,nerve
+Nerve - Tibial,70-79,TEP1,0.868,exact,nerve
+Nerve - Tibial,70-79,C11ORF68,4.918,global,bto:0000042
+Nerve - Tibial,70-79,IFT46,1.063,exact,peripheral nerve
+Nerve - Tibial,70-79,BICRAL,0.564,exact,nerve
+Nerve - Tibial,70-79,PATZ1,0.712,exact,peripheral nerve
+Nerve - Tibial,70-79,SIDT2,1.031,exact,nerve
+Nerve - Tibial,70-79,PTMS,0.852,exact,nerve
+Nerve - Tibial,70-79,MAML3,1.112,exact,peripheral nerve
+Nerve - Tibial,70-79,PFKL,1.967,exact,nerve
+Nerve - Tibial,70-79,ZNF836,4.684,global,bto:0000042
+Nerve - Tibial,70-79,SCLT1,0.948,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF559,4.964,global,bto:0000042
+Nerve - Tibial,70-79,NEK3,0.99,exact,nerve
+Nerve - Tibial,70-79,AFMID,1.191,exact,nerve
+Nerve - Tibial,70-79,EEF1AKMT1,0.63,exact,nerve
+Nerve - Tibial,70-79,SUCLG2,1.709,exact,peripheral nerve
+Nerve - Tibial,70-79,EIF4BP6,,,
+Nerve - Tibial,70-79,TAF4,0.763,exact,peripheral nerve
+Nerve - Tibial,70-79,KRBA1,3.709,global,bto:0000042
+Nerve - Tibial,70-79,ITGB4,1.366,exact,peripheral nerve
+Nerve - Tibial,70-79,TYSND1,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,COQ6,0.689,exact,peripheral nerve
+Nerve - Tibial,70-79,ZSCAN29,0.848,exact,nerve
+Nerve - Tibial,70-79,BRD3,0.739,exact,peripheral nerve
+Nerve - Tibial,70-79,TMEM69,4.996,global,bto:0000042
+Nerve - Tibial,70-79,C7ORF26,4.893,global,bto:0000042
+Nerve - Tibial,70-79,CEP104,0.89,exact,peripheral nerve
+Nerve - Tibial,70-79,UNC13B,2.147,exact,peripheral nerve
+Nerve - Tibial,70-79,CCDC28A,0.217,exact,nerve
+Nerve - Tibial,70-79,GNAS,1.082,exact,peripheral nerve
+Nerve - Tibial,70-79,INO80,0.621,exact,nerve
+Nerve - Tibial,70-79,ZNF839,4.852,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,ENSG00000233170,,,
+Nerve - Tibial,70-79,LEO1,1.092,exact,peripheral nerve
+Nerve - Tibial,70-79,NOL4L,4.179,exact,nerve
+Nerve - Tibial,70-79,MLH1,0.677,exact,peripheral nerve
+Nerve - Tibial,70-79,PACSIN3,0.781,exact,peripheral nerve
+Nerve - Tibial,70-79,EFS,0.928,exact,peripheral nerve
+Nerve - Tibial,70-79,MED7,4.936,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,METTL6,0.651,exact,nerve
+Nerve - Tibial,70-79,ZNF512,4.979,global,bto:0000042
+Nerve - Tibial,70-79,DTWD1,4.928,global,bto:0000042
+Nerve - Tibial,70-79,TMLHE,1.093,exact,nerve
+Nerve - Tibial,70-79,ZNF572,4.327,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,CNTLN,1.473,exact,peripheral nerve
+Nerve - Tibial,70-79,CPSF6,1.329,exact,nerve
+Nerve - Tibial,70-79,CDCA4,0.634,exact,nerve
+Nerve - Tibial,70-79,FAM120B,1.048,exact,nerve
+Nerve - Tibial,70-79,ZNF7,0.568,exact,nerve
+Nerve - Tibial,70-79,PUM1,0.563,exact,peripheral nerve
+Nerve - Tibial,70-79,ARMCX3,1.327,exact,nerve
+Nerve - Tibial,70-79,LZIC,1.268,exact,nerve
+Nerve - Tibial,70-79,PAF1,0.828,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF566-AS1,,,
+Nerve - Tibial,70-79,PPP1R9B,1.063,exact,peripheral nerve
+Nerve - Tibial,70-79,ZNF226,4.929,global,bto:0000042
+Nerve - Tibial,70-79,ERCC5,0.57,exact,peripheral nerve
+Nerve - Tibial,70-79,AQR,2.26,exact,peripheral nerve
+Nerve - Tibial,70-79,TCEAL8,4.964,global,bto:0000042
+Nerve - Tibial,70-79,SLC25A11,0.526,exact,peripheral nerve
+Nerve - Tibial,70-79,DENND2B,0.859,exact,nerve
+Nerve - Tibial,70-79,ARHGEF11,0.982,exact,peripheral nerve
+Nerve - Tibial,70-79,OARD1,0.874,exact,nerve
+Nerve - Tibial,70-79,STK25,0.71,exact,peripheral nerve
+Nerve - Tibial,70-79,SLC2A11,1.07,exact,nerve
+Nerve - Tibial,70-79,FAM219A,4.766,global,bto:0000042
+Nerve - Tibial,70-79,PPIP5K1,1.595,exact,nerve
+Nerve - Tibial,70-79,TMEM42,4.856,global,bto:0000042
+Nerve - Tibial,70-79,SPATC1L,0.563,exact,nerve
+Nerve - Tibial,70-79,MTMR3,0.763,exact,nerve
+Nerve - Tibial,70-79,TERF2IP,1.288,exact,nerve
+Nerve - Tibial,70-79,ZFP41,0.805,exact,nerve
+Nerve - Tibial,70-79,ACTR5,4.827,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,WDR20,1.375,exact,nerve
+Nerve - Tibial,70-79,OXSR1,0.943,exact,peripheral nerve
+Nerve - Tibial,70-79,CALHM2,0.762,exact,peripheral nerve
+Nerve - Tibial,70-79,APLF,1.051,exact,nerve
+Nerve - Tibial,70-79,LINC00526,1.403,global,tr-146 cell
+Nerve - Tibial,70-79,PAIP2B,0.639,exact,nerve
+Nerve - Tibial,70-79,BLOC1S5,1.024,exact,nerve
+Nerve - Tibial,70-79,UBE3B,1.361,exact,nerve
+Nerve - Tibial,70-79,BRF2,4.947,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,UBE4B,1.63,exact,peripheral nerve
+Nerve - Tibial,70-79,KIAA1217,1.129,exact,nerve
+Nerve - Tibial,70-79,C2CD5,0.803,exact,nerve
+Nerve - Tibial,70-79,BACE1-AS,0.879,exact,peripheral nerve
+Nerve - Tibial,70-79,PIGP,1.044,exact,nerve
+Nerve - Tibial,70-79,NSD3,1.022,exact,nerve
+Nerve - Tibial,70-79,HEATR5B,0.516,exact,nerve
+Nerve - Tibial,70-79,CREBBP,1.652,exact,peripheral nerve
+Nerve - Tibial,70-79,TRIM35,0.634,exact,nerve
+Nerve - Tibial,70-79,ZNF646,0.556,exact,nerve
+Nerve - Tibial,70-79,FAM111A-DT,,,
+Nerve - Tibial,70-79,STIMATE,1.192,exact,nerve
+Nerve - Tibial,70-79,ENSG00000289018,,,
+Nerve - Tibial,70-79,KBTBD3,4.72,global,bto:0000042
+Nerve - Tibial,70-79,TMEM116,4.897,global,bto:0000042
+Nerve - Tibial,70-79,NIFK-AS1,1.998,global,uterine endometrial cancer cell
+Nerve - Tibial,70-79,PPP6R2,4.986,global,bto:0000042
+Nerve - Tibial,70-79,LLGL1,0.583,exact,peripheral nerve
+Nerve - Tibial,70-79,ENSG00000272462,,,
+Nerve - Tibial,70-79,TSPAN3,1.13,exact,nerve
+Nerve - Tibial,70-79,PHF2,0.631,exact,nerve
+Nerve - Tibial,70-79,ZNF618,4.928,global,bto:0000042
+Nerve - Tibial,70-79,ZFP30,4.713,global,"tissues, cell types and enzyme sources"
+Nerve - Tibial,70-79,SLC22A17,0.606,exact,peripheral nerve
+Nerve - Tibial,70-79,METTL3,1.077,exact,peripheral nerve
+Nerve - Tibial,70-79,CDC14B,0.455,exact,nerve
+Nerve - Tibial,70-79,USE1,0.743,exact,peripheral nerve
+Nerve - Tibial,70-79,FUS,2.037,exact,peripheral nerve
+Nerve - Tibial,70-79,TFAP4,1.815,exact,nerve
+Nerve - Tibial,70-79,USP19,1.552,exact,nerve
+Nerve - Tibial,70-79,XPO7,1.432,exact,nerve
+Nerve - Tibial,70-79,ZNF79,0.85,exact,nerve
+Nerve - Tibial,70-79,VRK3,1.123,exact,nerve
+Nerve - Tibial,70-79,COPG2,1.076,exact,nerve
+Nerve - Tibial,70-79,INKA1,0.654,exact,nerve
+Nerve - Tibial,70-79,AQP11,0.619,exact,peripheral nerve

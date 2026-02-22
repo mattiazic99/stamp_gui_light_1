@@ -1,0 +1,241 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Adipose - Subcutaneous,30-39,ENSG00000261799,,,
+Adipose - Subcutaneous,30-39,CNPPD1,4.974,global,bto:0000042
+Adipose - Subcutaneous,30-39,SLC25A3,5.0,global,bto:0000042
+Adipose - Subcutaneous,30-39,COG4,4.993,global,bto:0000042
+Adipose - Subcutaneous,30-39,EZH1,4.984,global,bto:0000042
+Adipose - Subcutaneous,30-39,FRG1CP,,,
+Adipose - Subcutaneous,30-39,TFCP2,4.974,global,bto:0000042
+Adipose - Subcutaneous,30-39,ZFP41,4.964,global,bto:0000042
+Adipose - Subcutaneous,30-39,TGOLN2,4.996,global,bto:0000042
+Adipose - Subcutaneous,30-39,NEK9,4.981,global,bto:0000042
+Adipose - Subcutaneous,30-39,GSS,4.994,global,bto:0000042
+Adipose - Subcutaneous,30-39,USP40,4.964,global,bto:0000042
+Adipose - Subcutaneous,30-39,PIGS,4.983,global,bto:0000042
+Adipose - Subcutaneous,30-39,ZNF384,4.975,global,bto:0000042
+Adipose - Subcutaneous,30-39,TAF6L,4.985,global,bto:0000042
+Adipose - Subcutaneous,30-39,SMARCC2,4.994,global,bto:0000042
+Adipose - Subcutaneous,30-39,CCDC112,4.823,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,MT-ATP6,1.017,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,30-39,FRMD4A,4.962,global,bto:0000042
+Adipose - Subcutaneous,30-39,TMEM127,4.978,global,bto:0000042
+Adipose - Subcutaneous,30-39,HMGCL,0.864,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,30-39,DCAF11,4.995,global,bto:0000042
+Adipose - Subcutaneous,30-39,VPS52,4.992,global,bto:0000042
+Adipose - Subcutaneous,30-39,PRRC2A,4.995,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,ZNF69,4.868,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,UBE3B,4.978,global,bto:0000042
+Adipose - Subcutaneous,30-39,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,MT-ND2,0.923,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,30-39,RNF40,4.997,global,bto:0000042
+Adipose - Subcutaneous,30-39,VAPB,4.992,global,bto:0000042
+Adipose - Subcutaneous,30-39,DOCK1,4.969,global,bto:0000042
+Adipose - Subcutaneous,30-39,FBXO9,4.978,global,bto:0000042
+Adipose - Subcutaneous,30-39,TSC2,1.068,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,30-39,VIPAS39,4.963,global,bto:0000042
+Adipose - Subcutaneous,30-39,STK16,4.955,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,GNPTG,4.972,global,bto:0000042
+Adipose - Subcutaneous,30-39,GPS1,4.996,global,bto:0000042
+Adipose - Subcutaneous,30-39,ZNF776,4.859,global,bto:0000042
+Adipose - Subcutaneous,30-39,ZNF75A,4.832,global,bto:0000042
+Adipose - Subcutaneous,30-39,PHKB,4.979,global,bto:0000042
+Adipose - Subcutaneous,30-39,CTDSP1,4.979,global,bto:0000042
+Adipose - Subcutaneous,30-39,MOCS3,4.717,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,SEC24C,4.987,global,bto:0000042
+Adipose - Subcutaneous,30-39,KLHDC3,4.998,global,bto:0000042
+Adipose - Subcutaneous,30-39,KMT5B,4.977,global,bto:0000042
+Adipose - Subcutaneous,30-39,PDPK1,0.933,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,30-39,NUDT13,4.751,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,MOB3A,4.49,global,bto:0000042
+Adipose - Subcutaneous,30-39,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,CCNDBP1,4.984,global,bto:0000042
+Adipose - Subcutaneous,30-39,ZNF592,5.0,global,adrenal gland
+Adipose - Subcutaneous,30-39,ATF6B,4.947,global,bto:0000042
+Adipose - Subcutaneous,30-39,EIF2AK1,4.995,global,bto:0000042
+Adipose - Subcutaneous,30-39,CCDC77,4.816,global,bto:0000042
+Adipose - Subcutaneous,30-39,ULK2,4.966,global,bto:0000042
+Adipose - Subcutaneous,30-39,RNF123,4.978,global,bto:0000042
+Adipose - Subcutaneous,30-39,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,MTFR1L,4.558,global,bto:0000042
+Adipose - Subcutaneous,30-39,DCAF8,4.992,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,NDUFAF1,4.908,global,bto:0000042
+Adipose - Subcutaneous,30-39,FAM120AOS,4.866,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,MT-ND4L,0.547,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,30-39,OGFOD3,4.397,global,bto:0000042
+Adipose - Subcutaneous,30-39,MBTPS1,4.993,global,bto:0000042
+Adipose - Subcutaneous,30-39,EML2,4.97,global,bto:0000042
+Adipose - Subcutaneous,30-39,RFC1,4.974,global,bto:0000042
+Adipose - Subcutaneous,30-39,TIGD6,4.634,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,30-39,ELAC2,4.995,global,bto:0000042
+Adipose - Subcutaneous,30-39,SLC39A9,0.56,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,40-49,CNPPD1,4.974,global,bto:0000042
+Adipose - Subcutaneous,40-49,SLC25A3,5.0,global,bto:0000042
+Adipose - Subcutaneous,40-49,COG4,4.993,global,bto:0000042
+Adipose - Subcutaneous,40-49,TFCP2,4.974,global,bto:0000042
+Adipose - Subcutaneous,40-49,ZFP41,4.964,global,bto:0000042
+Adipose - Subcutaneous,40-49,NEK9,4.981,global,bto:0000042
+Adipose - Subcutaneous,40-49,GSS,4.994,global,bto:0000042
+Adipose - Subcutaneous,40-49,DNAJC17,4.801,global,bto:0000042
+Adipose - Subcutaneous,40-49,ZNF384,4.975,global,bto:0000042
+Adipose - Subcutaneous,40-49,TAF6L,4.985,global,bto:0000042
+Adipose - Subcutaneous,40-49,SMARCC2,4.994,global,bto:0000042
+Adipose - Subcutaneous,40-49,CCDC112,4.823,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,DCAF11,4.995,global,bto:0000042
+Adipose - Subcutaneous,40-49,VPS52,4.992,global,bto:0000042
+Adipose - Subcutaneous,40-49,TMEM127,4.978,global,bto:0000042
+Adipose - Subcutaneous,40-49,GNPTG,4.972,global,bto:0000042
+Adipose - Subcutaneous,40-49,PRRC2A,4.995,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,UBE3B,4.978,global,bto:0000042
+Adipose - Subcutaneous,40-49,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,MT-ND2,0.923,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,40-49,RNF40,4.997,global,bto:0000042
+Adipose - Subcutaneous,40-49,VAPB,4.992,global,bto:0000042
+Adipose - Subcutaneous,40-49,DOCK1,4.969,global,bto:0000042
+Adipose - Subcutaneous,40-49,FBXO9,4.978,global,bto:0000042
+Adipose - Subcutaneous,40-49,TSC2,1.068,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,40-49,VIPAS39,4.963,global,bto:0000042
+Adipose - Subcutaneous,40-49,STK16,4.955,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,GPS1,4.996,global,bto:0000042
+Adipose - Subcutaneous,40-49,ZNF75A,4.832,global,bto:0000042
+Adipose - Subcutaneous,40-49,PHKB,4.979,global,bto:0000042
+Adipose - Subcutaneous,40-49,CTDSP1,4.979,global,bto:0000042
+Adipose - Subcutaneous,40-49,L3MBTL2,4.96,global,bto:0000042
+Adipose - Subcutaneous,40-49,SEC24C,4.987,global,bto:0000042
+Adipose - Subcutaneous,40-49,KLHDC3,4.998,global,bto:0000042
+Adipose - Subcutaneous,40-49,KMT5B,4.977,global,bto:0000042
+Adipose - Subcutaneous,40-49,PDPK1,0.933,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,40-49,MTFR1L,4.558,global,bto:0000042
+Adipose - Subcutaneous,40-49,RBFA,4.553,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,CCNDBP1,4.984,global,bto:0000042
+Adipose - Subcutaneous,40-49,ATF6B,4.947,global,bto:0000042
+Adipose - Subcutaneous,40-49,EIF2AK1,4.995,global,bto:0000042
+Adipose - Subcutaneous,40-49,CCDC77,4.816,global,bto:0000042
+Adipose - Subcutaneous,40-49,RNF123,4.978,global,bto:0000042
+Adipose - Subcutaneous,40-49,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,DCAF8,4.992,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,NDUFAF1,4.908,global,bto:0000042
+Adipose - Subcutaneous,40-49,EML2,4.97,global,bto:0000042
+Adipose - Subcutaneous,40-49,SUGP1,4.99,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,RFC1,4.974,global,bto:0000042
+Adipose - Subcutaneous,40-49,TIGD6,4.634,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,40-49,ELAC2,4.995,global,bto:0000042
+Adipose - Subcutaneous,50-59,SLC25A3,5.0,global,bto:0000042
+Adipose - Subcutaneous,50-59,RAD51C,4.843,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,COG4,4.993,global,bto:0000042
+Adipose - Subcutaneous,50-59,TFCP2,4.974,global,bto:0000042
+Adipose - Subcutaneous,50-59,ZFP41,4.964,global,bto:0000042
+Adipose - Subcutaneous,50-59,GSS,4.994,global,bto:0000042
+Adipose - Subcutaneous,50-59,DNAJC17,4.801,global,bto:0000042
+Adipose - Subcutaneous,50-59,ZNF384,4.975,global,bto:0000042
+Adipose - Subcutaneous,50-59,EAPP,4.968,global,bto:0000042
+Adipose - Subcutaneous,50-59,TAF6L,4.985,global,bto:0000042
+Adipose - Subcutaneous,50-59,SMARCC2,4.994,global,bto:0000042
+Adipose - Subcutaneous,50-59,CCDC112,4.823,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,VPS52,4.992,global,bto:0000042
+Adipose - Subcutaneous,50-59,GNPTG,4.972,global,bto:0000042
+Adipose - Subcutaneous,50-59,TMEM127,4.978,global,bto:0000042
+Adipose - Subcutaneous,50-59,PRRC2A,4.995,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,UBE3B,4.978,global,bto:0000042
+Adipose - Subcutaneous,50-59,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,RNF40,4.997,global,bto:0000042
+Adipose - Subcutaneous,50-59,DOCK1,4.969,global,bto:0000042
+Adipose - Subcutaneous,50-59,TSC2,1.068,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,50-59,VIPAS39,4.963,global,bto:0000042
+Adipose - Subcutaneous,50-59,STK16,4.955,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,GPS1,4.996,global,bto:0000042
+Adipose - Subcutaneous,50-59,ZNF75A,4.832,global,bto:0000042
+Adipose - Subcutaneous,50-59,PHKB,4.979,global,bto:0000042
+Adipose - Subcutaneous,50-59,CTDSP1,4.979,global,bto:0000042
+Adipose - Subcutaneous,50-59,ATN1,4.983,global,bto:0000042
+Adipose - Subcutaneous,50-59,L3MBTL2,4.96,global,bto:0000042
+Adipose - Subcutaneous,50-59,SEC24C,4.987,global,bto:0000042
+Adipose - Subcutaneous,50-59,KLHDC3,4.998,global,bto:0000042
+Adipose - Subcutaneous,50-59,KMT5B,4.977,global,bto:0000042
+Adipose - Subcutaneous,50-59,PDPK1,0.933,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,50-59,WDR33,4.981,global,bto:0000042
+Adipose - Subcutaneous,50-59,SLC25A14,0.58,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,50-59,MRPL16,4.969,global,bto:0000042
+Adipose - Subcutaneous,50-59,ANKMY1,4.901,global,bto:0000042
+Adipose - Subcutaneous,50-59,MTFR1L,4.558,global,bto:0000042
+Adipose - Subcutaneous,50-59,CCNDBP1,4.984,global,bto:0000042
+Adipose - Subcutaneous,50-59,ATF6B,4.947,global,bto:0000042
+Adipose - Subcutaneous,50-59,EIF2AK1,4.995,global,bto:0000042
+Adipose - Subcutaneous,50-59,CCDC77,4.816,global,bto:0000042
+Adipose - Subcutaneous,50-59,RNF123,4.978,global,bto:0000042
+Adipose - Subcutaneous,50-59,HNRNPUL2,4.856,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,DCAF8,4.992,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,SUGP1,4.99,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,RFC1,4.974,global,bto:0000042
+Adipose - Subcutaneous,50-59,HDAC3,1.239,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,50-59,TIGD6,4.634,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,50-59,ELAC2,4.995,global,bto:0000042
+Adipose - Subcutaneous,50-59,RPP30,4.964,global,bto:0000042
+Adipose - Subcutaneous,60-69,RAD51C,4.843,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,60-69,COG4,4.993,global,bto:0000042
+Adipose - Subcutaneous,60-69,TFCP2,4.974,global,bto:0000042
+Adipose - Subcutaneous,60-69,TUG1,0.518,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,60-69,GSS,4.994,global,bto:0000042
+Adipose - Subcutaneous,60-69,DNAJC17,4.801,global,bto:0000042
+Adipose - Subcutaneous,60-69,ZNF384,4.975,global,bto:0000042
+Adipose - Subcutaneous,60-69,EAPP,4.968,global,bto:0000042
+Adipose - Subcutaneous,60-69,TAF6L,4.985,global,bto:0000042
+Adipose - Subcutaneous,60-69,CCDC112,4.823,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,60-69,VPS52,4.992,global,bto:0000042
+Adipose - Subcutaneous,60-69,TMEM127,4.978,global,bto:0000042
+Adipose - Subcutaneous,60-69,PRRC2A,4.995,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,60-69,UBE3B,4.978,global,bto:0000042
+Adipose - Subcutaneous,60-69,SCYL3,4.892,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,60-69,RNF40,4.997,global,bto:0000042
+Adipose - Subcutaneous,60-69,DOCK1,4.969,global,bto:0000042
+Adipose - Subcutaneous,60-69,TSC2,1.068,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,60-69,VIPAS39,4.963,global,bto:0000042
+Adipose - Subcutaneous,60-69,GPS1,4.996,global,bto:0000042
+Adipose - Subcutaneous,60-69,ZNF75A,4.832,global,bto:0000042
+Adipose - Subcutaneous,60-69,PHKB,4.979,global,bto:0000042
+Adipose - Subcutaneous,60-69,CTDSP1,4.979,global,bto:0000042
+Adipose - Subcutaneous,60-69,ATN1,4.983,global,bto:0000042
+Adipose - Subcutaneous,60-69,L3MBTL2,4.96,global,bto:0000042
+Adipose - Subcutaneous,60-69,SEC24C,4.987,global,bto:0000042
+Adipose - Subcutaneous,60-69,KMT5B,4.977,global,bto:0000042
+Adipose - Subcutaneous,60-69,WDR33,4.981,global,bto:0000042
+Adipose - Subcutaneous,60-69,SLC25A14,0.58,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,60-69,MRPL16,4.969,global,bto:0000042
+Adipose - Subcutaneous,60-69,ANKMY1,4.901,global,bto:0000042
+Adipose - Subcutaneous,60-69,ATF6B,4.947,global,bto:0000042
+Adipose - Subcutaneous,60-69,EIF2AK1,4.995,global,bto:0000042
+Adipose - Subcutaneous,60-69,RNF123,4.978,global,bto:0000042
+Adipose - Subcutaneous,60-69,DCAF8,4.992,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,60-69,SUGP1,4.99,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,60-69,RFC1,4.974,global,bto:0000042
+Adipose - Subcutaneous,60-69,HDAC3,1.239,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,60-69,TIGD6,4.634,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,60-69,ELAC2,4.995,global,bto:0000042
+Adipose - Subcutaneous,60-69,RPP30,4.964,global,bto:0000042
+Adipose - Subcutaneous,70-79,SLC25A43,4.721,global,bto:0000042
+Adipose - Subcutaneous,70-79,RAD51C,4.843,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,70-79,TUG1,0.518,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,70-79,DNAJC17,4.801,global,bto:0000042
+Adipose - Subcutaneous,70-79,EAPP,4.968,global,bto:0000042
+Adipose - Subcutaneous,70-79,TSPAN31,4.947,global,bto:0000042
+Adipose - Subcutaneous,70-79,HDAC3,1.239,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,70-79,PMS1,4.975,global,bto:0000042
+Adipose - Subcutaneous,70-79,CTBP1,1.102,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,70-79,EXOSC8,4.978,global,bto:0000042
+Adipose - Subcutaneous,70-79,L3MBTL2,4.96,global,bto:0000042
+Adipose - Subcutaneous,70-79,ATN1,4.983,global,bto:0000042
+Adipose - Subcutaneous,70-79,ADCK5,4.841,global,bto:0000042
+Adipose - Subcutaneous,70-79,WDR33,4.981,global,bto:0000042
+Adipose - Subcutaneous,70-79,SLC25A14,0.58,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,70-79,MRPL16,4.969,global,bto:0000042
+Adipose - Subcutaneous,70-79,ANKMY1,4.901,global,bto:0000042
+Adipose - Subcutaneous,70-79,FASTK,4.991,global,bto:0000042
+Adipose - Subcutaneous,70-79,LENG1,4.498,global,bto:0000042
+Adipose - Subcutaneous,70-79,CMC1,4.891,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,70-79,NPRL3,4.981,global,bto:0000042
+Adipose - Subcutaneous,70-79,TFB1M,0.532,exact,subcutaneous adipose tissue
+Adipose - Subcutaneous,70-79,SUGP1,4.99,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,70-79,RPP30,4.964,global,bto:0000042
+Adipose - Subcutaneous,70-79,ENSG00000242282,,,
+Adipose - Subcutaneous,70-79,TEFM,4.42,global,"tissues, cell types and enzyme sources"
+Adipose - Subcutaneous,70-79,GEMIN8,4.915,global,bto:0000042
+Adipose - Subcutaneous,70-79,ZNF684,4.408,global,bto:0000042

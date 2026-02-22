@@ -1,0 +1,878 @@
+tissue,age_group,gene_symbol,confidence_canonical,match_type_canonical,best_tissue_canonical
+Kidney - Cortex,30-39,PIK3CB,4.91,global,bto:0000042
+Kidney - Cortex,30-39,DNAJC22,4.844,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CIAPIN1,4.992,global,bto:0000042
+Kidney - Cortex,30-39,MT-ND1,4.901,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,FUZ,4.943,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ASAP3,4.954,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NCBP2AS2,4.0,global,melanoma cell line
+Kidney - Cortex,30-39,RNPEP,4.985,global,bto:0000042
+Kidney - Cortex,30-39,ORAI1,4.912,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TM9SF4,4.993,global,bto:0000042
+Kidney - Cortex,30-39,AP2M1,5.0,global,bto:0000042
+Kidney - Cortex,30-39,TADA2B,4.913,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ENSG00000272121,,,
+Kidney - Cortex,30-39,NAXE,4.955,global,bto:0000042
+Kidney - Cortex,30-39,GRWD1,4.984,global,bto:0000042
+Kidney - Cortex,30-39,GRB2,4.997,global,bto:0000042
+Kidney - Cortex,30-39,PYCR3,4.955,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CYC1,4.995,global,bto:0000042
+Kidney - Cortex,30-39,MRPS2,4.978,global,bto:0000042
+Kidney - Cortex,30-39,SF3B5,4.986,global,bto:0000042
+Kidney - Cortex,30-39,GFM1,4.992,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PEX5,4.976,global,bto:0000042
+Kidney - Cortex,30-39,MYG1,,,
+Kidney - Cortex,30-39,APEH,4.993,global,bto:0000042
+Kidney - Cortex,30-39,GATB,4.966,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TMEM134,4.954,global,bto:0000042
+Kidney - Cortex,30-39,NOP14,4.99,global,bto:0000042
+Kidney - Cortex,30-39,TIMM21,4.942,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,VAC14,4.975,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CDIPT,4.994,global,bto:0000042
+Kidney - Cortex,30-39,TP53RK,4.955,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COMTD1,4.872,global,bto:0000042
+Kidney - Cortex,30-39,OGDH,4.998,global,bto:0000042
+Kidney - Cortex,30-39,FBXO21,4.988,global,bto:0000042
+Kidney - Cortex,30-39,TMEM203,4.96,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COMMD4,4.977,global,bto:0000042
+Kidney - Cortex,30-39,NANP,4.856,global,bto:0000042
+Kidney - Cortex,30-39,UQCRHL,0.984,global,hepatoma hle cell
+Kidney - Cortex,30-39,CFL1,5.0,global,bto:0000042
+Kidney - Cortex,30-39,BTBD6,4.929,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CDKN2AIPNL,3.906,global,bto:0000042
+Kidney - Cortex,30-39,RETREG2,4.985,global,bto:0000042
+Kidney - Cortex,30-39,SETD3,4.977,global,bto:0000042
+Kidney - Cortex,30-39,UROS,4.972,global,bto:0000042
+Kidney - Cortex,30-39,UBE2M,4.976,global,bto:0000042
+Kidney - Cortex,30-39,STOML2,4.995,global,bto:0000042
+Kidney - Cortex,30-39,MRPL4,4.975,global,bto:0000042
+Kidney - Cortex,30-39,WDR45,4.996,global,bto:0000042
+Kidney - Cortex,30-39,WRNIP1,4.973,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RTKN,4.974,global,bto:0000042
+Kidney - Cortex,30-39,COQ9,4.987,global,bto:0000042
+Kidney - Cortex,30-39,CLPTM1,4.989,global,bto:0000042
+Kidney - Cortex,30-39,NAA38,4.96,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,C14ORF119,4.982,global,bto:0000042
+Kidney - Cortex,30-39,GPKOW,4.978,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,FAHD2A,4.948,global,bto:0000042
+Kidney - Cortex,30-39,TMED4,4.996,global,bto:0000042
+Kidney - Cortex,30-39,RPUSD2,4.908,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PYM1,4.901,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CHMP6,4.961,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ARMC6,4.984,global,bto:0000042
+Kidney - Cortex,30-39,CUEDC2,4.955,global,bto:0000042
+Kidney - Cortex,30-39,TMEM199,4.46,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RIC8A,4.997,global,bto:0000042
+Kidney - Cortex,30-39,EID2,4.225,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CHMP2A,4.981,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RUFY1,4.958,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,LIPT2,2.313,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,POLD2,4.994,global,bto:0000042
+Kidney - Cortex,30-39,CCNY,4.989,global,bto:0000042
+Kidney - Cortex,30-39,FARSA,4.989,global,bto:0000042
+Kidney - Cortex,30-39,MRPL2,4.918,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,KIFBP,4.981,global,bto:0000042
+Kidney - Cortex,30-39,JAGN1,4.96,global,bto:0000042
+Kidney - Cortex,30-39,VAPB,4.992,global,bto:0000042
+Kidney - Cortex,30-39,ATP5F1A,5.0,global,atrium
+Kidney - Cortex,30-39,SF3B4,4.989,global,bto:0000042
+Kidney - Cortex,30-39,SMIM12,4.286,global,bto:0000042
+Kidney - Cortex,30-39,DDB1,4.999,global,bto:0000042
+Kidney - Cortex,30-39,CYB5D2,4.947,global,bto:0000042
+Kidney - Cortex,30-39,ALDH1A1,5.0,global,bto:0000042
+Kidney - Cortex,30-39,GPAA1,4.996,global,bto:0000042
+Kidney - Cortex,30-39,DNAAF2,4.897,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,MAGEF1,4.975,global,bto:0000042
+Kidney - Cortex,30-39,PSMA7,4.996,global,bto:0000042
+Kidney - Cortex,30-39,TUFM,4.997,global,bto:0000042
+Kidney - Cortex,30-39,DHODH,4.917,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COASY,4.996,global,bto:0000042
+Kidney - Cortex,30-39,TSPAN12,4.947,global,bto:0000042
+Kidney - Cortex,30-39,PTDSS1,4.986,global,bto:0000042
+Kidney - Cortex,30-39,PRMT5,4.998,global,bto:0000042
+Kidney - Cortex,30-39,NDUFA12,4.943,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000255046,,,
+Kidney - Cortex,30-39,KEAP1,4.997,global,bto:0000042
+Kidney - Cortex,30-39,RAD51D,4.905,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,UBL7,4.98,global,bto:0000042
+Kidney - Cortex,30-39,FOXN3-AS1,1.55,global,k22
+Kidney - Cortex,30-39,TMEM9,4.992,global,bto:0000042
+Kidney - Cortex,30-39,ERH,4.989,global,bto:0000042
+Kidney - Cortex,30-39,SSNA1,4.953,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NAP1L4,4.995,global,bto:0000042
+Kidney - Cortex,30-39,CNPPD1,4.974,global,bto:0000042
+Kidney - Cortex,30-39,ACAD8,4.985,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RCC1L,4.974,global,bto:0000042
+Kidney - Cortex,30-39,ALG1,4.977,global,bto:0000042
+Kidney - Cortex,30-39,CASK,4.962,global,bto:0000042
+Kidney - Cortex,30-39,TSFM,4.977,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000288890,,,
+Kidney - Cortex,30-39,ENSG00000269176,,,
+Kidney - Cortex,30-39,PTPN18,4.975,global,bto:0000042
+Kidney - Cortex,30-39,KIF1C,4.983,global,bto:0000042
+Kidney - Cortex,30-39,SDHAF2,4.981,global,bto:0000042
+Kidney - Cortex,30-39,PSMA2,4.994,global,bto:0000042
+Kidney - Cortex,30-39,PIGS,4.983,global,bto:0000042
+Kidney - Cortex,30-39,MICOS13,4.954,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COX10,4.97,global,bto:0000042
+Kidney - Cortex,30-39,PITHD1,4.974,global,bto:0000042
+Kidney - Cortex,30-39,HGH1,4.428,global,bto:0000042
+Kidney - Cortex,30-39,ZC3HC1,4.971,global,bto:0000042
+Kidney - Cortex,30-39,EMC1,4.99,global,bto:0000042
+Kidney - Cortex,30-39,PFDN6,4.937,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ANXA7,4.995,global,bto:0000042
+Kidney - Cortex,30-39,LYPLA2,4.982,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000273456,,,
+Kidney - Cortex,30-39,DFFA,4.985,global,bto:0000042
+Kidney - Cortex,30-39,PIGU,4.923,global,bto:0000042
+Kidney - Cortex,30-39,TRHDE,4.813,global,bto:0000042
+Kidney - Cortex,30-39,FARS2,4.91,global,bto:0000042
+Kidney - Cortex,30-39,LRRC8D-DT,,,
+Kidney - Cortex,30-39,XPNPEP1,4.992,global,bto:0000042
+Kidney - Cortex,30-39,PSMB3,4.981,global,bto:0000042
+Kidney - Cortex,30-39,ARL2,4.976,global,bto:0000042
+Kidney - Cortex,30-39,GOT2,5.0,global,bto:0000042
+Kidney - Cortex,30-39,ELOVL1,4.99,global,bto:0000042
+Kidney - Cortex,30-39,RNF123,4.978,global,bto:0000042
+Kidney - Cortex,30-39,UBE2I,4.994,global,bto:0000042
+Kidney - Cortex,30-39,ZNF48,4.807,global,bto:0000042
+Kidney - Cortex,30-39,GHDC,4.976,global,bto:0000042
+Kidney - Cortex,30-39,PPP2CB,4.987,global,bto:0000042
+Kidney - Cortex,30-39,UBE2J2,4.985,global,bto:0000042
+Kidney - Cortex,30-39,MICOS10,4.977,global,bto:0000042
+Kidney - Cortex,30-39,HMBS,4.98,global,bto:0000042
+Kidney - Cortex,30-39,NUDT5,4.991,global,bto:0000042
+Kidney - Cortex,30-39,BLOC1S3,4.69,global,bto:0000042
+Kidney - Cortex,30-39,NAIF1,4.937,global,bto:0000042
+Kidney - Cortex,30-39,PSMD11,4.992,global,bto:0000042
+Kidney - Cortex,30-39,PSMF1,4.994,global,bto:0000042
+Kidney - Cortex,30-39,B4GALT2,4.964,global,bto:0000042
+Kidney - Cortex,30-39,POLR2G,4.985,global,bto:0000042
+Kidney - Cortex,30-39,YWHAQ,4.999,global,bto:0000042
+Kidney - Cortex,30-39,LONP1,4.996,global,bto:0000042
+Kidney - Cortex,30-39,CDIP1,4.982,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ACP2,,,
+Kidney - Cortex,30-39,ATG4D,4.946,global,bto:0000042
+Kidney - Cortex,30-39,ASL,4.969,global,bto:0000042
+Kidney - Cortex,30-39,NPM2,4.834,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TMEM143,4.962,global,bto:0000042
+Kidney - Cortex,30-39,RAC3,4.739,global,bto:0000042
+Kidney - Cortex,30-39,IDH3G,4.982,global,bto:0000042
+Kidney - Cortex,30-39,PSMC2,4.996,global,bto:0000042
+Kidney - Cortex,30-39,SPSB2,4.319,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RBM34,4.953,global,bto:0000042
+Kidney - Cortex,30-39,TMEM187,4.856,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,OSBP,4.975,global,bto:0000042
+Kidney - Cortex,30-39,MRPS18B,4.983,global,bto:0000042
+Kidney - Cortex,30-39,PEX16,4.923,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NKAPL,4.672,global,bto:0000042
+Kidney - Cortex,30-39,AGPAT3,4.987,global,bto:0000042
+Kidney - Cortex,30-39,ERAL1,4.99,global,bto:0000042
+Kidney - Cortex,30-39,THEM6,4.98,global,bto:0000042
+Kidney - Cortex,30-39,TFIP11,4.982,global,bto:0000042
+Kidney - Cortex,30-39,FXN,4.874,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ILVBL,4.967,global,bto:0000042
+Kidney - Cortex,30-39,ZMAT2,4.968,global,bto:0000042
+Kidney - Cortex,30-39,HDGF,4.995,global,bto:0000042
+Kidney - Cortex,30-39,SLC35B4,4.966,global,bto:0000042
+Kidney - Cortex,30-39,PSMD1,4.997,global,bto:0000042
+Kidney - Cortex,30-39,PPIA,5.0,global,bto:0000042
+Kidney - Cortex,30-39,GPR89A,4.948,global,bto:0000042
+Kidney - Cortex,30-39,ABHD6,4.97,global,bto:0000042
+Kidney - Cortex,30-39,DDX1,4.998,global,bto:0000042
+Kidney - Cortex,30-39,TUSC2,4.97,global,bto:0000042
+Kidney - Cortex,30-39,ATP7B,4.937,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,GTPBP6,4.956,global,bto:0000042
+Kidney - Cortex,30-39,SLC25A44,4.992,global,bto:0000042
+Kidney - Cortex,30-39,CCDC51,4.924,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PRADC1,4.539,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CBR1,4.988,global,bto:0000042
+Kidney - Cortex,30-39,PMM1,4.963,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ATP5F1B,5.0,global,atrium
+Kidney - Cortex,30-39,GANAB,4.999,global,bto:0000042
+Kidney - Cortex,30-39,ACOX3,4.963,global,bto:0000042
+Kidney - Cortex,30-39,CC2D1B,4.945,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NDUFA9,4.994,global,bto:0000042
+Kidney - Cortex,30-39,PRMT6,4.945,global,bto:0000042
+Kidney - Cortex,30-39,IMP3,4.983,global,bto:0000042
+Kidney - Cortex,30-39,GEMIN6,4.795,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TTC39B,4.973,global,bto:0000042
+Kidney - Cortex,30-39,ALKBH4,4.906,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PTPRJ,4.939,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SPAG7,4.97,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,DNAJA3,4.987,global,bto:0000042
+Kidney - Cortex,30-39,RPUSD3,4.96,global,bto:0000042
+Kidney - Cortex,30-39,PPP5C,4.992,global,bto:0000042
+Kidney - Cortex,30-39,NDUFA8,4.982,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SGPP1,4.916,global,bto:0000042
+Kidney - Cortex,30-39,PEX10,4.965,global,bto:0000042
+Kidney - Cortex,30-39,FASTKD2,4.98,global,bto:0000042
+Kidney - Cortex,30-39,TXNRD2,4.979,global,bto:0000042
+Kidney - Cortex,30-39,PTPMT1,4.951,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SLC66A1,4.949,global,bto:0000042
+Kidney - Cortex,30-39,KDM8,4.895,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NUDT19-DT,,,
+Kidney - Cortex,30-39,CLPP,4.981,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NDUFB10,4.97,global,bto:0000042
+Kidney - Cortex,30-39,SCFD2,4.939,global,bto:0000042
+Kidney - Cortex,30-39,ZDHHC16,4.973,global,bto:0000042
+Kidney - Cortex,30-39,AP2S1,4.985,global,bto:0000042
+Kidney - Cortex,30-39,SH3BGRL3,4.987,global,bto:0000042
+Kidney - Cortex,30-39,MFN2,4.997,global,bto:0000042
+Kidney - Cortex,30-39,ARL6IP1,4.999,global,bto:0000042
+Kidney - Cortex,30-39,BAIAP2,4.994,global,bto:0000042
+Kidney - Cortex,30-39,ZSWIM3,4.734,global,bto:0000042
+Kidney - Cortex,30-39,SSU72,4.984,global,bto:0000042
+Kidney - Cortex,30-39,ATG3,4.987,global,bto:0000042
+Kidney - Cortex,30-39,PCCA-DT,,,
+Kidney - Cortex,30-39,VWA8,4.919,global,bto:0000042
+Kidney - Cortex,30-39,SNRPC,4.989,global,bto:0000042
+Kidney - Cortex,30-39,HDDC3,4.825,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,YKT6,4.993,global,bto:0000042
+Kidney - Cortex,30-39,NAT1,4.818,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PLEKHA6,4.637,global,bto:0000042
+Kidney - Cortex,30-39,DLST,4.981,global,bto:0000042
+Kidney - Cortex,30-39,TIMM22,4.918,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NUDT16L1,4.959,global,bto:0000042
+Kidney - Cortex,30-39,PSMA5,4.992,global,bto:0000042
+Kidney - Cortex,30-39,USP10,4.996,global,bto:0000042
+Kidney - Cortex,30-39,AP1B1,4.955,global,bto:0000042
+Kidney - Cortex,30-39,ELP3,4.986,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,AP1M1,4.996,global,bto:0000042
+Kidney - Cortex,30-39,NAGLU,4.942,global,bto:0000042
+Kidney - Cortex,30-39,SLC27A5,4.954,global,bto:0000042
+Kidney - Cortex,30-39,POLR2L,4.962,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COPS6,4.989,global,bto:0000042
+Kidney - Cortex,30-39,CRLS1,4.819,global,bto:0000042
+Kidney - Cortex,30-39,LANCL2,4.956,global,bto:0000042
+Kidney - Cortex,30-39,MECR,4.959,global,bto:0000042
+Kidney - Cortex,30-39,ZSCAN5A,4.846,global,bto:0000042
+Kidney - Cortex,30-39,PRDX5,4.99,global,bto:0000042
+Kidney - Cortex,30-39,RRAGC,4.973,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NDUFA3,4.946,global,bto:0000042
+Kidney - Cortex,30-39,MOCS1,4.968,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ORMDL2,4.944,global,bto:0000042
+Kidney - Cortex,30-39,COQ10A,4.93,global,bto:0000042
+Kidney - Cortex,30-39,CENPV,4.933,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PSMD13,4.994,global,bto:0000042
+Kidney - Cortex,30-39,PSPC1,4.986,global,bto:0000042
+Kidney - Cortex,30-39,ULK3,4.975,global,bto:0000042
+Kidney - Cortex,30-39,KLHDC8B,4.912,global,bto:0000042
+Kidney - Cortex,30-39,CMTM4,4.966,global,bto:0000042
+Kidney - Cortex,30-39,RMDN3,4.991,global,bto:0000042
+Kidney - Cortex,30-39,SLC25A3,5.0,global,bto:0000042
+Kidney - Cortex,30-39,TRIM28,4.999,global,bto:0000042
+Kidney - Cortex,30-39,NLE1,4.964,global,bto:0000042
+Kidney - Cortex,30-39,PSMD4,4.992,global,bto:0000042
+Kidney - Cortex,30-39,TMEM37,4.313,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,DLAT,4.981,global,bto:0000042
+Kidney - Cortex,30-39,CYB5R1,4.985,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RPN1,4.998,global,bto:0000042
+Kidney - Cortex,30-39,VCP,5.0,global,bto:0000042
+Kidney - Cortex,30-39,ADRM1,4.995,global,bto:0000042
+Kidney - Cortex,30-39,ELOB,4.984,global,bto:0000042
+Kidney - Cortex,30-39,PSMB5,4.995,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000286388,,,
+Kidney - Cortex,30-39,CHRNB4,4.33,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,HSPBP1,4.991,global,bto:0000042
+Kidney - Cortex,30-39,TARS2,4.974,global,bto:0000042
+Kidney - Cortex,30-39,PSMC3,4.995,global,bto:0000042
+Kidney - Cortex,30-39,OXLD1,4.363,global,bto:0000042
+Kidney - Cortex,30-39,FOXRED1,4.986,global,bto:0000042
+Kidney - Cortex,30-39,USP5,4.987,global,bto:0000042
+Kidney - Cortex,30-39,SUPV3L1,4.961,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,EIF6,4.999,global,bto:0000042
+Kidney - Cortex,30-39,OSCP1,4.908,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TARBP2,4.954,global,bto:0000042
+Kidney - Cortex,30-39,HDHD5,4.981,global,bto:0000042
+Kidney - Cortex,30-39,MTMR14,4.983,global,bto:0000042
+Kidney - Cortex,30-39,TNFAIP8L1,4.901,global,bto:0000042
+Kidney - Cortex,30-39,MRPL24,4.955,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COA3,4.976,global,bto:0000042
+Kidney - Cortex,30-39,HNF1B,4.833,global,bto:0000042
+Kidney - Cortex,30-39,PSMC5,4.995,global,bto:0000042
+Kidney - Cortex,30-39,CCT7,5.0,global,bto:0000042
+Kidney - Cortex,30-39,MRPS16,4.975,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RPL7L1,4.988,global,bto:0000042
+Kidney - Cortex,30-39,PNKD,4.979,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ZNF747,4.84,global,bto:0000042
+Kidney - Cortex,30-39,GRINA,4.994,global,bto:0000042
+Kidney - Cortex,30-39,HACL1,4.983,global,bto:0000042
+Kidney - Cortex,30-39,ZFPL1,4.976,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SNRPB,4.998,global,bto:0000042
+Kidney - Cortex,30-39,TXN2,4.981,global,bto:0000042
+Kidney - Cortex,30-39,SMCO4,4.584,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,C5,4.92,global,bto:0000042
+Kidney - Cortex,30-39,MRPS12,4.968,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PIGO,4.892,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,POLR3K,4.881,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000289291,,,
+Kidney - Cortex,30-39,RNH1,4.997,global,bto:0000042
+Kidney - Cortex,30-39,THTPA,4.96,global,bto:0000042
+Kidney - Cortex,30-39,GPATCH3,4.974,global,bto:0000042
+Kidney - Cortex,30-39,MIEF1,4.993,global,bto:0000042
+Kidney - Cortex,30-39,CLTB,4.952,global,bto:0000042
+Kidney - Cortex,30-39,ZBTB42,4.606,global,bto:0000042
+Kidney - Cortex,30-39,FUCA2,4.985,global,bto:0000042
+Kidney - Cortex,30-39,PPP1R7,4.991,global,bto:0000042
+Kidney - Cortex,30-39,GPANK1,4.943,global,bto:0000042
+Kidney - Cortex,30-39,FAM32A,4.98,global,bto:0000042
+Kidney - Cortex,30-39,PMM2,4.987,global,bto:0000042
+Kidney - Cortex,30-39,TOMM70,4.983,global,bto:0000042
+Kidney - Cortex,30-39,SEPHS1,4.975,global,bto:0000042
+Kidney - Cortex,30-39,UQCRH,4.994,global,bto:0000042
+Kidney - Cortex,30-39,SMARCB1,4.992,global,bto:0000042
+Kidney - Cortex,30-39,MRPL10,4.98,global,bto:0000042
+Kidney - Cortex,30-39,UQCRC1,4.998,global,bto:0000042
+Kidney - Cortex,30-39,SAR1B,4.987,global,bto:0000042
+Kidney - Cortex,30-39,HPN,4.943,global,bto:0000042
+Kidney - Cortex,30-39,GPS1,4.996,global,bto:0000042
+Kidney - Cortex,30-39,CXXC5,4.988,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ANAPC11,4.983,global,bto:0000042
+Kidney - Cortex,30-39,GSTP1,4.998,global,bto:0000042
+Kidney - Cortex,30-39,RPS19BP1,4.965,global,bto:0000042
+Kidney - Cortex,30-39,FAF1,4.986,global,bto:0000042
+Kidney - Cortex,30-39,TRAPPC1,4.976,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TMED1,4.946,global,bto:0000042
+Kidney - Cortex,30-39,LRRC47,4.857,global,bto:0000042
+Kidney - Cortex,30-39,SDF4,4.998,global,bto:0000042
+Kidney - Cortex,30-39,CAP1,5.0,global,bto:0000042
+Kidney - Cortex,30-39,NAA20,4.98,global,bto:0000042
+Kidney - Cortex,30-39,CCDC106,4.882,global,bto:0000042
+Kidney - Cortex,30-39,HIRA,4.388,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ENSG00000289294,,,
+Kidney - Cortex,30-39,UBXN6,4.982,global,bto:0000042
+Kidney - Cortex,30-39,TOMM40L,4.966,global,bto:0000042
+Kidney - Cortex,30-39,TRMT5,4.818,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,GMNN,4.941,global,bto:0000042
+Kidney - Cortex,30-39,PPP1CA,4.997,global,bto:0000042
+Kidney - Cortex,30-39,LYNX1,2.517,global,visual cortex
+Kidney - Cortex,30-39,LSM14B,4.89,global,bto:0000042
+Kidney - Cortex,30-39,MRPS5,4.976,global,bto:0000042
+Kidney - Cortex,30-39,ANP32A,4.992,global,bto:0000042
+Kidney - Cortex,30-39,SLC25A6,5.0,global,bto:0000042
+Kidney - Cortex,30-39,YIF1B,4.948,global,bto:0000042
+Kidney - Cortex,30-39,AFG3L2,4.981,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ESS2,4.973,global,bto:0000042
+Kidney - Cortex,30-39,VPS51,4.986,global,bto:0000042
+Kidney - Cortex,30-39,VPS26C,5.0,global,bto:0000042
+Kidney - Cortex,30-39,MOSPD3,4.885,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NDUFS1,4.994,global,bto:0000042
+Kidney - Cortex,30-39,EPHX1,4.989,global,bto:0000042
+Kidney - Cortex,30-39,DPH2,4.975,global,bto:0000042
+Kidney - Cortex,30-39,AP5S1,4.798,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,WDR77,4.994,global,bto:0000042
+Kidney - Cortex,30-39,CYB561D2,4.923,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RXRA,4.984,global,bto:0000042
+Kidney - Cortex,30-39,NDUFS3,4.988,global,bto:0000042
+Kidney - Cortex,30-39,LRWD1,4.99,global,bto:0000042
+Kidney - Cortex,30-39,TM9SF1,4.983,global,bto:0000042
+Kidney - Cortex,30-39,KLC4,4.987,global,bto:0000042
+Kidney - Cortex,30-39,SMIM4,4.485,global,bto:0000042
+Kidney - Cortex,30-39,DDX54,4.984,global,bto:0000042
+Kidney - Cortex,30-39,TIMM17A,4.991,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000228484,,,
+Kidney - Cortex,30-39,MRPL35,4.974,global,bto:0000042
+Kidney - Cortex,30-39,SNRPG,4.975,global,bto:0000042
+Kidney - Cortex,30-39,MRPL23,4.945,global,bto:0000042
+Kidney - Cortex,30-39,SLC10A3,4.899,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NUDT22,4.929,global,bto:0000042
+Kidney - Cortex,30-39,DDX49,4.98,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SNX15,4.92,global,bto:0000042
+Kidney - Cortex,30-39,ABHD15,4.737,global,bto:0000042
+Kidney - Cortex,30-39,FZD4,4.949,global,bto:0000042
+Kidney - Cortex,30-39,MARCHF9,4.88,global,bto:0000042
+Kidney - Cortex,30-39,MTX1,4.977,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TRMT10C,4.527,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TMEM177,4.88,global,bto:0000042
+Kidney - Cortex,30-39,C17ORF97,4.904,global,bto:0000042
+Kidney - Cortex,30-39,C16ORF91,4.857,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TEX264,4.973,global,bto:0000042
+Kidney - Cortex,30-39,BOLA1,4.81,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PIK3R2,4.98,global,bto:0000042
+Kidney - Cortex,30-39,CLN6,4.963,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SRSF9,4.974,global,bto:0000042
+Kidney - Cortex,30-39,PPP1R10,4.984,global,bto:0000042
+Kidney - Cortex,30-39,FAM86JP,,,
+Kidney - Cortex,30-39,PSMD3,4.997,global,bto:0000042
+Kidney - Cortex,30-39,TLNRD1,4.922,global,bto:0000042
+Kidney - Cortex,30-39,UQCR11,4.496,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COMMD5,4.922,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000258744,,,
+Kidney - Cortex,30-39,TEN1,4.95,global,bto:0000042
+Kidney - Cortex,30-39,PPP1R16A,4.967,global,bto:0000042
+Kidney - Cortex,30-39,PLEKHJ1,4.96,global,bto:0000042
+Kidney - Cortex,30-39,WDR61,4.974,global,bto:0000042
+Kidney - Cortex,30-39,MACROH2A1,4.995,global,bto:0000042
+Kidney - Cortex,30-39,NINJ1,4.97,global,bto:0000042
+Kidney - Cortex,30-39,C8ORF82,4.833,global,bto:0000042
+Kidney - Cortex,30-39,ZNF787,4.876,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TMTC4,4.975,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,MRPL37,4.99,global,bto:0000042
+Kidney - Cortex,30-39,AGPAT1,4.99,global,bto:0000042
+Kidney - Cortex,30-39,TXNDC11,4.952,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000279774,,,
+Kidney - Cortex,30-39,MRPL20,4.967,global,bto:0000042
+Kidney - Cortex,30-39,RPUSD1,4.938,global,bto:0000042
+Kidney - Cortex,30-39,KCTD8,4.588,global,bto:0000042
+Kidney - Cortex,30-39,ADCK2,4.933,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TOMM22,4.982,global,bto:0000042
+Kidney - Cortex,30-39,PACC1,4.943,global,bto:0000042
+Kidney - Cortex,30-39,MPST,4.975,global,bto:0000042
+Kidney - Cortex,30-39,FKBPL,4.818,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PDHA1,4.996,global,bto:0000042
+Kidney - Cortex,30-39,MED11,4.875,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,EMX1,4.665,global,brain
+Kidney - Cortex,30-39,METTL2A,4.91,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000267898,,,
+Kidney - Cortex,30-39,PTGES2,4.987,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,DMAC2,4.995,global,bto:0000042
+Kidney - Cortex,30-39,C6ORF136,4.264,global,bto:0000042
+Kidney - Cortex,30-39,PRKAR1B,4.992,global,bto:0000042
+Kidney - Cortex,30-39,LRPAP1,4.997,global,bto:0000042
+Kidney - Cortex,30-39,HS1BP3,4.896,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000289074,,,
+Kidney - Cortex,30-39,CARMIL1,4.92,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ZDHHC24,4.834,global,bto:0000042
+Kidney - Cortex,30-39,CLUH,4.976,global,bto:0000042
+Kidney - Cortex,30-39,TBL3,4.977,global,bto:0000042
+Kidney - Cortex,30-39,ATP5MF,4.988,global,bto:0000042
+Kidney - Cortex,30-39,PSMB4,4.998,global,bto:0000042
+Kidney - Cortex,30-39,PPP4C,4.987,global,bto:0000042
+Kidney - Cortex,30-39,ZDHHC12,4.907,global,bto:0000042
+Kidney - Cortex,30-39,SYPL1,4.996,global,bto:0000042
+Kidney - Cortex,30-39,EMC8,4.98,global,bto:0000042
+Kidney - Cortex,30-39,THNSL1,4.81,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,EXOSC4,4.935,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,STUB1,4.992,global,bto:0000042
+Kidney - Cortex,30-39,ARPC5L,4.97,global,bto:0000042
+Kidney - Cortex,30-39,KLF16,4.896,global,bto:0000042
+Kidney - Cortex,30-39,PARL,4.975,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ARHGDIA,4.999,global,bto:0000042
+Kidney - Cortex,30-39,C20ORF202,2.806,global,bto:0000042
+Kidney - Cortex,30-39,DOHH,4.89,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,LINGO2,4.612,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NDUFAF8,4.595,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000270175,,,
+Kidney - Cortex,30-39,MRPS26,4.959,global,bto:0000042
+Kidney - Cortex,30-39,ASMTL,4.984,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ADCK1,4.838,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TIMM50,4.988,global,bto:0000042
+Kidney - Cortex,30-39,GNB2,4.995,global,bto:0000042
+Kidney - Cortex,30-39,PMVK,4.976,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,UHRF1BP1L-DT,,,
+Kidney - Cortex,30-39,TM9SF2,4.996,global,bto:0000042
+Kidney - Cortex,30-39,ELP5,4.631,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,LBR,4.99,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PSMD8,4.996,global,bto:0000042
+Kidney - Cortex,30-39,KIAA2013,4.972,global,bto:0000042
+Kidney - Cortex,30-39,CENPB,4.993,global,bto:0000042
+Kidney - Cortex,30-39,ATP6V1B2,4.996,global,bto:0000042
+Kidney - Cortex,30-39,MPDU1,4.988,global,bto:0000042
+Kidney - Cortex,30-39,HARBI1,4.979,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PHF23,4.988,global,bto:0000042
+Kidney - Cortex,30-39,ARF3,4.998,global,bto:0000042
+Kidney - Cortex,30-39,SUMO3,4.996,global,bto:0000042
+Kidney - Cortex,30-39,AURKAIP1,4.989,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000261786,,,
+Kidney - Cortex,30-39,ATP5ME,4.967,global,bto:0000042
+Kidney - Cortex,30-39,STARD7,4.992,global,bto:0000042
+Kidney - Cortex,30-39,MRPL38,4.985,global,bto:0000042
+Kidney - Cortex,30-39,WDR12,4.961,global,bto:0000042
+Kidney - Cortex,30-39,TMEM223,4.843,global,bto:0000042
+Kidney - Cortex,30-39,UNC45A,4.994,global,bto:0000042
+Kidney - Cortex,30-39,OPA1,4.983,global,bto:0000042
+Kidney - Cortex,30-39,RRP1,4.969,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,R3HCC1,4.971,global,bto:0000042
+Kidney - Cortex,30-39,FAM50B,4.774,global,bto:0000042
+Kidney - Cortex,30-39,UCK1,4.971,global,bto:0000042
+Kidney - Cortex,30-39,UBL4A,4.981,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TMEM11,4.972,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CATIP,4.955,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PRDX2,4.998,global,bto:0000042
+Kidney - Cortex,30-39,PAK1IP1,4.907,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ENSG00000280417,,,
+Kidney - Cortex,30-39,DHRS11,4.948,global,bto:0000042
+Kidney - Cortex,30-39,DOLPP1,4.898,global,bto:0000042
+Kidney - Cortex,30-39,MED8,4.97,global,bto:0000042
+Kidney - Cortex,30-39,MYL6B,4.954,global,bto:0000042
+Kidney - Cortex,30-39,CDC123,4.981,global,bto:0000042
+Kidney - Cortex,30-39,CS,4.999,global,bto:0000042
+Kidney - Cortex,30-39,TRAPPC12,4.972,global,bto:0000042
+Kidney - Cortex,30-39,MRPS9,4.963,global,bto:0000042
+Kidney - Cortex,30-39,ACOT8,4.965,global,bto:0000042
+Kidney - Cortex,30-39,NT5DC2,4.975,global,bto:0000042
+Kidney - Cortex,30-39,RDH14,4.898,global,bto:0000042
+Kidney - Cortex,30-39,NECAB3,4.951,global,bto:0000042
+Kidney - Cortex,30-39,FOXRED2,4.997,global,bto:0000042
+Kidney - Cortex,30-39,POP7,4.932,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,AP3D1,4.992,global,bto:0000042
+Kidney - Cortex,30-39,RAP2C,4.91,global,bto:0000042
+Kidney - Cortex,30-39,MRPS18C,4.9,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,MARCHF8,4.991,global,bto:0000042
+Kidney - Cortex,30-39,LINC02916,,,
+Kidney - Cortex,30-39,LAMTOR2,4.63,global,bto:0000042
+Kidney - Cortex,30-39,EPS15L1,4.934,global,bto:0000042
+Kidney - Cortex,30-39,RPN2,4.998,global,bto:0000042
+Kidney - Cortex,30-39,EMG1,4.573,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NABP2,4.9,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,MRPL28,4.978,global,bto:0000042
+Kidney - Cortex,30-39,SNAP47,4.965,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ASRGL1,4.978,global,bto:0000042
+Kidney - Cortex,30-39,GET1,4.983,global,bto:0000042
+Kidney - Cortex,30-39,SIRT3,4.989,global,bto:0000042
+Kidney - Cortex,30-39,IDH3B,4.995,global,bto:0000042
+Kidney - Cortex,30-39,NEDD8,4.945,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000226330,,,
+Kidney - Cortex,30-39,GALE,4.981,global,bto:0000042
+Kidney - Cortex,30-39,NAA10,4.97,global,bto:0000042
+Kidney - Cortex,30-39,SMTNL2,3.117,global,bto:0000042
+Kidney - Cortex,30-39,ELAC2,4.995,global,bto:0000042
+Kidney - Cortex,30-39,ABCF1,4.986,global,bto:0000042
+Kidney - Cortex,30-39,IL17RC,4.988,global,bto:0000042
+Kidney - Cortex,30-39,APIP,4.95,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ARFIP2,4.991,global,bto:0000042
+Kidney - Cortex,30-39,TMEM250,4.0,global,bto:0000042
+Kidney - Cortex,30-39,BCAP31,4.997,global,bto:0000042
+Kidney - Cortex,30-39,C15ORF61,4.615,global,bto:0000042
+Kidney - Cortex,30-39,MTSS1,4.982,global,bto:0000042
+Kidney - Cortex,30-39,DUS2,4.945,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,GPR137,4.971,global,bto:0000042
+Kidney - Cortex,30-39,LLPH,4.873,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COX5A,4.983,global,bto:0000042
+Kidney - Cortex,30-39,JMJD8,4.969,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,GSDME,4.993,global,bto:0000042
+Kidney - Cortex,30-39,UNG,4.989,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,KIAA0100,4.978,global,bto:0000042
+Kidney - Cortex,30-39,APEX1,4.998,global,bto:0000042
+Kidney - Cortex,30-39,DMAC1,4.963,global,bto:0000042
+Kidney - Cortex,30-39,RIOX1,4.34,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,COPS4,4.982,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,POLR3B,4.954,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,DOLK,4.93,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CHAC2,4.702,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,GLYR1,4.981,global,bto:0000042
+Kidney - Cortex,30-39,AKT1,4.998,global,bto:0000042
+Kidney - Cortex,30-39,PHB2,4.997,global,bto:0000042
+Kidney - Cortex,30-39,CPPED1,4.971,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RBM42,4.991,global,bto:0000042
+Kidney - Cortex,30-39,MALSU1,4.937,global,bto:0000042
+Kidney - Cortex,30-39,DHDDS,4.97,global,bto:0000042
+Kidney - Cortex,30-39,DENND10,4.979,global,bto:0000042
+Kidney - Cortex,30-39,MRPL12,4.974,global,bto:0000042
+Kidney - Cortex,30-39,XRCC6,5.0,global,bto:0000042
+Kidney - Cortex,30-39,AIMP2,4.971,global,bto:0000042
+Kidney - Cortex,30-39,CAMK1,4.952,global,bto:0000042
+Kidney - Cortex,30-39,RTCB,4.997,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000225335,,,
+Kidney - Cortex,30-39,SPATA41,1.513,global,sk-mes-1 cell
+Kidney - Cortex,30-39,ARFGAP2,4.996,global,bto:0000042
+Kidney - Cortex,30-39,ERI3,4.987,global,bto:0000042
+Kidney - Cortex,30-39,LAGE3,4.929,global,bto:0000042
+Kidney - Cortex,30-39,SNAP29,4.973,global,bto:0000042
+Kidney - Cortex,30-39,NLRX1,4.935,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,EEFSEC,4.917,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RRP36,4.947,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PSMB7,4.995,global,bto:0000042
+Kidney - Cortex,30-39,HARS1,4.995,global,bto:0000042
+Kidney - Cortex,30-39,MRPL11,4.965,global,bto:0000042
+Kidney - Cortex,30-39,DMTN,4.985,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TUBA4A,4.995,global,bto:0000042
+Kidney - Cortex,30-39,PDAP1,4.978,global,bto:0000042
+Kidney - Cortex,30-39,PEX11G,4.451,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,MPP1,4.984,global,bto:0000042
+Kidney - Cortex,30-39,GRTP1,4.817,global,bto:0000042
+Kidney - Cortex,30-39,TM7SF2,4.962,global,bto:0000042
+Kidney - Cortex,30-39,LAMTOR1,4.713,global,bto:0000042
+Kidney - Cortex,30-39,COX6B1,4.993,global,bto:0000042
+Kidney - Cortex,30-39,EMC4,4.563,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,OS9,4.999,global,bto:0000042
+Kidney - Cortex,30-39,MRPL15,4.962,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,IMMT,4.998,global,bto:0000042
+Kidney - Cortex,30-39,IPO13,4.991,global,bto:0000042
+Kidney - Cortex,30-39,ZFYVE1,4.971,global,bto:0000042
+Kidney - Cortex,30-39,ZNF552,4.822,global,bto:0000042
+Kidney - Cortex,30-39,GFUS,,,
+Kidney - Cortex,30-39,RAE1,4.992,global,bto:0000042
+Kidney - Cortex,30-39,NUDT19,4.0,global,blood cancer cell
+Kidney - Cortex,30-39,SLC35A4,4.99,global,bto:0000042
+Kidney - Cortex,30-39,TSR3,4.941,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ZNHIT2,4.941,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,GSR,4.968,global,bto:0000042
+Kidney - Cortex,30-39,ATP6V0D1,4.994,global,bto:0000042
+Kidney - Cortex,30-39,ZMAT5,4.888,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,LASP1,4.998,global,bto:0000042
+Kidney - Cortex,30-39,MRPS23,4.959,global,bto:0000042
+Kidney - Cortex,30-39,LINC01431,1.381,global,2.2.15
+Kidney - Cortex,30-39,ENSG00000224046,,,
+Kidney - Cortex,30-39,LMAN2,4.995,global,bto:0000042
+Kidney - Cortex,30-39,GSK3A,4.987,global,bto:0000042
+Kidney - Cortex,30-39,GSTM4,4.909,global,bto:0000042
+Kidney - Cortex,30-39,BLCAP,4.996,global,bto:0000042
+Kidney - Cortex,30-39,WDR1,4.999,global,bto:0000042
+Kidney - Cortex,30-39,MPI,4.992,global,bto:0000042
+Kidney - Cortex,30-39,COMMD9,4.954,global,bto:0000042
+Kidney - Cortex,30-39,PMPCA,4.995,global,bto:0000042
+Kidney - Cortex,30-39,ZXDC,4.978,global,bto:0000042
+Kidney - Cortex,30-39,TMEM186,4.847,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,KAT14,4.888,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SAMM50,4.993,global,bto:0000042
+Kidney - Cortex,30-39,TRAPPC4,4.985,global,bto:0000042
+Kidney - Cortex,30-39,UROD,4.995,global,bto:0000042
+Kidney - Cortex,30-39,CNPY2,4.44,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,POLR2C,4.985,global,bto:0000042
+Kidney - Cortex,30-39,TRUB2,4.962,global,bto:0000042
+Kidney - Cortex,30-39,MRPS17,4.842,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SLC39A3,4.966,global,bto:0000042
+Kidney - Cortex,30-39,DNAJC30,4.918,global,bto:0000042
+Kidney - Cortex,30-39,LGALS8-AS1,1.156,global,lncap-ai cell
+Kidney - Cortex,30-39,GALT,4.981,global,bto:0000042
+Kidney - Cortex,30-39,SLC35A2,4.997,global,bto:0000042
+Kidney - Cortex,30-39,UFD1,4.985,global,bto:0000042
+Kidney - Cortex,30-39,MRPS7,4.985,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000279227,,,
+Kidney - Cortex,30-39,MRM3,4.94,global,bto:0000042
+Kidney - Cortex,30-39,HMCES,4.976,global,bto:0000042
+Kidney - Cortex,30-39,NDUFS6,4.964,global,bto:0000042
+Kidney - Cortex,30-39,FASTKD3,4.826,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,HSD17B10,4.977,global,bto:0000042
+Kidney - Cortex,30-39,RNF26,4.992,global,bto:0000042
+Kidney - Cortex,30-39,SIRT4,4.691,global,bto:0000042
+Kidney - Cortex,30-39,DDX28,4.967,global,bto:0000042
+Kidney - Cortex,30-39,NDUFB11,4.981,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,THAP4,4.974,global,bto:0000042
+Kidney - Cortex,30-39,PEX11B,4.977,global,bto:0000042
+Kidney - Cortex,30-39,G6PC3,4.983,global,bto:0000042
+Kidney - Cortex,30-39,NDUFB1,4.894,global,bto:0000042
+Kidney - Cortex,30-39,COA7,4.47,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,POLR3H,4.99,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SSBP1,4.99,global,bto:0000042
+Kidney - Cortex,30-39,GET3,4.987,global,bto:0000042
+Kidney - Cortex,30-39,EIF4G1,4.999,global,bto:0000042
+Kidney - Cortex,30-39,TIMM8B,4.938,global,bto:0000042
+Kidney - Cortex,30-39,ELP6,4.559,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,LRRC8D,4.948,global,bto:0000042
+Kidney - Cortex,30-39,NDUFA1,4.984,global,bto:0000042
+Kidney - Cortex,30-39,SNX12,4.984,global,bto:0000042
+Kidney - Cortex,30-39,TIMM13,4.984,global,bto:0000042
+Kidney - Cortex,30-39,C7ORF25,4.822,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ZNRD2,4.929,global,bto:0000042
+Kidney - Cortex,30-39,SDHA,4.999,global,bto:0000042
+Kidney - Cortex,30-39,GLG1,4.994,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000167912,,,
+Kidney - Cortex,30-39,C3ORF33,4.36,global,bto:0000042
+Kidney - Cortex,30-39,ARPC4,4.986,global,bto:0000042
+Kidney - Cortex,30-39,TMEM14A,4.954,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NMRAL1,4.95,global,bto:0000042
+Kidney - Cortex,30-39,GPN1,4.972,global,bto:0000042
+Kidney - Cortex,30-39,NDUFV3,4.96,global,bto:0000042
+Kidney - Cortex,30-39,RAB2A,4.998,global,bto:0000042
+Kidney - Cortex,30-39,PTMS,4.964,global,bto:0000042
+Kidney - Cortex,30-39,CTDNEP1,4.985,global,bto:0000042
+Kidney - Cortex,30-39,PAOX,4.986,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,HMG20B,4.989,global,bto:0000042
+Kidney - Cortex,30-39,EEF1AKMT1,4.761,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ANO10,4.979,global,bto:0000042
+Kidney - Cortex,30-39,MLST8,4.989,global,bto:0000042
+Kidney - Cortex,30-39,RAB35,4.981,global,bto:0000042
+Kidney - Cortex,30-39,NAA60,4.532,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,FDPS,4.998,global,bto:0000042
+Kidney - Cortex,30-39,RMDN1,4.945,global,bto:0000042
+Kidney - Cortex,30-39,DECR2,4.942,global,bto:0000042
+Kidney - Cortex,30-39,PCYT2,4.986,global,bto:0000042
+Kidney - Cortex,30-39,PIP4P1,4.958,global,bto:0000042
+Kidney - Cortex,30-39,DHRS7B,4.92,global,bto:0000042
+Kidney - Cortex,30-39,MRPL46,4.938,global,bto:0000042
+Kidney - Cortex,30-39,RNF187,4.986,global,bto:0000042
+Kidney - Cortex,30-39,AAMP,4.993,global,bto:0000042
+Kidney - Cortex,30-39,DPM3,3.84,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PACSIN3,4.939,global,bto:0000042
+Kidney - Cortex,30-39,PDHB,4.993,global,bto:0000042
+Kidney - Cortex,30-39,MBLAC1,4.342,global,bto:0000042
+Kidney - Cortex,30-39,KLHDC3,4.998,global,bto:0000042
+Kidney - Cortex,30-39,PSMB6,4.992,global,bto:0000042
+Kidney - Cortex,30-39,PGAP6,4.97,global,bto:0000042
+Kidney - Cortex,30-39,SHPK,4.925,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TBC1D13,4.978,global,bto:0000042
+Kidney - Cortex,30-39,CLTA,4.995,global,bto:0000042
+Kidney - Cortex,30-39,MTG1,4.427,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PWP1,4.989,global,bto:0000042
+Kidney - Cortex,30-39,UMPS,4.974,global,bto:0000042
+Kidney - Cortex,30-39,MRPS11,4.966,global,bto:0000042
+Kidney - Cortex,30-39,UNC119B,4.954,global,bto:0000042
+Kidney - Cortex,30-39,MDP1,4.903,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CSTF2,4.946,global,bto:0000042
+Kidney - Cortex,30-39,PAF1,4.992,global,bto:0000042
+Kidney - Cortex,30-39,COX4I1,4.998,global,bto:0000042
+Kidney - Cortex,30-39,PARS2,4.821,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ZNF622,4.96,global,bto:0000042
+Kidney - Cortex,30-39,MFSD3,4.861,global,bto:0000042
+Kidney - Cortex,30-39,SLC25A11,4.988,global,bto:0000042
+Kidney - Cortex,30-39,FHOD3,4.903,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,UBIAD1,4.966,global,bto:0000042
+Kidney - Cortex,30-39,TMEM147,4.964,global,bto:0000042
+Kidney - Cortex,30-39,SLC2A11,4.99,global,bto:0000042
+Kidney - Cortex,30-39,CASTOR1,4.941,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,NDUFB9,4.993,global,bto:0000042
+Kidney - Cortex,30-39,EBP,4.972,global,bto:0000042
+Kidney - Cortex,30-39,NDUFA13,4.991,global,bto:0000042
+Kidney - Cortex,30-39,APH1A,4.996,global,bto:0000042
+Kidney - Cortex,30-39,MAD2L1BP,4.946,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RAB5C,4.994,global,bto:0000042
+Kidney - Cortex,30-39,PSMD7,4.982,global,bto:0000042
+Kidney - Cortex,30-39,ZSCAN2,4.796,global,bto:0000042
+Kidney - Cortex,30-39,BCKDHA,4.991,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,TOR1A,4.99,global,bto:0000042
+Kidney - Cortex,30-39,SLC35B2,4.986,global,bto:0000042
+Kidney - Cortex,30-39,RPS6KB2,4.984,global,bto:0000042
+Kidney - Cortex,30-39,EIPR1,4.978,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,GSS,4.994,global,bto:0000042
+Kidney - Cortex,30-39,CLPTM1L,4.991,global,bto:0000042
+Kidney - Cortex,30-39,ERGIC1,4.993,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000219928,,,
+Kidney - Cortex,30-39,BDH1,4.941,global,bto:0000042
+Kidney - Cortex,30-39,FIBP,4.983,global,bto:0000042
+Kidney - Cortex,30-39,NDUFAF3,4.993,global,bto:0000042
+Kidney - Cortex,30-39,BRMS1,4.952,global,bto:0000042
+Kidney - Cortex,30-39,SPATA5L1,4.916,global,bto:0000042
+Kidney - Cortex,30-39,MUL1,4.993,global,bto:0000042
+Kidney - Cortex,30-39,PSMB2,4.994,global,bto:0000042
+Kidney - Cortex,30-39,HECTD3,4.976,global,bto:0000042
+Kidney - Cortex,30-39,RTN4IP1,4.866,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000286322,,,
+Kidney - Cortex,30-39,TIMM44,4.987,global,bto:0000042
+Kidney - Cortex,30-39,GPAT4,4.981,global,bto:0000042
+Kidney - Cortex,30-39,ENSG00000272010,,,
+Kidney - Cortex,30-39,CLPX,4.957,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,CDK5,4.955,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,PPP2R1A,5.0,global,bto:0000042
+Kidney - Cortex,30-39,SPRYD4,4.928,global,bto:0000042
+Kidney - Cortex,30-39,SCO1,4.965,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,ENSG00000272462,,,
+Kidney - Cortex,30-39,TSPAN3,4.998,global,bto:0000042
+Kidney - Cortex,30-39,YWHAB,4.999,global,bto:0000042
+Kidney - Cortex,30-39,TRMT10A,4.813,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,RNF167,4.991,global,bto:0000042
+Kidney - Cortex,30-39,SLC25A13,4.966,global,bto:0000042
+Kidney - Cortex,30-39,PUSL1,4.786,global,bto:0000042
+Kidney - Cortex,30-39,RAB3IL1,4.858,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,SPRYD3,4.936,global,bto:0000042
+Kidney - Cortex,30-39,SNHG9,1.575,global,thyroid epithelial cell
+Kidney - Cortex,30-39,PSMD6,4.986,global,bto:0000042
+Kidney - Cortex,30-39,ATP6AP1,4.999,global,bto:0000042
+Kidney - Cortex,30-39,VPS4A,4.988,global,bto:0000042
+Kidney - Cortex,30-39,FTSJ3,4.986,global,bto:0000042
+Kidney - Cortex,30-39,PDCD2L,4.896,global,bto:0000042
+Kidney - Cortex,30-39,ANAPC15,4.511,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,30-39,MTRES1,4.622,global,bto:0000042
+Kidney - Cortex,30-39,MFAP1,4.98,global,bto:0000042
+Kidney - Cortex,30-39,PSMA4,4.997,global,bto:0000042
+Kidney - Cortex,40-49,LRRC8D-DT,,,
+Kidney - Cortex,40-49,MT-ND1,4.901,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,40-49,MT-CO3,4.492,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,50-59,MT-ND1,4.901,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,50-59,MT-CO3,4.492,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,60-69,MT-ND1,4.901,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,60-69,MT-CO3,4.492,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,ALPK2,4.855,global,bto:0000042
+Kidney - Cortex,70-79,WIPF3,4.144,global,leukemia cell
+Kidney - Cortex,70-79,ENSG00000286634,,,
+Kidney - Cortex,70-79,ENSG00000287377,,,
+Kidney - Cortex,70-79,WASH6P,,,
+Kidney - Cortex,70-79,RAB4B,4.993,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000237015,,,
+Kidney - Cortex,70-79,NPC2,4.996,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000267787,,,
+Kidney - Cortex,70-79,ST7,4.99,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,DLG2,4.982,global,bto:0000042
+Kidney - Cortex,70-79,NIT1,4.982,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,C12ORF56,1.496,global,zona reticulata
+Kidney - Cortex,70-79,ENSG00000287933,,,
+Kidney - Cortex,70-79,SPATA7,4.934,global,bto:0000042
+Kidney - Cortex,70-79,ANKK1,2.91,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,HLX,4.863,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,ANPEP,4.989,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000279948,,,
+Kidney - Cortex,70-79,LY6G5C,1.955,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,RGS14,4.938,global,bto:0000042
+Kidney - Cortex,70-79,TRIM54,3.795,global,skeletal muscle
+Kidney - Cortex,70-79,ENSG00000272829,,,
+Kidney - Cortex,70-79,INKA2-AS1,,,
+Kidney - Cortex,70-79,METTL23,4.492,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,PKD2L2-DT,,,
+Kidney - Cortex,70-79,STX4,4.967,global,bto:0000042
+Kidney - Cortex,70-79,RASSF1,4.971,global,bto:0000042
+Kidney - Cortex,70-79,CYBA,4.987,global,bto:0000042
+Kidney - Cortex,70-79,ARL16,4.938,global,bto:0000042
+Kidney - Cortex,70-79,SNORD127,1.723,global,oci-aml2 cell
+Kidney - Cortex,70-79,ENSG00000284966,,,
+Kidney - Cortex,70-79,ENSG00000275703,,,
+Kidney - Cortex,70-79,MGAT5B,4.712,global,bto:0000042
+Kidney - Cortex,70-79,MXD3,4.895,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,ENSG00000273096,,,
+Kidney - Cortex,70-79,ENSG00000284914,,,
+Kidney - Cortex,70-79,TRADD,4.939,global,bto:0000042
+Kidney - Cortex,70-79,FAM20C,4.935,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,ENSG00000269924,,,
+Kidney - Cortex,70-79,SNORD35A,1.322,global,r1 cell
+Kidney - Cortex,70-79,FCGRT,4.998,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000275056,,,
+Kidney - Cortex,70-79,IRAG2,,,
+Kidney - Cortex,70-79,SYCP2L,4.424,global,bto:0000042
+Kidney - Cortex,70-79,PLA2G4C,4.979,global,bto:0000042
+Kidney - Cortex,70-79,NDUFAF5,4.866,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000289321,,,
+Kidney - Cortex,70-79,CPNE7,4.804,global,bto:0000042
+Kidney - Cortex,70-79,SLC3A2,5.0,global,bto:0000042
+Kidney - Cortex,70-79,PCED1B,3.44,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000231982,,,
+Kidney - Cortex,70-79,MICAL1,4.98,global,bto:0000042
+Kidney - Cortex,70-79,CCS,4.947,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,CLSTN3,4.989,global,bto:0000042
+Kidney - Cortex,70-79,GATA5,4.639,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,SMAD6,4.958,global,bto:0000042
+Kidney - Cortex,70-79,IL20RB,4.8,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,AGBL4,4.503,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,CSNK1G2,4.982,global,bto:0000042
+Kidney - Cortex,70-79,BEND5,4.928,global,bto:0000042
+Kidney - Cortex,70-79,RIPOR1,4.981,global,bto:0000042
+Kidney - Cortex,70-79,FABP3,5.0,global,atrium
+Kidney - Cortex,70-79,KYAT1,4.894,global,bto:0000042
+Kidney - Cortex,70-79,NOL4L,4.949,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,RPL5P12,,,
+Kidney - Cortex,70-79,SNORA41,0.956,global,pt-k2 cell
+Kidney - Cortex,70-79,DTNBP1,4.949,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,DCAF13P3,,,
+Kidney - Cortex,70-79,APTX,4.979,global,bto:0000042
+Kidney - Cortex,70-79,SH2B2,3.359,global,bto:0000042
+Kidney - Cortex,70-79,SIGIRR,4.948,global,bto:0000042
+Kidney - Cortex,70-79,DHRS1,4.944,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000235859,,,
+Kidney - Cortex,70-79,CBWD6,4.469,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000289056,,,
+Kidney - Cortex,70-79,ZFAND2B,4.938,global,bto:0000042
+Kidney - Cortex,70-79,LINC00869,1.096,global,renal cell carcinoma cell
+Kidney - Cortex,70-79,DPH5,4.943,global,bto:0000042
+Kidney - Cortex,70-79,SNORA21,1.598,global,colorectal cancer cell
+Kidney - Cortex,70-79,MT-CO3,4.492,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,ENSG00000250321,,,
+Kidney - Cortex,70-79,ENSG00000262151,,,
+Kidney - Cortex,70-79,LINC01012,1.992,global,fr
+Kidney - Cortex,70-79,ENSG00000226862,,,
+Kidney - Cortex,70-79,ENSG00000280137,,,
+Kidney - Cortex,70-79,SNORD35B,1.417,global,pre-b-lymphocyte
+Kidney - Cortex,70-79,NSMF,4.984,global,bto:0000042
+Kidney - Cortex,70-79,LRP5L,3.419,global,bto:0000042
+Kidney - Cortex,70-79,CELP,,,
+Kidney - Cortex,70-79,SPATA33,4.921,global,bto:0000042
+Kidney - Cortex,70-79,POPDC2,4.901,global,bto:0000042
+Kidney - Cortex,70-79,TPP1,4.999,global,bto:0000042
+Kidney - Cortex,70-79,ENSG00000280649,,,
+Kidney - Cortex,70-79,CCDC159,4.897,global,bto:0000042
+Kidney - Cortex,70-79,RPL37P1,,,
+Kidney - Cortex,70-79,OCM,4.487,global,bto:0000042
+Kidney - Cortex,70-79,SLC22A18,4.884,global,bto:0000042
+Kidney - Cortex,70-79,ZNF771,4.872,global,bto:0000042
+Kidney - Cortex,70-79,PGLS,4.957,global,"tissues, cell types and enzyme sources"
+Kidney - Cortex,70-79,HCG20,1.227,global,ma-10 cell
+Kidney - Cortex,70-79,BAX,4.972,global,"tissues, cell types and enzyme sources"
