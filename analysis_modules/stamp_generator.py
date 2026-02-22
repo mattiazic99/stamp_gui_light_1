@@ -1,3 +1,8 @@
+
+stamp_generator.py
+gui_leggerissima/analysis_modules
+
+
 '''import streamlit as st
 import subprocess
 import os
@@ -6,7 +11,6 @@ import zipfile
 from io import BytesIO
 from components.downloads import create_download_button, display_download_section
 from components.styling import apply_plot_style
-
 def show():
     """STAMP Dataset Generator Page"""
     
@@ -420,16 +424,6 @@ def show():
         - Recommended: 0.4-0.6 for balanced analysis
         """)
 '''
-
-
-
-
-
-
-
-
-
-
 ''' Versione che funziona
 import streamlit as st
 import subprocess
@@ -439,7 +433,6 @@ import zipfile
 from io import BytesIO
 from components.downloads import create_download_button, display_download_section
 from components.styling import apply_plot_style
-
 def run_script_live(command, env=None):
     """
     Esegue uno script esterno mostrando l'output in tempo reale in Streamlit.
@@ -453,44 +446,32 @@ def run_script_live(command, env=None):
         bufsize=1,
         env=env
     )
-
     log_placeholder = st.empty()
     full_log = ""
-
     for line in process.stdout:
         full_log += line
         log_placeholder.text(full_log)
-
     return process.wait()
-
-
 def show():
     """STAMP Dataset Generator Page"""
-
     st.header("🛠️ STAMP Dataset Generator")
     st.markdown("Generate STAMP-compatible datasets from raw expression data for analysis.")
-
     # === PATH DINAMICO ALLA ROOT DEL PROGETTO ===
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     ROOT_DIR = os.path.dirname(BASE_DIR)
-
     # === CARTELLE PRINCIPALI ===
     DATA_DIR = os.path.join(ROOT_DIR, "data")
     SCRIPTS_DIR = os.path.join(ROOT_DIR, "scripts")
     OUTPUT_DIR = os.path.join(ROOT_DIR, "output")
-
     # === PERCORSI STAMP ===
     DIR_NORMALIZED = os.path.join(OUTPUT_DIR, "tpm_normalizzati")
     DIR_SETS = os.path.join(OUTPUT_DIR, "sets_stamp")
     DIR_SETS_MAPPED = os.path.join(OUTPUT_DIR, "sets_stamp_symboli")
-
     # === FILE NECESSARI ===
     GENE_MAP_FILE = os.path.join(DATA_DIR, "all_genes.txt")
-
     # === SCRIPT PYTHON ===
     SCRIPT_STEP2 = os.path.join(SCRIPTS_DIR, "step_2.py")
     SCRIPT_STEP3A = os.path.join(SCRIPTS_DIR, "step_3a_corretto.py")
-
     # === SESSION STATE ===
     if "processed" not in st.session_state:
         st.session_state.processed = False
@@ -498,7 +479,6 @@ def show():
         st.session_state.tissues = []
     if "selected_files" not in st.session_state:
         st.session_state.selected_files = []
-
     # === INFO SECTION ===
     st.markdown("""
     <div class="analysis-section">
@@ -506,7 +486,6 @@ def show():
         <p>This tool processes raw gene expression data to generate STAMP-compatible files for age-based gene switching analysis.</p>
     </div>
     """, unsafe_allow_html=True)
-
     # === OVERVIEW ===
     with st.expander("🔍 View Process Overview"):
         st.markdown("""
@@ -517,21 +496,18 @@ def show():
         3. **🧬 Gene Set Creation**
         4. **🏷️ Symbol Mapping**
         """)
-
     # === CHECK PREREQUISITI ===
     st.markdown("""
     <div class="analysis-section">
         <h3>🔍 Prerequisites Check</h3>
     </div>
     """, unsafe_allow_html=True)
-
     checks = [
         (DIR_NORMALIZED, "Normalized data directory"),
         (GENE_MAP_FILE, "Gene mapping file"),
         (SCRIPT_STEP2, "Step 1 processing script"),
         (SCRIPT_STEP3A, "Step 2 processing script")
     ]
-
     all_checks_passed = True
     for path, desc in checks:
         if os.path.exists(path):
@@ -539,35 +515,27 @@ def show():
         else:
             st.error(f"❌ {desc} not found")
             all_checks_passed = False
-
     if not all_checks_passed:
         st.error("❌ Prerequisites not met.")
         return
-
     # === TISSUE SELECTION ===
     st.markdown("""
     <div class="analysis-section">
         <h3>📂 Tissue Selection</h3>
     </div>
     """, unsafe_allow_html=True)
-
     file_list = [f for f in os.listdir(DIR_NORMALIZED) if f.endswith("_normalized.csv")]
     all_tissues = sorted([f.replace("_normalized.csv", "") for f in file_list])
-
     if not all_tissues:
         st.error("❌ No normalized files found.")
         return
-
     st.info(f"📊 Found {len(all_tissues)} normalized tissues.")
-
     col1, col2 = st.columns([2, 1])
-
     with col1:
         choice = st.radio(
             "📌 Select tissues:",
             ["Single Tissue", "Multiple Tissues", "All Tissues"]
         )
-
         if choice == "Single Tissue":
             selected_tissues = [st.selectbox("🔬 Choose:", all_tissues)]
         elif choice == "Multiple Tissues":
@@ -575,65 +543,49 @@ def show():
         else:
             selected_tissues = all_tissues
             st.info(f"📄 All {len(all_tissues)} tissues selected.")
-
     with col2:
         st.markdown("### 📊 Summary")
         if selected_tissues:
             st.markdown(f"<h3>{len(selected_tissues)}</h3><p>Tissues Selected</p>", unsafe_allow_html=True)
-
     if not selected_tissues:
         st.warning("⚠️ Select at least one tissue.")
         return
-
     # === THRESHOLD ===
     st.markdown("""
     <div class="analysis-section">
         <h3>⚙️ Processing Parameters</h3>
     </div>
     """, unsafe_allow_html=True)
-
     threshold = st.slider("🎚️ Gene Expression Threshold", 0.0, 1.0, 0.5, 0.1)
-
     # === GENERATION ===
     st.markdown("""
     <div class="analysis-section">
         <h3>🚀 File Generation</h3>
     </div>
     """, unsafe_allow_html=True)
-
     if st.button("🚀 Generate STAMP Files", use_container_width=True):
-
         st.session_state.tissues = selected_tissues
-
         progress = st.progress(0)
         status = st.empty()
-
         try:
             with st.spinner("🔄 Running pipeline..."):
-
                 # === STEP 2 ===
                 status.text("⚙️ Running Step 2 (Normalization)")
                 rc = run_script_live(["python", SCRIPT_STEP2])
                 if rc != 0:
                     raise Exception("Step 2 failed.")
                 progress.progress(40)
-
                 # === STEP 3A (con threshold via variabile ambiente) ===
                 status.text("⚙️ Running Step 3A (Threshold & Switching)")
-
                 env = os.environ.copy()
                 env["STAMP_THRESHOLD"] = str(threshold)
-
                 rc = run_script_live(["python", SCRIPT_STEP3A], env=env)
                 if rc != 0:
                     raise Exception("Step 3A failed.")
                 progress.progress(70)
-
                 # === MAPPING ===
                 status.text("🧬 Mapping gene symbols...")
-
                 os.makedirs(DIR_SETS_MAPPED, exist_ok=True)
-
                 gene_map = {}
                 with open(GENE_MAP_FILE, encoding="utf-8") as f:
                     for line in f:
@@ -641,46 +593,35 @@ def show():
                             ensembl = line.split("(")[0].strip()
                             symbol = line.split("(")[1].replace(")", "").strip()
                             gene_map[ensembl] = symbol
-
                 for i, tissue in enumerate(selected_tissues):
                     input_path = os.path.join(DIR_SETS, f"{tissue}_sets_stamp.txt")
                     output_path = os.path.join(DIR_SETS_MAPPED, f"{tissue}_sets_stamp_mapped.txt")
-
                     if os.path.exists(input_path):
                         with open(input_path) as fin, open(output_path, "w") as fout:
                             for line in fin:
                                 mapped = [gene_map.get(g, g) for g in line.strip().split()]
                                 fout.write(" ".join(mapped) + "\n")
-
                     progress.progress(70 + (i+1) * 30 // len(selected_tissues))
-
                 progress.progress(100)
                 status.text("✅ Generation completed!")
-
                 st.session_state.processed = True
                 st.success("🎉 All STAMP files have been generated.")
-
         except Exception as e:
             st.error(f"❌ Error: {e}")
             return
-
     # === DOWNLOAD SECTION ===
     if st.session_state.processed:
         display_download_section("📥 Download Generated Files")
-
         download_options = []
         for tissue in st.session_state.tissues:
             raw = os.path.join(DIR_SETS, f"{tissue}_sets_stamp.txt")
             mapped = os.path.join(DIR_SETS_MAPPED, f"{tissue}_sets_stamp_mapped.txt")
-
             if os.path.exists(raw):
                 download_options.append((f"{tissue}_sets_stamp.txt", raw, "Raw"))
             if os.path.exists(mapped):
                 download_options.append((f"{tissue}_sets_stamp_mapped.txt", mapped, "Mapped"))
-
         if download_options:
             st.markdown("### 📁 Available Files")
-
             file_data = []
             for name, path, desc in download_options:
                 file_data.append({
@@ -689,12 +630,9 @@ def show():
                     "Size (KB)": f"{os.path.getsize(path)/1024:.1f}",
                     "Tissue": name.split("_")[0]
                 })
-
             import pandas as pd
             st.dataframe(pd.DataFrame(file_data), use_container_width=True)
-
             selected = st.multiselect("Select Files:", [x[0] for x in download_options])
-
             if selected:
                 for name, path, desc in download_options:
                     if name in selected:
@@ -705,7 +643,6 @@ def show():
                                 file_name=name,
                                 mime="text/plain"
                             )
-
     # === HELP ===
     with st.expander("❓ Need Help?"):
         st.write("""
@@ -713,9 +650,7 @@ def show():
         - Check that all normalized files exist
         - Ensure scripts have permission to run
         """)
-
 '''
-
 import streamlit as st
 import subprocess
 import os
@@ -723,8 +658,6 @@ import zipfile
 from io import BytesIO
 from components.downloads import create_download_button, display_download_section
 from components.styling import apply_plot_style
-
-
 def run_script_live(command, env=None):
     """
     Esegue uno script esterno mostrando l'output in tempo reale in Streamlit.
@@ -738,29 +671,21 @@ def run_script_live(command, env=None):
         bufsize=1,
         env=env
     )
-
     log_placeholder = st.empty()
     full_log = ""
-
     for line in process.stdout:
         full_log += line
         # Mostra l'output man mano (come se fosse il terminale)
         log_placeholder.text(full_log)
-
     return process.wait()
-
-
-
-
 import streamlit as st
 import subprocess
+import sys
 import os
 import zipfile
 from io import BytesIO
 from components.downloads import create_download_button, display_download_section
 from components.styling import apply_plot_style
-
-
 def run_script_live(command, env=None):
     """Esegue uno script esterno mostrando l'output in tempo reale in Streamlit."""
     process = subprocess.Popen(
@@ -777,27 +702,21 @@ def run_script_live(command, env=None):
         full_log += line
         log_placeholder.text(full_log)
     return process.wait()
-
-
 def show():
     """STAMP Dataset Generator Page"""
-
     st.header("🛠️ STAMP Dataset Generator")
     st.markdown("Generate STAMP-compatible datasets from normalized expression data for analysis.")
-
     # === PATHS ===
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     ROOT_DIR = os.path.dirname(BASE_DIR)
     DATA_DIR = os.path.join(ROOT_DIR, "data")
     SCRIPTS_DIR = os.path.join(ROOT_DIR, "scripts")
     OUTPUT_DIR = os.path.join(ROOT_DIR, "output")
-
     DIR_NORMALIZED = os.path.join(OUTPUT_DIR, "tpm_normalizzati")
     DIR_SETS = os.path.join(OUTPUT_DIR, "sets_stamp")
     DIR_SETS_MAPPED = os.path.join(OUTPUT_DIR, "sets_stamp_symboli")
     GENE_MAP_FILE = os.path.join(DATA_DIR, "all_genes.txt")
     SCRIPT_STEP3A = os.path.join(SCRIPTS_DIR, "step_3a_corretto.py")
-
     # === Session state ===
     if "processed" not in st.session_state:
         st.session_state.processed = False
@@ -805,7 +724,6 @@ def show():
         st.session_state.tissues = []
     if "selected_files" not in st.session_state:
         st.session_state.selected_files = []
-
     # === Info ===
     st.markdown("""
     <div class="analysis-section">
@@ -814,7 +732,6 @@ def show():
         for age-based gene switching analysis.</p>
     </div>
     """, unsafe_allow_html=True)
-
     with st.expander("🔍 View Process Overview"):
         st.markdown("""
         ### 📄 Generation Process:
@@ -822,17 +739,14 @@ def show():
         2. **🧬 Gene Set Creation** — Identify switching genes
         3. **🏷️ Symbol Mapping** — Convert Ensembl IDs to gene symbols
         4. **📁 File Export** — Generate downloadable files
-
         ### 📂 Output Files:
         - `*_sets_stamp.txt` — Raw gene sets (Ensembl IDs)
         - `*_sets_stamp_mapped.txt` — Gene sets (Gene Symbols)
         """)
-
     # === Prerequisites Check ===
     st.markdown("""
     <div class="analysis-section"><h3>🔍 Prerequisites Check</h3></div>
     """, unsafe_allow_html=True)
-
     checks = [
         (DIR_NORMALIZED, "Normalized data directory"),
         (GENE_MAP_FILE, "Gene mapping file"),
@@ -849,25 +763,20 @@ def show():
         st.error("❌ Prerequisites not met. Please ensure all required files and directories are present.")
         st.info("💡 Make sure you have run the data preparation pipeline before using this generator.")
         return
-
     # === Tissue Selection ===
     st.markdown("""
     <div class="analysis-section"><h3>📂 Tissue Selection</h3></div>
     """, unsafe_allow_html=True)
-
     os.makedirs(DIR_NORMALIZED, exist_ok=True)
     all_tissues = sorted([
         f.replace("_normalized.csv", "")
         for f in os.listdir(DIR_NORMALIZED)
         if f.endswith("_normalized.csv")
     ])
-
     if not all_tissues:
         st.error("❌ No normalized tissue files found.")
         return
-
     st.info(f"📊 Found {len(all_tissues)} normalized tissues available for analysis.")
-
     col1, col2 = st.columns([2, 1])
     with col1:
         choice = st.radio(
@@ -895,16 +804,13 @@ def show():
                 <p>Tissues Selected</p>
             </div>
             """, unsafe_allow_html=True)
-
     if not selected_tissues:
         st.warning("⚠️ No tissues selected. Please choose at least one tissue to process.")
         return
-
     # === Processing Parameters ===
     st.markdown("""
     <div class="analysis-section"><h3>⚙️ Processing Parameters</h3></div>
     """, unsafe_allow_html=True)
-
     col1, col2 = st.columns(2)
     with col1:
         threshold = st.slider(
@@ -917,7 +823,6 @@ def show():
         )
         st.markdown(f"""
         **Current threshold:** `{threshold}`
-
         - **Lower values** (0.1-0.3): Include more genes, detect subtle changes
         - **Medium values** (0.4-0.6): Balanced approach (recommended)
         - **Higher values** (0.7-1.0): Only highly expressed genes
@@ -929,33 +834,27 @@ def show():
         - 📁 Raw gene sets (Ensembl IDs)
         - 🏷️ Mapped gene sets (Gene symbols)
         - 📊 5 age groups per tissue (30-79 years)
-
         **Total files:** {len(selected_tissues) * 2} files
         """)
-
     # === Generation ===
     st.markdown("""
     <div class="analysis-section"><h3>🚀 File Generation</h3></div>
     """, unsafe_allow_html=True)
-
     if st.button("🚀 Generate STAMP Files", type="primary", use_container_width=True):
         st.session_state.tissues = selected_tissues
         progress_bar = st.progress(0)
         status_text = st.empty()
-
         try:
             with st.spinner("🔄 Generating STAMP files..."):
                 progress_bar.progress(5)
                 env = os.environ.copy()
                 env["STAMP_THRESHOLD"] = str(threshold)
-
                 # === Processing ===
                 status_text.text("⚙️ Processing data (Threshold & Switching)...")
-                rc = run_script_live(["python", SCRIPT_STEP3A], env=env)
+                rc = run_script_live([sys.executable, SCRIPT_STEP3A], env=env)
                 if rc != 0:
                     raise subprocess.CalledProcessError(rc, SCRIPT_STEP3A)
                 progress_bar.progress(60)
-
                 # === Mapping ===
                 status_text.text("🧬 Mapping gene symbols...")
                 gene_map = {}
@@ -965,7 +864,6 @@ def show():
                             ensembl = line.split("(")[0].strip()
                             symbol = line.split("(")[1].replace(")", "").strip()
                             gene_map[ensembl] = symbol
-
                 os.makedirs(DIR_SETS_MAPPED, exist_ok=True)
                 for i, tissue in enumerate(selected_tissues):
                     status_text.text(f"🔬 Processing tissue: {tissue} ({i+1}/{len(selected_tissues)})")
@@ -976,12 +874,10 @@ def show():
                             for line in fin:
                                 fout.write(" ".join([gene_map.get(g, g) for g in line.strip().split()]) + "\n")
                     progress_bar.progress(60 + (i + 1) * 35 // len(selected_tissues))
-
                 progress_bar.progress(100)
                 status_text.text("✅ Generation completed successfully!")
                 st.session_state.processed = True
                 st.success("🎉 All STAMP files have been generated successfully!")
-
                 # Summary
                 st.markdown("### 📊 Generation Summary")
                 col1, col2 = st.columns(2)
@@ -1000,13 +896,11 @@ def show():
                         <p>Files Generated</p>
                     </div>
                     """, unsafe_allow_html=True)
-
         except subprocess.CalledProcessError as e:
             st.error(f"❌ Error during processing: {e}")
             st.error("Please check that all required scripts are present and executable.")
         except Exception as e:
             st.error(f"❌ Unexpected error: {e}")
-
     # === Download Section ===
     if st.session_state.processed:
         display_download_section("📥 Download Generated Files")
@@ -1018,7 +912,6 @@ def show():
                 dl.append((f"{tissue}_sets_stamp.txt", p1, "Raw (Ensembl IDs)"))
             if os.path.exists(p2):
                 dl.append((f"{tissue}_sets_stamp_mapped.txt", p2, "Mapped (Gene Symbols)"))
-
         if dl:
             import pandas as pd
             st.markdown("### 📁 Available Files")
@@ -1031,7 +924,6 @@ def show():
                     "Tissue": name.split("_")[0]
                 })
             st.dataframe(pd.DataFrame(file_df_data), use_container_width=True)
-
             col1, col2 = st.columns(2)
             with col1:
                 st.markdown("#### 📋 Select Files to Download")
@@ -1054,7 +946,6 @@ def show():
                 if st.button("📁 Select All Files", use_container_width=True):
                     st.session_state.selected_files = [x[0] for x in dl]
                     st.rerun()
-
             if st.session_state.selected_files:
                 st.markdown("### ⬇️ Download Options")
                 col1, col2 = st.columns(2)
@@ -1089,33 +980,26 @@ def show():
                         )
             else:
                 st.info("👆 Select files above to enable download options.")
-
         st.markdown("---")
         if st.button("🔄 Start New Generation", type="secondary", use_container_width=True):
             st.session_state.processed = False
             st.session_state.tissues = []
             st.session_state.selected_files = []
             st.rerun()
-
     # === Help ===
     with st.expander("❓ Need Help?"):
         st.markdown("""
         ### 🆘 Troubleshooting
-
         **Common Issues:**
         1. **Missing prerequisites**: Ensure all required scripts and data directories are present
         2. **Processing errors**: Check that Python scripts have proper permissions
         3. **No output files**: Verify that input data is properly formatted
-
         ### 📚 File Formats
-
         **Generated STAMP files contain:**
         - 5 lines (one per age group: 30-39, 40-49, 50-59, 60-69, 70-79)
         - Space-separated gene names/IDs per line
         - Compatible with all STAMP analysis modules
-
         ### 🔧 Parameters
-
         **Expression Threshold:**
         - Determines which genes are considered "active" in each age group
         - Higher values = more stringent filtering
