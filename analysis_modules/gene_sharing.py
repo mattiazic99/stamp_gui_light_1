@@ -147,13 +147,12 @@ def show():
             
             if matrix_common.size > 0:
                 fig, ax = plt.subplots(figsize=(10, 8))
-                apply_plot_style()
                 
                 mask = np.triu(np.ones_like(matrix_common, dtype=bool), k=1)
-                heatmap = sns.heatmap(
-                    matrix_common,
-                    annot=True,
-                    fmt="d",
+                matrix_common_int = matrix_common.astype(np.int64)
+                sns.heatmap(
+                    matrix_common_int,
+                    annot=False,
                     xticklabels=tissues_sorted,
                     yticklabels=tissues_sorted,
                     cmap="Purples",
@@ -164,15 +163,27 @@ def show():
                     linewidths=0.5
                 )
                 
+                # Fix clipping (matplotlib 3.10 bug)
+                bottom, top = ax.get_ylim()
+                ax.set_ylim(bottom + 0.5, top - 0.5)
+                
+                # Manual annotations
+                n = matrix_common_int.shape[0]
+                for i in range(n):
+                    for j in range(n):
+                        if not mask[i, j]:
+                            ax.text(j + 0.5, i + 0.5, f"{int(matrix_common_int[i, j])}",
+                                    ha="center", va="center", fontsize=11,
+                                    fontweight="bold", color="black")
+                
                 format_heatmap(ax, "Shared Genes Between Tissues (Absolute Counts)", 
                               "Tissue", "Tissue", "Shared Gene Count")
                 plt.xticks(rotation=45, ha='right')
                 plt.yticks(rotation=0)
                 
-                plt.tight_layout()
-                st.pyplot(fig)
-                
+                fig.tight_layout()
                 create_download_button(fig, "shared_genes_absolute_lifespan.png")
+                st.pyplot(fig, clear_figure=True)
         
         # Percentage overlap matrix
         if sharing_metric in ["Percentage", "Both"]:
@@ -182,13 +193,11 @@ def show():
             
             if matrix_percent.size > 0:
                 fig, ax = plt.subplots(figsize=(10, 8))
-                apply_plot_style()
                 
                 mask = np.triu(np.ones_like(matrix_percent, dtype=bool), k=1)
-                heatmap = sns.heatmap(
+                sns.heatmap(
                     matrix_percent,
-                    annot=True,
-                    fmt=".1f",
+                    annot=False,
                     xticklabels=tissues_sorted,
                     yticklabels=tissues_sorted,
                     cmap="crest",
@@ -199,15 +208,27 @@ def show():
                     linewidths=0.5
                 )
                 
+                # Fix clipping (matplotlib 3.10 bug)
+                bottom, top = ax.get_ylim()
+                ax.set_ylim(bottom + 0.5, top - 0.5)
+                
+                # Manual annotations
+                n = matrix_percent.shape[0]
+                for i in range(n):
+                    for j in range(n):
+                        if not mask[i, j]:
+                            ax.text(j + 0.5, i + 0.5, f"{matrix_percent[i, j]:.1f}",
+                                    ha="center", va="center", fontsize=11,
+                                    fontweight="bold", color="black")
+                
                 format_heatmap(ax, "Gene Overlap Percentage Between Tissues", 
                               "Tissue", "Tissue", "Overlap Percentage (%)")
                 plt.xticks(rotation=45, ha='right')
                 plt.yticks(rotation=0)
                 
-                plt.tight_layout()
-                st.pyplot(fig)
-                
+                fig.tight_layout()
                 create_download_button(fig, "overlap_percentage_lifespan.png")
+                st.pyplot(fig, clear_figure=True)
         
         # Detailed pairwise sharing table
         st.markdown("### 📋 Detailed Pairwise Sharing Statistics")
@@ -333,13 +354,12 @@ def show():
             
             if matrix_age_common.size > 0:
                 fig, ax = plt.subplots(figsize=(10, 8))
-                apply_plot_style()
                 
                 mask = np.triu(np.ones_like(matrix_age_common, dtype=bool), k=1)
-                heatmap = sns.heatmap(
-                    matrix_age_common,
-                    annot=True,
-                    fmt="d",
+                matrix_age_int = matrix_age_common.astype(np.int64)
+                sns.heatmap(
+                    matrix_age_int,
+                    annot=False,
                     xticklabels=tissues_sorted,
                     yticklabels=tissues_sorted,
                     cmap="mako",
@@ -350,15 +370,27 @@ def show():
                     linewidths=0.5
                 )
                 
+                # Fix clipping (matplotlib 3.10 bug)
+                bottom, top = ax.get_ylim()
+                ax.set_ylim(bottom + 0.5, top - 0.5)
+                
+                # Manual annotations
+                n = matrix_age_int.shape[0]
+                for i in range(n):
+                    for j in range(n):
+                        if not mask[i, j]:
+                            ax.text(j + 0.5, i + 0.5, f"{int(matrix_age_int[i, j])}",
+                                    ha="center", va="center", fontsize=11,
+                                    fontweight="bold", color="black")
+                
                 format_heatmap(ax, f"Shared Genes - Age Group {selected_age}", 
                               "Tissue", "Tissue", "Shared Gene Count")
                 plt.xticks(rotation=45, ha='right')
                 plt.yticks(rotation=0)
                 
-                plt.tight_layout()
-                st.pyplot(fig)
-                
+                fig.tight_layout()
                 create_download_button(fig, f"shared_genes_age_{selected_age.replace('–','_')}.png")
+                st.pyplot(fig, clear_figure=True)
         
         # Age-specific percentage overlap
         if sharing_metric in ["Percentage", "Both"]:
@@ -368,13 +400,11 @@ def show():
             
             if matrix_age_percent.size > 0:
                 fig, ax = plt.subplots(figsize=(10, 8))
-                apply_plot_style()
                 
                 mask = np.triu(np.ones_like(matrix_age_percent, dtype=bool), k=1)
-                heatmap = sns.heatmap(
+                sns.heatmap(
                     matrix_age_percent,
-                    annot=True,
-                    fmt=".1f",
+                    annot=False,
                     xticklabels=tissues_sorted,
                     yticklabels=tissues_sorted,
                     cmap="vlag",
@@ -385,15 +415,27 @@ def show():
                     linewidths=0.5
                 )
                 
+                # Fix clipping (matplotlib 3.10 bug)
+                bottom, top = ax.get_ylim()
+                ax.set_ylim(bottom + 0.5, top - 0.5)
+                
+                # Manual annotations
+                n = matrix_age_percent.shape[0]
+                for i in range(n):
+                    for j in range(n):
+                        if not mask[i, j]:
+                            ax.text(j + 0.5, i + 0.5, f"{matrix_age_percent[i, j]:.1f}",
+                                    ha="center", va="center", fontsize=11,
+                                    fontweight="bold", color="black")
+                
                 format_heatmap(ax, f"Gene Overlap Percentage - Age {selected_age}", 
                               "Tissue", "Tissue", "Overlap Percentage (%)")
                 plt.xticks(rotation=45, ha='right')
                 plt.yticks(rotation=0)
                 
-                plt.tight_layout()
-                st.pyplot(fig)
-                
+                fig.tight_layout()
                 create_download_button(fig, f"overlap_percentage_age_{selected_age.replace('–','_')}.png")
+                st.pyplot(fig, clear_figure=True)
     
     # === PAIRWISE DETAILED COMPARISON ===
     if comparison_type in ["Selected Pairs", "All Pairwise"]:

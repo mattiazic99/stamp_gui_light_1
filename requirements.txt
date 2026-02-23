@@ -1,6 +1,7 @@
 
 
 # Requirements for gui_leggerissima
+
 # Generated: 2026-02-22
 # Compatible with Streamlit Cloud (Python 3.11/3.13)
 streamlit
@@ -10,3 +11,4 @@ scipy
 matplotlib
 seaborn
 tqdm
+

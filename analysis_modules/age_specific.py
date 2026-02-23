@@ -79,8 +79,6 @@ def show():
     col1, col2 = st.columns(2)
     with col1:
         show_dendrograms = st.checkbox("🌳 Show dendrogram", value=True)
-        color_palette = st.selectbox("🎨 Color Palette", 
-                                   ["rocket", "mako", "flare", "crest", "viridis"])
     with col2:
         clustering_method = st.selectbox("🔗 Clustering Method", 
                                        ["average", "complete", "single", "ward"])
@@ -197,16 +195,14 @@ def show():
         st.markdown(f"### 📊 Tissue Similarity Matrix (Age {selected_age})")
         
         fig, ax = plt.subplots(figsize=(10, 8))
-        apply_plot_style()
         
         mask = np.triu(np.ones_like(matrix_age_specific, dtype=bool), k=1)
-        heatmap = sns.heatmap(
+        sns.heatmap(
             matrix_age_specific,
-            annot=True,
-            fmt=".3f",
+            annot=False,
             xticklabels=tissues_sorted,
             yticklabels=tissues_sorted,
-            cmap=color_palette,
+            cmap="YlGnBu",
             ax=ax,
             mask=mask,
             square=True,
@@ -214,15 +210,27 @@ def show():
             linewidths=0.5
         )
         
+        # Fix clipping (matplotlib 3.10 bug)
+        bottom, top = ax.get_ylim()
+        ax.set_ylim(bottom + 0.5, top - 0.5)
+        
+        # Manual annotations
+        n = matrix_age_specific.shape[0]
+        for i in range(n):
+            for j in range(n):
+                if not mask[i, j]:
+                    ax.text(j + 0.5, i + 0.5, f"{matrix_age_specific[i, j]:.3f}",
+                            ha="center", va="center", fontsize=11,
+                            fontweight="bold", color="black")
+        
         format_heatmap(ax, f"Tissue Similarity - Age Group {selected_age}", 
                       "Tissue", "Tissue", "Jaccard Similarity")
         plt.xticks(rotation=45, ha='right')
         plt.yticks(rotation=0)
         
-        plt.tight_layout()
-        st.pyplot(fig)
-        
+        fig.tight_layout()
         create_download_button(fig, f"similarity_age_{selected_age.replace('–','_')}.png")
+        st.pyplot(fig, clear_figure=True)
         
         # Hierarchical clustering for selected age
         if show_dendrograms:
@@ -321,17 +329,30 @@ def show():
     pivot_data = df_age_comparison.pivot(index='Tissue', columns='Age Group', values='Gene Count')
     
     fig, ax = plt.subplots(figsize=(10, 8))
-    apply_plot_style()
     
-    heatmap = sns.heatmap(
-        pivot_data,
-        annot=True,
-        fmt="d",
+    pivot_values = pivot_data.values.astype(np.int64)
+    sns.heatmap(
+        pivot_values,
+        annot=False,
+        xticklabels=pivot_data.columns,
+        yticklabels=pivot_data.index,
         cmap="YlOrRd",
         ax=ax,
         cbar_kws={'label': 'Gene Count'},
         linewidths=0.5
     )
+    
+    # Fix clipping (matplotlib 3.10 bug)
+    bottom, top = ax.get_ylim()
+    ax.set_ylim(bottom + 0.5, top - 0.5)
+    
+    # Manual annotations
+    rows, cols = pivot_values.shape
+    for i in range(rows):
+        for j in range(cols):
+            ax.text(j + 0.5, i + 0.5, f"{int(pivot_values[i, j])}",
+                    ha="center", va="center", fontsize=12,
+                    fontweight="bold", color="black")
     
     # Highlight selected age group
     selected_col = age_groups.index(selected_age)
@@ -341,10 +362,9 @@ def show():
     format_heatmap(ax, f"Gene Counts Across Age Groups (Highlighted: {selected_age})", 
                   "Age Group", "Tissue", "Gene Count")
     
-    plt.tight_layout()
-    st.pyplot(fig)
-    
+    fig.tight_layout()
     create_download_button(fig, f"age_comparison_heatmap_{selected_age.replace('–','_')}.png")
+    st.pyplot(fig, clear_figure=True)
     
     # === DOWNLOAD SECTION ===
     display_download_section("📥 Download Age-Specific Analysis Results")

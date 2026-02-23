@@ -25,7 +25,8 @@ def apply_plot_style():
         'xtick.labelsize': 10,
         'ytick.labelsize': 10,
         'legend.fontsize': 10,
-        'figure.titlesize': 16
+        'figure.titlesize': 16,
+        'text.color': 'black',
     })
 
 def get_color_palette(n_colors, palette_name="husl"):

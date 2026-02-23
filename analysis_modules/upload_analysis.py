@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import io
 import base64
-from utils.parsing import parse_stamp_file, extract_tissue_name  # AGGIUNTO IMPORT
+from utils.parsing import parse_stamp_file, extract_tissue_name
 from components.downloads import create_download_button
 from components.styling import apply_plot_style
 
@@ -171,7 +171,7 @@ def show():
         if not df1.empty:
             st.markdown("""
             <div class="analysis-section">
-                <h2>🔥 Intra-Tissue Heatmap – Age Group Overlap</h2>
+                <h2>Intra-Tissue Heatmap - Age Group Overlap</h2>
             </div>
             """, unsafe_allow_html=True)
             
@@ -181,40 +181,59 @@ def show():
                 for age in age_groups
             }
             
-            # Calculate overlap matrix
-            matrix = np.zeros((len(age_groups), len(age_groups)), dtype=int)
+            # Calculate overlap matrix — force int dtype
+            matrix = np.zeros((len(age_groups), len(age_groups)), dtype=np.int64)
             for i, age_i in enumerate(age_groups):
                 for j, age_j in enumerate(age_groups):
-                    matrix[i, j] = len(gene_sets[age_i] & gene_sets[age_j])
-            
-            # Create heatmap
-            fig, ax = plt.subplots(figsize=(10, 8))
-            apply_plot_style()
-            
-            heatmap = sns.heatmap(
-                matrix, 
-                annot=True, 
-                fmt="d",
-                xticklabels=age_groups, 
+                    matrix[i, j] = int(len(gene_sets[age_i] & gene_sets[age_j]))
+
+            # Build DataFrame for download
+            df_plot = pd.DataFrame(matrix, index=age_groups, columns=age_groups)
+
+            # FIX 2 — NON usare apply_plot_style() qui (interferisce con heatmap su mpl 3.10)
+
+            # Dedicated figure
+            fig, ax = plt.subplots(figsize=(12, 8))
+
+            # FIX 1 — annot=False, annotazione MANUALE con ax.text
+            sns.heatmap(
+                matrix,
+                annot=False,
+                xticklabels=age_groups,
                 yticklabels=age_groups,
-                cmap="YlGnBu", 
+                cmap="YlGnBu",
                 ax=ax,
-                cbar_kws={'label': 'Number of Shared Genes'},
-                square=True
+                cbar_kws={"label": "Number of Shared Genes"},
+                square=True,
+                linewidths=0.5,
+                linecolor="white"
             )
-            
-            # TITOLO CON NOME PULITO
-            ax.set_title(f"🔬 Gene Overlap Between Age Groups - {tissue_name}", 
+
+            # Fix clipping (matplotlib 3.10 bug)
+            bottom, top = ax.get_ylim()
+            ax.set_ylim(bottom + 0.5, top - 0.5)
+
+            # Annotazioni manuali — sempre visibili
+            n = matrix.shape[0]
+            for i in range(n):
+                for j in range(n):
+                    ax.text(j + 0.5, i + 0.5, f"{int(matrix[i, j])}",
+                            ha="center", va="center", fontsize=14,
+                            fontweight="bold", color="black")
+
+            # FIX 4 — Titolo senza emoji
+            ax.set_title(f"Gene Overlap Between Age Groups - {tissue_name}",
                         fontsize=16, fontweight='bold', pad=20)
             ax.set_xlabel("Age Group", fontsize=12, fontweight='bold')
             ax.set_ylabel("Age Group", fontsize=12, fontweight='bold')
-            
-            plt.tight_layout()
-            st.pyplot(fig)
-            
-            # Download heatmap - NOME PULITO
+
+            # FIX 3 — Layout/salvataggio stabile
+            fig.tight_layout()
+
+            # Download PRIMA di clear_figure (salva bytes in memoria)
             create_download_button(fig, f"age_overlap_heatmap_{tissue_name.replace(' ', '_').replace('-', '_')}.png")
-            
+
+            st.pyplot(fig, clear_figure=True)
             # Download overlap matrix
             df_matrix = pd.DataFrame(matrix, index=age_groups, columns=age_groups)
             csv_matrix = df_matrix.to_csv(index=True).encode('utf-8')

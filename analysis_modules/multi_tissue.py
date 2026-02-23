@@ -156,13 +156,11 @@ def show():
     st.markdown("### 📊 Average Similarity Across Age Groups")
     
     fig, ax = plt.subplots(figsize=(10, 8))
-    apply_plot_style()
     
     mask = np.triu(np.ones_like(matrix_age, dtype=bool), k=1)
-    heatmap = sns.heatmap(
+    sns.heatmap(
         matrix_age, 
-        annot=True, 
-        fmt=".3f",
+        annot=False,
         xticklabels=tissues_sorted, 
         yticklabels=tissues_sorted,
         cmap=color_palette, 
@@ -173,27 +171,37 @@ def show():
         linewidths=0.5
     )
     
+    # Fix clipping (matplotlib 3.10 bug)
+    bottom, top = ax.get_ylim()
+    ax.set_ylim(bottom + 0.5, top - 0.5)
+    
+    # Manual annotations
+    n = matrix_age.shape[0]
+    for i in range(n):
+        for j in range(n):
+            if not mask[i, j]:
+                ax.text(j + 0.5, i + 0.5, f"{matrix_age[i, j]:.3f}",
+                        ha="center", va="center", fontsize=11,
+                        fontweight="bold", color="black")
+    
     format_heatmap(ax, "Tissue Similarity (Averaged Over Age Groups)", 
                   "Tissue", "Tissue", "Jaccard Similarity")
     plt.xticks(rotation=45, ha='right')
     plt.yticks(rotation=0)
     
-    plt.tight_layout()
-    st.pyplot(fig)
-    
+    fig.tight_layout()
     create_download_button(fig, "similarity_age_averaged.png")
+    st.pyplot(fig, clear_figure=True)
     
     # Lifetime similarity heatmap
     st.markdown("### 📊 Lifetime Similarity Matrix")
     
     fig, ax = plt.subplots(figsize=(10, 8))
-    apply_plot_style()
     
     mask = np.triu(np.ones_like(matrix_life, dtype=bool), k=1)
-    heatmap = sns.heatmap(
+    sns.heatmap(
         matrix_life, 
-        annot=True, 
-        fmt=".3f",
+        annot=False,
         xticklabels=tissues_sorted, 
         yticklabels=tissues_sorted,
         cmap="YlGnBu", 
@@ -204,15 +212,27 @@ def show():
         linewidths=0.5
     )
     
+    # Fix clipping (matplotlib 3.10 bug)
+    bottom, top = ax.get_ylim()
+    ax.set_ylim(bottom + 0.5, top - 0.5)
+    
+    # Manual annotations
+    n = matrix_life.shape[0]
+    for i in range(n):
+        for j in range(n):
+            if not mask[i, j]:
+                ax.text(j + 0.5, i + 0.5, f"{matrix_life[i, j]:.3f}",
+                        ha="center", va="center", fontsize=11,
+                        fontweight="bold", color="black")
+    
     format_heatmap(ax, "Tissue Similarity (Whole Lifetime)", 
                   "Tissue", "Tissue", "Jaccard Similarity")
     plt.xticks(rotation=45, ha='right')
     plt.yticks(rotation=0)
     
-    plt.tight_layout()
-    st.pyplot(fig)
-    
+    fig.tight_layout()
     create_download_button(fig, "similarity_lifetime.png")
+    st.pyplot(fig, clear_figure=True)
     
     # === HIERARCHICAL CLUSTERING ===
     if show_dendrograms:
@@ -276,13 +296,12 @@ def show():
     
     if matrix_common.size > 0:
         fig, ax = plt.subplots(figsize=(10, 8))
-        apply_plot_style()
         
         mask = np.triu(np.ones_like(matrix_common, dtype=bool), k=1)
-        heatmap = sns.heatmap(
-            matrix_common,
-            annot=True,
-            fmt="d",
+        matrix_common_int = matrix_common.astype(np.int64)
+        sns.heatmap(
+            matrix_common_int,
+            annot=False,
             xticklabels=tissues_sorted,
             yticklabels=tissues_sorted,
             cmap="Purples",
@@ -293,15 +312,27 @@ def show():
             linewidths=0.5
         )
         
+        # Fix clipping (matplotlib 3.10 bug)
+        bottom, top = ax.get_ylim()
+        ax.set_ylim(bottom + 0.5, top - 0.5)
+        
+        # Manual annotations
+        n = matrix_common_int.shape[0]
+        for i in range(n):
+            for j in range(n):
+                if not mask[i, j]:
+                    ax.text(j + 0.5, i + 0.5, f"{int(matrix_common_int[i, j])}",
+                            ha="center", va="center", fontsize=11,
+                            fontweight="bold", color="black")
+        
         format_heatmap(ax, "Shared Genes Between Tissues (Absolute Counts)", 
                       "Tissue", "Tissue", "Shared Gene Count")
         plt.xticks(rotation=45, ha='right')
         plt.yticks(rotation=0)
         
-        plt.tight_layout()
-        st.pyplot(fig)
-        
+        fig.tight_layout()
         create_download_button(fig, "shared_genes_absolute.png")
+        st.pyplot(fig, clear_figure=True)
     
     # Percentage overlap matrix
     st.markdown("### 📈 Percentage Overlap Analysis")
@@ -310,13 +341,11 @@ def show():
     
     if matrix_percent.size > 0:
         fig, ax = plt.subplots(figsize=(10, 8))
-        apply_plot_style()
         
         mask = np.triu(np.ones_like(matrix_percent, dtype=bool), k=1)
-        heatmap = sns.heatmap(
+        sns.heatmap(
             matrix_percent,
-            annot=True,
-            fmt=".1f",
+            annot=False,
             xticklabels=tissues_sorted,
             yticklabels=tissues_sorted,
             cmap="crest",
@@ -327,15 +356,27 @@ def show():
             linewidths=0.5
         )
         
+        # Fix clipping (matplotlib 3.10 bug)
+        bottom, top = ax.get_ylim()
+        ax.set_ylim(bottom + 0.5, top - 0.5)
+        
+        # Manual annotations
+        n = matrix_percent.shape[0]
+        for i in range(n):
+            for j in range(n):
+                if not mask[i, j]:
+                    ax.text(j + 0.5, i + 0.5, f"{matrix_percent[i, j]:.1f}",
+                            ha="center", va="center", fontsize=11,
+                            fontweight="bold", color="black")
+        
         format_heatmap(ax, "Gene Overlap Percentage Between Tissues", 
                       "Tissue", "Tissue", "Overlap Percentage (%)")
         plt.xticks(rotation=45, ha='right')
         plt.yticks(rotation=0)
         
-        plt.tight_layout()
-        st.pyplot(fig)
-        
+        fig.tight_layout()
         create_download_button(fig, "overlap_percentage.png")
+        st.pyplot(fig, clear_figure=True)
     
     # === TISSUE RANKING ===
     st.markdown("""
@@ -473,13 +514,11 @@ def show():
         corr_matrix = np.corrcoef(count_matrix)
         
         fig, ax = plt.subplots(figsize=(10, 8))
-        apply_plot_style()
         
         mask = np.triu(np.ones_like(corr_matrix, dtype=bool), k=1)
-        heatmap = sns.heatmap(
+        sns.heatmap(
             corr_matrix,
-            annot=True,
-            fmt=".3f",
+            annot=False,
             xticklabels=tissues,
             yticklabels=tissues,
             cmap="RdBu_r",
@@ -491,15 +530,27 @@ def show():
             linewidths=0.5
         )
         
+        # Fix clipping (matplotlib 3.10 bug)
+        bottom, top = ax.get_ylim()
+        ax.set_ylim(bottom + 0.5, top - 0.5)
+        
+        # Manual annotations
+        n = corr_matrix.shape[0]
+        for i in range(n):
+            for j in range(n):
+                if not mask[i, j]:
+                    ax.text(j + 0.5, i + 0.5, f"{corr_matrix[i, j]:.3f}",
+                            ha="center", va="center", fontsize=11,
+                            fontweight="bold", color="black")
+        
         format_heatmap(ax, "Gene Count Correlation Between Tissues", 
                       "Tissue", "Tissue", "Correlation")
         plt.xticks(rotation=45, ha='right')
         plt.yticks(rotation=0)
         
-        plt.tight_layout()
-        st.pyplot(fig)
-        
+        fig.tight_layout()
         create_download_button(fig, "gene_count_correlation.png")
+        st.pyplot(fig, clear_figure=True)
         
         # Age group diversity analysis
         st.markdown("### 📅 Age Group Diversity Analysis")

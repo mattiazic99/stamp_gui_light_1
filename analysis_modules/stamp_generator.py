@@ -685,7 +685,7 @@ from io import BytesIO
 from components.downloads import create_download_button, display_download_section
 from components.styling import apply_plot_style
 def run_script_live(command, env=None):
-    """Esegue uno script esterno mostrando l'output in tempo reale in Streamlit."""
+    """Esegue uno script esterno catturando l'output silenziosamente."""
     process = subprocess.Popen(
         command,
         stdout=subprocess.PIPE,
@@ -694,11 +694,9 @@ def run_script_live(command, env=None):
         bufsize=1,
         env=env
     )
-    log_placeholder = st.empty()
-    full_log = ""
-    for line in process.stdout:
-        full_log += line
-        log_placeholder.text(full_log)
+    # Cattura output senza mostrarlo
+    for _ in process.stdout:
+        pass
     return process.wait()
 def show():
     """STAMP Dataset Generator Page"""
@@ -813,17 +811,17 @@ def show():
     with col1:
         threshold = st.slider(
             "🎚️ Gene Expression Threshold",
-            min_value=0.0,
-            max_value=1.0,
+            min_value=0.1,
+            max_value=0.9,
             value=0.5,
             step=0.1,
-            help="Threshold to consider a gene as 'expressed' (0.0 = all genes, 1.0 = only highly expressed)"
+            help="Threshold to consider a gene as 'expressed' (0.1 = most genes included, 0.9 = only highly expressed)"
         )
         st.markdown(f"""
         **Current threshold:** `{threshold}`
         - **Lower values** (0.1-0.3): Include more genes, detect subtle changes
         - **Medium values** (0.4-0.6): Balanced approach (recommended)
-        - **Higher values** (0.7-1.0): Only highly expressed genes
+        - **Higher values** (0.7-0.9): Only highly expressed genes
         """)
     with col2:
         st.markdown("### 🎯 Expected Output")
@@ -938,11 +936,20 @@ def show():
                 if st.button("📊 Select All Mapped Files", use_container_width=True):
                     st.session_state.selected_files = [x[0] for x in dl if "mapped" in x[0]]
                     st.rerun()
-                if st.button("🧬 Select All Raw Files", use_container_width=True):
-                    st.session_state.selected_files = [x[0] for x in dl if "mapped" not in x[0]]
+            with col_b:
+                if st.button("📊 Only Mapped", use_container_width=True):
+                    st.session_state.selected_files = [x for x in all_file_names if "mapped" in x]
+                    st.session_state.pop("file_editor", None)
                     st.rerun()
-                if st.button("📁 Select All Files", use_container_width=True):
-                    st.session_state.selected_files = [x[0] for x in dl]
+            with col_c:
+                if st.button("🧬 Only Raw", use_container_width=True):
+                    st.session_state.selected_files = [x for x in all_file_names if "mapped" not in x]
+                    st.session_state.pop("file_editor", None)
+                    st.rerun()
+            with col_d:
+                if st.button("❌ Clear All", use_container_width=True):
+                    st.session_state.selected_files = []
+                    st.session_state.pop("file_editor", None)
                     st.rerun()
             if st.session_state.selected_files:
                 st.markdown("### ⬇️ Download Options")

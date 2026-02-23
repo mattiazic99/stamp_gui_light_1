@@ -234,27 +234,36 @@ def show():
                 st.markdown(f"### 🔥 Presence Heatmap - {gene}")
                 
                 fig, ax = plt.subplots(figsize=(10, max(6, len(tissues) * 0.4)))
-                apply_plot_style()
                 
-                heatmap = sns.heatmap(
+                sns.heatmap(
                     presence_matrix,
-                    annot=presence_text.values,
-                    fmt="",
+                    annot=False,
                     xticklabels=age_groups,
-                    yticklabels=tissues,  # Ora i nomi sono puliti!
+                    yticklabels=tissues,
                     cmap="RdYlGn",
                     cbar_kws={'label': 'Gene Presence (0=Absent, 1=Present)'},
                     linewidths=0.5,
                     ax=ax
                 )
                 
+                # Fix clipping (matplotlib 3.10 bug)
+                bottom, top = ax.get_ylim()
+                ax.set_ylim(bottom + 0.5, top - 0.5)
+                
+                # Manual annotations (✅/❌)
+                rows, cols = presence_matrix.shape
+                for i in range(rows):
+                    for j in range(cols):
+                        ax.text(j + 0.5, i + 0.5, str(presence_text.iloc[i, j]),
+                                ha="center", va="center", fontsize=14,
+                                fontweight="bold", color="black")
+                
                 format_heatmap(ax, f"Gene Presence Pattern: {gene}", 
                               "Age Group", "Tissue", "Presence")
                 
-                plt.tight_layout()
-                st.pyplot(fig)
-                
+                fig.tight_layout()
                 create_download_button(fig, f"heatmap_{gene}_presence.png")
+                st.pyplot(fig, clear_figure=True)
             
             # Timeline analysis
             if show_timeline:

@@ -587,12 +587,24 @@ def perform_group_comparison(group1, group2, group1_name, group2_name,
     group_labels = [group1_name] * len(group1) + [group2_name] * len(group2)
     
     heatmap = sns.heatmap(similarity_matrix, 
-                         annot=True, fmt='.2f',
+                         annot=False,
                          xticklabels=all_group_tissues,  # Nomi puliti!
                          yticklabels=all_group_tissues,  # Nomi puliti!
                          cmap='coolwarm',
                          ax=ax6,
                          cbar_kws={'label': 'Jaccard Similarity'})
+    
+    # Fix clipping (matplotlib 3.10 bug)
+    bottom, top = ax6.get_ylim()
+    ax6.set_ylim(bottom + 0.5, top - 0.5)
+    
+    # Manual annotations
+    n = similarity_matrix.shape[0]
+    for i in range(n):
+        for j in range(n):
+            ax6.text(j + 0.5, i + 0.5, f"{similarity_matrix[i, j]:.2f}",
+                    ha="center", va="center", fontsize=9,
+                    fontweight="bold", color="black")
     
     ax6.set_title('Inter-tissue Similarity\n(Within and Between Groups)', 
                  fontsize=12, fontweight='bold')
@@ -603,9 +615,8 @@ def perform_group_comparison(group1, group2, group1_name, group2_name,
     ax6.axvline(x=group1_end, color='black', linewidth=2)
     
     plt.tight_layout()
-    st.pyplot(fig)
-    
     create_download_button(fig, f"comprehensive_comparison_{group1_name}_vs_{group2_name}.png")
+    st.pyplot(fig, clear_figure=True)
     
     # Detailed gene lists
     st.markdown("### 📋 Detailed Gene Lists")
