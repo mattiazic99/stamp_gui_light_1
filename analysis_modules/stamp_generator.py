@@ -1,6 +1,4 @@
 
-
-
 '''import streamlit as st
 import subprocess
 import os
@@ -911,30 +909,44 @@ def show():
         if dl:
             import pandas as pd
             st.markdown("### 📁 Available Files")
+            
+            # Build list of all file names for quick selection
+            all_file_names = [x[0] for x in dl]
+            
+            # Interactive table with checkboxes
             file_df_data = []
             for name, path, desc in dl:
                 file_df_data.append({
+                    "Select": name in st.session_state.selected_files,
                     "File Name": name,
                     "Type": desc,
                     "Size (KB)": f"{os.path.getsize(path)/1024:.1f}",
                     "Tissue": name.split("_")[0]
                 })
-            st.dataframe(pd.DataFrame(file_df_data), use_container_width=True)
-            col1, col2 = st.columns(2)
-            with col1:
-                st.markdown("#### 📋 Select Files to Download")
-                selected_files = st.multiselect(
-                    "Choose files:",
-                    [x[0] for x in dl],
-                    default=st.session_state.selected_files,
-                    help="Select one or more files to download",
-                    key="file_selector"
-                )
-                st.session_state.selected_files = selected_files
-            with col2:
-                st.markdown("#### ⚡ Quick Selection")
-                if st.button("📊 Select All Mapped Files", use_container_width=True):
-                    st.session_state.selected_files = [x[0] for x in dl if "mapped" in x[0]]
+            
+            df_files = pd.DataFrame(file_df_data)
+            
+            edited_df = st.data_editor(
+                df_files,
+                column_config={
+                    "Select": st.column_config.CheckboxColumn("Select", default=False),
+                },
+                disabled=["File Name", "Type", "Size (KB)", "Tissue"],
+                hide_index=True,
+                use_container_width=True,
+                key="file_editor"
+            )
+            
+            # Update selected files from table
+            st.session_state.selected_files = edited_df[edited_df["Select"]]["File Name"].tolist()
+            
+            # Quick selection buttons
+            st.markdown("#### ⚡ Quick Selection")
+            col_a, col_b, col_c, col_d = st.columns(4)
+            with col_a:
+                if st.button("✅ Select All", use_container_width=True):
+                    st.session_state.selected_files = all_file_names
+                    st.session_state.pop("file_editor", None)
                     st.rerun()
             with col_b:
                 if st.button("📊 Only Mapped", use_container_width=True):
@@ -951,38 +963,25 @@ def show():
                     st.session_state.selected_files = []
                     st.session_state.pop("file_editor", None)
                     st.rerun()
+            
             if st.session_state.selected_files:
                 st.markdown("### ⬇️ Download Options")
-                col1, col2 = st.columns(2)
-                with col1:
-                    st.markdown("**Individual Downloads:**")
-                    for name, path, desc in dl:
-                        if name in st.session_state.selected_files:
-                            with open(path, "rb") as f:
-                                st.download_button(
-                                    label=f"📄 {name}",
-                                    data=f.read(),
-                                    file_name=name,
-                                    mime="text/plain",
-                                    key=f"download_{name}"
-                                )
-                with col2:
-                    st.markdown("**Bulk Download:**")
-                    if st.button("📦 Create ZIP Archive", use_container_width=True):
-                        buf = BytesIO()
-                        with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
-                            for name, path, desc in dl:
-                                if name in st.session_state.selected_files:
-                                    z.write(path, arcname=name)
-                        buf.seek(0)
-                        st.download_button(
-                            label="📥 Download ZIP Archive",
-                            data=buf.getvalue(),
-                            file_name="stamp_files_generated.zip",
-                            mime="application/zip",
-                            use_container_width=True,
-                            key="download_zip"
-                        )
+                st.info(f"📦 **{len(st.session_state.selected_files)}** file selezionati")
+                if st.button("📦 Create ZIP Archive", use_container_width=True):
+                    buf = BytesIO()
+                    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
+                        for name, path, desc in dl:
+                            if name in st.session_state.selected_files:
+                                z.write(path, arcname=name)
+                    buf.seek(0)
+                    st.download_button(
+                        label="📥 Download ZIP Archive",
+                        data=buf.getvalue(),
+                        file_name="stamp_files_generated.zip",
+                        mime="application/zip",
+                        use_container_width=True,
+                        key="download_zip"
+                    )
             else:
                 st.info("👆 Select files above to enable download options.")
         st.markdown("---")
